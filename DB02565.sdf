@@ -1,0 +1,124 @@
+B3N
+  Mrv0541 02231216172D          
+
+ 23 23  0  0  0  0            999 V2000
+   -1.0439    1.4219    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0439    0.5969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7584    0.1844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7584   -0.6406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4728   -1.0531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1873   -0.6406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9018   -1.0531    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6163   -0.6406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9018   -1.8781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1873    0.1844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4728    0.5969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3294    0.1844    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3850    0.5969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0995    0.1844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8140    0.5969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5285    0.1844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2429    0.5969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9574    0.1844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6719    0.5969    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6719    1.4219    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3863    0.1844    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1008    0.5969    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1662    0.8888    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  1  0  0  0
+ 19 21  1  0  0  0  0
+ 19 23  1  6  0  0  0
+ 21 22  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02565
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Dimethylamino-N-(6-Hydroxycarbamoyethyl)Benzamide-N-Hydroxy-7-(4-Dimethyla Minobenzoyl)Aminoheptanamide
+
+> <CHEMICAL_FORMULA>
+C16H25N3O3
+
+> <MOLECULAR_WEIGHT>
+307.388
+
+> <EXACT_MASS>
+307.189591681
+
+> <IUPAC_NAME>
+4-(dimethylamino)-N-[(7R)-7-hydroxy-7-nitrosoheptyl]benzamide
+
+> <IUPAC_TRADITIONAL_NAME>
+4-(dimethylamino)-N-[(7R)-7-hydroxy-7-nitrosoheptyl]benzamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H25N3O3/c1-19(2)14-10-8-13(9-11-14)16(21)17-12-6-4-3-5-7-15(20)18-22/h8-11,15,20H,3-7,12H2,1-2H3,(H,17,21)/t15-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=MXWDXXXCTLNLQS-OAHLLOKOSA-N
+
+> <SMILES>
+[H][C@@](O)(CCCCCCNC(=O)C1=CC=C(C=C1)N(C)C)N=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+11.74
+
+> <JCHEM_BASIC_PKA>
+3.49
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.6
+
+> <JCHEM_LOGP>
+2.26
+
+> <ALOGPS_LOGS>
+-3.1
+
+> <JCHEM_POLARIZABILITY>
+35.16
+
+> <JCHEM_POLAR_SURFACE_AREA>
+82
+
+> <JCHEM_REFRACTIVITY>
+86.79
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <ALOGPS_SOLUBILITY>
+2.20e-01 g/l __ 
+
+$$$$

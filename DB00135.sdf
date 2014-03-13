@@ -1,0 +1,110 @@
+135
+  Mrv0541 02231214282D          
+
+ 13 13  0  0  1  0            999 V2000
+    3.7934    2.3471    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -2.6029    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    2.3471    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    0.6971    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.1096    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.3644   -0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.9346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 10  2  0  0  0  0
+  6  4  1  1  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00135
+
+> <DRUG_GROUPS>
+approved; nutraceutical
+
+> <GENERIC_NAME>
+L-Tyrosine
+
+> <SYNONYMS>
+(−)-α-amino-p-hydroxyhydrocinnamic acid; (2S)-2-amino-3-(4-hydroxyphenyl)propanoic acid; (S)-(-)-Tyrosine; (S)-2-Amino-3-(p-hydroxyphenyl)propionic acid; (S)-3-(p-Hydroxyphenyl)alanine; (S)-Tyrosine; (S)-α-amino-4-hydroxybenzenepropanoic acid; 4-hydroxy-L-phenylalanine; Tyr
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C9H11NO3
+
+> <MOLECULAR_WEIGHT>
+181.1885
+
+> <EXACT_MASS>
+181.073893223
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-(4-hydroxyphenyl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+L-tyrosine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11NO3/c10-8(9(12)13)5-6-1-3-7(11)4-2-6/h1-4,8,11H,5,10H2,(H,12,13)/t8-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
+
+> <SMILES>
+N[C@@H](CC1=CC=C(O)C=C1)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+2
+
+> <JCHEM_BASIC_PKA>
+9.19
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.4
+
+> <JCHEM_LOGP>
+-1.5
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+18.01
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55
+
+> <JCHEM_REFRACTIVITY>
+47.1
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+7.67e+00 g/l __ 
+
+$$$$

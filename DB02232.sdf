@@ -1,0 +1,94 @@
+
+  Mrv0541 02231216032D          
+
+  8  8  0  0  0  0            999 V2000
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02232
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,2-Dihydroxybenzene
+
+> <CHEMICAL_FORMULA>
+C6H6O2
+
+> <MOLECULAR_WEIGHT>
+110.1106
+
+> <EXACT_MASS>
+110.036779436
+
+> <IUPAC_NAME>
+benzene-1,2-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+1,2-dihydroxybenzene
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6O2/c7-5-3-1-2-4-6(5)8/h1-4,7-8H
+
+> <INCHI_KEY>
+InChIKey=YCIMNLLNPGFGHC-UHFFFAOYSA-N
+
+> <SMILES>
+OC1=CC=CC=C1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.34
+
+> <JCHEM_BASIC_PKA>
+-6.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.74
+
+> <JCHEM_LOGP>
+1.37
+
+> <ALOGPS_LOGS>
+-0.17
+
+> <JCHEM_POLARIZABILITY>
+10.69
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+30.02
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+7.50e+01 g/l __ 
+
+$$$$

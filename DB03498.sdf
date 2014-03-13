@@ -1,0 +1,86 @@
+
+  Mrv0541 02231216592D          
+
+  6  5  0  0  0  0            999 V2000
+    1.6500   -1.4289    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520   -0.3020    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.5230   -1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03498
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Mercaptomethyl Phosphonate
+
+> <CHEMICAL_FORMULA>
+CH3O3PS
+
+> <MOLECULAR_WEIGHT>
+126.071
+
+> <EXACT_MASS>
+125.954051164
+
+> <IUPAC_NAME>
+(sulfanylmethyl)phosphonate
+
+> <IUPAC_TRADITIONAL_NAME>
+sulfanylmethylphosphonate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/CH5O3PS/c2-5(3,4)1-6/h6H,1H2,(H2,2,3,4)/p-2
+
+> <INCHI_KEY>
+InChIKey=MJZCELCYTRONIX-UHFFFAOYSA-L
+
+> <SMILES>
+[O-]P([O-])(=O)CS
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+1.64
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.25
+
+> <JCHEM_LOGP>
+-0.74
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+9.12
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.19
+
+> <JCHEM_REFRACTIVITY>
+22.47
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.32e+01 g/l __ 
+
+$$$$

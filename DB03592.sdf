@@ -1,0 +1,115 @@
+
+  Mrv0541 02231217022D          
+
+ 18 19  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -2.8875    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5888   -3.6020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4138   -2.1730    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+  7 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+  4 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+  2 18  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03592
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Pterin-6-Yl-Methyl-Monophosphate
+
+> <CHEMICAL_FORMULA>
+C7H8N5O5P
+
+> <MOLECULAR_WEIGHT>
+273.1427
+
+> <EXACT_MASS>
+273.026304903
+
+> <IUPAC_NAME>
+[(2-amino-4-oxo-3,4-dihydropteridin-6-yl)methoxy]phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2-amino-4-oxo-3H-pteridin-6-yl)methoxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8N5O5P/c8-7-11-5-4(6(13)12-7)10-3(1-9-5)2-17-18(14,15)16/h1H,2H2,(H2,14,15,16)(H3,8,9,11,12,13)
+
+> <INCHI_KEY>
+InChIKey=AJXFJEHKGGCFNM-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=NC2=NC=C(COP(O)(O)=O)N=C2C(=O)N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+1.63
+
+> <JCHEM_BASIC_PKA>
+0.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-1.6
+
+> <JCHEM_LOGP>
+-1.9
+
+> <ALOGPS_LOGS>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+22.43
+
+> <JCHEM_POLAR_SURFACE_AREA>
+160.02
+
+> <JCHEM_REFRACTIVITY>
+58.98
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+6.53e+00 g/l __ 
+
+$$$$

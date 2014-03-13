@@ -1,0 +1,142 @@
+670
+  Mrv0541 02231214552D          
+
+ 26 29  0  0  0  0            999 V2000
+    4.7423   -0.2440    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2576    3.5435    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3135   -1.0689    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3135   -2.7186    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0280    0.9934    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4404    2.8003    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3919    0.7572    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5991   -1.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0280   -1.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5991   -2.3062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0280   -2.3062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3136   -0.2440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3135   -3.5435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0280    0.1685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2848    1.3512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7712    1.3512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1012    2.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9547    2.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6639    0.7572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6155    2.8003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2841    2.4214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7717    2.4213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8410    1.0042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498    1.8419    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4061    1.8418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2149    1.0041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  2  0  0  0  0
+  2 20  2  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 26  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 19  2  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 20  1  0  0  0  0
+ 17 21  2  0  0  0  0
+ 18 22  1  0  0  0  0
+ 19 23  1  0  0  0  0
+ 21 24  1  0  0  0  0
+ 22 25  2  0  0  0  0
+ 23 24  2  0  0  0  0
+ 25 26  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00670
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Pirenzepine
+
+> <SYNONYMS>
+Pirenzepin; Pirenzepina; Pirenzépine; Pirenzepinum
+
+> <SALTS>
+Pirenzepine Hydrochloride
+
+> <BRANDS>
+Anquwei; Folinzepin; Garendopine; Gaspin; Gastrozepin; Gastsion; Gaszepin; Karoderin; Kawaipin; Kiccalzin; Lizepine; Lonzepin; Muszepin; Pilenzel; Pin; Pirepine; Pirodeine; Pizepine; Ranclic; Regastric; Stomazepin; Ulopine
+
+> <CHEMICAL_FORMULA>
+C19H21N5O2
+
+> <MOLECULAR_WEIGHT>
+351.4023
+
+> <EXACT_MASS>
+351.169524941
+
+> <IUPAC_NAME>
+2-[2-(4-methylpiperazin-1-yl)acetyl]-2,4,9-triazatricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3,5,7,12,14-hexaen-10-one
+
+> <IUPAC_TRADITIONAL_NAME>
+pirenzepine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H21N5O2/c1-22-9-11-23(12-10-22)13-17(25)24-16-7-3-2-5-14(16)19(26)21-15-6-4-8-20-18(15)24/h2-8H,9-13H2,1H3,(H,21,26)
+
+> <INCHI_KEY>
+InChIKey=RMHMFHUVIITRHF-UHFFFAOYSA-N
+
+> <SMILES>
+CN1CCN(CC(=O)N2C3=CC=CC=C3C(=O)NC3=C2N=CC=C3)CC1
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+9.57
+
+> <JCHEM_BASIC_PKA>
+7.59
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.26
+
+> <JCHEM_LOGP>
+0.85
+
+> <ALOGPS_LOGS>
+-2.7
+
+> <JCHEM_POLARIZABILITY>
+37.11
+
+> <JCHEM_POLAR_SURFACE_AREA>
+68.78
+
+> <JCHEM_REFRACTIVITY>
+100.93
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+6.82e-01 g/l __ 
+
+$$$$

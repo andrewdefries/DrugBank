@@ -1,0 +1,114 @@
+419
+  Mrv0541 02231214402D          
+
+ 15 15  0  0  1  0            999 V2000
+    4.9509   -1.5222    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.3472    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -1.5222    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.9529    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.1279    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.2846    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.2365   -1.1096    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.5220   -1.5222    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.8075   -1.1096    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.8075   -0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    2.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  7  1  1  1  0  0  0
+  8  2  1  6  0  0  0
+  9  3  1  1  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 12  1  6  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00419
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Miglustat
+
+> <SALTS>
+Miglustat Hydrochloride
+
+> <BRANDS>
+Zavesca
+
+> <CHEMICAL_FORMULA>
+C10H21NO4
+
+> <MOLECULAR_WEIGHT>
+219.278
+
+> <EXACT_MASS>
+219.147058165
+
+> <IUPAC_NAME>
+(2R,3R,4R,5S)-1-butyl-2-(hydroxymethyl)piperidine-3,4,5-triol
+
+> <IUPAC_TRADITIONAL_NAME>
+miglustat
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H21NO4/c1-2-3-4-11-5-8(13)10(15)9(14)7(11)6-12/h7-10,12-15H,2-6H2,1H3/t7-,8+,9-,10-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=UQRORFVVSGFNRO-UTINFBMNSA-N
+
+> <SMILES>
+CCCCN1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1CO
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+12.9
+
+> <JCHEM_BASIC_PKA>
+8.49
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-1.1
+
+> <JCHEM_LOGP>
+-1.2
+
+> <ALOGPS_LOGS>
+0.18
+
+> <JCHEM_POLARIZABILITY>
+23.99
+
+> <JCHEM_POLAR_SURFACE_AREA>
+84.16
+
+> <JCHEM_REFRACTIVITY>
+55.74
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+3.31e+02 g/l __ 
+
+$$$$

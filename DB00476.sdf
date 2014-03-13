@@ -1,0 +1,125 @@
+476
+  Mrv0541 02231214422D          
+
+ 21 23  0  0  1  0            999 V2000
+    5.1753   -1.7207    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2223    0.0017    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    0.0017    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079   -0.4108    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.7934    0.0017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.4108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079   -1.2358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2223    0.8267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9369    1.2392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9369    2.0642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8405   -1.7207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079    1.2392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6743    0.7981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2223    2.4767    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079    2.0642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6743    2.5054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0954   -2.5054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9204   -2.5054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.4108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4219    1.2221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4219    2.0814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 18  1  0  0  0  0
+  4  2  1  6  0  0  0
+  2  8  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 16  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 20 21  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00476
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Duloxetine
+
+> <SALTS>
+Duloxetine Hydrochloride
+
+> <BRANDS>
+Ariclaim; Cymbalta; Dulane; Duzela; Xeristar; Yentreve
+
+> <CHEMICAL_FORMULA>
+C18H19NOS
+
+> <MOLECULAR_WEIGHT>
+297.415
+
+> <EXACT_MASS>
+297.118734925
+
+> <IUPAC_NAME>
+methyl[(3S)-3-(naphthalen-1-yloxy)-3-(thiophen-2-yl)propyl]amine
+
+> <IUPAC_TRADITIONAL_NAME>
+duloxetine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H19NOS/c1-19-12-11-17(18-10-5-13-21-18)20-16-9-4-7-14-6-2-3-8-15(14)16/h2-10,13,17,19H,11-12H2,1H3/t17-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=ZEUITGRIYCTCEM-KRWDZBQOSA-N
+
+> <SMILES>
+CNCC[C@H](OC1=CC=CC2=CC=CC=C12)C1=CC=CS1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+9.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+4.72
+
+> <JCHEM_LOGP>
+4.2
+
+> <ALOGPS_LOGS>
+-5
+
+> <JCHEM_POLARIZABILITY>
+33.15
+
+> <JCHEM_POLAR_SURFACE_AREA>
+21.26
+
+> <JCHEM_REFRACTIVITY>
+87.73
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+2.96e-03 g/l __ 
+
+$$$$

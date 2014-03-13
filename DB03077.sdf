@@ -1,0 +1,117 @@
+LNQ
+  Mrv0541 02231216402D          
+
+ 21 21  0  0  0  0            999 V2000
+   -5.6087    0.0626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8943    0.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1798    0.0626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4653    0.4751    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7509    0.0626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0364    0.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3219    0.0626    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6075    0.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1070    0.0626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8215    0.4751    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5360    0.0626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2504    0.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9649    0.0626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6794    0.4751    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3938    0.0626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1907    0.2761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4043   -0.5208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6074   -0.7343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6032    0.9906    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1187   -0.9333    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1949   -1.4488    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 20  2  0  0  0  0
+ 18 21  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03077
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Amino-4-{3-[2-(2-Propoxy-Ethoxy)-Ethoxy]-Propylamino}-Cyclobut-3-Ene-1,2-Dione
+
+> <CHEMICAL_FORMULA>
+C14H24N2O5
+
+> <MOLECULAR_WEIGHT>
+300.3508
+
+> <EXACT_MASS>
+300.168521888
+
+> <IUPAC_NAME>
+3-amino-4-(5,8,11-trioxa-1-azatetradecan-1-yl)cyclobut-3-ene-1,2-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+3-amino-4-(5,8,11-trioxa-1-azatetradecan-1-yl)cyclobut-3-ene-1,2-dione
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H24N2O5/c1-2-5-19-7-9-21-10-8-20-6-3-4-16-12-11(15)13(17)14(12)18/h16H,2-10,15H2,1H3
+
+> <INCHI_KEY>
+InChIKey=ZUVPNXOKAPTNLU-UHFFFAOYSA-N
+
+> <SMILES>
+CCCOCCOCCOCCCNC1=C(N)C(=O)C1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_BASIC_PKA>
+-1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.79
+
+> <JCHEM_LOGP>
+-0.28
+
+> <ALOGPS_LOGS>
+-2.6
+
+> <JCHEM_POLARIZABILITY>
+34.48
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.88
+
+> <JCHEM_REFRACTIVITY>
+80.15
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+13
+
+> <ALOGPS_SOLUBILITY>
+7.10e-01 g/l __ 
+
+$$$$

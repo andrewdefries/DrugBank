@@ -1,0 +1,97 @@
+
+  Mrv0541 02231217432D          
+
+ 10  9  0  0  1  0            999 V2000
+    2.6664   -2.3645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520   -1.9520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520   -1.1270    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.1105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    0.5230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    0.5230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809   -1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  6  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04487
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Methylleucine
+
+> <CHEMICAL_FORMULA>
+C7H15NO2
+
+> <MOLECULAR_WEIGHT>
+145.1995
+
+> <EXACT_MASS>
+145.110278729
+
+> <IUPAC_NAME>
+(2R)-4-methyl-2-(methylamino)pentanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+N-methylleucine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H15NO2/c1-5(2)4-6(8-3)7(9)10/h5-6,8H,4H2,1-3H3,(H,9,10)/t6-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=XJODGRWDFZVTKW-ZCFIWIBFSA-N
+
+> <SMILES>
+CN[C@H](CC(C)C)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.42
+
+> <JCHEM_BASIC_PKA>
+10.58
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.4
+
+> <JCHEM_LOGP>
+-1.4
+
+> <ALOGPS_LOGS>
+-0.62
+
+> <JCHEM_POLARIZABILITY>
+16.09
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.33
+
+> <JCHEM_REFRACTIVITY>
+38.95
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+3.50e+01 g/l __ 
+
+$$$$

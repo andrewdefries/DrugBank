@@ -1,0 +1,120 @@
+PF7
+  Mrv0541 02241214032D          
+
+ 20 22  0  0  0  0            999 V2000
+   21.4219  -10.2043    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.4219   -9.3793    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.1363   -8.9668    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   22.1363   -8.1418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.8508   -7.7293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5653   -8.1418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5653   -8.9668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.8508   -9.3793    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.2797   -7.7293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.9942   -8.1418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.7087   -7.7293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.4232   -8.1418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.1376   -7.7293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.8521   -8.1418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.8521   -8.9668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.1376   -9.3793    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.4232   -8.9668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.7087   -9.3793    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   24.9942   -8.9668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7074   -8.9668    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 19  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08385
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-(quinolin-3-ylmethyl)piperidine-1-carboxylic acid
+
+> <CHEMICAL_FORMULA>
+C16H18N2O2
+
+> <MOLECULAR_WEIGHT>
+270.3263
+
+> <EXACT_MASS>
+270.13682783
+
+> <IUPAC_NAME>
+4-(quinolin-3-ylmethyl)piperidine-1-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+4-(quinolin-3-ylmethyl)piperidine-1-carboxylic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H18N2O2/c19-16(20)18-7-5-12(6-8-18)9-13-10-14-3-1-2-4-15(14)17-11-13/h1-4,10-12H,5-9H2,(H,19,20)
+
+> <INCHI_KEY>
+InChIKey=QUAGUFNCKDDJFZ-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)N1CCC(CC2=CN=C3C=CC=CC3=C2)CC1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.06
+
+> <JCHEM_BASIC_PKA>
+4.92
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+2.33
+
+> <JCHEM_LOGP>
+1.79
+
+> <ALOGPS_LOGS>
+-3.5
+
+> <JCHEM_POLARIZABILITY>
+29.33
+
+> <JCHEM_POLAR_SURFACE_AREA>
+53.43
+
+> <JCHEM_REFRACTIVITY>
+76.42
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+8.86e-02 g/l __ 
+
+$$$$

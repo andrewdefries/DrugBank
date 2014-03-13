@@ -1,0 +1,144 @@
+1624
+  Mrv0541 02231215362D          
+
+ 27 30  0  0  0  0            999 V2000
+    6.7619   -1.8715    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8495   -3.5415    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1363    3.0585    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2784    0.5835    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7073    1.4085    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2784    1.4085    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9929    0.1710    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9929    1.8210    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7073    0.5835    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5640    0.1710    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.4219    1.8210    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5640   -0.6540    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.4219    2.6460    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8495   -1.0665    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8495   -1.8915    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5640   -2.3040    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350   -2.3040    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5640   -3.1290    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350   -3.1290    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3015   -1.8629    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3975   -1.8629    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3015   -3.5700    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3975   -3.5700    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0490   -2.2868    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.2868    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0490   -3.1461    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -3.1461    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1 24  1  0  0  0  0
+  2 18  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 21  2  0  0  0  0
+ 18 22  1  0  0  0  0
+ 19 23  2  0  0  0  0
+ 20 24  2  0  0  0  0
+ 21 25  1  0  0  0  0
+ 22 26  2  0  0  0  0
+ 23 27  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 25 27  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01624
+
+> <DRUG_GROUPS>
+experimental; investigational
+
+> <GENERIC_NAME>
+Zuclopenthixol
+
+> <SYNONYMS>
+Zuclopenthixolum; Zuclopentixol
+
+> <SALTS>
+Zuclopenthixol acetate; Zuclopenthixol decanoate; Zuclopenthixol dihydrochloride
+
+> <BRANDS>
+Acuphase; Cisordinol; Clopixol
+
+> <CHEMICAL_FORMULA>
+C22H25ClN2OS
+
+> <MOLECULAR_WEIGHT>
+400.965
+
+> <EXACT_MASS>
+400.137611829
+
+> <IUPAC_NAME>
+2-(4-{3-[(9Z)-2-chloro-9H-thioxanthen-9-ylidene]propyl}piperazin-1-yl)ethan-1-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+zuclopenthixol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H25ClN2OS/c23-17-7-8-22-20(16-17)18(19-4-1-2-6-21(19)27-22)5-3-9-24-10-12-25(13-11-24)14-15-26/h1-2,4-8,16,26H,3,9-15H2/b18-5-
+
+> <INCHI_KEY>
+InChIKey=WFPIAZLQTJBIFN-DVZOWYKESA-N
+
+> <SMILES>
+OCCN1CCN(CC\C=C2\C3=CC=CC=C3SC3=C2C=C(Cl)C=C3)CC1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+15.59
+
+> <JCHEM_BASIC_PKA>
+8.43
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+4.46
+
+> <JCHEM_LOGP>
+4.22
+
+> <ALOGPS_LOGS>
+-5.2
+
+> <JCHEM_POLARIZABILITY>
+45.29
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.71
+
+> <JCHEM_REFRACTIVITY>
+127
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+2.60e-03 g/l __ 
+
+$$$$

@@ -1,0 +1,97 @@
+
+  Mrv0541 02231215572D          
+
+ 10  9  0  0  1  0            999 V2000
+    1.7605   -1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184   -1.8414    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.6184   -2.6664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329   -1.4289    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7454   -2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9204   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  1  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02088
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Norleucine Phosphonate
+
+> <CHEMICAL_FORMULA>
+C5H14NO3P
+
+> <MOLECULAR_WEIGHT>
+167.1433
+
+> <EXACT_MASS>
+167.071129831
+
+> <IUPAC_NAME>
+[(1R)-1-aminopentyl]phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(1R)-1-aminopentylphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H14NO3P/c1-2-3-4-5(6)10(7,8)9/h5H,2-4,6H2,1H3,(H2,7,8,9)/t5-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=NXTPDFMZKSLVRK-RXMQYKEDSA-N
+
+> <SMILES>
+CCCC[C@H](N)P(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+-0.24
+
+> <JCHEM_BASIC_PKA>
+10.24
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.31
+
+> <JCHEM_LOGP>
+-1.3
+
+> <ALOGPS_LOGS>
+-0.72
+
+> <JCHEM_POLARIZABILITY>
+15.96
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55
+
+> <JCHEM_REFRACTIVITY>
+38.92
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+3.17e+01 g/l __ 
+
+$$$$

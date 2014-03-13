@@ -1,0 +1,112 @@
+M29
+  Mrv0541 02241213542D          
+
+ 17 17  0  0  0  0            999 V2000
+   -0.5369   -1.6183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1776   -1.2058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8921   -1.6183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8921   -2.4433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1776   -2.8558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5369   -2.4433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2514   -1.2058    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9658   -0.7933    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6639   -1.9203    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8389   -0.4913    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6065   -2.8558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3210   -2.4433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0355   -2.8558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7499   -2.4433    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0355   -3.6808    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4644   -2.8558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1789   -2.4433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08157
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+ETHYL 3-[4-(AMINOSULFONYL)PHENYL]PROPANOATE
+
+> <CHEMICAL_FORMULA>
+C11H15NO4S
+
+> <MOLECULAR_WEIGHT>
+257.306
+
+> <EXACT_MASS>
+257.072178663
+
+> <IUPAC_NAME>
+ethyl 3-(4-sulfamoylphenyl)propanoate
+
+> <IUPAC_TRADITIONAL_NAME>
+ethyl 3-(4-sulfamoylphenyl)propanoate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H15NO4S/c1-2-16-11(13)8-5-9-3-6-10(7-4-9)17(12,14)15/h3-4,6-7H,2,5,8H2,1H3,(H2,12,14,15)
+
+> <INCHI_KEY>
+InChIKey=OJBJALUJMRMNIR-UHFFFAOYSA-N
+
+> <SMILES>
+CCOC(=O)CCC1=CC=C(C=C1)S(N)(=O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+10.22
+
+> <JCHEM_BASIC_PKA>
+-7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.39
+
+> <JCHEM_LOGP>
+1.16
+
+> <ALOGPS_LOGS>
+-2.9
+
+> <JCHEM_POLARIZABILITY>
+26.3
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.46
+
+> <JCHEM_REFRACTIVITY>
+63.64
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+3.49e-01 g/l __ 
+
+$$$$

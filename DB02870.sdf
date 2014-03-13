@@ -1,0 +1,95 @@
+
+  Mrv0541 02231216312D          
+
+ 10 10  0  0  0  0            999 V2000
+   -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  5 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02870
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Allyl-Aniline
+
+> <CHEMICAL_FORMULA>
+C9H11N
+
+> <MOLECULAR_WEIGHT>
+133.1903
+
+> <EXACT_MASS>
+133.089149357
+
+> <IUPAC_NAME>
+N-(prop-2-en-1-yl)aniline
+
+> <IUPAC_TRADITIONAL_NAME>
+N-allyl-aniline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11N/c1-2-8-10-9-6-4-3-5-7-9/h2-7,10H,1,8H2
+
+> <INCHI_KEY>
+InChIKey=LQFLWKPCQITJIH-UHFFFAOYSA-N
+
+> <SMILES>
+C=CCNC1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+4.54
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.55
+
+> <JCHEM_LOGP>
+2.18
+
+> <ALOGPS_LOGS>
+-1.3
+
+> <JCHEM_POLARIZABILITY>
+15.66
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+45.41
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+7.31e+00 g/l __ 
+
+$$$$

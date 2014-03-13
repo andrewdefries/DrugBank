@@ -1,0 +1,120 @@
+AIQ
+  Mrv0541 02231217452D          
+
+ 20 22  0  0  0  0            999 V2000
+   -1.0547   -0.7424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3403   -0.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3403    0.4951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3742   -0.7424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0887   -0.3299    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8031   -0.7424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5176   -0.3299    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8031   -1.5674    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0887   -1.9799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0887   -2.8049    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3742   -1.5674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3403   -1.9799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0547   -1.5674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7692   -1.9799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0547    0.9076    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0547    1.7326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7222    2.2176    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3873    2.2176    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4672    3.0022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6422    3.0022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 20  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04543
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,6-Diamino-8-(1h-Imidazol-2-Ylsulfanylmethyl)-3h-Quinazoline-4-One
+
+> <CHEMICAL_FORMULA>
+C12H12N6OS
+
+> <MOLECULAR_WEIGHT>
+288.328
+
+> <EXACT_MASS>
+288.079329726
+
+> <IUPAC_NAME>
+2,6-diamino-8-[(1H-imidazol-2-ylsulfanyl)methyl]-3,4-dihydroquinazolin-4-one
+
+> <IUPAC_TRADITIONAL_NAME>
+2,6-diamino-8-[(1H-imidazol-2-ylsulfanyl)methyl]-3H-quinazolin-4-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H12N6OS/c13-7-3-6(5-20-12-15-1-2-16-12)9-8(4-7)10(19)18-11(14)17-9/h1-4H,5,13H2,(H,15,16)(H3,14,17,18,19)
+
+> <INCHI_KEY>
+InChIKey=CEWKWXPCQGWWBM-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=NC2=C(C=C(N)C=C2CSC2=NC=CN2)C(=O)N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+11.18
+
+> <JCHEM_BASIC_PKA>
+5.91
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.26
+
+> <JCHEM_LOGP>
+0.48
+
+> <ALOGPS_LOGS>
+-3.1
+
+> <JCHEM_POLARIZABILITY>
+29.14
+
+> <JCHEM_POLAR_SURFACE_AREA>
+122.18
+
+> <JCHEM_REFRACTIVITY>
+80.74
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.20e-01 g/l __ 
+
+$$$$

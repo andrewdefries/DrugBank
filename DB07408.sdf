@@ -1,0 +1,113 @@
+B23
+  Mrv0541 02241213252D          
+
+ 17 18  0  0  0  0            999 V2000
+   -1.4031    2.5399    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6887    2.1274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0258    2.5399    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6887    1.3024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0212    0.8174    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3561    0.8174    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1012    0.0328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2762    0.0328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2088   -0.6346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0293   -0.5484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5142   -1.2158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1786   -1.9695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3581   -2.0557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1268   -1.3883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9473   -1.4745    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.2828   -2.2282    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.4322   -0.8071    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07408
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-(2-NITROPHENYL)-2-FUROIC ACID
+
+> <CHEMICAL_FORMULA>
+C11H7NO5
+
+> <MOLECULAR_WEIGHT>
+233.177
+
+> <EXACT_MASS>
+233.032422339
+
+> <IUPAC_NAME>
+5-(2-nitrophenyl)furan-2-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+5-(2-nitrophenyl)furan-2-carboxylic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H7NO5/c13-11(14)10-6-5-9(17-10)7-3-1-2-4-8(7)12(15)16/h1-6H,(H,13,14)
+
+> <INCHI_KEY>
+InChIKey=XUFDYUSOQQYQRL-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)C1=CC=C(O1)C1=C(C=CC=C1)[N+]([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+3.13
+
+> <JCHEM_BASIC_PKA>
+-4.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+2.36
+
+> <JCHEM_LOGP>
+2.2
+
+> <ALOGPS_LOGS>
+-3.5
+
+> <JCHEM_POLARIZABILITY>
+21.24
+
+> <JCHEM_POLAR_SURFACE_AREA>
+96.26
+
+> <JCHEM_REFRACTIVITY>
+58.04
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+7.93e-02 g/l __ 
+
+$$$$

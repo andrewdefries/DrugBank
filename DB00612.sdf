@@ -1,0 +1,133 @@
+612
+  Mrv0541 02231214482D          
+
+ 23 23  0  0  1  0            999 V2000
+    4.5080    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    3.3001    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -4.1251    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    4.1251    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    4.5376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3659    4.1251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    5.3626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -4.5376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -5.3626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -4.1251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 20  2  0  0  0  0
+ 13 21  1  0  0  0  0
+ 15 22  1  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 21  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00612
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Bisoprolol
+
+> <SYNONYMS>
+Bisoprolol; Bisoprololum
+
+> <SALTS>
+Bisoprolol Fumarate
+
+> <BRANDS>
+Cardicor; Concor; Concore; Detensiel; Emconcor; Emcor; Euradal; Isoten; Monocor; Soprol; Zebeta
+
+> <CHEMICAL_FORMULA>
+C18H31NO4
+
+> <MOLECULAR_WEIGHT>
+325.443
+
+> <EXACT_MASS>
+325.225308485
+
+> <IUPAC_NAME>
+[2-hydroxy-3-(4-{[2-(propan-2-yloxy)ethoxy]methyl}phenoxy)propyl](propan-2-yl)amine
+
+> <IUPAC_TRADITIONAL_NAME>
+bisoprolol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H31NO4/c1-14(2)19-11-17(20)13-23-18-7-5-16(6-8-18)12-21-9-10-22-15(3)4/h5-8,14-15,17,19-20H,9-13H2,1-4H3
+
+> <INCHI_KEY>
+InChIKey=VHYCDWMUTMEGQY-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)NCC(O)COC1=CC=C(COCCOC(C)C)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+14.09
+
+> <JCHEM_BASIC_PKA>
+9.67
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.3
+
+> <JCHEM_LOGP>
+2.2
+
+> <ALOGPS_LOGS>
+-3.7
+
+> <JCHEM_POLARIZABILITY>
+38.5
+
+> <JCHEM_POLAR_SURFACE_AREA>
+59.95
+
+> <JCHEM_REFRACTIVITY>
+92.15
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+12
+
+> <ALOGPS_SOLUBILITY>
+7.07e-02 g/l __ 
+
+$$$$

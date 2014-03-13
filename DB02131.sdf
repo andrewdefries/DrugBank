@@ -1,0 +1,99 @@
+
+  Mrv0541 02231215592D          
+
+ 11 10  0  0  1  0            999 V2000
+    2.2836    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9980    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.5704    1.3184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02131
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-1-Methylheptylformamide
+
+> <CHEMICAL_FORMULA>
+C9H19NO
+
+> <MOLECULAR_WEIGHT>
+157.2533
+
+> <EXACT_MASS>
+157.146664235
+
+> <IUPAC_NAME>
+N-[(2S)-octan-2-yl]formamide
+
+> <IUPAC_TRADITIONAL_NAME>
+N-1-methylheptylformamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H19NO/c1-3-4-5-6-7-9(2)10-8-11/h8-9H,3-7H2,1-2H3,(H,10,11)/t9-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=YWFHDUFNGSJLTL-VIFPVBQESA-N
+
+> <SMILES>
+CCCCCC[C@H](C)NC=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+16.79
+
+> <JCHEM_BASIC_PKA>
+-0.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.66
+
+> <JCHEM_LOGP>
+2.22
+
+> <ALOGPS_LOGS>
+-2.3
+
+> <JCHEM_POLARIZABILITY>
+19.7
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.1
+
+> <JCHEM_REFRACTIVITY>
+46.97
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+7.62e-01 g/l __ 
+
+$$$$

@@ -1,0 +1,95 @@
+
+  Mrv0541 02231215482D          
+
+  9  8  0  0  1  0            999 V2000
+    0.4125   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.6500   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.4750   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  1  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  6  0  0  0
+  5  7  1  6  0  0  0
+  5  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01881
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Methylpentane-1,2,4-Triol
+
+> <CHEMICAL_FORMULA>
+C6H14O3
+
+> <MOLECULAR_WEIGHT>
+134.1736
+
+> <EXACT_MASS>
+134.094294314
+
+> <IUPAC_NAME>
+(2R,4S)-2-methylpentane-1,2,4-triol
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R,4S)-2-methylpentane-1,2,4-triol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H14O3/c1-5(8)3-6(2,9)4-7/h5,7-9H,3-4H2,1-2H3/t5-,6+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=OMXLSJPESIOAGG-NTSWFWBYSA-N
+
+> <SMILES>
+C[C@H](O)C[C@@](C)(O)CO
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+13.98
+
+> <JCHEM_BASIC_PKA>
+-2.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.94
+
+> <JCHEM_LOGP>
+-1.1
+
+> <ALOGPS_LOGS>
+0.52
+
+> <JCHEM_POLARIZABILITY>
+14.4
+
+> <JCHEM_POLAR_SURFACE_AREA>
+60.69
+
+> <JCHEM_REFRACTIVITY>
+34.44
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+4.40e+02 g/l __ 
+
+$$$$

@@ -1,0 +1,104 @@
+LAZ
+  Mrv0541 02241213512D          
+
+ 13 13  0  0  0  0            999 V2000
+   -0.0081   -1.3559    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0081   -0.5309    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7064   -0.1184    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4208   -0.5309    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1353   -0.1184    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8498   -0.5309    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7226   -0.1184    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4370   -0.5309    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1515   -0.1184    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1515    0.7066    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8660    1.1191    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4370    1.1191    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7226    0.7066    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08082
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-(2-AMINOETHYL)-P-CHLOROBENZAMIDE
+
+> <CHEMICAL_FORMULA>
+C9H10ClNO2
+
+> <MOLECULAR_WEIGHT>
+199.634
+
+> <EXACT_MASS>
+199.040006276
+
+> <IUPAC_NAME>
+4-chloro-N-(2-hydroxyethyl)benzamide
+
+> <IUPAC_TRADITIONAL_NAME>
+4-chloro-N-(2-hydroxyethyl)benzamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10ClNO2/c10-8-3-1-7(2-4-8)9(13)11-5-6-12/h1-4,12H,5-6H2,(H,11,13)
+
+> <INCHI_KEY>
+InChIKey=GBARCMIFTACERW-UHFFFAOYSA-N
+
+> <SMILES>
+OCCNC(=O)C1=CC=C(Cl)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+14.66
+
+> <JCHEM_BASIC_PKA>
+-0.92
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.05
+
+> <JCHEM_LOGP>
+0.96
+
+> <ALOGPS_LOGS>
+-2.1
+
+> <JCHEM_POLARIZABILITY>
+20
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.33
+
+> <JCHEM_REFRACTIVITY>
+51.13
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.40e+00 g/l __ 
+
+$$$$

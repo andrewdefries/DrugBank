@@ -1,0 +1,101 @@
+513
+  Mrv0541 02231214442D          
+
+  9  8  0  0  0  0            999 V2000
+    2.0930    0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0944    0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00513
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Aminocaproic Acid
+
+> <SYNONYMS>
+6-aminohexanoic acid; Acide aminocaproïque; Ácido aminocapróico; Acidum Aminocaproicum; Aminocapronsäure; Eaca; EACA; Epsilcapramine; Epsilon-Aminocaproic Acid
+
+> <BRANDS>
+Acepramin; Amicar; Amocap; Caproamin; Caprocat; Caprolisin; E-Capro; Epsicaprom; Hemocid; Inselon; Ipron; Ipsilon; Kai Nai Yin; Minocap; Plaslloid; Resplamin
+
+> <CHEMICAL_FORMULA>
+C6H13NO2
+
+> <MOLECULAR_WEIGHT>
+131.1729
+
+> <EXACT_MASS>
+131.094628665
+
+> <IUPAC_NAME>
+6-aminohexanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+aminocaproic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13NO2/c7-5-3-1-2-4-6(8)9/h1-5,7H2,(H,8,9)
+
+> <INCHI_KEY>
+InChIKey=SLXKOJJOQWFEFD-UHFFFAOYSA-N
+
+> <SMILES>
+NCCCCCC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+4.73
+
+> <JCHEM_BASIC_PKA>
+10.21
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.7
+
+> <JCHEM_LOGP>
+-2
+
+> <ALOGPS_LOGS>
+-0.46
+
+> <JCHEM_POLARIZABILITY>
+14.71
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+34.66
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+4.52e+01 g/l __ 
+
+$$$$

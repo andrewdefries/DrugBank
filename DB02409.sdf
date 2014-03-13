@@ -1,0 +1,96 @@
+
+  Mrv0541 02231216112D          
+
+ 10 11  0  0  1  0            999 V2000
+    1.6436    0.3570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9807   -0.1341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2526    0.2537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1407   -0.9495    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.9362   -1.4148    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6411   -2.0402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9106   -1.6699    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.9094   -2.4949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1351   -2.0602    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5004   -1.3997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  2  1  1  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  4 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02409
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(1r,4s)-2-Azabornane
+
+> <CHEMICAL_FORMULA>
+C9H17N
+
+> <MOLECULAR_WEIGHT>
+139.238
+
+> <EXACT_MASS>
+139.136099549
+
+> <IUPAC_NAME>
+(1S,4R)-1,7,7-trimethyl-2-azabicyclo[2.2.1]heptane
+
+> <IUPAC_TRADITIONAL_NAME>
+(1r,4s)-2-azabornane
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H17N/c1-8(2)7-4-5-9(8,3)10-6-7/h7,10H,4-6H2,1-3H3/t7-,9-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=OLTRGBMOWPXXIG-CBAPKCEASA-N
+
+> <SMILES>
+CC1(C)[C@H]2CC[C@]1(C)NC2
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+11.35
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.06
+
+> <JCHEM_LOGP>
+1.63
+
+> <ALOGPS_LOGS>
+-1.5
+
+> <JCHEM_POLARIZABILITY>
+17.02
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+42.75
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+4.38e+00 g/l __ 
+
+$$$$

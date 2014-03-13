@@ -1,0 +1,99 @@
+
+  Mrv0541 02231215452D          
+
+ 11 10  0  0  1  0            999 V2000
+    1.7605    1.0164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 P   0  0  1  0  0  0  0  0  0  0  0  0
+    2.8875    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  6  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01832
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-[Hydroxy-[Methyl-Phosphinoyl]]-3-Oxo-Butanoic Acid
+
+> <CHEMICAL_FORMULA>
+C5H9O5P
+
+> <MOLECULAR_WEIGHT>
+180.0957
+
+> <EXACT_MASS>
+180.01875991
+
+> <IUPAC_NAME>
+4-[hydroxy(methyl)phosphoryl]-3-oxobutanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+4-[hydroxy(methyl)phosphoryl]-3-oxobutanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H9O5P/c1-11(9,10)3-4(6)2-5(7)8/h2-3H2,1H3,(H,7,8)(H,9,10)
+
+> <INCHI_KEY>
+InChIKey=MZTALSPOBPYJPG-UHFFFAOYSA-N
+
+> <SMILES>
+C[P@@](O)(=O)CC(=O)CC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+1.85
+
+> <JCHEM_BASIC_PKA>
+-7.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-1.9
+
+> <JCHEM_LOGP>
+-0.99
+
+> <ALOGPS_LOGS>
+-0.78
+
+> <JCHEM_POLARIZABILITY>
+14.7
+
+> <JCHEM_POLAR_SURFACE_AREA>
+91.67
+
+> <JCHEM_REFRACTIVITY>
+36.83
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+2.99e+01 g/l __ 
+
+$$$$

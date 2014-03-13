@@ -1,0 +1,94 @@
+
+  Mrv0541 02231215452D          
+
+ 10  9  0  0  0  0            999 V2000
+   -0.1914   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230   -1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230   -1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.1105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520   -1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.7145    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809   -0.3020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0789   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2539    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01819
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Phosphoenolpyruvate
+
+> <CHEMICAL_FORMULA>
+C3H5O6P
+
+> <MOLECULAR_WEIGHT>
+168.042
+
+> <EXACT_MASS>
+167.982374404
+
+> <IUPAC_NAME>
+2-(phosphonooxy)prop-2-enoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+phosphoenolpyruvate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H5O6P/c1-2(3(4)5)9-10(6,7)8/h1H2,(H,4,5)(H2,6,7,8)
+
+> <INCHI_KEY>
+InChIKey=DTBNBXWJWCWCIK-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)C(=C)OP(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+0.76
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <ALOGPS_LOGP>
+-1.2
+
+> <JCHEM_LOGP>
+-0.64
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+11.57
+
+> <JCHEM_POLAR_SURFACE_AREA>
+104.06
+
+> <JCHEM_REFRACTIVITY>
+30.13
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.32e+01 g/l __ 
+
+$$$$

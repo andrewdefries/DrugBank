@@ -1,0 +1,87 @@
+
+  Mrv0541 02231217042D          
+
+  5  4  0  0  0  0            999 V2000
+    0.8250    1.4289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03636
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Glycinamid
+
+> <CHEMICAL_FORMULA>
+C2H6N2O
+
+> <MOLECULAR_WEIGHT>
+74.0818
+
+> <EXACT_MASS>
+74.048012824
+
+> <IUPAC_NAME>
+2-aminoacetamide
+
+> <IUPAC_TRADITIONAL_NAME>
+glycinamid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H6N2O/c3-1-2(4)5/h1,3H2,(H2,4,5)
+
+> <INCHI_KEY>
+InChIKey=BEBCJVAWIBVWNZ-UHFFFAOYSA-N
+
+> <SMILES>
+NCC(N)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+16.37
+
+> <JCHEM_BASIC_PKA>
+8.15
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-2.5
+
+> <JCHEM_LOGP>
+-2
+
+> <ALOGPS_LOGS>
+0.87
+
+> <JCHEM_POLARIZABILITY>
+7.05
+
+> <JCHEM_POLAR_SURFACE_AREA>
+69.11
+
+> <JCHEM_REFRACTIVITY>
+17.83
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.44e+02 g/l __ 
+
+$$$$

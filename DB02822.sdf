@@ -1,0 +1,96 @@
+
+  Mrv0541 02231216292D          
+
+  9  9  0  0  0  0            999 V2000
+    1.4289   -1.6500    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  3  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02822
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Para-Bromobenzyl Alcohol
+
+> <CHEMICAL_FORMULA>
+C7H7BrO
+
+> <MOLECULAR_WEIGHT>
+187.034
+
+> <EXACT_MASS>
+185.968027493
+
+> <IUPAC_NAME>
+(4-bromophenyl)methanol
+
+> <IUPAC_TRADITIONAL_NAME>
+para-bromobenzyl alcohol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H7BrO/c8-7-3-1-6(5-9)2-4-7/h1-4,9H,5H2
+
+> <INCHI_KEY>
+InChIKey=VEDDBHYQWFOITD-UHFFFAOYSA-N
+
+> <SMILES>
+OCC1=CC=C(Br)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+14.98
+
+> <JCHEM_BASIC_PKA>
+-2.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.01
+
+> <JCHEM_LOGP>
+1.97
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+15.35
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+40.5
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.01e+00 g/l __ 
+
+$$$$

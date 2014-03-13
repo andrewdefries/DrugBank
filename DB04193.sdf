@@ -1,0 +1,93 @@
+
+  Mrv0541 02231217302D          
+
+  8  7  0  0  1  0            999 V2000
+    1.9520    1.9520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1914    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04193
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+L-Homoserine
+
+> <CHEMICAL_FORMULA>
+C4H9NO3
+
+> <MOLECULAR_WEIGHT>
+119.1192
+
+> <EXACT_MASS>
+119.058243159
+
+> <IUPAC_NAME>
+(2S)-2-amino-4-hydroxybutanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+L-homoserine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H9NO3/c5-3(1-2-6)4(7)8/h3,6H,1-2,5H2,(H,7,8)/t3-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=UKAUYVFTDYCKQA-VKHMYHEASA-N
+
+> <SMILES>
+N[C@@H](CCO)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+2.22
+
+> <JCHEM_BASIC_PKA>
+9.16
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-3.3
+
+> <JCHEM_LOGP>
+-3.8
+
+> <ALOGPS_LOGS>
+0.55
+
+> <JCHEM_POLARIZABILITY>
+11.44
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55
+
+> <JCHEM_REFRACTIVITY>
+26.91
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+4.23e+02 g/l __ 
+
+$$$$

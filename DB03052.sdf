@@ -1,0 +1,119 @@
+
+  Mrv0541 02231216392D          
+
+ 17 18  0  0  0  0            999 V2000
+   -1.5356    8.0652    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8212    8.4777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8212    9.3027    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1067    8.0652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6078    8.4777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3222    8.0652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3222    7.2402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0367    6.8277    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0367    6.0027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7512    5.5902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7512    4.7652    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4186    4.2803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1637    3.4956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3387    3.4956    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0837    4.2803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6078    6.8277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1067    7.2402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 11 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+  4 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03052
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Dazoxiben
+
+> <SYNONYMS>
+Dazoxiben; Dazoxibene; Dazoxibenum
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C12H12N2O3
+
+> <MOLECULAR_WEIGHT>
+232.2353
+
+> <EXACT_MASS>
+232.08479226
+
+> <IUPAC_NAME>
+4-[2-(1H-imidazol-1-yl)ethoxy]benzoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+dazoxiben
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H12N2O3/c15-12(16)10-1-3-11(4-2-10)17-8-7-14-6-5-13-9-14/h1-6,9H,7-8H2,(H,15,16)
+
+> <INCHI_KEY>
+InChIKey=XQGZSYKGWHUSDH-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)C1=CC=C(OCCN2C=CN=C2)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.36
+
+> <JCHEM_BASIC_PKA>
+6.77
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.44
+
+> <JCHEM_LOGP>
+0.51
+
+> <ALOGPS_LOGS>
+-2.3
+
+> <JCHEM_POLARIZABILITY>
+23.35
+
+> <JCHEM_POLAR_SURFACE_AREA>
+64.35
+
+> <JCHEM_REFRACTIVITY>
+61.72
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+1.28e+00 g/l __ 
+
+$$$$

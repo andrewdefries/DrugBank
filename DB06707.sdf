@@ -1,0 +1,110 @@
+
+  Mrv0541 02241212482D          
+
+ 13 13  0  0  1  0            999 V2000
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  4  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  3 12  1  6  0  0  0
+  2 13  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB06707
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Levonordefrin
+
+> <SYNONYMS>
+alpha-methylnorepinephrine ; α-methylnorepinephrine
+
+> <BRANDS>
+Neo-Cobefrin; Nordefrin
+
+> <CHEMICAL_FORMULA>
+C9H13NO3
+
+> <MOLECULAR_WEIGHT>
+183.2044
+
+> <EXACT_MASS>
+183.089543287
+
+> <IUPAC_NAME>
+4-[(1R,2S)-2-amino-1-hydroxypropyl]benzene-1,2-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+levonordefrin
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13NO3/c1-5(10)9(13)6-2-3-7(11)8(12)4-6/h2-5,9,11-13H,10H2,1H3/t5-,9-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=GEFQWZLICWMTKF-CDUCUWFYSA-N
+
+> <SMILES>
+C[C@H](N)[C@H](O)C1=CC(O)=C(O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+9.63
+
+> <JCHEM_BASIC_PKA>
+8.96
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-0.77
+
+> <JCHEM_LOGP>
+-0.39
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+18.81
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.71
+
+> <JCHEM_REFRACTIVITY>
+48.87
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.46e+01 g/l __ 
+
+$$$$

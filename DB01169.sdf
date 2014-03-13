@@ -1,0 +1,83 @@
+
+  Mrv0541 02231215172D          
+
+  5  6  0  0  0  0            999 V2000
+    1.7385    0.1019    0.0000 As   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6294   -0.3053    0.0000 As   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4280    0.5160    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8429   -0.5160    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4016   -0.4069    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01169
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Arsenic trioxide
+
+> <SYNONYMS>
+Acide Arsenieux; Anhydride Arsenieux; Arsenic Blanc; Arsenigen Saure; Oxyde Arsenieux
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+As2O3
+
+> <MOLECULAR_WEIGHT>
+197.8414
+
+> <EXACT_MASS>
+197.8279367
+
+> <IUPAC_NAME>
+bicyclo[1.1.1]diarsoxane
+
+> <IUPAC_TRADITIONAL_NAME>
+arsenic trioxide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/As2O3/c3-1-4-2(3)5-1
+
+> <INCHI_KEY>
+InChIKey=GOLCXWYRSKYTSP-UHFFFAOYSA-N
+
+> <SMILES>
+O1[As]2O[As]1O2
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-5.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_LOGP>
+2.31
+
+> <JCHEM_POLARIZABILITY>
+7.14
+
+> <JCHEM_POLAR_SURFACE_AREA>
+27.69
+
+> <JCHEM_REFRACTIVITY>
+4.05
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0 __ 
+
+$$$$

@@ -1,0 +1,88 @@
+
+  Mrv0541 02231214452D          
+
+  4  3  0  0  0  0            999 V2000
+    3.5219    0.4909    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0929    0.4909    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.7466    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  4  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00536
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Guanidine
+
+> <SYNONYMS>
+Aminomethanamidine; Guanidin; Imidourea; Iminourea
+
+> <SALTS>
+Guanidine hydrochloride
+
+> <CHEMICAL_FORMULA>
+CH5N3
+
+> <MOLECULAR_WEIGHT>
+59.0705
+
+> <EXACT_MASS>
+59.048347175
+
+> <IUPAC_NAME>
+guanidine
+
+> <IUPAC_TRADITIONAL_NAME>
+guanidine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/CH5N3/c2-1(3)4/h(H5,2,3,4)
+
+> <INCHI_KEY>
+InChIKey=ZRALSGWEFCBTJO-UHFFFAOYSA-N
+
+> <SMILES>
+NC(N)=N
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_BASIC_PKA>
+12.55
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-1.9
+
+> <JCHEM_LOGP>
+-1.2
+
+> <ALOGPS_LOGS>
+-0.71
+
+> <JCHEM_POLARIZABILITY>
+5.57
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.89
+
+> <JCHEM_REFRACTIVITY>
+25.86
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.15e+01 g/l __ 
+
+$$$$

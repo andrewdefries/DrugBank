@@ -1,0 +1,111 @@
+LTN
+  Mrv0541 02231217452D          
+
+ 16 17  0  0  0  0            999 V2000
+    0.4738   -0.8957    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3331   -1.0672    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8852   -0.4541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6302    0.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1544    0.5855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1544    1.4105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8689    0.1730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1151    0.9980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6302    1.6654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8689    1.8230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5833    0.5855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5833    1.4105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5881   -1.8518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0360   -2.4649    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3950   -2.0233    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1527   -0.5118    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 16  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04537
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+L-Tryptophanamide
+
+> <CHEMICAL_FORMULA>
+C11H13N3O
+
+> <MOLECULAR_WEIGHT>
+203.2404
+
+> <EXACT_MASS>
+203.105862053
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-(1H-indol-3-yl)propanamide
+
+> <IUPAC_TRADITIONAL_NAME>
+L-tryptophanamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H13N3O/c12-9(11(13)15)5-7-6-14-10-4-2-1-3-8(7)10/h1-4,6,9,14H,5,12H2,(H2,13,15)/t9-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=JLSKPBDKNIXMBS-VIFPVBQESA-N
+
+> <SMILES>
+[H][C@](N)(CC1=CNC2=C1C=CC=C2)C(N)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+15.95
+
+> <JCHEM_BASIC_PKA>
+7.97
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+0.35
+
+> <JCHEM_LOGP>
+0.37
+
+> <ALOGPS_LOGS>
+-1.9
+
+> <JCHEM_POLARIZABILITY>
+21.55
+
+> <JCHEM_POLAR_SURFACE_AREA>
+84.9
+
+> <JCHEM_REFRACTIVITY>
+58.03
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.63e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,106 @@
+
+  Mrv0541 02231216572D          
+
+ 16 15  0  0  1  0            999 V2000
+    2.9980   -2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125   -1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270   -2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414   -2.1434    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.8559   -2.5559    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704   -1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849   -2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993   -2.1434    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138   -1.7309    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4118   -2.8579    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5868   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414   -1.3184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559   -0.9059    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270   -0.9059    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  6  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+  5 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03459
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-(Phosphonacetyl)-L-Aspartic Acid
+
+> <CHEMICAL_FORMULA>
+C6H10NO8P
+
+> <MOLECULAR_WEIGHT>
+255.1193
+
+> <EXACT_MASS>
+255.014402813
+
+> <IUPAC_NAME>
+(2R)-2-(2-phosphonoacetamido)butanedioic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R)-2-(2-phosphonoacetamido)butanedioic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10NO8P/c8-4(2-16(13,14)15)7-3(6(11)12)1-5(9)10/h3H,1-2H2,(H,7,8)(H,9,10)(H,11,12)(H2,13,14,15)/t3-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=ZZKNRXZVGOYGJT-GSVOUGTGSA-N
+
+> <SMILES>
+OC(=O)C[C@@H](NC(=O)CP(O)(O)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+1.65
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <ALOGPS_LOGP>
+-2.1
+
+> <JCHEM_LOGP>
+-2.7
+
+> <ALOGPS_LOGS>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+19.74
+
+> <JCHEM_POLAR_SURFACE_AREA>
+161.23
+
+> <JCHEM_REFRACTIVITY>
+46.97
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+6.73e+00 g/l __ 
+
+$$$$

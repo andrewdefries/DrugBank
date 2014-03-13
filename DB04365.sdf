@@ -1,0 +1,97 @@
+
+  Mrv0541 02231217382D          
+
+ 11 11  0  0  0  0            999 V2000
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  5 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04365
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Arecoline
+
+> <CHEMICAL_FORMULA>
+C8H13NO2
+
+> <MOLECULAR_WEIGHT>
+155.1943
+
+> <EXACT_MASS>
+155.094628665
+
+> <IUPAC_NAME>
+methyl 1-methyl-1,2,5,6-tetrahydropyridine-3-carboxylate
+
+> <IUPAC_TRADITIONAL_NAME>
+arecoline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H13NO2/c1-9-5-3-4-7(6-9)8(10)11-2/h4H,3,5-6H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=HJJPJSXJAXAIPN-UHFFFAOYSA-N
+
+> <SMILES>
+COC(=O)C1=CCCN(C)C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+8.23
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+0.55
+
+> <JCHEM_LOGP>
+0.65
+
+> <ALOGPS_LOGS>
+0.46
+
+> <JCHEM_POLARIZABILITY>
+17.1
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.54
+
+> <JCHEM_REFRACTIVITY>
+43.86
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+4.46e+02 g/l __ 
+
+$$$$

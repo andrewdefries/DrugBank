@@ -1,0 +1,101 @@
+
+  Mrv0541 02231217422D          
+
+ 12 11  0  0  1  0            999 V2000
+    2.2836    2.1434    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9980    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.2849    3.3809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  6  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04486
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2s)-2,8-Diaminooctanoic Acid
+
+> <CHEMICAL_FORMULA>
+C8H18N2O2
+
+> <MOLECULAR_WEIGHT>
+174.2407
+
+> <EXACT_MASS>
+174.13682783
+
+> <IUPAC_NAME>
+(2S)-2,8-diaminooctanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S)-2,8-diaminooctanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H18N2O2/c9-6-4-2-1-3-5-7(10)8(11)12/h7H,1-6,9-10H2,(H,11,12)/t7-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=KMPBBRFCAYFTMR-ZETCQYMHSA-N
+
+> <SMILES>
+NCCCCCC[C@H](N)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+2.84
+
+> <JCHEM_BASIC_PKA>
+10.29
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-2.3
+
+> <JCHEM_LOGP>
+-2.3
+
+> <ALOGPS_LOGS>
+-1.2
+
+> <JCHEM_POLARIZABILITY>
+20.19
+
+> <JCHEM_POLAR_SURFACE_AREA>
+89.34
+
+> <JCHEM_REFRACTIVITY>
+47.01
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+1.10e+01 g/l __ 
+
+$$$$

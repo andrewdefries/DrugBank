@@ -1,0 +1,98 @@
+
+  Mrv0541 02231218032D          
+
+ 19 13  0  0  0  0            999 V2000
+    2.5864    4.8919    0.0000 Pt   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1739    5.6063    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+    2.9989    4.1774    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+    3.3009    5.3044    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.8720    4.4794    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    4.0154    4.0668    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1575    5.7169    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0411   11.5905    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   11.3524    6.0510    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0411   10.7655    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.7557   10.3530    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3267   10.3530    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.7557    9.5280    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3267    9.5280    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0411    9.1155    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7299    5.3044    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4430    4.4794    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0154    4.8919    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1575    4.8919    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  4 18  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6 18  2  0  0  0  0
+  7 19  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04996
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Satraplatin
+
+> <CHEMICAL_FORMULA>
+C10H22Cl2N2O4Pt
+
+> <MOLECULAR_WEIGHT>
+500.283
+
+> <EXACT_MASS>
+499.060437065
+
+> <IUPAC_NAME>
+platinum(4+) ion cyclohexanamine diacetate amine dichloride
+
+> <IUPAC_TRADITIONAL_NAME>
+platinum(4+) bis(acetate ion) cyclohexylamine amine dichloride
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13N.2C2H4O2.2ClH.H3N.Pt/c7-6-4-2-1-3-5-6;2*1-2(3)4;;;;/h6H,1-5,7H2;2*1H3,(H,3,4);2*1H;1H3;/q;;;;;;+4/p-4
+
+> <INCHI_KEY>
+InChIKey=CKNPWBAXEKSCRG-UHFFFAOYSA-J
+
+> <SMILES>
+N.[Cl-].[Cl-].[Pt+4].CC([O-])=O.CC([O-])=O.NC1CCCCC1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+10.45
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_LOGP>
+1.17
+
+> <JCHEM_POLARIZABILITY>
+12.44
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+30.93
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0 __ 
+
+$$$$

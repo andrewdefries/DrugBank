@@ -1,0 +1,113 @@
+2OH
+  Mrv0541 02241213072D          
+
+ 17 18  0  0  0  0            999 V2000
+    1.3832    2.4117    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3832    1.5867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0977    1.1742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0977    0.3492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6688    1.1742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6688    0.3492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3832   -0.0633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3832   -0.8883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5582   -0.8883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2082   -0.8883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3832   -1.7133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0977   -2.1258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0977   -2.9508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6688   -2.1258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6688   -2.9508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3832   -3.3633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3832   -4.1883    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  4  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB06973
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4,4'-PROPANE-2,2-DIYLDIPHENOL
+
+> <CHEMICAL_FORMULA>
+C15H16O2
+
+> <MOLECULAR_WEIGHT>
+228.2863
+
+> <EXACT_MASS>
+228.115029756
+
+> <IUPAC_NAME>
+4-[2-(4-hydroxyphenyl)propan-2-yl]phenol
+
+> <IUPAC_TRADITIONAL_NAME>
+bisphenol A
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H16O2/c1-15(2,11-3-7-13(16)8-4-11)12-5-9-14(17)10-6-12/h3-10,16-17H,1-2H3
+
+> <INCHI_KEY>
+InChIKey=IISBACLAFKSPIT-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)(C1=CC=C(O)C=C1)C1=CC=C(O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.78
+
+> <JCHEM_BASIC_PKA>
+-5.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.81
+
+> <JCHEM_LOGP>
+4.04
+
+> <ALOGPS_LOGS>
+-3.4
+
+> <JCHEM_POLARIZABILITY>
+25.41
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+79.28
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+8.65e-02 g/l __ 
+
+$$$$

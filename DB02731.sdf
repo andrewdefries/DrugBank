@@ -1,0 +1,104 @@
+EMT
+  Mrv0541 02231216252D          
+
+ 13 13  0  0  0  0            999 V2000
+    1.0504   -0.3957    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0504    0.4293    0.0000 Hg   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7648    0.8418    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7648    1.6668    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3359   -0.8082    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3359   -1.6332    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3786   -2.0457    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0930   -1.6332    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0930   -0.8082    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3786   -0.3957    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3786    0.4293    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0930    0.8418    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3359    0.8418    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02731
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Thimerosal
+
+> <SYNONYMS>
+[(o-carboxyphenyl)thio]ethylmercury; 2-(ethylmercuri-thio)-benzoic acid
+
+> <CHEMICAL_FORMULA>
+C9H10HgO2S
+
+> <MOLECULAR_WEIGHT>
+382.83
+
+> <EXACT_MASS>
+384.010775858
+
+> <IUPAC_NAME>
+2-[(ethylmercurio)sulfanyl]benzoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+thimerosal
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H6O2S.C2H5.Hg/c8-7(9)5-3-1-2-4-6(5)10;1-2;/h1-4,10H,(H,8,9);1H2,2H3;/q;;+1/p-1
+
+> <INCHI_KEY>
+InChIKey=HXQVQGWHFRNKMS-UHFFFAOYSA-M
+
+> <SMILES>
+CC[Hg]SC1=CC=CC=C1C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+3.62
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+2.15
+
+> <JCHEM_LOGP>
+2.35
+
+> <ALOGPS_LOGS>
+-1.9
+
+> <JCHEM_POLARIZABILITY>
+21.08
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+48.99
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+4.63e+00 g/l __ 
+
+$$$$

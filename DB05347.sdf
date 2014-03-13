@@ -1,0 +1,111 @@
+
+  Mrv0541 02231218082D          
+
+ 16 17  0  0  0  0            999 V2000
+    6.0807    0.7122    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.5562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4006    2.4506    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0171   -0.2422    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.0811    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0171   -1.5700    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.3186    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.0811    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.4936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2734    0.5420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.3186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4986   -0.9061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.7311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.4936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3370    1.4963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1443    1.6665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3 16  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  2  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB05347
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+iontophoretic acyclovir
+
+> <CHEMICAL_FORMULA>
+C8H11N5O3
+
+> <MOLECULAR_WEIGHT>
+225.2046
+
+> <EXACT_MASS>
+225.086189243
+
+> <IUPAC_NAME>
+2-amino-9-[(2-hydroxyethoxy)methyl]-6,9-dihydro-3H-purin-6-one
+
+> <IUPAC_TRADITIONAL_NAME>
+aciclovir
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11N5O3/c9-8-11-6-5(7(15)12-8)10-3-13(6)4-16-2-1-14/h3,14H,1-2,4H2,(H3,9,11,12,15)
+
+> <INCHI_KEY>
+InChIKey=MKUXAQIIEYXACX-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=NC(=O)C2=C(N1)N(COCCO)C=N2
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+7.99
+
+> <JCHEM_BASIC_PKA>
+2.63
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.95
+
+> <JCHEM_LOGP>
+-1
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+21.51
+
+> <JCHEM_POLAR_SURFACE_AREA>
+114.76
+
+> <JCHEM_REFRACTIVITY>
+54.63
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+9.08e+00 g/l __ 
+
+$$$$

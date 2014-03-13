@@ -1,0 +1,115 @@
+
+  Mrv0541 04261312322D          
+
+ 16 15  0  0  0  0            999 V2000
+   -5.5688    0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8543    0.5893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1398    0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4253    0.5893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7109    0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9964    0.5893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2819    0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5675    0.5893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1470    0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8615    0.5893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5760    0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2904    0.5893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0049    0.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7194    0.5893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4338    0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1483    0.5893    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB06811
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Polidocanol
+
+> <SYNONYMS>
+Dodecylpolyethyleneglycolether; Hydroxyl polyethoxy dodecane; Laureth 9; Lauromacrogol; Macrogol lauryl ether; Oxypolyethoxydodecane; PEG-9 lauryl alcohol ; POE-9 lauryl alcohol; Polydocanol
+
+> <BRANDS>
+Asclera; VARITHENA
+
+> <CHEMICAL_FORMULA>
+C14H30O2
+
+> <MOLECULAR_WEIGHT>
+230.3868
+
+> <EXACT_MASS>
+230.224580204
+
+> <IUPAC_NAME>
+2-(dodecyloxy)ethan-1-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+laureth 4
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H30O2/c1-2-3-4-5-6-7-8-9-10-11-13-16-14-12-15/h15H,2-14H2,1H3
+
+> <INCHI_KEY>
+InChIKey=SFNALCNOMXIBKG-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCCCCCCCCOCCO
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+15.12
+
+> <JCHEM_BASIC_PKA>
+-2.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+5.15
+
+> <JCHEM_LOGP>
+4.31
+
+> <ALOGPS_LOGS>
+-5.1
+
+> <JCHEM_POLARIZABILITY>
+31.24
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.46
+
+> <JCHEM_REFRACTIVITY>
+69.99
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+13
+
+> <ALOGPS_SOLUBILITY>
+1.86e-03 g/l __ 
+
+$$$$

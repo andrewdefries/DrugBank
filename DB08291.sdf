@@ -1,0 +1,106 @@
+NP2
+  Mrv0541 02241213592D          
+
+ 14 14  0  0  0  0            999 V2000
+   -2.3896   -0.5702    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6750   -0.1577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9606   -0.5702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2460   -0.1577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4685   -0.5702    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1831   -0.1577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1831    0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8975   -0.5702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8975   -1.3953    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.6121   -1.8078    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1831   -1.8078    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.8975    1.0799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6121   -0.1577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6121    0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08291
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-(3-AMINOPROPYL)-2-NITROBENZENAMINE
+
+> <CHEMICAL_FORMULA>
+C9H13N3O2
+
+> <MOLECULAR_WEIGHT>
+195.2184
+
+> <EXACT_MASS>
+195.100776675
+
+> <IUPAC_NAME>
+N-(3-aminopropyl)-2-nitroaniline
+
+> <IUPAC_TRADITIONAL_NAME>
+N-(3-aminopropyl)-2-nitroaniline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13N3O2/c10-6-3-7-11-8-4-1-2-5-9(8)12(13)14/h1-2,4-5,11H,3,6-7,10H2
+
+> <INCHI_KEY>
+InChIKey=GVGDDEYVTBKACE-UHFFFAOYSA-N
+
+> <SMILES>
+NCCCNC1=CC=CC=C1[N+]([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+13.35
+
+> <JCHEM_BASIC_PKA>
+9.82
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.43
+
+> <JCHEM_LOGP>
+1.3
+
+> <ALOGPS_LOGS>
+-2.5
+
+> <JCHEM_POLARIZABILITY>
+20.28
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.87
+
+> <JCHEM_REFRACTIVITY>
+56.39
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+6.78e-01 g/l __ 
+
+$$$$

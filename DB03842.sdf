@@ -1,0 +1,93 @@
+
+  Mrv0541 02231217132D          
+
+  9  9  0  0  1  0            999 V2000
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  2  8  1  0  0  0  0
+  8  9  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03842
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Chloro-6-Methyl-Aniline
+
+> <CHEMICAL_FORMULA>
+C8H11N
+
+> <MOLECULAR_WEIGHT>
+121.1796
+
+> <EXACT_MASS>
+121.089149357
+
+> <IUPAC_NAME>
+(1S)-2-methyl-6-methylidenecyclohexa-2,4-dien-1-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+2-chloro-6-methyl-aniline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11N/c1-6-4-3-5-7(2)8(6)9/h3-5,8H,1,9H2,2H3/t8-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=RFDXLWZZNPOBLL-MRVPVSSYSA-N
+
+> <SMILES>
+CC1=CC=CC(=C)[C@H]1N
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+9.33
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.37
+
+> <JCHEM_LOGP>
+0.94
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+14.07
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+41.47
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.07e+01 g/l __ 
+
+$$$$

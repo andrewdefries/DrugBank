@@ -1,0 +1,122 @@
+205
+  Mrv0541 02231214312D          
+
+ 17 18  0  0  0  0            999 V2000
+    3.5220    3.0154    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.5222    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.5222    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.2846    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.7597    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.2846    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.6971    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.2846    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.5404    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.6971    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.9529    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.9529    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -0.6971    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.9347    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.7779    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.7779    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    2.1904    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 14  2  0  0  0  0
+  3 10  2  0  0  0  0
+  3 14  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00205
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Pyrimethamine
+
+> <SYNONYMS>
+2,4-Diamino-5-chlorophenyl-6-ethylpyrimidine; CD; Chloridine; Chloridyn; Diaminopyritamin; Ethylpyrimidine; Pirimetamina; Primethamine
+
+> <SALTS>
+Pyrimethamine Hydrochloride
+
+> <BRANDS>
+Daraprim
+
+> <CHEMICAL_FORMULA>
+C12H13ClN4
+
+> <MOLECULAR_WEIGHT>
+248.711
+
+> <EXACT_MASS>
+248.082874143
+
+> <IUPAC_NAME>
+5-(4-chlorophenyl)-6-ethylpyrimidine-2,4-diamine
+
+> <IUPAC_TRADITIONAL_NAME>
+pyrimethamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H13ClN4/c1-2-9-10(11(14)17-12(15)16-9)7-3-5-8(13)6-4-7/h3-6H,2H2,1H3,(H4,14,15,16,17)
+
+> <INCHI_KEY>
+InChIKey=WKSAUQYGYAYLPV-UHFFFAOYSA-N
+
+> <SMILES>
+CCC1=C(C(N)=NC(N)=N1)C1=CC=C(Cl)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+17.22
+
+> <JCHEM_BASIC_PKA>
+7.77
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.62
+
+> <JCHEM_LOGP>
+2.75
+
+> <ALOGPS_LOGS>
+-3.1
+
+> <JCHEM_POLARIZABILITY>
+25.79
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.82
+
+> <JCHEM_REFRACTIVITY>
+71.54
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.79e-01 g/l __ 
+
+$$$$

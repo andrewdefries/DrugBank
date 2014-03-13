@@ -1,0 +1,100 @@
+
+  Mrv0541 02231217492D          
+
+ 11 11  0  0  0  0            999 V2000
+   -2.8579   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  6 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04654
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-PIPERIDIN-4-YLBUTANAL
+
+> <CHEMICAL_FORMULA>
+C9H17NO
+
+> <MOLECULAR_WEIGHT>
+155.2374
+
+> <EXACT_MASS>
+155.131014171
+
+> <IUPAC_NAME>
+4-(piperidin-4-yl)butanal
+
+> <IUPAC_TRADITIONAL_NAME>
+4-piperidin-4-ylbutanal
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H17NO/c11-8-2-1-3-9-4-6-10-7-5-9/h8-10H,1-7H2
+
+> <INCHI_KEY>
+InChIKey=HADYAKDSDIXWOF-UHFFFAOYSA-N
+
+> <SMILES>
+O=CCCCC1CCNCC1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+15.52
+
+> <JCHEM_BASIC_PKA>
+10.26
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.75
+
+> <JCHEM_LOGP>
+0.8
+
+> <ALOGPS_LOGS>
+-1.9
+
+> <JCHEM_POLARIZABILITY>
+18.49
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.1
+
+> <JCHEM_REFRACTIVITY>
+45.93
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.98e+00 g/l __ 
+
+$$$$

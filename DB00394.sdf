@@ -1,0 +1,163 @@
+[NO NAME]
+  Mrv0541 04211220072D          
+Created with ChemWriter - http://chemwriter.com
+ 38 41  0  0  1  0            999 V2000
+   -0.7145    0.4125    0.0000 C    0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C    0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C    0  0  2  0  0  0  0  0  0  0  0  0
+    2.6985    1.2375    0.0000 C    0  0  2  0  0  0  0  0  0  0  0  0
+    2.2135    0.5700    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5235    1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 C    0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290    0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290   -0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.8250    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.6500    0.0000 C    0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C    0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6424    1.9049    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9280    2.3174    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9280    3.1424    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0714    1.9049    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7859    2.3174    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0714    1.0799    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.5004    1.9049    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3569    2.3174    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0001    3.3000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2135    1.9049    0.0000 C    0  0  1  0  0  0  0  0  0  0  0  0
+    2.2135    2.8875    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    4.1250    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.8875    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 22  1  1  0  0  0
+  1  2  1  0  0  0  0
+  2 13  2  0  0  0  0
+  4  2  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  1  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 17  1  6  0  0  0
+  6  5  1  0  0  0  0
+  6  3  1  0  0  0  0
+ 21  6  1  0  0  0  0
+  6 18  1  1  0  0  0
+ 34  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  1  0  0  0
+ 21  8  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 11  1  1  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 19 34  1  0  0  0  0
+ 21 19  1  0  0  0  0
+ 19 23  1  0  0  0  0
+ 19 20  1  1  0  0  0
+ 21 24  1  6  0  0  0
+ 34 26  1  0  0  0  0
+ 26 25  1  0  0  0  0
+ 25 32  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 32 28  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 30  2  0  0  0  0
+ 29 31  1  0  0  0  0
+ 35 36  1  0  0  0  0
+ 36 38  1  0  0  0  0
+ 38 33  1  0  0  0  0
+ 34 35  1  6  0  0  0
+ 36 37  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00394
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Beclomethasone
+
+> <SYNONYMS>
+9-chloro-11β,17,21-trihydroxy-16β-methylpregna-1,4-diene-3,20-dione; 9α-chloro-16β-methylprednisolone
+
+> <BRANDS>
+Aerobec; Aldecin; Anceron; Andion; Beclacin; Becloforte; Beclomet; Beclorhinol; Becloval; Beclovent; Becodisks; Beconase; Beconasol; Becotide; Clenil-A; Entyderma; Inalone; Korbutone; orBec; Propaderm; Qnasl ; QVAR; Rino-Clenil; Rivanase; Sanasthmax; Sanasthmyl; Vancenase; Vanceril
+
+> <CHEMICAL_FORMULA>
+C28H37ClO7
+
+> <MOLECULAR_WEIGHT>
+521.042
+
+> <EXACT_MASS>
+520.222781245
+
+> <IUPAC_NAME>
+2-[(1R,2S,10S,11S,13S,14R,15S,17S)-1-chloro-17-hydroxy-2,13,15-trimethyl-5-oxo-14-(propanoyloxy)tetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadeca-3,6-dien-14-yl]-2-oxoethyl propanoate
+
+> <IUPAC_TRADITIONAL_NAME>
+2-[(1R,2S,10S,11S,13S,14R,15S,17S)-1-chloro-17-hydroxy-2,13,15-trimethyl-5-oxo-14-(propanoyloxy)tetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadeca-3,6-dien-14-yl]-2-oxoethyl propanoate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C28H37ClO7/c1-6-23(33)35-15-22(32)28(36-24(34)7-2)16(3)12-20-19-9-8-17-13-18(30)10-11-25(17,4)27(19,29)21(31)14-26(20,28)5/h10-11,13,16,19-21,31H,6-9,12,14-15H2,1-5H3/t16-,19-,20-,21-,25-,26-,27-,28-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=KUVIULQEHSCUHY-XYWKZLDCSA-N
+
+> <SMILES>
+[H][C@@]12C[C@H](C)[C@](OC(=O)CC)(C(=O)COC(=O)CC)[C@@]1(C)C[C@H](O)[C@@]1(Cl)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+13.85
+
+> <JCHEM_BASIC_PKA>
+-3.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.69
+
+> <JCHEM_LOGP>
+4.43
+
+> <ALOGPS_LOGS>
+-5.4
+
+> <JCHEM_POLARIZABILITY>
+54.41
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.97
+
+> <JCHEM_REFRACTIVITY>
+134.79
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <ALOGPS_SOLUBILITY>
+2.08e-03 g/l __ 
+
+$$$$

@@ -1,0 +1,111 @@
+HNT
+  Mrv0541 02241213432D          
+
+ 16 17  0  0  0  0            999 V2000
+   -0.0008   -0.7524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7153   -0.3399    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.8570    1.7226    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.0008    0.8976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4281    0.8976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1426    0.4851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1426   -0.3399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4281   -0.7524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4298   -1.5774    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4298   -0.7524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7136   -0.3399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8570    0.8976    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.5715    0.4851    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7136    0.4851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7153    0.4851    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7153   -0.9238    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 10  1  6  0  0  0
+  2 15  1  0  0  0  0
+  2 16  1  1  0  0  0
+  3 12  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 14  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07906
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+[(3R)-7-NITRO-1,2,3,4-TETRAHYDROISOQUINOLIN-3-YL]METHANOL
+
+> <CHEMICAL_FORMULA>
+C10H12N2O3
+
+> <MOLECULAR_WEIGHT>
+208.2139
+
+> <EXACT_MASS>
+208.08479226
+
+> <IUPAC_NAME>
+[(3R)-7-nitro-1,2,3,4-tetrahydroisoquinolin-3-yl]methanol
+
+> <IUPAC_TRADITIONAL_NAME>
+[(3R)-7-nitro-1,2,3,4-tetrahydroisoquinolin-3-yl]methanol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12N2O3/c13-6-9-3-7-1-2-10(12(14)15)4-8(7)5-11-9/h1-2,4,9,11,13H,3,5-6H2/t9-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=RNUCRXHRBPLYTA-SECBINFHSA-N
+
+> <SMILES>
+[H][C@]1(CO)CC2=CC=C(C=C2CN1)[N+]([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+15.11
+
+> <JCHEM_BASIC_PKA>
+8.38
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+0.43
+
+> <JCHEM_LOGP>
+0.88
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+20.68
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.08
+
+> <JCHEM_REFRACTIVITY>
+55.9
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.97e+00 g/l __ 
+
+$$$$

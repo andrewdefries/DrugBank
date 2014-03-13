@@ -1,0 +1,95 @@
+
+  Mrv0541 02231217082D          
+
+ 11 12  0  0  0  0            999 V2000
+   -0.1712   -0.6979    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -0.0305    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0668   -1.5229    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  6  7  4  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+  4 10  4  0  0  0  0
+ 10 11  4  0  0  0  0
+  2 11  4  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03729
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Amino-5-Hydroxy-Benzimidazole
+
+> <CHEMICAL_FORMULA>
+C7H6N3O
+
+> <MOLECULAR_WEIGHT>
+148.142
+
+> <EXACT_MASS>
+148.051086829
+
+> <IUPAC_NAME>
+2-amino-1,3-benzodiazol-5-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+2-amino-1,3-benzodiazol-5-ol
+
+> <SMILES>
+Nc1nc2ccc(O)cc2n1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.06
+
+> <JCHEM_BASIC_PKA>
+1.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.32
+
+> <JCHEM_LOGP>
+1.03
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+14.59
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.03
+
+> <JCHEM_REFRACTIVITY>
+40.71
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.23e+01 g/l __ 
+
+$$$$

@@ -1,0 +1,88 @@
+
+  Mrv0541 02231217122D          
+
+  7  6  0  0  0  0            999 V2000
+    0.1105   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1105   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03822
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Ethyl Dihydrogen Phosphate
+
+> <CHEMICAL_FORMULA>
+C2H7O4P
+
+> <MOLECULAR_WEIGHT>
+126.0483
+
+> <EXACT_MASS>
+126.008195224
+
+> <IUPAC_NAME>
+ethoxyphosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+MEP
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H7O4P/c1-2-6-7(3,4)5/h2H2,1H3,(H2,3,4,5)
+
+> <INCHI_KEY>
+InChIKey=ZJXZSIYSNXKHEA-UHFFFAOYSA-N
+
+> <SMILES>
+CCOP(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+1.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-0.27
+
+> <JCHEM_LOGP>
+-0.29
+
+> <ALOGPS_LOGS>
+-0.64
+
+> <JCHEM_POLARIZABILITY>
+9.82
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.76
+
+> <JCHEM_REFRACTIVITY>
+23.88
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.90e+01 g/l __ 
+
+$$$$

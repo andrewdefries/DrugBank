@@ -1,0 +1,75 @@
+
+  Mrv0541 02231216352D          
+
+  5  4  0  0  0  0            999 V2000
+    2.4750   -1.4289    0.0000 S   0  5  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.7145    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 S   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02956
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Pentasulfide-Sulfur
+
+> <CHEMICAL_FORMULA>
+S5
+
+> <MOLECULAR_WEIGHT>
+160.325
+
+> <EXACT_MASS>
+159.86035345
+
+> <IUPAC_NAME>
+pentasulfane-1,5-diide
+
+> <IUPAC_TRADITIONAL_NAME>
+pentasulfide-sulfur
+
+> <INCHI_IDENTIFIER>
+InChI=1S/H2S5/c1-3-5-4-2/h1-2H/p-2
+
+> <INCHI_KEY>
+InChIKey=FBNHIFPJXGPDIP-UHFFFAOYSA-L
+
+> <SMILES>
+[S-]SSS[S-]
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+8.82
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_LOGP>
+2.83
+
+> <JCHEM_POLARIZABILITY>
+13.31
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+36.13
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2 __ 
+
+$$$$

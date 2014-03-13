@@ -1,0 +1,87 @@
+
+  Mrv0541 02231216002D          
+
+  5  4  0  0  1  0            999 V2000
+    2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8250   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  1  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02159
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+R-1,2-Propanediol
+
+> <CHEMICAL_FORMULA>
+C3H8O2
+
+> <MOLECULAR_WEIGHT>
+76.0944
+
+> <EXACT_MASS>
+76.0524295
+
+> <IUPAC_NAME>
+(2R)-propane-1,2-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+1,2-propanediol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H8O2/c1-3(5)2-4/h3-5H,2H2,1H3/t3-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=DNIAPMSPPWPWGF-GSVOUGTGSA-N
+
+> <SMILES>
+C[C@@H](O)CO
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+14.47
+
+> <JCHEM_BASIC_PKA>
+-2.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.1
+
+> <JCHEM_LOGP>
+-0.79
+
+> <ALOGPS_LOGS>
+1.1
+
+> <JCHEM_POLARIZABILITY>
+8.01
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+18.97
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.52e+02 g/l __ 
+
+$$$$

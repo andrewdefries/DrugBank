@@ -1,0 +1,93 @@
+
+  Mrv0541 02231216262D          
+
+  8  7  0  0  0  0            999 V2000
+   -0.1914    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.9520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02751
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-[Amino(Imino)Methyl]Glycine
+
+> <CHEMICAL_FORMULA>
+C3H7N3O2
+
+> <MOLECULAR_WEIGHT>
+117.1066
+
+> <EXACT_MASS>
+117.053826483
+
+> <IUPAC_NAME>
+2-carbamimidamidoacetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+glycocyamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H7N3O2/c4-3(5)6-1-2(7)8/h1H2,(H,7,8)(H4,4,5,6)
+
+> <INCHI_KEY>
+InChIKey=BPMFZUMJYQTVII-UHFFFAOYSA-N
+
+> <SMILES>
+NC(=N)NCC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+3.37
+
+> <JCHEM_BASIC_PKA>
+12.24
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.8
+
+> <JCHEM_LOGP>
+-3.1
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+10.45
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.2
+
+> <JCHEM_REFRACTIVITY>
+36.72
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+4.19e+00 g/l __ 
+
+$$$$

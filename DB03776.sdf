@@ -1,0 +1,90 @@
+
+  Mrv0541 02231217102D          
+
+  5  4  0  0  1  0            999 V2000
+    2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8250   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  6  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03776
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Lactaldehyde
+
+> <SYNONYMS>
+(2s)-2-Hydroxypropanal; (S)-lactaldehyde
+
+> <CHEMICAL_FORMULA>
+C3H6O2
+
+> <MOLECULAR_WEIGHT>
+74.0785
+
+> <EXACT_MASS>
+74.036779436
+
+> <IUPAC_NAME>
+(2S)-2-hydroxypropanal
+
+> <IUPAC_TRADITIONAL_NAME>
+lactaldehyde
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H6O2/c1-3(5)2-4/h2-3,5H,1H3/t3-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=BSABBBMNWQWLLU-VKHMYHEASA-N
+
+> <SMILES>
+C[C@H](O)C=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+14
+
+> <JCHEM_BASIC_PKA>
+-3.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1
+
+> <JCHEM_LOGP>
+-0.63
+
+> <ALOGPS_LOGS>
+0.95
+
+> <JCHEM_POLARIZABILITY>
+7.16
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+17.91
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.58e+02 g/l __ 
+
+$$$$

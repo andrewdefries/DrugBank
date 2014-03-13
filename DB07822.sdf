@@ -1,0 +1,98 @@
+GD8
+  Mrv0541 02241213402D          
+
+ 12 11  0  0  0  0            999 V2000
+   -1.1772    0.6789    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4628    0.2664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8753   -0.4480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0503    0.9809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2517   -0.1461    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.2517   -0.9711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9662    0.2664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6805   -0.1461    0.0000 P   0  0  1  0  0  0  0  0  0  0  0  0
+    2.3951    0.2664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6805   -0.9711    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1236   -0.5933    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6805    0.5824    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  6  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  1  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  1  0  0  0
+  8 10  2  0  0  0  0
+  8 12  1  6  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07822
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(1R)-1,2,2-TRIMETHYLPROPYL (S)-METHYLPHOSPHINATE
+
+> <CHEMICAL_FORMULA>
+C7H17O2P
+
+> <MOLECULAR_WEIGHT>
+164.1824
+
+> <EXACT_MASS>
+164.0966163
+
+> <IUPAC_NAME>
+(2R)-3,3-dimethylbutan-2-yl methylphosphinate
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R)-3,3-dimethylbutan-2-yl methylphosphinate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H17O2P/c1-6(7(2,3)4)9-10(5)8/h6,10H,1-5H3/t6-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=QZUGWOMGKDLYKO-ZCFIWIBFSA-N
+
+> <SMILES>
+[H][C@](C)(O[P@@]([H])(C)=O)C(C)(C)C
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-6.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.42
+
+> <JCHEM_LOGP>
+1.67
+
+> <ALOGPS_LOGS>
+-1.9
+
+> <JCHEM_POLARIZABILITY>
+17.55
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.3
+
+> <JCHEM_REFRACTIVITY>
+43
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.87e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,87 @@
+
+  Mrv0541 02231218142D          
+
+ 10  8  0  0  0  0            999 V2000
+    1.7795    3.8451    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7795    5.9077    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1540    0.5115    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0039    1.0387    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7415    1.7811    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6061    0.7416    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8215    0.9965    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2193    1.2936    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5665    1.7811    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4865    0.9965    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  3  7  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB05891
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+HD-O
+
+> <CHEMICAL_FORMULA>
+C5H11Cl2N3
+
+> <MOLECULAR_WEIGHT>
+184.067
+
+> <EXACT_MASS>
+183.033002781
+
+> <IUPAC_NAME>
+2-(1H-imidazol-5-yl)ethan-1-amine dihydrochloride
+
+> <IUPAC_TRADITIONAL_NAME>
+2-(3H-imidazol-4-yl)ethanamine dihydrochloride
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H9N3.2ClH/c6-2-1-5-3-7-4-8-5;;/h3-4H,1-2,6H2,(H,7,8);2*1H
+
+> <INCHI_KEY>
+InChIKey=PPZMYIBUHIPZOS-UHFFFAOYSA-N
+
+> <SMILES>
+Cl.Cl.NCCC1=CN=CN1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+13.5
+
+> <JCHEM_BASIC_PKA>
+9.79
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_LOGP>
+-1
+
+> <JCHEM_POLARIZABILITY>
+11.98
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.7
+
+> <JCHEM_REFRACTIVITY>
+32.23
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2 __ 
+
+$$$$

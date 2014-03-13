@@ -1,0 +1,104 @@
+
+  Mrv0541 02231216562D          
+
+ 13 13  0  0  0  0            999 V2000
+   -2.8579   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.0625    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7309   -2.7770    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5559   -1.3480    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  8 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03434
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3[N-Morpholino]Propane Sulfonic Acid
+
+> <CHEMICAL_FORMULA>
+C7H15NO4S
+
+> <MOLECULAR_WEIGHT>
+209.263
+
+> <EXACT_MASS>
+209.072178663
+
+> <IUPAC_NAME>
+3-(morpholin-4-yl)propane-1-sulfonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+MOPS
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H15NO4S/c9-13(10,11)7-1-2-8-3-5-12-6-4-8/h1-7H2,(H,9,10,11)
+
+> <INCHI_KEY>
+InChIKey=DVLFYONBTKHTER-UHFFFAOYSA-N
+
+> <SMILES>
+OS(=O)(=O)CCCN1CCOCC1
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+-0.96
+
+> <JCHEM_BASIC_PKA>
+6.88
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-1.6
+
+> <JCHEM_LOGP>
+-2.4
+
+> <ALOGPS_LOGS>
+-0.75
+
+> <JCHEM_POLARIZABILITY>
+20.78
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.84
+
+> <JCHEM_REFRACTIVITY>
+48.61
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+3.72e+01 g/l __ 
+
+$$$$

@@ -1,0 +1,106 @@
+DSC
+  Mrv0541 02241213352D          
+
+ 16 15  0  0  0  0            999 V2000
+   -3.1696    0.2365    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8841    0.6490    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5822   -0.4780    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7571    0.9511    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.4551   -0.1760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7405    0.2365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0261   -0.1760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3115    0.2365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4030   -0.1760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1176    0.2365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8320   -0.1760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5466    0.2365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2611   -0.1760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9756    0.2365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6901   -0.1760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4047    0.2365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07681
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+DODECANESULFONATE ION
+
+> <CHEMICAL_FORMULA>
+C12H25O3S
+
+> <MOLECULAR_WEIGHT>
+249.39
+
+> <EXACT_MASS>
+249.152440356
+
+> <IUPAC_NAME>
+dodecane-1-sulfonate
+
+> <IUPAC_TRADITIONAL_NAME>
+dodecane-1-sulfonate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H26O3S/c1-2-3-4-5-6-7-8-9-10-11-12-16(13,14)15/h2-12H2,1H3,(H,13,14,15)/p-1
+
+> <INCHI_KEY>
+InChIKey=LDMOEFOXLIZJOW-UHFFFAOYSA-M
+
+> <SMILES>
+CCCCCCCCCCCCS([O-])(=O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+-0.59
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+4.3
+
+> <JCHEM_LOGP>
+4.07
+
+> <ALOGPS_LOGS>
+-4.3
+
+> <JCHEM_POLARIZABILITY>
+29.94
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.2
+
+> <JCHEM_REFRACTIVITY>
+66.22
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+11
+
+> <ALOGPS_SOLUBILITY>
+1.45e-02 g/l __ 
+
+$$$$

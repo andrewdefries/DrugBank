@@ -1,0 +1,119 @@
+
+  Mrv0541 02231217232D          
+
+ 20 21  0  0  1  0            999 V2000
+    0.1067    4.7652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6078    4.3527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6078    3.5277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3222    3.1152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0367    3.5277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0367    4.3527    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3222    4.7652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3222    5.5902    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3222    2.2902    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6548    1.8053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9097    1.0206    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.4248    0.3532    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7347    1.0206    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.2197    0.3532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0401    0.4394    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5251   -0.2280    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0100   -0.8954    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1925    0.2569    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8576   -0.7129    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9897    1.8053    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9  4  1  1  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  6  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 13 20  1  0  0  0  0
+  9 20  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04060
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(5-Methyl-6-Oxo-1,6-Dihydro-Pyridin-3-Yl)-1,2-Dideoxy-Ribofuranose-5-Monophosphate
+
+> <CHEMICAL_FORMULA>
+C11H16NO7P
+
+> <MOLECULAR_WEIGHT>
+305.221
+
+> <EXACT_MASS>
+305.066438383
+
+> <IUPAC_NAME>
+{[(2S,3R,5R)-3-hydroxy-5-(5-methyl-6-oxo-1,6-dihydropyridin-3-yl)oxolan-2-yl]methoxy}phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[(2S,3R,5R)-3-hydroxy-5-(5-methyl-6-oxo-1H-pyridin-3-yl)oxolan-2-yl]methoxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H16NO7P/c1-6-2-7(4-12-11(6)14)9-3-8(13)10(19-9)5-18-20(15,16)17/h2,4,8-10,13H,3,5H2,1H3,(H,12,14)(H2,15,16,17)/t8-,9-,10+/m1/s1
+
+> <INCHI_KEY>
+InChIKey=MUWYCJQCZPFLFI-BBBLOLIVSA-N
+
+> <SMILES>
+CC1=CC(=CNC1=O)[C@H]1C[C@@H](O)[C@H](COP(O)(O)=O)O1
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+1.24
+
+> <JCHEM_BASIC_PKA>
+-2.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-1.2
+
+> <JCHEM_LOGP>
+-1.4
+
+> <ALOGPS_LOGS>
+-1.9
+
+> <JCHEM_POLARIZABILITY>
+27.46
+
+> <JCHEM_POLAR_SURFACE_AREA>
+125.32
+
+> <JCHEM_REFRACTIVITY>
+68.57
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+4.26e+00 g/l __ 
+
+$$$$

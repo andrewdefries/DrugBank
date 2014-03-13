@@ -1,0 +1,93 @@
+
+  Mrv0541 02231216302D          
+
+  8  7  0  0  1  0            999 V2000
+    2.4750   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.4289    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2375   -2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.9520   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230   -1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  6  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  6  0  0  0
+  4  6  1  6  0  0  0
+  4  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02847
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2s,3r)-1-Amino-2-Methylbutane-2,3-Diol
+
+> <CHEMICAL_FORMULA>
+C5H13NO2
+
+> <MOLECULAR_WEIGHT>
+119.1622
+
+> <EXACT_MASS>
+119.094628665
+
+> <IUPAC_NAME>
+(2S,3S)-1-amino-2-methylbutane-2,3-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S,3S)-1-amino-2-methylbutane-2,3-diol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H13NO2/c1-4(7)5(2,8)3-6/h4,7-8H,3,6H2,1-2H3/t4-,5-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=CNLUNMTZBAHKFI-WHFBIAKZSA-N
+
+> <SMILES>
+C[C@H](O)[C@@](C)(O)CN
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+13.61
+
+> <JCHEM_BASIC_PKA>
+9.27
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-0.93
+
+> <JCHEM_LOGP>
+-1.2
+
+> <ALOGPS_LOGS>
+0.69
+
+> <JCHEM_POLARIZABILITY>
+12.91
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.48
+
+> <JCHEM_REFRACTIVITY>
+31.23
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+5.85e+02 g/l __ 
+
+$$$$

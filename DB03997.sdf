@@ -1,0 +1,100 @@
+
+  Mrv0541 02231217202D          
+
+ 14 14  0  0  1  0            999 V2000
+    0.3136   -4.3332    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3136   -3.5082    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.4009   -3.0957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1154   -3.5082    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8298   -3.0957    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5443   -2.6832    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2423   -3.8102    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4173   -2.3813    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0280   -3.0957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7425   -3.5082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4962   -3.1727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0482   -3.7858    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6357   -4.5002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8287   -4.3287    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  2  0  0  0  0
+  2  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  4  0  0  0  0
+ 11 12  4  0  0  0  0
+ 12 13  4  0  0  0  0
+ 13 14  4  0  0  0  0
+ 10 14  4  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03997
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Phosphoric Acid Mono-[2-Amino-3-(3h-Imidazol-4-Yl)-Propyl]Ester
+
+> <CHEMICAL_FORMULA>
+C6H11N3O4P
+
+> <MOLECULAR_WEIGHT>
+220.143
+
+> <EXACT_MASS>
+220.048717367
+
+> <IUPAC_NAME>
+[(2R)-2-amino-3-(imidazol-4-yl)propoxy]phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R)-2-amino-3-(imidazol-4-yl)propoxyphosphonic acid
+
+> <SMILES>
+N[C@@H](COP(O)(O)=O)Cc1cncn1
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.54
+
+> <JCHEM_BASIC_PKA>
+9.59
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-1.7
+
+> <JCHEM_LOGP>
+-2.6
+
+> <ALOGPS_LOGS>
+-0.89
+
+> <JCHEM_POLARIZABILITY>
+18.97
+
+> <JCHEM_POLAR_SURFACE_AREA>
+118.56
+
+> <JCHEM_REFRACTIVITY>
+47.87
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+2.85e+01 g/l __ 
+
+$$$$

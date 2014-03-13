@@ -1,0 +1,121 @@
+712
+  Mrv0541 02231214572D          
+
+ 18 19  0  0  1  0            999 V2000
+    1.6500    0.7466    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -2.9659    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079   -1.7284    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.7284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.7466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -2.1409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.5716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -2.1409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    1.9841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.9841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    2.8091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    2.8091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    3.2216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 13  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00712
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Flurbiprofen
+
+> <SYNONYMS>
+Flurbiprofen; Flurbiprofene; Flurbiprofeno; Flurbiprofenum; S-flurbiprofen
+
+> <SALTS>
+Flurbiprofen Sodium
+
+> <BRANDS>
+Acustop Cataplasma; Adofeed; Ansaid; Antadys; Cebutid; Flurofen; Froben; Froben Sr; Ocufen; Ocuflur; Stayban; Strefen; Strepfen; Strepsils; Strepsils Intensive; TransAct; Urbifen; Zepolas
+
+> <CHEMICAL_FORMULA>
+C15H13FO2
+
+> <MOLECULAR_WEIGHT>
+244.2609
+
+> <EXACT_MASS>
+244.089957865
+
+> <IUPAC_NAME>
+2-(3-fluoro-4-phenylphenyl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+flurbiprofen
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H13FO2/c1-10(15(17)18)12-7-8-13(14(16)9-12)11-5-3-2-4-6-11/h2-10H,1H3,(H,17,18)
+
+> <INCHI_KEY>
+InChIKey=SYTBZMRGLBWNTM-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C(O)=O)C1=CC(F)=C(C=C1)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.42
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+3.57
+
+> <JCHEM_LOGP>
+3.94
+
+> <ALOGPS_LOGS>
+-4
+
+> <JCHEM_POLARIZABILITY>
+25.23
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+67.29
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.49e-02 g/l __ 
+
+$$$$

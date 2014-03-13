@@ -1,0 +1,110 @@
+
+  Mrv0541 02231217402D          
+
+ 16 16  0  0  1  0            999 V2000
+    2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  1  0  0  0
+  6  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  1  6  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  1  0  0  0
+ 10 12  1  0  0  0  0
+  3 12  1  0  0  0  0
+ 12 13  1  6  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04426
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Alpha-Methyl-N-Acetyl-D-Glucosamine
+
+> <CHEMICAL_FORMULA>
+C9H17NO6
+
+> <MOLECULAR_WEIGHT>
+235.2344
+
+> <EXACT_MASS>
+235.105587281
+
+> <IUPAC_NAME>
+N-[(2S,3S,4S,5R,6S)-4,5-dihydroxy-6-(hydroxymethyl)-2-methoxyoxan-3-yl]acetamide
+
+> <IUPAC_TRADITIONAL_NAME>
+1na
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H17NO6/c1-4(12)10-6-8(14)7(13)5(3-11)16-9(6)15-2/h5-9,11,13-14H,3H2,1-2H3,(H,10,12)/t5-,6-,7-,8-,9-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=ZEVOCXOZYFLVKN-LJASKYJCSA-N
+
+> <SMILES>
+CO[C@H]1O[C@@H](CO)[C@H](O)[C@@H](O)[C@@H]1NC(C)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+12.27
+
+> <JCHEM_BASIC_PKA>
+-0.78
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.8
+
+> <JCHEM_LOGP>
+-2.6
+
+> <ALOGPS_LOGS>
+0
+
+> <JCHEM_POLARIZABILITY>
+22.97
+
+> <JCHEM_POLAR_SURFACE_AREA>
+108.25
+
+> <JCHEM_REFRACTIVITY>
+51.78
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.37e+02 g/l __ 
+
+$$$$

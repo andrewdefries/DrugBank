@@ -1,0 +1,113 @@
+909
+  Mrv0541 02231215052D          
+
+ 14 15  0  0  0  0            999 V2000
+    4.9232    0.8180    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8596   -1.4641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7530    1.6253    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0934    0.0107    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3411   -0.8003    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7304    0.9881    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1159    0.6479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8596   -0.1364    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.3878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.2128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.0248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.6253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.3878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.2128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 10  1  0  0  0  0
+  5  8  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00909
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Zonisamide
+
+> <SYNONYMS>
+Zonisamida; Zonisamidum
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C8H8N2O3S
+
+> <MOLECULAR_WEIGHT>
+212.226
+
+> <EXACT_MASS>
+212.025562822
+
+> <IUPAC_NAME>
+1,2-benzoxazol-3-ylmethanesulfonamide
+
+> <IUPAC_TRADITIONAL_NAME>
+zonisamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8N2O3S/c9-14(11,12)5-7-6-3-1-2-4-8(6)13-10-7/h1-4H,5H2,(H2,9,11,12)
+
+> <INCHI_KEY>
+InChIKey=UBQNRHZMVUUOMG-UHFFFAOYSA-N
+
+> <SMILES>
+NS(=O)(=O)CC1=NOC2=CC=CC=C12
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+9.84
+
+> <JCHEM_BASIC_PKA>
+-1.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.67
+
+> <JCHEM_LOGP>
+0.11
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+19.48
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.19
+
+> <JCHEM_REFRACTIVITY>
+50.3
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.09e+00 g/l __ 
+
+$$$$

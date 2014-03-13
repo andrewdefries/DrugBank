@@ -1,0 +1,127 @@
+809
+  Mrv0541 02231215012D          
+
+ 21 22  0  0  1  0            999 V2000
+    4.2365   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    3.3001    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 20  2  0  0  0  0
+  4 21  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 21  2  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00809
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Tropicamide
+
+> <SYNONYMS>
+Tropicamid; Tropicamida; Tropicamide; Tropicamidum
+
+> <BRANDS>
+Better; Camide; Ciclomidrin; Dilate; Eyetrop; Losemin; Midax; Midric; Minims Tropicamide; Mydral; Mydramide; Mydriacyl; Mydriaticum; Mydricol; Ocu-Tropic; Tropicacyl
+
+> <CHEMICAL_FORMULA>
+C17H20N2O2
+
+> <MOLECULAR_WEIGHT>
+284.3529
+
+> <EXACT_MASS>
+284.152477894
+
+> <IUPAC_NAME>
+N-ethyl-3-hydroxy-2-phenyl-N-(pyridin-4-ylmethyl)propanamide
+
+> <IUPAC_TRADITIONAL_NAME>
+tropicamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H20N2O2/c1-2-19(12-14-8-10-18-11-9-14)17(21)16(13-20)15-6-4-3-5-7-15/h3-11,16,20H,2,12-13H2,1H3
+
+> <INCHI_KEY>
+InChIKey=BGDKAVGWHJFAGW-UHFFFAOYSA-N
+
+> <SMILES>
+CCN(CC1=CC=NC=C1)C(=O)C(CO)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+15.18
+
+> <JCHEM_BASIC_PKA>
+5.02
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.42
+
+> <JCHEM_LOGP>
+1.38
+
+> <ALOGPS_LOGS>
+-2.9
+
+> <JCHEM_POLARIZABILITY>
+29.78
+
+> <JCHEM_POLAR_SURFACE_AREA>
+53.43
+
+> <JCHEM_REFRACTIVITY>
+82.53
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+3.75e-01 g/l __ 
+
+$$$$

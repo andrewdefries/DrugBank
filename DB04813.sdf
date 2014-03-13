@@ -1,0 +1,123 @@
+4813
+  Mrv0541 02231217562D          
+
+ 19 20  0  0  0  0            999 V2000
+    4.9509    2.4751    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -2.4751    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -2.4751    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.0000    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.6500    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.8250    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    1.6500    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -2.0625    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655    0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -2.0625    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655    1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.4751    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 17  2  0  0  0  0
+ 14 18  2  0  0  0  0
+ 15 19  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04813
+
+> <DRUG_GROUPS>
+withdrawn
+
+> <GENERIC_NAME>
+Bithionol
+
+> <SYNONYMS>
+2-Hydroxy-3,5-dichlorophenyl sulfide; 2,2'-Dihydroxy-3,3',5,5'-tetrachlorodiphenyl sulfide; 2,2'-sulfanediylbis(4,6-dichlorophenol); 2,2'-Thiobis(4,6-dichlorophenol); Bis(3,5-dichloro-2-hydroxyphenyl) sulfide; Bithionol sulfide; Bithionolum; Bitionol
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C12H6Cl4O2S
+
+> <MOLECULAR_WEIGHT>
+356.052
+
+> <EXACT_MASS>
+353.884260954
+
+> <IUPAC_NAME>
+2,4-dichloro-6-[(3,5-dichloro-2-hydroxyphenyl)sulfanyl]phenol
+
+> <IUPAC_TRADITIONAL_NAME>
+bithionol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H6Cl4O2S/c13-5-1-7(15)11(17)9(3-5)19-10-4-6(14)2-8(16)12(10)18/h1-4,17-18H
+
+> <INCHI_KEY>
+InChIKey=JFIOVJDNOJYLKP-UHFFFAOYSA-N
+
+> <SMILES>
+OC1=C(SC2=C(O)C(Cl)=CC(Cl)=C2)C=C(Cl)C=C1Cl
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+4.89
+
+> <JCHEM_BASIC_PKA>
+-7.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+6.12
+
+> <JCHEM_LOGP>
+5.97
+
+> <ALOGPS_LOGS>
+-5.3
+
+> <JCHEM_POLARIZABILITY>
+31.3
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+81.92
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.66e-03 g/l __ 
+
+$$$$

@@ -1,0 +1,113 @@
+853
+  Mrv0541 02231215032D          
+
+ 14 15  0  0  0  0            999 V2000
+    3.0791    1.8772    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2795   -1.8350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.6397    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.6397    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0556    0.2272    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.5978    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.1853    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6378   -1.3911    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.1853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5741   -0.4367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.0522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5741    0.8911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.0522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8305   -1.2209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0  0  0  0
+  2 14  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 12  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00853
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Temozolomide
+
+> <SYNONYMS>
+Temozolodida; Temozolomid; Témozolomide; Temozolomidum
+
+> <BRANDS>
+Témodal; Temodal; Temodar
+
+> <CHEMICAL_FORMULA>
+C6H6N6O2
+
+> <MOLECULAR_WEIGHT>
+194.1508
+
+> <EXACT_MASS>
+194.055223466
+
+> <IUPAC_NAME>
+3-methyl-4-oxo-3H,4H-imidazo[4,3-d][1,2,3,5]tetrazine-8-carboxamide
+
+> <IUPAC_TRADITIONAL_NAME>
+temozolomide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6N6O2/c1-11-6(14)12-2-8-3(4(7)13)5(12)9-10-11/h2H,1H3,(H2,7,13)
+
+> <INCHI_KEY>
+InChIKey=BPEGJWRSRHCHSN-UHFFFAOYSA-N
+
+> <SMILES>
+CN1N=NC2=C(N=CN2C1=O)C(N)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+10.51
+
+> <JCHEM_BASIC_PKA>
+-3.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1
+
+> <JCHEM_LOGP>
+-0.28
+
+> <ALOGPS_LOGS>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+16.88
+
+> <JCHEM_POLAR_SURFACE_AREA>
+105.94
+
+> <JCHEM_REFRACTIVITY>
+47.86
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.09e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,105 @@
+MDX
+  Mrv0541 02241213542D          
+
+ 14 13  0  0  0  0            999 V2000
+   -4.4121    0.2639    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6976   -0.1486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6976   -0.9737    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9831    0.2639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2686   -0.1486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5540    0.2639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8395   -0.1486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1250    0.2639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5895   -0.1486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3041    0.2639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0186   -0.1486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7331    0.2639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4477   -0.1486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1622    0.2639    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08171
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+11-MERCAPTOUNDECANOIC ACID
+
+> <CHEMICAL_FORMULA>
+C11H22O2S
+
+> <MOLECULAR_WEIGHT>
+218.356
+
+> <EXACT_MASS>
+218.134050638
+
+> <IUPAC_NAME>
+11-sulfanylundecanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+11-sulfanylundecanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H22O2S/c12-11(13)9-7-5-3-1-2-4-6-8-10-14/h14H,1-10H2,(H,12,13)
+
+> <INCHI_KEY>
+InChIKey=GWOLZNVIRIHJHB-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)CCCCCCCCCCS
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+4.95
+
+> <JCHEM_BASIC_PKA>
+-9.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+4.48
+
+> <JCHEM_LOGP>
+3.85
+
+> <ALOGPS_LOGS>
+-4.3
+
+> <JCHEM_POLARIZABILITY>
+26.92
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+62.04
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <ALOGPS_SOLUBILITY>
+1.11e-02 g/l __ 
+
+$$$$

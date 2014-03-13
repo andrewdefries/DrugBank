@@ -1,0 +1,97 @@
+
+  Mrv0541 02231217062D          
+
+ 10  9  0  0  1  0            999 V2000
+   -0.1914    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9520    1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  1  0  0  0
+  3  5  1  1  0  0  0
+  3  6  1  0  0  0  0
+  6  7  1  6  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03675
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,3-Dihydroxy-Valerianic Acid
+
+> <CHEMICAL_FORMULA>
+C6H12O4
+
+> <MOLECULAR_WEIGHT>
+148.1571
+
+> <EXACT_MASS>
+148.073558872
+
+> <IUPAC_NAME>
+(2S,3S)-2,3-dihydroxy-3-methylpentanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S,3S)-2,3-dihydroxy-3-methylpentanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O4/c1-3-6(2,10)4(7)5(8)9/h4,7,10H,3H2,1-2H3,(H,8,9)/t4-,6+/m1/s1
+
+> <INCHI_KEY>
+InChIKey=PDGXJDXVGMHUIR-XINAWCOVSA-N
+
+> <SMILES>
+CC[C@](C)(O)[C@H](O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+3.93
+
+> <JCHEM_BASIC_PKA>
+-3.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.44
+
+> <JCHEM_LOGP>
+-0.3
+
+> <ALOGPS_LOGS>
+0.52
+
+> <JCHEM_POLARIZABILITY>
+14.43
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.76
+
+> <JCHEM_REFRACTIVITY>
+33.96
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+4.86e+02 g/l __ 
+
+$$$$

@@ -1,0 +1,107 @@
+1143
+  Mrv0541 02231215162D          
+
+ 12 11  0  0  0  0            999 V2000
+    3.5220    0.1910    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.2215    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.6340    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3950    0.4930    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2200   -0.9360    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -0.2215    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5234   -0.2215    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799    0.1910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0944   -0.2215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.1910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.2215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8089    0.1910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01143
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Amifostine
+
+> <SYNONYMS>
+WR-1065
+
+> <BRANDS>
+Ethyol
+
+> <CHEMICAL_FORMULA>
+C5H15N2O3PS
+
+> <MOLECULAR_WEIGHT>
+214.223
+
+> <EXACT_MASS>
+214.054099558
+
+> <IUPAC_NAME>
+({2-[(3-aminopropyl)amino]ethyl}sulfanyl)phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+{2-[(3-aminopropyl)amino]ethyl}sulfanylphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H15N2O3PS/c6-2-1-3-7-4-5-12-11(8,9)10/h7H,1-6H2,(H2,8,9,10)
+
+> <INCHI_KEY>
+InChIKey=JKOQGQFVAUAYPM-UHFFFAOYSA-N
+
+> <SMILES>
+NCCCNCCSP(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+2.06
+
+> <JCHEM_BASIC_PKA>
+11.01
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.4
+
+> <JCHEM_LOGP>
+-3.7
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+21.01
+
+> <JCHEM_POLAR_SURFACE_AREA>
+95.58
+
+> <JCHEM_REFRACTIVITY>
+51.28
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+1.87e+01 g/l __ 
+
+$$$$

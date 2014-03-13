@@ -1,0 +1,117 @@
+
+  Mrv0541 01121421192D          
+
+ 15 15  0  0  0  0            999 V2000
+    9.7846   -4.2592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7846   -5.0842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2135   -4.2592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2135   -5.0842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4991   -3.8468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3569   -3.8468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3569   -3.0218    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6424   -4.2592    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   11.9279   -3.8468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0713   -4.2592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0701   -5.4967    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4991   -5.4967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4991   -6.3217    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2299   -4.9737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0549   -4.9737    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+ 11  2  1  0  0  0  0
+  9  3  1  0  0  0  0
+  4  3  1  0  0  0  0
+  1  5  1  0  0  0  0
+  5  3  2  0  0  0  0
+  2 12  1  0  0  0  0
+ 12  4  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+ 10  6  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00968
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Methyldopa
+
+> <SYNONYMS>
+(S)-(-)-alpha-Methyldopa; 3-Hydroxy-alpha-methyl-L-tyrosine; Alpha medopa; alpha-Methyl dopa; Alphamethyldopa; AMD; L-alpha-Methyldopa; L-Methyl Dopa; α-methyl-L-dopa
+
+> <SALTS>
+Methyldopa sesquihydrate
+
+> <BRANDS>
+Aldomet; Aldometil; Aldomin; Dopamet; Hypolag; Medomet; Medopren; Novomedopa; Nu-Medopa
+
+> <CHEMICAL_FORMULA>
+C10H13NO4
+
+> <MOLECULAR_WEIGHT>
+211.2145
+
+> <EXACT_MASS>
+211.084457909
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-(3,4-dihydroxyphenyl)-2-methylpropanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+methyldopa
+
+> <INCHI_IDENTIFIER>
+InChI=1/C10H13NO4/c1-10(11,9(14)15)5-6-2-3-7(12)8(13)4-6/h2-4,12-13H,5,11H2,1H3,(H,14,15)/t10-/s2
+
+> <INCHI_KEY>
+InChIKey=CJCSPKMFHVPWAR-UEQNJFAPNA-N
+
+> <SMILES>
+C[C@](N)(CC1=CC=C(O)C(O)=C1)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+1.73
+
+> <JCHEM_BASIC_PKA>
+9.85
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2
+
+> <JCHEM_LOGP>
+-1.4
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+20.73
+
+> <JCHEM_POLAR_SURFACE_AREA>
+103.78
+
+> <JCHEM_REFRACTIVITY>
+53.79
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.26e+00 g/l __ 
+
+$$$$

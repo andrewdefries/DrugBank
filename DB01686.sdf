@@ -1,0 +1,108 @@
+
+  Mrv0541 02231215392D          
+
+ 14 13  0  0  1  0            999 V2000
+    1.0461    3.9039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0461    3.0789    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3316    2.6664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    2.6664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    3.0789    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.8414    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.6184    2.6664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  6  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01686
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N,N-dimethylarginine
+
+> <SYNONYMS>
+Guanidino-n,n-dimethylarginine
+
+> <CHEMICAL_FORMULA>
+C8H18N4O2
+
+> <MOLECULAR_WEIGHT>
+202.2541
+
+> <EXACT_MASS>
+202.14297584
+
+> <IUPAC_NAME>
+(2S)-2-amino-5-[(E)-[amino(dimethylamino)methylidene]amino]pentanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+N,N-dimethylarginine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H18N4O2/c1-12(2)8(10)11-5-3-4-6(9)7(13)14/h6H,3-5,9H2,1-2H3,(H2,10,11)(H,13,14)/t6-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=YDGMGEXADBMOMJ-LURJTMIESA-N
+
+> <SMILES>
+N[C@@H](CCC\N=C(/N)N(C)C)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+2.54
+
+> <JCHEM_BASIC_PKA>
+12.34
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-3.1
+
+> <JCHEM_LOGP>
+-2.7
+
+> <ALOGPS_LOGS>
+-1.5
+
+> <JCHEM_POLARIZABILITY>
+22.19
+
+> <JCHEM_POLAR_SURFACE_AREA>
+104.94
+
+> <JCHEM_REFRACTIVITY>
+53.7
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+6.77e+00 g/l __ 
+
+$$$$

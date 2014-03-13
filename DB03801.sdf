@@ -1,0 +1,103 @@
+
+  Mrv0541 02231217112D          
+
+ 13 12  0  0  1  0            999 V2000
+    7.2849    3.3809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9980    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2836    2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9980    3.3809    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  2 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03801
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Lysine Nz-Carboxylic Acid
+
+> <CHEMICAL_FORMULA>
+C7H14N2O4
+
+> <MOLECULAR_WEIGHT>
+190.1971
+
+> <EXACT_MASS>
+190.095356946
+
+> <IUPAC_NAME>
+(2S)-2-amino-6-(carboxyamino)hexanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+lysine nz-carboxylic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H14N2O4/c8-5(6(10)11)3-1-2-4-9-7(12)13/h5,9H,1-4,8H2,(H,10,11)(H,12,13)/t5-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=PWIKLEYMFKCERQ-YFKPBYRVSA-N
+
+> <SMILES>
+N[C@@H](CCCCNC(O)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+2.14
+
+> <JCHEM_BASIC_PKA>
+9.53
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-3.3
+
+> <JCHEM_LOGP>
+-2.8
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+19.15
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.65
+
+> <JCHEM_REFRACTIVITY>
+44.11
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+1.35e+01 g/l __ 
+
+$$$$

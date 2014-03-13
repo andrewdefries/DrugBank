@@ -1,0 +1,92 @@
+
+  Mrv0541 02231216342D          
+
+  9  8  0  0  0  0            999 V2000
+    1.0461    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02938
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Heptanoic Acid
+
+> <CHEMICAL_FORMULA>
+C7H14O2
+
+> <MOLECULAR_WEIGHT>
+130.1849
+
+> <EXACT_MASS>
+130.099379692
+
+> <IUPAC_NAME>
+heptanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+heptanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H14O2/c1-2-3-4-5-6-7(8)9/h2-6H2,1H3,(H,8,9)
+
+> <INCHI_KEY>
+InChIKey=MNWFXJYAOYHMED-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCCC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+5.15
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+2.41
+
+> <JCHEM_LOGP>
+2.26
+
+> <ALOGPS_LOGS>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+15.33
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+35.67
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+2.98e+00 g/l __ 
+
+$$$$

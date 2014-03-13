@@ -1,0 +1,120 @@
+
+  Mrv0541 02231216002D          
+
+ 20 22  0  0  1  0            999 V2000
+   -1.1495   -5.0203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4820   -4.5353    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5683   -3.7149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0992   -3.2299    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0992   -2.4049    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8838   -2.1500    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.3687   -2.8174    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1937   -2.8174    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8838   -3.4849    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.1387   -4.2695    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -0.0305    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.1271    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.6378    0.9521    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -0.2854    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -1.5229    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  3  1  1  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  7  9  1  0  0  0  0
+  4  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+  6 11  1  1  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  6  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 14 20  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02158
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(1s)-1-(9-Deazaadenin-9-Yl)-1,4,5-Trideoxy-1,4-Imino-5-Methylthio-D-Ribitol
+
+> <CHEMICAL_FORMULA>
+C12H19N5O2S
+
+> <MOLECULAR_WEIGHT>
+297.377
+
+> <EXACT_MASS>
+297.125945567
+
+> <IUPAC_NAME>
+(2S,3S,4R,5S)-2-[(4R)-4-amino-3H,4H,5H-pyrrolo[3,2-d]pyrimidin-7-yl]-5-[(methylsulfanyl)methyl]pyrrolidine-3,4-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S,3S,4R,5S)-2-[(4R)-4-amino-3H,4H,5H-pyrrolo[3,2-d]pyrimidin-7-yl]-5-[(methylsulfanyl)methyl]pyrrolidine-3,4-diol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H19N5O2S/c1-20-3-6-10(18)11(19)8(17-6)5-2-14-9-7(5)15-4-16-12(9)13/h2,4,6,8,10-12,14,17-19H,3,13H2,1H3,(H,15,16)/t6-,8+,10-,11+,12-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=YLCQGEBEQIBOOJ-XKBJCNPTSA-N
+
+> <SMILES>
+CSC[C@H]1N[C@H]([C@H](O)[C@@H]1O)C1=CNC2=C1N=CN[C@H]2N
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_ACIDIC_PKA>
+12.93
+
+> <JCHEM_BASIC_PKA>
+8.64
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <ALOGPS_LOGP>
+-1.6
+
+> <JCHEM_LOGP>
+-1.4
+
+> <ALOGPS_LOGS>
+-2.5
+
+> <JCHEM_POLARIZABILITY>
+31.06
+
+> <JCHEM_POLAR_SURFACE_AREA>
+118.69
+
+> <JCHEM_REFRACTIVITY>
+79.17
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+8.76e-01 g/l __ 
+
+$$$$

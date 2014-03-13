@@ -1,0 +1,83 @@
+
+  Mrv0541 08171319452D          
+
+  3  2  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Ra   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -0.7145    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08913
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Radium Ra 223 Dichloride
+
+> <SYNONYMS>
+Radium-223 chloride; Radium-223 dichloride
+
+> <BRANDS>
+Alpharadin; Xofigo
+
+> <CHEMICAL_FORMULA>
+Cl2Ra
+
+> <MOLECULAR_WEIGHT>
+293.924
+
+> <EXACT_MASS>
+292.956202554
+
+> <IUPAC_NAME>
+dichloro(²²³Ra)radium
+
+> <IUPAC_TRADITIONAL_NAME>
+dichloro(²²³Ra)radium
+
+> <INCHI_IDENTIFIER>
+InChI=1S/2ClH.Ra/h2*1H;/q;;+2/p-2/i;;1-3
+
+> <INCHI_KEY>
+InChIKey=RWRDJVNMSZYMDV-SIUYXFDKSA-L
+
+> <SMILES>
+Cl[223Ra]Cl
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.37
+
+> <JCHEM_LOGP>
+1.27
+
+> <ALOGPS_LOGS>
+-0.6
+
+> <JCHEM_POLARIZABILITY>
+7.26
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+12.27
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+7.47e+01 g/l __ 
+
+$$$$

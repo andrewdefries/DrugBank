@@ -1,0 +1,97 @@
+
+  Mrv0541 02231216362D          
+
+ 10  9  0  0  1  0            999 V2000
+   -0.1914    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2375   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9520    1.9520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  6  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02978
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Beta-Hydroxyleucine
+
+> <CHEMICAL_FORMULA>
+C6H13NO3
+
+> <MOLECULAR_WEIGHT>
+147.1723
+
+> <EXACT_MASS>
+147.089543287
+
+> <IUPAC_NAME>
+(2S,3S)-2-amino-3-hydroxy-4-methylpentanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+β-hydroxyleucine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13NO3/c1-3(2)5(8)4(7)6(9)10/h3-5,8H,7H2,1-2H3,(H,9,10)/t4-,5-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=ZAYJDMWJYCTABM-WHFBIAKZSA-N
+
+> <SMILES>
+CC(C)[C@H](O)[C@H](N)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+2.44
+
+> <JCHEM_BASIC_PKA>
+8.99
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.5
+
+> <JCHEM_LOGP>
+-2.6
+
+> <ALOGPS_LOGS>
+0.17
+
+> <JCHEM_POLARIZABILITY>
+15.05
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55
+
+> <JCHEM_REFRACTIVITY>
+35.46
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.17e+02 g/l __ 
+
+$$$$

@@ -1,0 +1,123 @@
+473
+  Mrv0541 02231214422D          
+
+ 19 20  0  0  1  0            999 V2000
+    3.0787   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7930    1.6498    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5075    2.0623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2218    1.6498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5075    2.8873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9363    2.0623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2218    3.2997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9363    2.8873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7930    0.8249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0787    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3642    0.8249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3642   -0.8249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3642   -1.6498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0787   -2.0623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498   -2.0623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0787   -2.8873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498   -2.8873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3642   -3.2997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00473
+
+> <DRUG_GROUPS>
+approved; withdrawn
+
+> <GENERIC_NAME>
+Hexylcaine
+
+> <SYNONYMS>
+Hexilcaina; Hexylcainum
+
+> <SALTS>
+Hexylcaine hydrochloride
+
+> <BRANDS>
+Cyclaine
+
+> <CHEMICAL_FORMULA>
+C16H23NO2
+
+> <MOLECULAR_WEIGHT>
+261.3593
+
+> <EXACT_MASS>
+261.172878985
+
+> <IUPAC_NAME>
+1-(cyclohexylamino)propan-2-yl benzoate
+
+> <IUPAC_TRADITIONAL_NAME>
+hexylcaine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H23NO2/c1-13(12-17-15-10-6-3-7-11-15)19-16(18)14-8-4-2-5-9-14/h2,4-5,8-9,13,15,17H,3,6-7,10-12H2,1H3
+
+> <INCHI_KEY>
+InChIKey=DKLKMKYDWHYZTD-UHFFFAOYSA-N
+
+> <SMILES>
+CC(CNC1CCCCC1)OC(=O)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+9.87
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+3.04
+
+> <JCHEM_LOGP>
+3.83
+
+> <ALOGPS_LOGS>
+-4.4
+
+> <JCHEM_POLARIZABILITY>
+30.29
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.33
+
+> <JCHEM_REFRACTIVITY>
+76.24
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+9.71e-03 g/l __ 
+
+$$$$

@@ -1,0 +1,117 @@
+
+  Mrv0541 02231216512D          
+
+ 19 20  0  0  1  0            999 V2000
+   -5.7158    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0013   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0013   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.8579    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  1  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 14 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03322
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-(Isopropylamino)-3-(1-Naphthyloxy)-2-Propanol
+
+> <CHEMICAL_FORMULA>
+C16H21NO2
+
+> <MOLECULAR_WEIGHT>
+259.3434
+
+> <EXACT_MASS>
+259.157228921
+
+> <IUPAC_NAME>
+[(2R)-2-hydroxy-3-(naphthalen-1-yloxy)propyl](propan-2-yl)amine
+
+> <IUPAC_TRADITIONAL_NAME>
+propranolol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H21NO2/c1-12(2)17-10-14(18)11-19-16-9-5-7-13-6-3-4-8-15(13)16/h3-9,12,14,17-18H,10-11H2,1-2H3/t14-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=AQHHHDLHHXJYJD-CQSZACIVSA-N
+
+> <SMILES>
+CC(C)NC[C@@H](O)COC1=CC=CC2=C1C=CC=C2
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+14.09
+
+> <JCHEM_BASIC_PKA>
+9.67
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+3.03
+
+> <JCHEM_LOGP>
+2.58
+
+> <ALOGPS_LOGS>
+-3.5
+
+> <JCHEM_POLARIZABILITY>
+30.03
+
+> <JCHEM_POLAR_SURFACE_AREA>
+41.49
+
+> <JCHEM_REFRACTIVITY>
+76.83
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+7.94e-02 g/l __ 
+
+$$$$

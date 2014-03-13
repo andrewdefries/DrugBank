@@ -1,0 +1,95 @@
+
+  Mrv0541 02231216442D          
+
+ 11 12  0  0  0  0            999 V2000
+    4.0668    2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.9354    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.6979    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    0.8555    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    2.1904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    3.1729    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  6  7  4  0  0  0  0
+  7  8  4  0  0  0  0
+  8  9  4  0  0  0  0
+  5  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+  2 10  4  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03164
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-Amino-1-Methylpurine
+
+> <CHEMICAL_FORMULA>
+C6H7N5
+
+> <MOLECULAR_WEIGHT>
+149.1533
+
+> <EXACT_MASS>
+149.070145249
+
+> <IUPAC_NAME>
+6-amino-1-methylpurin-1-ium
+
+> <IUPAC_TRADITIONAL_NAME>
+6-amino-1-methylpurine
+
+> <SMILES>
+C[n+]1cnc2ncnc2c1N
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+17.96
+
+> <JCHEM_BASIC_PKA>
+-1.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-2.9
+
+> <JCHEM_LOGP>
+-5.3
+
+> <ALOGPS_LOGS>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+14.43
+
+> <JCHEM_POLAR_SURFACE_AREA>
+68.57
+
+> <JCHEM_REFRACTIVITY>
+41.81
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+4.33e+00 g/l __ 
+
+$$$$

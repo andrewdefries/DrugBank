@@ -1,0 +1,87 @@
+
+  Mrv0541 02231217362D          
+
+  5  4  0  0  0  0            999 V2000
+    0.8250    1.4289    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04320
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Bromo-2-Propene-1-Ol
+
+> <CHEMICAL_FORMULA>
+C3H5BrO
+
+> <MOLECULAR_WEIGHT>
+136.975
+
+> <EXACT_MASS>
+135.952377429
+
+> <IUPAC_NAME>
+2-bromoprop-2-en-1-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+2-bromo-2-propene-1-ol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H5BrO/c1-3(4)2-5/h5H,1-2H2
+
+> <INCHI_KEY>
+InChIKey=MDFFZNIQPLKQSG-UHFFFAOYSA-N
+
+> <SMILES>
+OCC(Br)=C
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+14.09
+
+> <JCHEM_BASIC_PKA>
+-3.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.78
+
+> <JCHEM_LOGP>
+0.61
+
+> <ALOGPS_LOGS>
+-0.31
+
+> <JCHEM_POLARIZABILITY>
+9.45
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+24.96
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.68e+01 g/l __ 
+
+$$$$

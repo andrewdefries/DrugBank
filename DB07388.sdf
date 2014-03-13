@@ -1,0 +1,114 @@
+AT2
+  Mrv0541 02241213242D          
+
+ 19 20  0  0  0  0            999 V2000
+    2.5653    1.4639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5653    0.6389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2798    0.2264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2798   -0.5986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8509   -0.5986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8509    0.2264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4219   -0.5986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2925   -1.0111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0070   -0.5986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5653   -1.0111    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1364   -1.0111    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0070    0.2264    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2925    0.6389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4219    0.2264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7215    0.6389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7215    1.4639    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4360    0.2264    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1504    0.6389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8649    0.2264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  2  0  0  0  0
+  5 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07388
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+ETHYL 4-[(4-METHYLPYRIDIN-2-YL)AMINO]PIPERIDINE-1-CARBOXYLATE
+
+> <CHEMICAL_FORMULA>
+C14H21N3O2
+
+> <MOLECULAR_WEIGHT>
+263.3354
+
+> <EXACT_MASS>
+263.163376931
+
+> <IUPAC_NAME>
+ethyl 4-[(4-methylpyridin-2-yl)amino]piperidine-1-carboxylate
+
+> <IUPAC_TRADITIONAL_NAME>
+ethyl 4-[(4-methylpyridin-2-yl)amino]piperidine-1-carboxylate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H21N3O2/c1-3-19-14(18)17-8-5-12(6-9-17)16-13-10-11(2)4-7-15-13/h4,7,10,12H,3,5-6,8-9H2,1-2H3,(H,15,16)
+
+> <INCHI_KEY>
+InChIKey=LNRMJBWADUSJTA-UHFFFAOYSA-N
+
+> <SMILES>
+CCOC(=O)N1CCC(CC1)NC1=NC=CC(C)=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+7.39
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.27
+
+> <JCHEM_LOGP>
+1.57
+
+> <ALOGPS_LOGS>
+-3.1
+
+> <JCHEM_POLARIZABILITY>
+29.2
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.46
+
+> <JCHEM_REFRACTIVITY>
+75.54
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+2.22e-01 g/l __ 
+
+$$$$

@@ -1,0 +1,99 @@
+PPT
+  Mrv0541 02231216542D          
+
+ 12 12  0  0  0  0            999 V2000
+    0.9141    1.1356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6286    1.5481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6286    2.3731    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3431    1.1356    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9141    0.3106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1997   -0.1019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1997   -0.9269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5148    0.3106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5148   -1.3394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2293   -0.1019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2293   -0.9269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9437   -1.3394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03400
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-(P-Tolyl)Propionic Acid
+
+> <CHEMICAL_FORMULA>
+C10H12O2
+
+> <MOLECULAR_WEIGHT>
+164.2011
+
+> <EXACT_MASS>
+164.083729628
+
+> <IUPAC_NAME>
+3-(4-methylphenyl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+3-(P-tolyl)propionic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12O2/c1-8-2-4-9(5-3-8)6-7-10(11)12/h2-5H,6-7H2,1H3,(H,11,12)
+
+> <INCHI_KEY>
+InChIKey=LDYGRLNSOKABMM-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=CC=C(CCC(O)=O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.85
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+2.2
+
+> <JCHEM_LOGP>
+2.57
+
+> <ALOGPS_LOGS>
+-2.5
+
+> <JCHEM_POLARIZABILITY>
+18.19
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+47.01
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+4.93e-01 g/l __ 
+
+$$$$

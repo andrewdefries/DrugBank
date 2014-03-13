@@ -1,0 +1,95 @@
+
+  Mrv0541 02231215582D          
+
+ 10 10  0  0  0  0            999 V2000
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  4 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02114
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Para-Isopropylaniline
+
+> <CHEMICAL_FORMULA>
+C9H13N
+
+> <MOLECULAR_WEIGHT>
+135.2062
+
+> <EXACT_MASS>
+135.104799421
+
+> <IUPAC_NAME>
+4-(propan-2-yl)aniline
+
+> <IUPAC_TRADITIONAL_NAME>
+para-isopropylaniline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13N/c1-7(2)8-3-5-9(10)6-4-8/h3-7H,10H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=LRTFPLFDLJYEKT-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)C1=CC=C(N)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+4.87
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.27
+
+> <JCHEM_LOGP>
+2.39
+
+> <ALOGPS_LOGS>
+-1.9
+
+> <JCHEM_POLARIZABILITY>
+16.3
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+44.95
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.74e+00 g/l __ 
+
+$$$$

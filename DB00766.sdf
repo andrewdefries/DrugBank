@@ -1,0 +1,112 @@
+766
+  Mrv0541 02231214592D          
+
+ 15 16  0  0  1  0            999 V2000
+    3.8486    1.1438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.5242    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9106   -1.1472    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5515   -1.5889    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3961    1.1908    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0640    0.0638    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0640    0.8888    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.8486   -0.1912    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.2322    0.8922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2322    0.0604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3336    0.4763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1036   -0.9757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1586    0.4763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5711    1.1908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9621    1.5409    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3 12  1  0  0  0  0
+  4 12  2  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 15  1  6  0  0  0
+  8 11  1  0  0  0  0
+  8 12  1  6  0  0  0
+  9 10  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00766
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Clavulanate
+
+> <SYNONYMS>
+Clavulanic Acid
+
+> <CHEMICAL_FORMULA>
+C8H9NO5
+
+> <MOLECULAR_WEIGHT>
+199.1608
+
+> <EXACT_MASS>
+199.048072403
+
+> <IUPAC_NAME>
+(2R,3Z,5R)-3-(2-hydroxyethylidene)-7-oxo-4-oxa-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+clavulanate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H9NO5/c10-2-1-4-7(8(12)13)9-5(11)3-6(9)14-4/h1,6-7,10H,2-3H2,(H,12,13)/b4-1-/t6-,7-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=HZZVJAQRINQKSD-PBFISZAISA-N
+
+> <SMILES>
+[H][C@@]12CC(=O)N1[C@@H](C(O)=O)\C(O2)=C\CO
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+3.32
+
+> <JCHEM_BASIC_PKA>
+-2.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-1.2
+
+> <JCHEM_LOGP>
+-1.5
+
+> <ALOGPS_LOGS>
+0.23
+
+> <JCHEM_POLARIZABILITY>
+18.13
+
+> <JCHEM_POLAR_SURFACE_AREA>
+87.07
+
+> <JCHEM_REFRACTIVITY>
+44.25
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+3.37e+02 g/l __ 
+
+$$$$

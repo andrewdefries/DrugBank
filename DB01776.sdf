@@ -1,0 +1,94 @@
+
+  Mrv0541 02231215432D          
+
+  8  8  0  0  0  0            999 V2000
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  2  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01776
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+M-Cresol
+
+> <CHEMICAL_FORMULA>
+C7H8O
+
+> <MOLECULAR_WEIGHT>
+108.1378
+
+> <EXACT_MASS>
+108.057514878
+
+> <IUPAC_NAME>
+3-methylphenol
+
+> <IUPAC_TRADITIONAL_NAME>
+M-cresol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8O/c1-6-3-2-4-7(8)5-6/h2-5,8H,1H3
+
+> <INCHI_KEY>
+InChIKey=RLSSMJSEOOYNOY-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=CC=CC(O)=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+10.13
+
+> <JCHEM_BASIC_PKA>
+-5.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.93
+
+> <JCHEM_LOGP>
+2.18
+
+> <ALOGPS_LOGS>
+-0.63
+
+> <JCHEM_POLARIZABILITY>
+11.91
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+33.08
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.51e+01 g/l __ 
+
+$$$$

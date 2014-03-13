@@ -1,0 +1,108 @@
+TH4
+  Mrv0541 02241214132D          
+
+ 16 17  0  0  0  0            999 V2000
+    1.6025    1.0844    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7740    1.8914    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1609    2.4434    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3324    3.2504    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3763    2.1885    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.2048    1.3815    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8179    0.8295    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6463    0.0225    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1383   -0.2325    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8057    0.2525    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4732   -0.2325    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2182   -1.0171    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3932   -1.0171    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0917   -1.6845    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2439   -2.4382    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5794   -3.1919    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  1  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  3  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  3  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08620
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+{(2Z)-3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene}cyanamide
+
+> <CHEMICAL_FORMULA>
+C10H9ClN4S
+
+> <MOLECULAR_WEIGHT>
+252.723
+
+> <EXACT_MASS>
+252.023644705
+
+> <IUPAC_NAME>
+{[(2Z)-3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene]amino}carbonitrile
+
+> <IUPAC_TRADITIONAL_NAME>
+[(2Z)-3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene]aminocarbonitrile
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H9ClN4S/c11-9-2-1-8(5-13-9)6-15-3-4-16-10(15)14-7-12/h1-2,5H,3-4,6H2/b14-10-
+
+> <INCHI_KEY>
+InChIKey=HOKKPVIRMVDYPB-UVTDQMKNSA-N
+
+> <SMILES>
+ClC1=NC=C(CN2CCS\C2=N/C#N)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+1.62
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.91
+
+> <JCHEM_LOGP>
+2.06
+
+> <ALOGPS_LOGS>
+-2.7
+
+> <JCHEM_POLARIZABILITY>
+24.48
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.28
+
+> <JCHEM_REFRACTIVITY>
+67.05
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+4.58e-01 g/l __ 
+
+$$$$

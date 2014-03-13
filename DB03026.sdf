@@ -1,0 +1,97 @@
+
+  Mrv0541 02231216382D          
+
+ 10  9  0  0  0  0            999 V2000
+    1.7605   -1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750   -1.4289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -2.6664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184   -1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329   -1.4289    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7454   -2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9204   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03026
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Phosphoglycolohydroxamic Acid
+
+> <CHEMICAL_FORMULA>
+C2H6NO6P
+
+> <MOLECULAR_WEIGHT>
+171.0459
+
+> <EXACT_MASS>
+170.993273441
+
+> <IUPAC_NAME>
+[(hydroxycarbamoyl)methoxy]phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(hydroxycarbamoyl)methoxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H6NO6P/c4-2(3-5)1-9-10(6,7)8/h5H,1H2,(H,3,4)(H2,6,7,8)
+
+> <INCHI_KEY>
+InChIKey=BAXHHWZKQZIJID-UHFFFAOYSA-N
+
+> <SMILES>
+ONC(=O)COP(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+1.32
+
+> <JCHEM_BASIC_PKA>
+-5.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-1.2
+
+> <JCHEM_LOGP>
+-2
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+12.04
+
+> <JCHEM_POLAR_SURFACE_AREA>
+116.09
+
+> <JCHEM_REFRACTIVITY>
+28.81
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.38e+01 g/l __ 
+
+$$$$

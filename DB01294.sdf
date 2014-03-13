@@ -1,0 +1,109 @@
+
+  Mrv0541 02231215222D          
+
+ 12 13  0  0  0  0            999 V2000
+   -0.4184   -0.0308    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3052   -0.4424    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4218    0.7888    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1248   -0.4424    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0083   -0.0343    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3052   -1.2689    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.2950    1.2003    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1317    1.1968    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1248   -1.2689    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0083    0.7888    0.0000 Bi   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4184   -1.6872    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7182    1.2003    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+  7 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01294
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Bismuth Subsalicylate
+
+> <SYNONYMS>
+2-Hydroxy-benzo[1,3,2]dioxabismin-4-one; Bismuth oxide salicylate; Bismuth oxysalicylate; pink bismuth; Wismutsubsalicylat
+
+> <BRANDS>
+Bismatrol; Maalox Multi-Action; Pepto-bismol
+
+> <CHEMICAL_FORMULA>
+C7H5BiO4
+
+> <MOLECULAR_WEIGHT>
+362.0926
+
+> <EXACT_MASS>
+361.999166889
+
+> <IUPAC_NAME>
+2-hydroxy-2H,4H-benzo[d]1,3-dioxa-2-bismacyclohexan-4-one
+
+> <IUPAC_TRADITIONAL_NAME>
+bismuth subsalicylate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H6O3.Bi.H2O/c8-6-4-2-1-3-5(6)7(9)10;;/h1-4,8H,(H,9,10);;1H2/q;+3;/p-3
+
+> <INCHI_KEY>
+InChIKey=ZREIPSZUJIFJNP-UHFFFAOYSA-K
+
+> <SMILES>
+O[Bi]1OC(=O)C2=CC=CC=C2O1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+14.3
+
+> <JCHEM_BASIC_PKA>
+-3.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.37
+
+> <JCHEM_LOGP>
+1.11
+
+> <ALOGPS_LOGS>
+-0.78
+
+> <JCHEM_POLARIZABILITY>
+15.67
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.76
+
+> <JCHEM_REFRACTIVITY>
+35.72
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.97e+01 g/l __ 
+
+$$$$

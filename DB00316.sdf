@@ -1,0 +1,106 @@
+316
+  Mrv0541 02231214352D          
+
+ 11 11  0  0  0  0            999 V2000
+    2.3645   -2.1409    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.1591    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.1591    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.5716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    2.3966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00316
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Acetaminophen
+
+> <SYNONYMS>
+4-(Acetylamino)phenol; 4-acetamidophenol; 4'-hydroxyacetanilide; Acetaminofen; APAP; N-acetyl-p-aminophenol; p-acetamidophenol; p-acetaminophenol; p-Acetylaminophenol; p-hydroxyacetanilide; p-hydroxyphenolacetamide; Paracetamol
+
+> <BRANDS>
+Abenol; Acamol; Acephen; Aceta Elixir; Aceta Tablets; Acetalgin; Actamin; Actimol; Algotropyl; Alvedon; Aminofen; Anacin-3; Anhiba; Apacet; Banesin; Calpol; Conacetol; Dafalgan; Dapa X-S; Disprol; Dolprone; Dymadon; Dypap; Enelfa; Febridol; Febrilix; Feverall; Finimal; Gelocatil; Genapap; Genebs; Injectapap; Liquiprin; Napafen; Oraphen-PD; Paldesic; Panadol; Panofen; Paraspen; Parmol; Redutemp; Rounox; Salzone; Snaplets-FR; St. Joseph Fever Reducer; Suppap; Tapanol; Tempra; Tylenol; Valorin
+
+> <CHEMICAL_FORMULA>
+C8H9NO2
+
+> <MOLECULAR_WEIGHT>
+151.1626
+
+> <EXACT_MASS>
+151.063328537
+
+> <IUPAC_NAME>
+N-(4-hydroxyphenyl)acetamide
+
+> <IUPAC_TRADITIONAL_NAME>
+acetaminophen
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H9NO2/c1-6(10)9-7-2-4-8(11)5-3-7/h2-5,11H,1H3,(H,9,10)
+
+> <INCHI_KEY>
+InChIKey=RZVAJINKPMORJF-UHFFFAOYSA-N
+
+> <SMILES>
+CC(=O)NC1=CC=C(O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.46
+
+> <JCHEM_BASIC_PKA>
+-4.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.51
+
+> <JCHEM_LOGP>
+0.91
+
+> <ALOGPS_LOGS>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+15.52
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.33
+
+> <JCHEM_REFRACTIVITY>
+42.9
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.15e+00 g/l __ 
+
+$$$$

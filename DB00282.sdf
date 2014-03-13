@@ -1,0 +1,112 @@
+282
+  Mrv0541 02231214342D          
+
+ 13 12  0  0  0  0            999 V2000
+    2.8075   -1.0743    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.2492    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9345   -1.3762    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3950   -0.3598    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -1.4868    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.1633    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6490   -0.9637    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.8993    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0932    0.5632    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6208    1.3955    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.6617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1095    0.0527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2527    0.8652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  9  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00282
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Pamidronate
+
+> <SYNONYMS>
+Acide pamidronique; Acido pamidronico; Acidum pamidronicum; Pamidronic acid
+
+> <SALTS>
+Pamidronate Disodium
+
+> <BRANDS>
+Aminomux; Aredia; Pamimed
+
+> <CHEMICAL_FORMULA>
+C3H11NO7P2
+
+> <MOLECULAR_WEIGHT>
+235.0695
+
+> <EXACT_MASS>
+235.001074735
+
+> <IUPAC_NAME>
+(3-amino-1-hydroxy-1-phosphonopropyl)phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+3-amino-1-hydroxy-1-phosphonopropylphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H11NO7P2/c4-2-1-3(5,12(6,7)8)13(9,10)11/h5H,1-2,4H2,(H2,6,7,8)(H2,9,10,11)
+
+> <INCHI_KEY>
+InChIKey=WRUUGTRCQOWXEG-UHFFFAOYSA-N
+
+> <SMILES>
+NCCC(O)(P(O)(O)=O)P(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_ACIDIC_PKA>
+0.67
+
+> <JCHEM_BASIC_PKA>
+9.86
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-1.4
+
+> <JCHEM_LOGP>
+-4.5
+
+> <ALOGPS_LOGS>
+-1.2
+
+> <JCHEM_POLARIZABILITY>
+17.34
+
+> <JCHEM_POLAR_SURFACE_AREA>
+161.31
+
+> <JCHEM_REFRACTIVITY>
+42.62
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.58e+01 g/l __ 
+
+$$$$

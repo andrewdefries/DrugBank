@@ -1,0 +1,104 @@
+SN1
+  Mrv0541 02231215402D          
+
+ 13 13  0  0  0  0            999 V2000
+    0.8195    1.1399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8195    0.3149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1050   -0.0976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1050   -0.9226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6094   -1.3351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6094    0.3149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3239   -0.0976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3239   -0.9226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0384   -1.3351    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8195   -1.3351    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5340    1.5524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5340    2.3774    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2484    1.1399    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01704
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,4-Dihydroxy-Trans Cinnamic Acid
+
+> <CHEMICAL_FORMULA>
+C9H8O4
+
+> <MOLECULAR_WEIGHT>
+180.1574
+
+> <EXACT_MASS>
+180.042258744
+
+> <IUPAC_NAME>
+(2E)-3-(2,4-dihydroxyphenyl)prop-2-enoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2E)-3-(2,4-dihydroxyphenyl)prop-2-enoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H8O4/c10-7-3-1-6(8(11)5-7)2-4-9(12)13/h1-5,10-11H,(H,12,13)/b4-2+
+
+> <INCHI_KEY>
+InChIKey=HGEFWFBFQKWVMY-DUXPYHPUSA-N
+
+> <SMILES>
+OC(=O)\C=C\C1=C(O)C=C(O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+3.64
+
+> <JCHEM_BASIC_PKA>
+-5.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.49
+
+> <JCHEM_LOGP>
+1.53
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+17.11
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.76
+
+> <JCHEM_REFRACTIVITY>
+47.02
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.59e+00 g/l __ 
+
+$$$$

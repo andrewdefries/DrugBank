@@ -1,0 +1,121 @@
+
+  Mrv0541 02231217282D          
+
+ 22 21  0  0  1  0            999 V2000
+   12.6177    4.8099    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6177    3.9849    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   11.9033    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1888    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4743    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4743    2.7474    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7599    3.9849    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0454    3.5724    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    9.0454    2.7474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3309    2.3349    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3309    1.5099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6164    1.0974    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3309    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3309    4.8099    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6164    3.5724    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9020    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1875    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4730    3.9849    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1875    2.7474    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3322    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0467    3.9849    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3322    2.7474    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  8  7  1  6  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+  2 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04153
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+S-Hydroxymethyl Glutathione
+
+> <CHEMICAL_FORMULA>
+C11H19N3O7S
+
+> <MOLECULAR_WEIGHT>
+337.349
+
+> <EXACT_MASS>
+337.094370667
+
+> <IUPAC_NAME>
+(2S)-2-amino-4-{[(1S)-1-[(carboxymethyl)carbamoyl]-2-[(hydroxymethyl)sulfanyl]ethyl]carbamoyl}butanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S)-2-amino-4-{[(1S)-1-(carboxymethylcarbamoyl)-2-[(hydroxymethyl)sulfanyl]ethyl]carbamoyl}butanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H19N3O7S/c12-6(11(20)21)1-2-8(16)14-7(4-22-5-15)10(19)13-3-9(17)18/h6-7,15H,1-5,12H2,(H,13,19)(H,14,16)(H,17,18)(H,20,21)/t6-,7+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=PIUSLWSYOYFRFR-NKWVEPMBSA-N
+
+> <SMILES>
+N[C@@H](CCC(=O)N[C@H](CSCO)C(=O)NCC(O)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_ACIDIC_PKA>
+1.79
+
+> <JCHEM_BASIC_PKA>
+9.31
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-3.2
+
+> <JCHEM_LOGP>
+-5.5
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+32.27
+
+> <JCHEM_POLAR_SURFACE_AREA>
+179.05
+
+> <JCHEM_REFRACTIVITY>
+75.2
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+11
+
+> <ALOGPS_SOLUBILITY>
+5.27e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,108 @@
+
+  Mrv0541 04191212102D          
+
+ 17 16  0  0  1  0            999 V2000
+    5.4359   -5.9191    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4359   -6.7442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7214   -5.5066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7214   -7.1567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0069   -5.9191    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0069   -6.7442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2925   -5.5067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2925   -7.1567    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1504   -5.5066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8649   -5.9191    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.5793   -5.5066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2938   -5.9191    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5793   -4.6816    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4609   -6.6299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2859   -6.6299    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8814   -7.3490    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6477   -7.2561    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  2  0  0  0  0
+  4  2  2  0  0  0  0
+  5  3  1  0  0  0  0
+  6  4  1  0  0  0  0
+  6  5  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 15  1  1  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00190
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Carbidopa
+
+> <SYNONYMS>
+(S)-(−)-carbidopa hydrate; (S)-carbidopa hydrate; carbidopa hydrate; Carbidopa monohydrate; Carbidopum
+
+> <BRANDS>
+Lodosyn
+
+> <CHEMICAL_FORMULA>
+C10H16N2O5
+
+> <MOLECULAR_WEIGHT>
+244.2444
+
+> <EXACT_MASS>
+244.105921632
+
+> <IUPAC_NAME>
+(2S)-3-(3,4-dihydroxyphenyl)-2-hydrazinyl-2-methylpropanoic acid hydrate
+
+> <IUPAC_TRADITIONAL_NAME>
+carbidopa hydrate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14N2O4.H2O/c1-10(12-11,9(15)16)5-6-2-3-7(13)8(14)4-6;/h2-4,12-14H,5,11H2,1H3,(H,15,16);1H2/t10-;/m0./s1
+
+> <INCHI_KEY>
+InChIKey=QTAOMKOIBXZKND-PPHPATTJSA-N
+
+> <SMILES>
+O.C[C@@](CC1=CC(O)=C(O)C=C1)(NN)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+3.59
+
+> <JCHEM_BASIC_PKA>
+5.65
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_LOGP>
+-1.2
+
+> <JCHEM_POLARIZABILITY>
+21.81
+
+> <JCHEM_POLAR_SURFACE_AREA>
+115.81
+
+> <JCHEM_REFRACTIVITY>
+68.77
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4 __ 
+
+$$$$

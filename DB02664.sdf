@@ -1,0 +1,85 @@
+
+  Mrv0541 02231216222D          
+
+  7  6  0  0  0  0            999 V2000
+   -0.1914    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02664
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-Butane Boronic Acid
+
+> <CHEMICAL_FORMULA>
+C4H11BO2
+
+> <MOLECULAR_WEIGHT>
+101.94
+
+> <EXACT_MASS>
+102.085210062
+
+> <IUPAC_NAME>
+butylboronic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+1-butane boronic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H11BO2/c1-2-3-4-5(6)7/h6-7H,2-4H2,1H3
+
+> <INCHI_KEY>
+InChIKey=QPKFVRWIISEVCW-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCB(O)O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.68
+
+> <JCHEM_LOGP>
+1.17
+
+> <ALOGPS_LOGS>
+0.09
+
+> <JCHEM_POLARIZABILITY>
+12.21
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+24.71
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.26e+02 g/l __ 
+
+$$$$

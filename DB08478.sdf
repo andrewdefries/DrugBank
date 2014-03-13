@@ -1,0 +1,111 @@
+RJ1
+  Mrv0541 02241214072D          
+
+ 18 18  0  0  0  0            999 V2000
+   -2.2335   -0.0059    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2335   -0.8309    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5190   -1.2434    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8046   -0.8309    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8046   -0.0059    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5190    0.4066    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0901   -1.2434    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9480    0.4066    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6625    0.8191    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5355    1.1211    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3605   -0.3078    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0901    0.4066    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6244   -0.0059    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3388    0.4066    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0533   -0.0059    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7678    0.4066    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6244   -0.8309    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0533   -0.8309    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  4  2  0  0  0  0
+  5 12  1  0  0  0  0
+  6  5  1  0  0  0  0
+  8  1  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 11  8  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 18 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08478
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-[2-chloro-5-(trifluoromethyl)phenyl]imidodicarbonimidic diamide
+
+> <CHEMICAL_FORMULA>
+C9H9ClF3N5
+
+> <MOLECULAR_WEIGHT>
+279.649
+
+> <EXACT_MASS>
+279.049857635
+
+> <IUPAC_NAME>
+1-carbamimidamido-N-[2-chloro-5-(trifluoromethyl)phenyl]methanimidamide
+
+> <IUPAC_TRADITIONAL_NAME>
+1-carbamimidamido-N-[2-chloro-5-(trifluoromethyl)phenyl]methanimidamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H9ClF3N5/c10-5-2-1-4(9(11,12)13)3-6(5)17-8(16)18-7(14)15/h1-3H,(H6,14,15,16,17,18)
+
+> <INCHI_KEY>
+InChIKey=IGFTZEOFHWPCDL-UHFFFAOYSA-N
+
+> <SMILES>
+NC(=N)NC(=N)NC1=C(Cl)C=CC(=C1)C(F)(F)F
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_BASIC_PKA>
+9.77
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <ALOGPS_LOGP>
+2.17
+
+> <JCHEM_LOGP>
+2.21
+
+> <ALOGPS_LOGS>
+-4.1
+
+> <JCHEM_POLARIZABILITY>
+23.14
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.78
+
+> <JCHEM_REFRACTIVITY>
+83.68
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.46e-02 g/l __ 
+
+$$$$

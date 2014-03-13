@@ -1,0 +1,116 @@
+
+  Mrv0541 02231218132D          
+
+ 17 18  0  0  1  0            999 V2000
+    4.1496   -1.0607    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0302   -0.8057    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5847   -2.5127    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2001   -2.4265    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0533    0.2492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4822    0.2492    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7677    1.4867    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4822    2.7242    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8147   -1.0607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0697   -1.8453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4822   -0.5758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8947   -1.8453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3796   -2.5127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1967    0.6617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7677    0.6617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1967    1.4867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4822    1.8992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5 15  2  0  0  0  0
+  6 11  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 17  2  0  0  0  0
+  8 17  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB05494
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+CP-4055
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C9H13N3O5
+
+> <MOLECULAR_WEIGHT>
+243.2166
+
+> <EXACT_MASS>
+243.085520541
+
+> <IUPAC_NAME>
+4-amino-1-[3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2-dihydropyrimidin-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+cytidine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13N3O5/c10-5-1-2-12(9(16)11-5)8-7(15)6(14)4(3-13)17-8/h1-2,4,6-8,13-15H,3H2,(H2,10,11,16)
+
+> <INCHI_KEY>
+InChIKey=UHDGCWIWMRVCDJ-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=NC(=O)N(C=C1)C1OC(CO)C(O)C1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+12.55
+
+> <JCHEM_BASIC_PKA>
+-0.55
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.2
+
+> <JCHEM_LOGP>
+-2.8
+
+> <ALOGPS_LOGS>
+-0.74
+
+> <JCHEM_POLARIZABILITY>
+22.74
+
+> <JCHEM_POLAR_SURFACE_AREA>
+128.61
+
+> <JCHEM_REFRACTIVITY>
+54.54
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+4.38e+01 g/l __ 
+
+$$$$

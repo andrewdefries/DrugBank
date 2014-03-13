@@ -1,0 +1,118 @@
+740
+  Mrv0541 02231214582D          
+
+ 15 16  0  0  0  0            999 V2000
+    6.0031    0.5129    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770   -0.4529    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.1510    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    0.9760    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.6740    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0031   -0.8149    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3097   -0.1510    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.5635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.6740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.9760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.5635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4846   -0.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 14  2  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00740
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Riluzole
+
+> <SYNONYMS>
+Riluzol; Riluzole; Riluzolum
+
+> <SALTS>
+Riluzole Hydrochloride
+
+> <BRANDS>
+Fanizan; Laidec; Lizolorol; Lizorolol; Rilustad; Rilutek; Sclefic; Xie Yi Li; Zolerilis
+
+> <CHEMICAL_FORMULA>
+C8H5F3N2OS
+
+> <MOLECULAR_WEIGHT>
+234.198
+
+> <EXACT_MASS>
+234.007468097
+
+> <IUPAC_NAME>
+6-(trifluoromethoxy)-1,3-benzothiazol-2-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+riluzole
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H5F3N2OS/c9-8(10,11)14-4-1-2-5-6(3-4)15-7(12)13-5/h1-3H,(H2,12,13)
+
+> <INCHI_KEY>
+InChIKey=FTALBRSUTCGOEG-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=NC2=C(S1)C=C(OC(F)(F)F)C=C2
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+16.44
+
+> <JCHEM_BASIC_PKA>
+4.57
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.83
+
+> <JCHEM_LOGP>
+3.4
+
+> <ALOGPS_LOGS>
+-3.8
+
+> <JCHEM_POLARIZABILITY>
+18.59
+
+> <JCHEM_POLAR_SURFACE_AREA>
+48.14
+
+> <JCHEM_REFRACTIVITY>
+44.37
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+3.95e-02 g/l __ 
+
+$$$$

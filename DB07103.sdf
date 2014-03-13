@@ -1,0 +1,106 @@
+4BR
+  Mrv0541 02241213122D          
+
+ 14 14  0  0  0  0            999 V2000
+   -0.1455   -1.6096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8600   -1.1971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8600   -0.3721    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1455    0.0404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5689   -0.3721    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5689   -1.1971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2834   -1.6096    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9979   -1.1971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7124   -1.6096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4268   -1.1971    0.0000 P   0  0  1  0  0  0  0  0  0  0  0  0
+    4.1413   -1.6096    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.4268   -0.3721    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5745    0.0404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4268   -1.9256    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  6  0  0  0
+ 10 12  2  0  0  0  0
+ 10 14  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07103
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(4-METHYLPHENOXY)ETHYLPHOSPHINATE
+
+> <CHEMICAL_FORMULA>
+C9H12O3P
+
+> <MOLECULAR_WEIGHT>
+199.1635
+
+> <EXACT_MASS>
+199.052405762
+
+> <IUPAC_NAME>
+[2-(4-methylphenoxy)ethyl]phosphinate
+
+> <IUPAC_TRADITIONAL_NAME>
+2-(4-methylphenoxy)ethylphosphinate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13O3P/c1-8-2-4-9(5-3-8)12-6-7-13(10)11/h2-5,13H,6-7H2,1H3,(H,10,11)/p-1
+
+> <INCHI_KEY>
+InChIKey=SATOOOGJLDLPLZ-UHFFFAOYSA-M
+
+> <SMILES>
+[H][P@]([O-])(=O)CCOC1=CC=C(C)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+2.2
+
+> <JCHEM_BASIC_PKA>
+-4.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.29
+
+> <JCHEM_LOGP>
+1.15
+
+> <ALOGPS_LOGS>
+-2.1
+
+> <JCHEM_POLARIZABILITY>
+19.62
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.36
+
+> <JCHEM_REFRACTIVITY>
+49.93
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.67e+00 g/l __ 
+
+$$$$

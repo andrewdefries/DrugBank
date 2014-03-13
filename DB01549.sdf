@@ -1,0 +1,114 @@
+
+  Mrv0541 02231215332D          
+
+ 17 19  0  0  0  0            999 V2000
+    4.0753    0.0355    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001   -0.2467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0145   -0.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5856   -0.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0145   -1.4842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5856   -1.4842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7593   -0.4259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3027    0.8285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001   -1.8967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8876    0.4678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4094    0.0821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1272    0.8573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.4678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    1.1823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.1823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8876    1.8967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    1.8967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01549
+
+> <DRUG_GROUPS>
+experimental; illicit
+
+> <GENERIC_NAME>
+Rolicyclidine
+
+> <SYNONYMS>
+1-(1-phenylcyclohexyl)pyrrolidine; PCPy; Roliciclidina; Rolicyclidinum
+
+> <CHEMICAL_FORMULA>
+C16H23N
+
+> <MOLECULAR_WEIGHT>
+229.3605
+
+> <EXACT_MASS>
+229.183049741
+
+> <IUPAC_NAME>
+1-(1-phenylcyclohexyl)pyrrolidine
+
+> <IUPAC_TRADITIONAL_NAME>
+rolicyclidine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H23N/c1-3-9-15(10-4-1)16(11-5-2-6-12-16)17-13-7-8-14-17/h1,3-4,9-10H,2,5-8,11-14H2
+
+> <INCHI_KEY>
+InChIKey=FYOWWXMGDATDQY-UHFFFAOYSA-N
+
+> <SMILES>
+C1CCN(C1)C1(CCCCC1)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+10.78
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+4.54
+
+> <JCHEM_LOGP>
+4.04
+
+> <ALOGPS_LOGS>
+-4
+
+> <JCHEM_POLARIZABILITY>
+27.69
+
+> <JCHEM_POLAR_SURFACE_AREA>
+3.24
+
+> <JCHEM_REFRACTIVITY>
+73.05
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.39e-02 g/l __ 
+
+$$$$

@@ -1,0 +1,110 @@
+344
+  Mrv0541 02241213082D          
+
+ 15 17  0  0  0  0            999 V2000
+   -1.9773   -0.6225    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4622    0.0449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9773    0.7124    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1927    0.4574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4782    0.8699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2363    0.4574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9507    0.8699    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6652    0.4574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3797    0.8699    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6652   -0.3676    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9507   -0.7801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9507   -1.6051    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2363   -0.3676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4782   -0.7801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1927   -0.3676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 15  2  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07012
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-AMINO-3,7-DIHYDRO-IMIDAZO[4,5-G]QUINAZOLIN-8-ONE
+
+> <CHEMICAL_FORMULA>
+C9H7N5O
+
+> <MOLECULAR_WEIGHT>
+201.1848
+
+> <EXACT_MASS>
+201.065059871
+
+> <IUPAC_NAME>
+6-amino-3H,7H,8H-imidazo[4,5-g]quinazolin-8-one
+
+> <IUPAC_TRADITIONAL_NAME>
+6-amino-3H,7H-imidazo[4,5-g]quinazolin-8-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H7N5O/c10-9-13-5-2-7-6(11-3-12-7)1-4(5)8(15)14-9/h1-3H,(H,11,12)(H3,10,13,14,15)
+
+> <INCHI_KEY>
+InChIKey=VQSMWFVKBKMHTO-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=NC2=CC3=C(C=C2C(=O)N1)N=CN3
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+11.06
+
+> <JCHEM_BASIC_PKA>
+5.13
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0
+
+> <JCHEM_LOGP>
+-0.22
+
+> <ALOGPS_LOGS>
+-2.7
+
+> <JCHEM_POLARIZABILITY>
+19.36
+
+> <JCHEM_POLAR_SURFACE_AREA>
+96.16
+
+> <JCHEM_REFRACTIVITY>
+55.1
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+4.20e-01 g/l __ 
+
+$$$$

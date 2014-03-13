@@ -1,0 +1,89 @@
+
+  Mrv0541 02231215052D          
+
+  3  2  0  0  0  0            999 V2000
+    2.0930   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5219   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00898
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Ethanol
+
+> <SYNONYMS>
+Alcohol; Alcohol etílico; Alcool éthylique; Alkohol; Ethyl Alcohol; Hydroxyethane; Methylcarbinol
+
+> <BRANDS>
+Dehydrated ethanol
+
+> <CHEMICAL_FORMULA>
+C2H6O
+
+> <MOLECULAR_WEIGHT>
+46.0684
+
+> <EXACT_MASS>
+46.041864814
+
+> <IUPAC_NAME>
+ethanol
+
+> <IUPAC_TRADITIONAL_NAME>
+ethyl alcohol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3
+
+> <INCHI_KEY>
+InChIKey=LFQSCWFLJHTTHZ-UHFFFAOYSA-N
+
+> <SMILES>
+CCO
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+16.47
+
+> <JCHEM_BASIC_PKA>
+-2.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.4
+
+> <JCHEM_LOGP>
+-0.16
+
+> <ALOGPS_LOGS>
+1.1
+
+> <JCHEM_POLARIZABILITY>
+5.3
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+13.01
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.79e+02 g/l __ 
+
+$$$$

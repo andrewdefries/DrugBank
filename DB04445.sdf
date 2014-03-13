@@ -1,0 +1,68 @@
+
+  Mrv0541 02231217412D          
+
+  3  2  0  0  0  0            999 V2000
+    1.2375   -0.7145    0.0000 I    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520   -1.1270    0.0000 Hg   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.7145    0.0000 I    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04445
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Mercury Diiodide
+
+> <CHEMICAL_FORMULA>
+HgI2
+
+> <MOLECULAR_WEIGHT>
+454.4
+
+> <EXACT_MASS>
+455.779562444
+
+> <IUPAC_NAME>
+diiodomercury
+
+> <IUPAC_TRADITIONAL_NAME>
+mercury diiodide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/Hg.2HI/h;2*1H/q+2;;/p-2
+
+> <INCHI_KEY>
+InChIKey=YFDLHELOZYVNJE-UHFFFAOYSA-L
+
+> <SMILES>
+I[Hg]I
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_LOGP>
+1.17
+
+> <JCHEM_POLARIZABILITY>
+13.13
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+26.68
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0 __ 
+
+$$$$

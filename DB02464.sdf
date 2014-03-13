@@ -1,0 +1,91 @@
+
+  Mrv0541 02231216132D          
+
+  8  8  0  0  0  0            999 V2000
+    0.0000    2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  3  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02464
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Benzylamine
+
+> <CHEMICAL_FORMULA>
+C7H9N
+
+> <MOLECULAR_WEIGHT>
+107.1531
+
+> <EXACT_MASS>
+107.073499293
+
+> <IUPAC_NAME>
+phenylmethanamine
+
+> <IUPAC_TRADITIONAL_NAME>
+benzylamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H9N/c8-6-7-4-2-1-3-5-7/h1-5H,6,8H2
+
+> <INCHI_KEY>
+InChIKey=WGQKYBSKWIADBV-UHFFFAOYSA-N
+
+> <SMILES>
+NCC1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+9.51
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+0.9
+
+> <JCHEM_LOGP>
+1.1
+
+> <ALOGPS_LOGS>
+-1
+
+> <JCHEM_POLARIZABILITY>
+12.32
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+34.53
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.71e+00 g/l __ 
+
+$$$$

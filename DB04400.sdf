@@ -1,0 +1,116 @@
+
+  Mrv0541 02231217392D          
+
+ 17 18  0  0  1  0            999 V2000
+   -2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  1  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  6  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  6 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+  8 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04400
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+7,8-Dihydrobiopterin
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C9H13N5O3
+
+> <MOLECULAR_WEIGHT>
+239.2312
+
+> <EXACT_MASS>
+239.101839307
+
+> <IUPAC_NAME>
+2-amino-6-[(1S,2R)-1,2-dihydroxypropyl]-3,4,7,8-tetrahydropteridin-4-one
+
+> <IUPAC_TRADITIONAL_NAME>
+7,8-dihydro-L-biopterin
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13N5O3/c1-3(15)6(16)4-2-11-7-5(12-4)8(17)14-9(10)13-7/h3,6,15-16H,2H2,1H3,(H4,10,11,13,14,17)/t3-,6-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=FEMXZDUTFRTWPE-AWFVSMACSA-N
+
+> <SMILES>
+C[C@@H](O)[C@@H](O)C1=NC2=C(NC1)N=C(N)NC2=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+10.81
+
+> <JCHEM_BASIC_PKA>
+3.67
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.6
+
+> <JCHEM_LOGP>
+-1.9
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+23.11
+
+> <JCHEM_POLAR_SURFACE_AREA>
+132.33
+
+> <JCHEM_REFRACTIVITY>
+68.31
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.63e+00 g/l __ 
+
+$$$$

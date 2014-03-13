@@ -1,0 +1,104 @@
+
+  Mrv0541 02231218022D          
+
+ 14 15  0  0  0  0            999 V2000
+    1.6500    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  9  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04951
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Pirfenidone
+
+> <CHEMICAL_FORMULA>
+C12H11NO
+
+> <MOLECULAR_WEIGHT>
+185.2218
+
+> <EXACT_MASS>
+185.084063979
+
+> <IUPAC_NAME>
+5-methyl-1-phenyl-1,2-dihydropyridin-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+pirfenidone
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H11NO/c1-10-7-8-12(14)13(9-10)11-5-3-2-4-6-11/h2-9H,1H3
+
+> <INCHI_KEY>
+InChIKey=ISWRGOKTTBVCFA-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=CN(C(=O)C=C1)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-1.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2
+
+> <JCHEM_LOGP>
+2.14
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+20.28
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.31
+
+> <JCHEM_REFRACTIVITY>
+57
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.89e+00 g/l __ 
+
+$$$$

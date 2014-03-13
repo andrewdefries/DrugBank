@@ -1,0 +1,102 @@
+DST
+  Mrv0541 02231216052D          
+
+ 14 13  0  0  0  0            999 V2000
+   -3.1910    0.4591    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4765    0.0466    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8890   -0.6679    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0640    0.7612    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7620   -0.3659    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0475    0.0466    0.0000 P   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6349   -0.6679    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4600    0.7612    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3329    0.4591    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3815    0.0466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0961    0.4591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8106    0.0466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5251    0.4591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8106   -0.7785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  6  5  1  1  0  0  0
+  6  7  1  6  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02270
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Dimethylallyl S-Thiolodiphosphate
+
+> <CHEMICAL_FORMULA>
+C5H14O6P2S
+
+> <MOLECULAR_WEIGHT>
+264.174
+
+> <EXACT_MASS>
+263.998631894
+
+> <IUPAC_NAME>
+({hydroxy[(3-methylbutyl)sulfanyl]phosphoryl}oxy)phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[hydroxy(3-methylbutyl)sulfanylphosphoryl]oxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H14O6P2S/c1-5(2)3-4-14-13(9,10)11-12(6,7)8/h5H,3-4H2,1-2H3,(H,9,10)(H2,6,7,8)
+
+> <INCHI_KEY>
+InChIKey=UWSFTDFHOGCIEL-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)CCS[P@](O)(=O)OP(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+2.04
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+0.29
+
+> <JCHEM_LOGP>
+1.04
+
+> <ALOGPS_LOGS>
+-1.3
+
+> <JCHEM_POLARIZABILITY>
+22.51
+
+> <JCHEM_POLAR_SURFACE_AREA>
+104.06
+
+> <JCHEM_REFRACTIVITY>
+54.93
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+1.32e+01 g/l __ 
+
+$$$$

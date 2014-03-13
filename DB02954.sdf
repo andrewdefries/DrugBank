@@ -1,0 +1,95 @@
+
+  Mrv0541 02231216352D          
+
+  9  8  0  0  0  0            999 V2000
+    1.9520    1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1914    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02954
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(Carboxyhydroxyamino)Ethanoic Acid
+
+> <CHEMICAL_FORMULA>
+C3H5NO5
+
+> <MOLECULAR_WEIGHT>
+135.0755
+
+> <EXACT_MASS>
+135.016772275
+
+> <IUPAC_NAME>
+2-[carboxy(hydroxy)amino]acetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[carboxy(hydroxy)amino]acetic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H5NO5/c5-2(6)1-4(9)3(7)8/h9H,1H2,(H,5,6)(H,7,8)
+
+> <INCHI_KEY>
+InChIKey=LJSQPIOQKDFEKE-UHFFFAOYSA-N
+
+> <SMILES>
+ON(CC(O)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+2.48
+
+> <JCHEM_BASIC_PKA>
+-6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-0.66
+
+> <JCHEM_LOGP>
+-0.86
+
+> <ALOGPS_LOGS>
+-0.78
+
+> <JCHEM_POLARIZABILITY>
+10.3
+
+> <JCHEM_POLAR_SURFACE_AREA>
+98.07
+
+> <JCHEM_REFRACTIVITY>
+24.07
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.26e+01 g/l __ 
+
+$$$$

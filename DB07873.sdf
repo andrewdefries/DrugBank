@@ -1,0 +1,119 @@
+H23
+  Mrv0541 02241213422D          
+
+ 21 20  0  0  0  0            999 V2000
+   -3.6870   -0.3703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9915    0.0733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2596   -0.3073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5640    0.1363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8320   -0.2443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1364    0.1993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5955   -0.1813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2911    0.2623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0230   -0.1183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7187    0.3253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4505   -0.0553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1462    0.3883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7025    1.0839    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0070    0.6403    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2590    1.7794    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3982    1.5275    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5897   -0.3073    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8942   -0.7509    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2854    0.1363    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0333   -1.0029    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8417    0.8319    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 20  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07873
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(1-HYDROXYDODECANE-1,1-DIYL)BIS(PHOSPHONIC ACID)
+
+> <CHEMICAL_FORMULA>
+C12H28O7P2
+
+> <MOLECULAR_WEIGHT>
+346.294
+
+> <EXACT_MASS>
+346.131026274
+
+> <IUPAC_NAME>
+(1-hydroxy-1-phosphonododecyl)phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+1-hydroxy-1-phosphonododecylphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H28O7P2/c1-2-3-4-5-6-7-8-9-10-11-12(13,20(14,15)16)21(17,18)19/h13H,2-11H2,1H3,(H2,14,15,16)(H2,17,18,19)
+
+> <INCHI_KEY>
+InChIKey=KKVZONPEMODBBG-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCCCCCCCC(O)(P(O)(O)=O)P(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+0.69
+
+> <JCHEM_BASIC_PKA>
+-5.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+1.57
+
+> <JCHEM_LOGP>
+2.07
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+34.83
+
+> <JCHEM_POLAR_SURFACE_AREA>
+135.29
+
+> <JCHEM_REFRACTIVITY>
+80.6
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+12
+
+> <ALOGPS_SOLUBILITY>
+3.11e+00 g/l __ 
+
+$$$$

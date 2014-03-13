@@ -1,0 +1,115 @@
+1131
+  Mrv0541 02231215162D          
+
+ 17 17  0  0  0  0            999 V2000
+    2.3645   -3.0154    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079    1.5221    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.2846    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.5221    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    2.7596    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    0.2846    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2223    1.9346    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2223    2.7596    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9369    1.5221    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.5404    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.9346    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.9529    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.9529    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.6971    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.7779    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.7779    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.1904    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 10  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 14  2  3  0  0  0
+  5 11  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01131
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Proguanil
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C11H16ClN5
+
+> <MOLECULAR_WEIGHT>
+253.731
+
+> <EXACT_MASS>
+253.109423244
+
+> <IUPAC_NAME>
+(E)-1-({amino[(4-chlorophenyl)amino]methylidene}amino)-N'-(propan-2-yl)methenimidamide
+
+> <IUPAC_TRADITIONAL_NAME>
+proguanil
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H16ClN5/c1-7(2)15-10(13)17-11(14)16-9-5-3-8(12)4-6-9/h3-7H,1-2H3,(H5,13,14,15,16,17)
+
+> <INCHI_KEY>
+InChIKey=SSOLNOMRVKKSON-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)\N=C(/N)N=C(N)NC1=CC=C(Cl)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+19.77
+
+> <JCHEM_BASIC_PKA>
+10.12
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.9
+
+> <JCHEM_LOGP>
+1.89
+
+> <ALOGPS_LOGS>
+-3
+
+> <JCHEM_POLARIZABILITY>
+26.84
+
+> <JCHEM_POLAR_SURFACE_AREA>
+88.79
+
+> <JCHEM_REFRACTIVITY>
+71.07
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.86e-01 g/l __ 
+
+$$$$

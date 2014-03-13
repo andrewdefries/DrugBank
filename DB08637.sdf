@@ -1,0 +1,108 @@
+TOM
+  Mrv0541 02241214132D          
+
+ 15 15  0  0  0  0            999 V2000
+    3.2201    0.4076    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2201   -0.4174    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9346   -0.8299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6491   -0.4174    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9346   -1.6549    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5057   -0.8299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7912   -0.4174    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0767   -0.8299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3622   -0.4174    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3522   -0.8299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3522   -1.6549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3622   -2.0674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0767   -1.6549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7912   -2.0674    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7912   -2.8924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08637
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-(2-METHOXYPHENYL)-2-OXOBUT-3-ENOIC ACID
+
+> <CHEMICAL_FORMULA>
+C11H10O4
+
+> <MOLECULAR_WEIGHT>
+206.1947
+
+> <EXACT_MASS>
+206.057908808
+
+> <IUPAC_NAME>
+(3E)-4-(2-methoxyphenyl)-2-oxobut-3-enoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(3E)-4-(2-methoxyphenyl)-2-oxobut-3-enoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H10O4/c1-15-10-5-3-2-4-8(10)6-7-9(12)11(13)14/h2-7H,1H3,(H,13,14)/b7-6+
+
+> <INCHI_KEY>
+InChIKey=QGTBUESLYPYXRT-VOTSOKGWSA-N
+
+> <SMILES>
+COC1=CC=CC=C1\C=C\C(=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+3.03
+
+> <JCHEM_BASIC_PKA>
+-4.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.88
+
+> <JCHEM_LOGP>
+2.27
+
+> <ALOGPS_LOGS>
+-2.9
+
+> <JCHEM_POLARIZABILITY>
+20.46
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.6
+
+> <JCHEM_REFRACTIVITY>
+54.87
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+2.84e-01 g/l __ 
+
+$$$$

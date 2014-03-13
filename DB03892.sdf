@@ -1,0 +1,107 @@
+
+  Mrv0541 02231217152D          
+
+ 15 14  0  0  1  0            999 V2000
+    4.6184    2.6664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.8414    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0461    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0461    0.6039    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3316    1.8414    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.3829    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0974    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8118    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  2 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03892
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-N-Allyl-Arginine
+
+> <CHEMICAL_FORMULA>
+C9H19N4O2
+
+> <MOLECULAR_WEIGHT>
+215.2728
+
+> <EXACT_MASS>
+215.150800872
+
+> <IUPAC_NAME>
+(E)-[amino({[(4S)-4-amino-4-carboxybutyl]amino})methylidene](prop-2-en-1-yl)azanium
+
+> <IUPAC_TRADITIONAL_NAME>
+5-N-allyl-arginine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H18N4O2/c1-2-5-12-9(11)13-6-3-4-7(10)8(14)15/h2,7H,1,3-6,10H2,(H,14,15)(H3,11,12,13)/p+1/t7-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=ZPQWZDPOLXVMOU-ZETCQYMHSA-O
+
+> <SMILES>
+N[C@@H](CCCN\C(N)=[NH+]\CC=C)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+2.34
+
+> <JCHEM_BASIC_PKA>
+12.01
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-0.37
+
+> <JCHEM_LOGP>
+-2.2
+
+> <ALOGPS_LOGS>
+-1.5
+
+> <JCHEM_POLARIZABILITY>
+23.58
+
+> <JCHEM_POLAR_SURFACE_AREA>
+115.34
+
+> <JCHEM_REFRACTIVITY>
+68.78
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+8.62e+00 g/l __ 
+
+$$$$

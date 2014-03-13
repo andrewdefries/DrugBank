@@ -1,0 +1,109 @@
+DPT
+  Mrv0541 02231216182D          
+
+ 16 18  0  0  0  0            999 V2000
+   -0.6095   -1.3124    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4345   -1.3124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8470   -0.5980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4345    0.1165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6095    0.1165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1970    0.8310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6280    0.8310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0405    0.1165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8655    0.1165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2780   -0.5980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8655   -1.3124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0405   -1.3124    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6280   -0.5980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1970   -0.5980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8470    0.8310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2780    0.8310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02586
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4,7-Dimethyl-[1,10]Phenanthroline
+
+> <CHEMICAL_FORMULA>
+C14H12N2
+
+> <MOLECULAR_WEIGHT>
+208.2585
+
+> <EXACT_MASS>
+208.100048394
+
+> <IUPAC_NAME>
+4,7-dimethyl-1,10-phenanthroline
+
+> <IUPAC_TRADITIONAL_NAME>
+4,7-dimethyl-1,10-phenanthroline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H12N2/c1-9-5-7-15-13-11(9)3-4-12-10(2)6-8-16-14(12)13/h3-8H,1-2H3
+
+> <INCHI_KEY>
+InChIKey=JIVLDFFWTQYGSR-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=CC=NC2=C3N=CC=C(C)C3=CC=C12
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+5.59
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.27
+
+> <JCHEM_LOGP>
+3.32
+
+> <ALOGPS_LOGS>
+-3.9
+
+> <JCHEM_POLARIZABILITY>
+23.5
+
+> <JCHEM_POLAR_SURFACE_AREA>
+25.78
+
+> <JCHEM_REFRACTIVITY>
+63.98
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.48e-02 g/l __ 
+
+$$$$

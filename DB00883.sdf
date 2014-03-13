@@ -1,0 +1,118 @@
+883
+  Mrv0541 02231215042D          
+
+ 18 19  0  0  1  0            999 V2000
+    4.8295   -0.6610    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2641    0.6703    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0857    1.4511    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0092   -1.4492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1494    2.4054    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.4441    1.0071    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9472   -2.4054    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.6501   -1.0076    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8930    1.6212    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.2021   -1.6208    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.0488    0.4154    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.0488   -0.4096    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.8295    0.6669    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.2641   -0.6646    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.3109    0.0029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7791    0.0029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0496    1.0754    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0496   -1.0697    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  9  1  0  0  0  0
+ 13  3  1  1  0  0  0
+  4 10  1  0  0  0  0
+ 14  4  1  6  0  0  0
+  5  9  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 17  1  1  0  0  0
+ 12 14  1  0  0  0  0
+ 12 18  1  1  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00883
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Isosorbide Dinitrate
+
+> <SYNONYMS>
+D-Isosorbide dinitrate; Dianhydrosorbitol 2,5-dinitrate; ISDN; Isosorbide 2,5-dinitrate; Sorbide nitrate; Sorbidnitrate
+
+> <BRANDS>
+Carvasin; Dilatrate-SR; Flindix; Isoket; Isorbid; Isordil; Nitrosorbide; Sorbidilat
+
+> <CHEMICAL_FORMULA>
+C6H8N2O8
+
+> <MOLECULAR_WEIGHT>
+236.1363
+
+> <EXACT_MASS>
+236.028065242
+
+> <IUPAC_NAME>
+(3R,3aS,6S,6aS)-6-(nitrooxy)-hexahydrofuro[3,2-b]furan-3-yl nitrate
+
+> <IUPAC_TRADITIONAL_NAME>
+isosorbide dinitrate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H8N2O8/c9-7(10)15-3-1-13-6-4(16-8(11)12)2-14-5(3)6/h3-6H,1-2H2/t3-,4+,5-,6-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=MOYKHGMNXAOIAT-JGWLITMVSA-N
+
+> <SMILES>
+[H][C@]12OC[C@H](O[N+]([O-])=O)[C@@]1([H])OC[C@H]2O[N+]([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-3.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.87
+
+> <JCHEM_LOGP>
+0.44
+
+> <ALOGPS_LOGS>
+-2.4
+
+> <JCHEM_POLARIZABILITY>
+18.07
+
+> <JCHEM_POLAR_SURFACE_AREA>
+128.56
+
+> <JCHEM_REFRACTIVITY>
+44.77
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+9.38e-01 g/l __ 
+
+$$$$

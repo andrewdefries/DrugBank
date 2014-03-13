@@ -1,0 +1,94 @@
+
+  Mrv0541 02231216282D          
+
+  9 10  0  0  0  0            999 V2000
+    1.1387   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -0.0305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  1  9  1  0  0  0  0
+  4  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02815
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Indene
+
+> <CHEMICAL_FORMULA>
+C9H8
+
+> <MOLECULAR_WEIGHT>
+116.1598
+
+> <EXACT_MASS>
+116.062600256
+
+> <IUPAC_NAME>
+1H-indene
+
+> <IUPAC_TRADITIONAL_NAME>
+indene
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H8/c1-2-5-9-7-3-6-8(9)4-1/h1-6H,7H2
+
+> <INCHI_KEY>
+InChIKey=YBYIRNPNPLQARY-UHFFFAOYSA-N
+
+> <SMILES>
+C1C=CC2=CC=CC=C12
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+19.11
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.04
+
+> <JCHEM_LOGP>
+2.7
+
+> <ALOGPS_LOGS>
+-3.1
+
+> <JCHEM_POLARIZABILITY>
+13.38
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+40.06
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+9.68e-02 g/l __ 
+
+$$$$

@@ -1,0 +1,115 @@
+1020
+  Mrv0541 02231215112D          
+
+ 15 16  0  0  1  0            999 V2000
+    3.2642   -1.0948    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8296    0.2366    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0092    1.0248    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0858   -1.8755    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9472    1.9810    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.6501    0.5832    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2022    1.1963    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.0488   -0.0149    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.0488   -0.8399    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.2642    0.2402    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.8296   -1.0913    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.7792   -0.4274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3110   -0.4274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0497    0.6452    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0497   -1.4999    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  7  1  0  0  0  0
+ 10  3  1  1  0  0  0
+ 11  4  1  6  0  0  0
+  5  7  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  6  0  0  0
+  9 11  1  0  0  0  0
+  9 15  1  6  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01020
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Isosorbide Mononitrate
+
+> <SYNONYMS>
+Isosorbidi Mononitras; Mononitrate d'Isosorbide; Mononitrato de Isosorbida; Monosorbitrate
+
+> <BRANDS>
+Chemydur; Corangin; Duride; Elantan; Etimonis; Imdur; Imodur; Imtrate; Ismexin; Ismo; Ismox; Isomon; Isomonit; Isonorm; Medocor; Monicor; Monit; Mono Corax; Mono Mack; Monocedocard; Monoclair; Monocord; Monodur Durules; Monoket; Monolong; Monomax; Mononit; Monopront; Monosorb; Monosordil; Monotrate; Nitramin; Olicard; Olicardin; Orasorbil; Pertil; Plodin; Promocard; Sigacora; Solotrate; Sorbimon; Turimonit; Uniket; Vasdilat
+
+> <CHEMICAL_FORMULA>
+C6H9NO6
+
+> <MOLECULAR_WEIGHT>
+191.1388
+
+> <EXACT_MASS>
+191.042987025
+
+> <IUPAC_NAME>
+(3R,3aS,6S,6aR)-6-hydroxy-hexahydrofuro[3,2-b]furan-3-yl nitrate
+
+> <IUPAC_TRADITIONAL_NAME>
+isosorbide mononitrate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H9NO6/c8-3-1-11-6-4(13-7(9)10)2-12-5(3)6/h3-6,8H,1-2H2/t3-,4+,5+,6+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=YWXYYJSYQOXTPL-SLPGGIOYSA-N
+
+> <SMILES>
+[H][C@]12OC[C@@H](O[N+]([O-])=O)[C@@]1([H])OC[C@@H]2O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+13.34
+
+> <JCHEM_BASIC_PKA>
+-3.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.74
+
+> <JCHEM_LOGP>
+-0.48
+
+> <ALOGPS_LOGS>
+-0.53
+
+> <JCHEM_POLARIZABILITY>
+15.85
+
+> <JCHEM_POLAR_SURFACE_AREA>
+93.74
+
+> <JCHEM_REFRACTIVITY>
+38.08
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+5.70e+01 g/l __ 
+
+$$$$

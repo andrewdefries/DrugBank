@@ -1,0 +1,112 @@
+
+  Mrv0541 02231215522D          
+
+ 17 17  0  0  1  0            999 V2000
+   -0.7066    1.0881    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7066    0.2631    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.4211   -0.1494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1356    0.2631    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8501   -0.1494    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.9363   -0.9698    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7433   -1.1414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1558   -0.4269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6037    0.1862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9762   -0.3407    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -5.3118    0.4130    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4612   -1.0081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2816   -0.9219    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1256   -1.7618    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0078   -0.1494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7223    0.2631    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0078   -0.9744    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  4  1  6  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  5  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  6  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+  2 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01974
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Amino-3-[5-(Amino-Carboxy-Methyl)-2,3-Dihydro-Isoxazol-3-Ylsulfanyl]-Propionic Acid
+
+> <CHEMICAL_FORMULA>
+C8H13N3O5S
+
+> <MOLECULAR_WEIGHT>
+263.271
+
+> <EXACT_MASS>
+263.057591231
+
+> <IUPAC_NAME>
+(2R)-2-amino-3-{[(3S)-5-[(R)-amino(carboxy)methyl]-2,3-dihydro-1,2-oxazol-3-yl]sulfanyl}propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R)-2-amino-3-{[(3S)-5-[(R)-amino(carboxy)methyl]-2,3-dihydro-1,2-oxazol-3-yl]sulfanyl}propanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H13N3O5S/c9-3(7(12)13)2-17-5-1-4(16-11-5)6(10)8(14)15/h1,3,5-6,11H,2,9-10H2,(H,12,13)(H,14,15)/t3-,5-,6+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=BKLXHXYNMPKLBR-ZXEDONINSA-N
+
+> <SMILES>
+N[C@@H](CS[C@@H]1NOC(=C1)[C@@H](N)C(O)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+1.02
+
+> <JCHEM_BASIC_PKA>
+9.16
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-4.1
+
+> <JCHEM_LOGP>
+-6.3
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+24.82
+
+> <JCHEM_POLAR_SURFACE_AREA>
+147.9
+
+> <JCHEM_REFRACTIVITY>
+70.27
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+1.12e+01 g/l __ 
+
+$$$$

@@ -1,0 +1,100 @@
+
+  Mrv0541 02231216532D          
+
+ 11 11  0  0  1  0            999 V2000
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  6 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03357
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(S)-Mandelic Acid
+
+> <CHEMICAL_FORMULA>
+C8H8O3
+
+> <MOLECULAR_WEIGHT>
+152.1473
+
+> <EXACT_MASS>
+152.047344122
+
+> <IUPAC_NAME>
+(2S)-2-hydroxy-2-phenylacetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(R)-mandelic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8O3/c9-7(8(10)11)6-4-2-1-3-5-6/h1-5,7,9H,(H,10,11)/t7-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=IWYDHOAUDWTVEP-ZETCQYMHSA-N
+
+> <SMILES>
+O[C@H](C(O)=O)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+3.75
+
+> <JCHEM_BASIC_PKA>
+-4.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.66
+
+> <JCHEM_LOGP>
+0.9
+
+> <ALOGPS_LOGS>
+-0.96
+
+> <JCHEM_POLARIZABILITY>
+14.66
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+38.7
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.68e+01 g/l __ 
+
+$$$$

@@ -1,0 +1,105 @@
+1528
+  Mrv0541 02231215322D          
+
+ 15 15  0  0  1  0            999 V2000
+    2.3645    0.0784    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -1.5717    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.1409    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.5717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.3967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01528
+
+> <DRUG_GROUPS>
+experimental; illicit
+
+> <GENERIC_NAME>
+4-Methyl-2,5-dimethoxyamphetamine
+
+> <CHEMICAL_FORMULA>
+C12H19NO2
+
+> <MOLECULAR_WEIGHT>
+209.2848
+
+> <EXACT_MASS>
+209.141578857
+
+> <IUPAC_NAME>
+1-(2,5-dimethoxy-4-methylphenyl)propan-2-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+1-(2,5-dimethoxy-4-methylphenyl)propan-2-amine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H19NO2/c1-8-5-12(15-4)10(6-9(2)13)7-11(8)14-3/h5,7,9H,6,13H2,1-4H3
+
+> <INCHI_KEY>
+InChIKey=NTJQREUGJKIARY-UHFFFAOYSA-N
+
+> <SMILES>
+COC1=CC(CC(C)N)=C(OC)C=C1C
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+9.94
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.02
+
+> <JCHEM_LOGP>
+2
+
+> <ALOGPS_LOGS>
+-2.3
+
+> <JCHEM_POLARIZABILITY>
+24.09
+
+> <JCHEM_POLAR_SURFACE_AREA>
+44.48
+
+> <JCHEM_REFRACTIVITY>
+61.67
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+9.69e-01 g/l __ 
+
+$$$$

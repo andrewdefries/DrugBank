@@ -1,0 +1,104 @@
+UFO
+  Mrv0541 02241214152D          
+
+ 14 15  0  0  0  0            999 V2000
+   -1.3238    0.2342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6093    0.6467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1051   -0.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6093   -1.0033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3238   -0.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0383    1.4717    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0383    0.6467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8196   -1.0033    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8196   -1.8283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5341   -0.5908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5341    0.2342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8196    0.6467    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8196    1.4717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1051    0.2342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  3  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  1  2  0  0  0  0
+  7  6  1  0  0  0  0
+  8  3  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14  2  2  0  0  0  0
+ 14 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08685
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-(1,4-dimethyl-1,2,3,4-tetrahydroquinoxalin-6-yl)methanamine
+
+> <CHEMICAL_FORMULA>
+C11H17N3
+
+> <MOLECULAR_WEIGHT>
+191.2728
+
+> <EXACT_MASS>
+191.142247559
+
+> <IUPAC_NAME>
+(1,4-dimethyl-1,2,3,4-tetrahydroquinoxalin-6-yl)methanamine
+
+> <IUPAC_TRADITIONAL_NAME>
+(1,4-dimethyl-2,3-dihydroquinoxalin-6-yl)methanamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H17N3/c1-13-5-6-14(2)11-7-9(8-12)3-4-10(11)13/h3-4,7H,5-6,8,12H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=TWGYATHIWDUKGY-UHFFFAOYSA-N
+
+> <SMILES>
+CN1CCN(C)C2=CC(CN)=CC=C12
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+9.72
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.52
+
+> <JCHEM_LOGP>
+1.14
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+22.49
+
+> <JCHEM_POLAR_SURFACE_AREA>
+32.5
+
+> <JCHEM_REFRACTIVITY>
+61.42
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.37e+01 g/l __ 
+
+$$$$

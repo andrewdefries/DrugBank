@@ -1,0 +1,107 @@
+NDH
+  Mrv0541 02241213582D          
+
+ 14 15  0  0  0  0            999 V2000
+   -0.4602    1.4532    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4602    0.6282    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.1747    0.2157    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.8891    0.6282    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1747   -0.6093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4602   -1.0218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2543   -0.6093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2543    0.2157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9687    0.6282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9687   -1.0218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6832   -0.6093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6832    0.2157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0353    0.7296    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3744    0.7644    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 13  1  1  0  0  0
+  3  4  1  6  0  0  0
+  3  5  1  0  0  0  0
+  3 14  1  1  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08264
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(1R, 2S)-CIS 1,2 DIHYDROXY-1,2-DIHYDRONAPHTHALENE
+
+> <CHEMICAL_FORMULA>
+C10H10O2
+
+> <MOLECULAR_WEIGHT>
+162.1852
+
+> <EXACT_MASS>
+162.068079564
+
+> <IUPAC_NAME>
+(1R,2S)-1,2-dihydronaphthalene-1,2-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+(1R,2S)-1,2-dihydronaphthalene-1,2-diol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H10O2/c11-9-6-5-7-3-1-2-4-8(7)10(9)12/h1-6,9-12H/t9-,10+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=QPUHWUSUBHNZCG-VHSXEESVSA-N
+
+> <SMILES>
+[H][C@]1(O)C=CC2=C(C=CC=C2)[C@@]1([H])O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+13.2
+
+> <JCHEM_BASIC_PKA>
+-3.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.63
+
+> <JCHEM_LOGP>
+1
+
+> <ALOGPS_LOGS>
+-0.86
+
+> <JCHEM_POLARIZABILITY>
+16.89
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+47.38
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.25e+01 g/l __ 
+
+$$$$

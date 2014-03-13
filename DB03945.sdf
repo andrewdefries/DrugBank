@@ -1,0 +1,96 @@
+
+  Mrv0541 02231217182D          
+
+ 11 10  0  0  0  0            999 V2000
+    1.7605   -1.0164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750   -1.4289    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.0625   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8875   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184   -1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329   -1.4289    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7454   -2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9204   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03945
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Phosphocholine
+
+> <CHEMICAL_FORMULA>
+C5H15NO4P
+
+> <MOLECULAR_WEIGHT>
+184.1507
+
+> <EXACT_MASS>
+184.073869485
+
+> <IUPAC_NAME>
+[2-(trimethylazaniumyl)ethoxy]phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+2-(trimethylaminio)ethoxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H14NO4P/c1-6(2,3)4-5-10-11(7,8)9/h4-5H2,1-3H3,(H-,7,8,9)/p+1
+
+> <INCHI_KEY>
+InChIKey=YHHSONZFOIEMCP-UHFFFAOYSA-O
+
+> <SMILES>
+C[N+](C)(C)CCOP(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+1.15
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-2.4
+
+> <JCHEM_LOGP>
+-4.8
+
+> <ALOGPS_LOGS>
+-1.7
+
+> <JCHEM_POLARIZABILITY>
+17.23
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.76
+
+> <JCHEM_REFRACTIVITY>
+53.07
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+4.36e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,103 @@
+
+  Mrv0541 02231217192D          
+
+ 13 12  0  0  1  0            999 V2000
+    0.8250    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0625    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4289    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -1.4289    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  6 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03964
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Hydroxy-Aconitate Ion
+
+> <CHEMICAL_FORMULA>
+C6H3O7
+
+> <MOLECULAR_WEIGHT>
+187.0838
+
+> <EXACT_MASS>
+186.98787745
+
+> <IUPAC_NAME>
+(1Z,3S)-3-hydroxyprop-1-ene-1,2,3-tricarboxylate
+
+> <IUPAC_TRADITIONAL_NAME>
+4-hydroxy-aconitate ion
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6O7/c7-3(8)1-2(5(10)11)4(9)6(12)13/h1,4,9H,(H,7,8)(H,10,11)(H,12,13)/p-3/b2-1-/t4-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=WUUVSJBKHXDKBS-XDSMRRFISA-K
+
+> <SMILES>
+O[C@H](C([O-])=O)C(=C\C([O-])=O)\C([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+1.89
+
+> <JCHEM_BASIC_PKA>
+-4.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <ALOGPS_LOGP>
+-0.54
+
+> <JCHEM_LOGP>
+-1.2
+
+> <ALOGPS_LOGS>
+-0.79
+
+> <JCHEM_POLARIZABILITY>
+13.73
+
+> <JCHEM_POLAR_SURFACE_AREA>
+140.62
+
+> <JCHEM_REFRACTIVITY>
+69.08
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+3.95e+01 g/l __ 
+
+$$$$

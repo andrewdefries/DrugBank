@@ -1,0 +1,128 @@
+
+  Mrv0541 09251317582D          
+
+ 20 21  0  0  0  0            999 V2000
+    6.1043   -8.1935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4015   -7.7866    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8260   -7.7866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5289   -8.1750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5289   -9.0075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8074   -9.4145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1043   -9.0075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8260   -6.9541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6984   -8.1935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6984   -9.0075    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4015   -9.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9954   -7.7866    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.2740   -8.1750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5710   -7.7866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5710   -6.9541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2740   -6.5470    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9954   -6.9541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2740   -9.0075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9769   -9.4145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9769  -10.2470    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  2  0  0  0  0
+  2  1  1  0  0  0  0
+  7  1  1  0  0  0  0
+  9  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  8  3  1  0  0  0  0
+  5  4  2  0  0  0  0
+  6  5  1  0  0  0  0
+  7  6  2  0  0  0  0
+ 11  7  1  0  0  0  0
+ 10  9  2  0  0  0  0
+ 12  9  1  1  0  0  0
+ 13 12  1  0  0  0  0
+ 17 12  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 18 13  1  0  0  0  0
+ 15 14  1  0  0  0  0
+ 16 15  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 19 18  1  0  0  0  0
+ 20 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00296
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Ropivacaine
+
+> <SYNONYMS>
+(S)-(−)-1-propyl-2',6'-pipecoloxylidide; (S)-ropivacaine; L-N-n-propylpipecolic acid-2,6-xylidide; Ropivacaina; Ropivacaine; Ropivacainum
+
+> <SALTS>
+Ropivacaine hydrochloride
+
+> <BRANDS>
+Naropin
+
+> <CHEMICAL_FORMULA>
+C17H26N2O
+
+> <MOLECULAR_WEIGHT>
+274.4011
+
+> <EXACT_MASS>
+274.204513464
+
+> <IUPAC_NAME>
+(2S)-N-(2,6-dimethylphenyl)-1-propylpiperidine-2-carboxamide
+
+> <IUPAC_TRADITIONAL_NAME>
+ropivacaine
+
+> <INCHI_IDENTIFIER>
+InChI=1/C17H26N2O/c1-4-11-19-12-6-5-10-15(19)17(20)18-16-13(2)8-7-9-14(16)3/h7-9,15H,4-6,10-12H2,1-3H3,(H,18,20)/t15-/s2
+
+> <INCHI_KEY>
+InChIKey=ZKMNUMMKYBVTFN-GGYSOQFKNA-N
+
+> <SMILES>
+CCCN1CCCC[C@H]1C(=O)NC1=C(C)C=CC=C1C
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+13.62
+
+> <JCHEM_BASIC_PKA>
+7.82
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.91
+
+> <JCHEM_LOGP>
+4.07
+
+> <ALOGPS_LOGS>
+-3
+
+> <JCHEM_POLARIZABILITY>
+32.67
+
+> <JCHEM_POLAR_SURFACE_AREA>
+32.34
+
+> <JCHEM_REFRACTIVITY>
+85.59
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+2.53e-01 g/l __ 
+
+$$$$

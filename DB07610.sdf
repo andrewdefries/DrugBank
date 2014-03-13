@@ -1,0 +1,103 @@
+D1N
+  Mrv0541 02241213322D          
+
+ 12 13  0  0  0  0            999 V2000
+   -0.9076   -1.0564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1931   -1.4689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1931   -2.2939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5213   -2.7064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2358   -2.2939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2358   -1.4689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5213   -1.0564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5213   -0.2314    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9503   -1.0564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6648   -1.4689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6648   -2.2939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9503   -2.7064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07610
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+NAPHTHALENE-1,2-DIOL
+
+> <CHEMICAL_FORMULA>
+C10H8O2
+
+> <MOLECULAR_WEIGHT>
+160.1693
+
+> <EXACT_MASS>
+160.0524295
+
+> <IUPAC_NAME>
+naphthalene-1,2-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+naphthalene-1,2-diol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H8O2/c11-9-6-5-7-3-1-2-4-8(7)10(9)12/h1-6,11-12H
+
+> <INCHI_KEY>
+InChIKey=NXPPAOGUKPJVDI-UHFFFAOYSA-N
+
+> <SMILES>
+OC1=CC=C2C=CC=CC2=C1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.04
+
+> <JCHEM_BASIC_PKA>
+-6.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.06
+
+> <JCHEM_LOGP>
+2.36
+
+> <ALOGPS_LOGS>
+-2.4
+
+> <JCHEM_POLARIZABILITY>
+16.4
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+46.47
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+7.10e-01 g/l __ 
+
+$$$$

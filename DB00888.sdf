@@ -1,0 +1,99 @@
+888
+  Mrv0541 02231215052D          
+
+  8  7  0  0  0  0            999 V2000
+    5.9370    0.6188    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.6188    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.2063    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.6188    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.6188    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.6188    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.2063    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.2063    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00888
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Mechlorethamine
+
+> <SYNONYMS>
+2,2'-dichloro-N-methyldiethylamine; Chlormethine; Mustine; N-methyl-bis(2-chloroethyl)amine; Nitrogen mustard; β,β'-dichlorodiethyl-N-methylamine
+
+> <SALTS>
+Mechlorethamine hydrochloride
+
+> <BRANDS>
+Mustargen; Valchlor
+
+> <CHEMICAL_FORMULA>
+C5H11Cl2N
+
+> <MOLECULAR_WEIGHT>
+156.054
+
+> <EXACT_MASS>
+155.026854771
+
+> <IUPAC_NAME>
+bis(2-chloroethyl)(methyl)amine
+
+> <IUPAC_TRADITIONAL_NAME>
+mechlorethamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11Cl2N/c1-8(4-2-6)5-3-7/h2-5H2,1H3
+
+> <INCHI_KEY>
+InChIKey=HAWPXGHAZFHHAD-UHFFFAOYSA-N
+
+> <SMILES>
+CN(CCCl)CCCl
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+6.08
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.31
+
+> <JCHEM_LOGP>
+1.52
+
+> <ALOGPS_LOGS>
+-0.67
+
+> <JCHEM_POLARIZABILITY>
+15.84
+
+> <JCHEM_POLAR_SURFACE_AREA>
+3.24
+
+> <JCHEM_REFRACTIVITY>
+38.67
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+3.34e+01 g/l __ 
+
+$$$$

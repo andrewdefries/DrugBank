@@ -1,0 +1,88 @@
+
+  Mrv0541 02231217332D          
+
+  7  6  0  0  1  0            999 V2000
+    1.2375    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 P   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  1  0  0  0
+  5  7  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04251
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Monoisopropyl Ester Phosphonic Acid Group
+
+> <CHEMICAL_FORMULA>
+C3H9O3P
+
+> <MOLECULAR_WEIGHT>
+124.0755
+
+> <EXACT_MASS>
+124.028930666
+
+> <IUPAC_NAME>
+(propan-2-yloxy)phosphinic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+isopropoxyphosphinic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H9O3P/c1-3(2)6-7(4)5/h3,7H,1-2H3,(H,4,5)
+
+> <INCHI_KEY>
+InChIKey=JGFMNFBZRAISGQ-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)OP(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+2.17
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.51
+
+> <JCHEM_LOGP>
+0.034
+
+> <ALOGPS_LOGS>
+0.44
+
+> <JCHEM_POLARIZABILITY>
+10.88
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+26.22
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+3.41e+02 g/l __ 
+
+$$$$

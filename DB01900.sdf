@@ -1,0 +1,86 @@
+
+  Mrv0541 02231215482D          
+
+  7  7  0  0  0  0            999 V2000
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01900
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Toluene
+
+> <CHEMICAL_FORMULA>
+C7H8
+
+> <MOLECULAR_WEIGHT>
+92.1384
+
+> <EXACT_MASS>
+92.062600256
+
+> <IUPAC_NAME>
+methylbenzene
+
+> <IUPAC_TRADITIONAL_NAME>
+toluene
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8/c1-7-5-3-2-4-6-7/h2-6H,1H3
+
+> <INCHI_KEY>
+InChIKey=YXFVVABEGXRONW-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.56
+
+> <JCHEM_LOGP>
+2.49
+
+> <ALOGPS_LOGS>
+-2.3
+
+> <JCHEM_POLARIZABILITY>
+10.97
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+31.1
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.08e-01 g/l __ 
+
+$$$$

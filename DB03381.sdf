@@ -1,0 +1,114 @@
+
+  Mrv0541 02231216542D          
+
+ 17 16  0  0  0  0            999 V2000
+    7.9480    5.4138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6625    5.0013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3770    5.4138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0914    5.0013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8059    5.4138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5204    5.0013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2349    5.4138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9493    5.0013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6638    5.4138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3783    5.0013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0927    5.4138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8072    5.0013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5217    5.4138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2362    5.0013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9506    5.4138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6651    5.0013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3796    5.4138    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03381
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Hexadecanal
+
+> <SYNONYMS>
+N-hexadecanal; Palmitaldehyde
+
+> <CHEMICAL_FORMULA>
+C16H32O
+
+> <MOLECULAR_WEIGHT>
+240.4247
+
+> <EXACT_MASS>
+240.245315646
+
+> <IUPAC_NAME>
+hexadecanal
+
+> <IUPAC_TRADITIONAL_NAME>
+hexadecanal
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H32O/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17/h16H,2-15H2,1H3
+
+> <INCHI_KEY>
+InChIKey=NIOYUNMRJMEDGI-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCCCCCCCCCCCC=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+15.56
+
+> <JCHEM_BASIC_PKA>
+-6.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+7.18
+
+> <JCHEM_LOGP>
+6.1
+
+> <ALOGPS_LOGS>
+-6.6
+
+> <JCHEM_POLARIZABILITY>
+33.39
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+76.16
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+14
+
+> <ALOGPS_SOLUBILITY>
+5.88e-05 g/l __ 
+
+$$$$

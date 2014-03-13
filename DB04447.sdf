@@ -1,0 +1,93 @@
+
+  Mrv0541 02231217412D          
+
+  8  7  0  0  1  0            999 V2000
+    1.2375   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1914    0.7145    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9520    1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  6  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04447
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,4-Dithiothreitol
+
+> <CHEMICAL_FORMULA>
+C4H10O2S2
+
+> <MOLECULAR_WEIGHT>
+154.251
+
+> <EXACT_MASS>
+154.012220944
+
+> <IUPAC_NAME>
+(2S,3S)-1,4-disulfanylbutane-2,3-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+dithioerythritol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H10O2S2/c5-3(1-7)4(6)2-8/h3-8H,1-2H2/t3-,4-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=VHJLVAABSRFDPM-QWWZWVQMSA-N
+
+> <SMILES>
+O[C@H](CS)[C@H](O)CS
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+9.62
+
+> <JCHEM_BASIC_PKA>
+-3.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.18
+
+> <JCHEM_LOGP>
+-0.28
+
+> <ALOGPS_LOGS>
+-1.5
+
+> <JCHEM_POLARIZABILITY>
+15.67
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+38.84
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+5.14e+00 g/l __ 
+
+$$$$

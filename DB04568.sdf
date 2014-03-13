@@ -1,0 +1,109 @@
+
+  Mrv0541 02231217462D          
+
+ 15 16  0  0  1  0            999 V2000
+    1.2564   -0.1802    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2564   -1.0052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9239   -1.4901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6689   -2.2748    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8439   -2.2748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5890   -1.4901    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1956   -1.2352    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.8631   -1.7201    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5305   -1.2352    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.3151   -1.4901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4867   -2.2971    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2756   -0.4506    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.7605    0.2169    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4506   -0.4506    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0343    0.2169    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  2  6  1  0  0  0  0
+  7  6  1  6  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  1  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  1  6  0  0  0
+ 12 14  1  0  0  0  0
+  7 14  1  0  0  0  0
+ 14 15  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04568
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-Aminoimidazole Ribonucleoside
+
+> <CHEMICAL_FORMULA>
+C8H13N3O4
+
+> <MOLECULAR_WEIGHT>
+215.2065
+
+> <EXACT_MASS>
+215.090605919
+
+> <IUPAC_NAME>
+(2R,3R,4R,5S)-2-(5-amino-1H-imidazol-1-yl)-5-(hydroxymethyl)oxolane-3,4-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R,3R,4R,5S)-2-(5-aminoimidazol-1-yl)-5-(hydroxymethyl)oxolane-3,4-diol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H13N3O4/c9-5-1-10-3-11(5)8-7(14)6(13)4(2-12)15-8/h1,3-4,6-8,12-14H,2,9H2/t4-,6-,7+,8+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=NKYAAYKKNSYIIW-ZAKLUEHWSA-N
+
+> <SMILES>
+NC1=CN=CN1[C@@H]1O[C@@H](CO)[C@H](O)[C@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+12.45
+
+> <JCHEM_BASIC_PKA>
+7.91
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-1.5
+
+> <JCHEM_LOGP>
+-2.4
+
+> <ALOGPS_LOGS>
+-0.85
+
+> <JCHEM_POLARIZABILITY>
+20.19
+
+> <JCHEM_POLAR_SURFACE_AREA>
+113.76
+
+> <JCHEM_REFRACTIVITY>
+49.56
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+3.07e+01 g/l __ 
+
+$$$$

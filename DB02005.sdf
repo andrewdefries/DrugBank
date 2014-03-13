@@ -1,0 +1,93 @@
+
+  Mrv0541 02231215532D          
+
+  8  7  0  0  0  0            999 V2000
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6500   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6500    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02005
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Oxo-3-Pentenoic Acid
+
+> <CHEMICAL_FORMULA>
+C5H6O3
+
+> <MOLECULAR_WEIGHT>
+114.0993
+
+> <EXACT_MASS>
+114.031694058
+
+> <IUPAC_NAME>
+(3E)-2-oxopent-3-enoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+2-oxo-3-pentenoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H6O3/c1-2-3-4(6)5(7)8/h2-3H,1H3,(H,7,8)/b3-2+
+
+> <INCHI_KEY>
+InChIKey=IWARWSDDJHGZOW-NSCUHMNNSA-N
+
+> <SMILES>
+C\C=C\C(=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+3.22
+
+> <JCHEM_BASIC_PKA>
+-9.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.77
+
+> <JCHEM_LOGP>
+1.21
+
+> <ALOGPS_LOGS>
+-0.76
+
+> <JCHEM_POLARIZABILITY>
+10.63
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.37
+
+> <JCHEM_REFRACTIVITY>
+28.31
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.98e+01 g/l __ 
+
+$$$$

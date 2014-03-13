@@ -1,0 +1,123 @@
+885
+  Mrv0541 02231215042D          
+
+ 17 19  0  0  0  0            999 V2000
+    4.3846   -1.3471    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0992   -0.1096    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3846    1.1279    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8694   -1.3426    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2020   -0.1865    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -1.5141    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.7997    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0992    0.7154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8366    1.1565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3846   -0.5221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6702   -0.1096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8366   -0.5507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5842    0.7325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6702    0.7154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5842   -0.1268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8271    1.9814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9557   -0.5221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0  0  0  0
+  2  8  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  8  2  0  0  0  0
+  3 14  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 17  2  0  0  0  0
+  5  7  2  0  0  0  0
+  5 17  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 13  2  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00885
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Pemirolast
+
+> <SYNONYMS>
+Pemirolast ; Pemirolast; Pemirolast; Pemirolastum
+
+> <SALTS>
+Pemirolast Potassium
+
+> <BRANDS>
+Alamast; Alegysal
+
+> <CHEMICAL_FORMULA>
+C10H8N6O
+
+> <MOLECULAR_WEIGHT>
+228.2101
+
+> <EXACT_MASS>
+228.075958908
+
+> <IUPAC_NAME>
+9-methyl-3-(2H-1,2,3,4-tetrazol-5-yl)-4H-pyrido[1,2-a]pyrimidin-4-one
+
+> <IUPAC_TRADITIONAL_NAME>
+pemirolast
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H8N6O/c1-6-3-2-4-16-9(6)11-5-7(10(16)17)8-12-14-15-13-8/h2-5H,1H3,(H,12,13,14,15)
+
+> <INCHI_KEY>
+InChIKey=HIANJWSAHKJQTH-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=CC=CN2C(=O)C(=CN=C12)C1=NNN=N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+5.8
+
+> <JCHEM_BASIC_PKA>
+-1.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.13
+
+> <JCHEM_LOGP>
+1.46
+
+> <ALOGPS_LOGS>
+-2.7
+
+> <JCHEM_POLARIZABILITY>
+21.96
+
+> <JCHEM_POLAR_SURFACE_AREA>
+87.13
+
+> <JCHEM_REFRACTIVITY>
+63.35
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.62e-01 g/l __ 
+
+$$$$

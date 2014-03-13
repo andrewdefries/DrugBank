@@ -1,0 +1,112 @@
+703
+  Mrv0541 02231214562D          
+
+ 14 14  0  0  0  0            999 V2000
+    2.6437    0.8136    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9537    0.1462    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9763    0.3287    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3111    1.2986    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4348    0.4656    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5412   -1.1234    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8737   -0.6385    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1588    1.4811    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9932   -0.8934    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1287    0.1462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2086   -0.6385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5412   -1.9484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6064   -0.3413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3910   -0.5963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  2  0  0  0  0
+  1  8  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+  5 13  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00703
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Methazolamide
+
+> <SYNONYMS>
+Metazolamida; Methazolamid; Méthazolamide; Methazolamidum
+
+> <BRANDS>
+Methazolamide; Naptazane; Neptazane
+
+> <CHEMICAL_FORMULA>
+C5H8N4O3S2
+
+> <MOLECULAR_WEIGHT>
+236.272
+
+> <EXACT_MASS>
+236.003781522
+
+> <IUPAC_NAME>
+N-[(2Z)-3-methyl-5-sulfamoyl-2,3-dihydro-1,3,4-thiadiazol-2-ylidene]acetamide
+
+> <IUPAC_TRADITIONAL_NAME>
+methazolamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H8N4O3S2/c1-3(10)7-4-9(2)8-5(13-4)14(6,11)12/h1-2H3,(H2,6,11,12)/b7-4-
+
+> <INCHI_KEY>
+InChIKey=FLOSMHQXBMRNHR-DAXSKMNVSA-N
+
+> <SMILES>
+CN1N=C(S\C1=N/C(C)=O)S(N)(=O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+10.06
+
+> <JCHEM_BASIC_PKA>
+-3.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.2
+
+> <JCHEM_LOGP>
+-0.59
+
+> <ALOGPS_LOGS>
+-2.1
+
+> <JCHEM_POLARIZABILITY>
+21.17
+
+> <JCHEM_POLAR_SURFACE_AREA>
+105.19
+
+> <JCHEM_REFRACTIVITY>
+51.3
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.74e+00 g/l __ 
+
+$$$$

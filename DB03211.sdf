@@ -1,0 +1,97 @@
+
+  Mrv0541 02231216462D          
+
+ 10  9  0  0  0  0            999 V2000
+    1.7605    1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8875    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    2.6664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03211
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(3-Formyl-but-3-Enyl)-Phosphonic Acid
+
+> <CHEMICAL_FORMULA>
+C5H9O4P
+
+> <MOLECULAR_WEIGHT>
+164.0963
+
+> <EXACT_MASS>
+164.023845288
+
+> <IUPAC_NAME>
+(3-methylidene-4-oxobutyl)phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+3-methylidene-4-oxobutylphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H9O4P/c1-5(4-6)2-3-10(7,8)9/h4H,1-3H2,(H2,7,8,9)
+
+> <INCHI_KEY>
+InChIKey=UBLMBCUBDKMVMQ-UHFFFAOYSA-N
+
+> <SMILES>
+OP(O)(=O)CCC(=C)C=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+1.8
+
+> <JCHEM_BASIC_PKA>
+-4.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.85
+
+> <JCHEM_LOGP>
+-1
+
+> <ALOGPS_LOGS>
+-1
+
+> <JCHEM_POLARIZABILITY>
+13.91
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+36.29
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.54e+01 g/l __ 
+
+$$$$

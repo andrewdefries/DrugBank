@@ -1,0 +1,118 @@
+
+  Mrv0541 02231216292D          
+
+ 20 20  0  0  1  0            999 V2000
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2539   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6039   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 P   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8414    1.5395    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.0164    0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  1  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  6  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+  5 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  6  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  1  0  0  0
+ 15 17  1  6  0  0  0
+ 15 18  2  0  0  0  0
+ 13 19  1  0  0  0  0
+  2 19  1  0  0  0  0
+ 19 20  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02835
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Alpha-D-Glucose 1,6-Bisphosphate
+
+> <CHEMICAL_FORMULA>
+C6H13O12P2
+
+> <MOLECULAR_WEIGHT>
+339.1077
+
+> <EXACT_MASS>
+338.988223904
+
+> <IUPAC_NAME>
+(2R,3S,4R,5R,6S)-3,4,5-trihydroxy-6-[(phosphonooxy)methyl]oxan-2-yl hydrogen phosphate
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R,3S,4R,5R,6S)-3,4,5-trihydroxy-6-[(phosphonooxy)methyl]oxan-2-yl hydrogen phosphate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H14O12P2/c7-3-2(1-16-19(10,11)12)17-6(5(9)4(3)8)18-20(13,14)15/h2-9H,1H2,(H2,10,11,12)(H2,13,14,15)/p-1/t2-,3-,4+,5-,6+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=RWHOZGRAXYWRNX-MDMQIMBFSA-M
+
+> <SMILES>
+O[C@@H]1[C@@H](O)[C@H](COP(O)(O)=O)O[C@H](O[P@@](O)([O-])=O)[C@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_ACIDIC_PKA>
+0.89
+
+> <JCHEM_BASIC_PKA>
+-3.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-4
+
+> <ALOGPS_LOGP>
+-1.7
+
+> <JCHEM_LOGP>
+-3.2
+
+> <ALOGPS_LOGS>
+-1.2
+
+> <JCHEM_POLARIZABILITY>
+25.32
+
+> <JCHEM_POLAR_SURFACE_AREA>
+206.27
+
+> <JCHEM_REFRACTIVITY>
+56.55
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+2.33e+01 g/l __ 
+
+$$$$

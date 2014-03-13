@@ -1,0 +1,93 @@
+
+  Mrv0541 02231216542D          
+
+  8  7  0  0  1  0            999 V2000
+    1.9520    1.9520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1914    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03382
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+S-Oxy Cysteine
+
+> <CHEMICAL_FORMULA>
+C3H6NO3S
+
+> <MOLECULAR_WEIGHT>
+136.15
+
+> <EXACT_MASS>
+136.006838753
+
+> <IUPAC_NAME>
+[(2R)-2-amino-2-carboxyethane]sulfinyl
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R)-2-amino-2-carboxyethanesulfinyl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H6NO3S/c4-2(1-8-7)3(5)6/h2H,1,4H2,(H,5,6)/t2-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=KLKIIDDWGJYRSN-REOHCLBHSA-N
+
+> <SMILES>
+N[C@@H](C[S]=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+1.42
+
+> <JCHEM_BASIC_PKA>
+8.38
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-3
+
+> <JCHEM_LOGP>
+-3.2
+
+> <ALOGPS_LOGS>
+0.54
+
+> <JCHEM_POLARIZABILITY>
+11.78
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.39
+
+> <JCHEM_REFRACTIVITY>
+28.88
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+4.70e+02 g/l __ 
+
+$$$$

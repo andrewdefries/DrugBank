@@ -1,0 +1,103 @@
+
+  Mrv0541 02231215422D          
+
+ 13 12  0  0  1  0            999 V2000
+    3.9039    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.8414    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0461    2.2539    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3480    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1730    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6184    2.6664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  2  0  0  0  0
+  2  9  1  0  0  0  0
+  9 10  1  1  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01756
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+D-4-Phosphoerythronic Acid
+
+> <CHEMICAL_FORMULA>
+C4H9O8P
+
+> <MOLECULAR_WEIGHT>
+216.0832
+
+> <EXACT_MASS>
+216.003503776
+
+> <IUPAC_NAME>
+(2R,3S)-2,3-dihydroxy-4-(phosphonooxy)butanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+4-phospho-D-erythronate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H9O8P/c5-2(3(6)4(7)8)1-12-13(9,10)11/h2-3,5-6H,1H2,(H,7,8)(H2,9,10,11)/t2-,3+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=ZCZXOHUILRHRQJ-STHAYSLISA-N
+
+> <SMILES>
+O[C@@H](COP(O)(O)=O)[C@@H](O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+1.47
+
+> <JCHEM_BASIC_PKA>
+-3.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <ALOGPS_LOGP>
+-2.3
+
+> <JCHEM_LOGP>
+-2.3
+
+> <ALOGPS_LOGS>
+-1
+
+> <JCHEM_POLARIZABILITY>
+16.15
+
+> <JCHEM_POLAR_SURFACE_AREA>
+144.52
+
+> <JCHEM_REFRACTIVITY>
+37.22
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+1.96e+01 g/l __ 
+
+$$$$

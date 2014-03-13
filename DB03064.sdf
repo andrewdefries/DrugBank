@@ -1,0 +1,114 @@
+DHP
+  Mrv0541 02231216402D          
+
+ 18 18  0  0  0  0            999 V2000
+   -4.2441    0.3462    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0246    0.8892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4115    1.4412    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8316    1.0607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1671    1.8144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6920   -0.2669    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8636   -1.0738    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9384    0.0687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2239   -0.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5094    0.0687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7949   -0.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0805    0.0687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6340   -0.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3485    0.0687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0629   -0.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7774    0.0687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4919   -0.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2064    0.0687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  2  0  0  0  0
+  4  5  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03064
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Decyl-2,5-Dioxo-4-Hydroxy-3-Pyrroline
+
+> <CHEMICAL_FORMULA>
+C14H23NO3
+
+> <MOLECULAR_WEIGHT>
+253.3373
+
+> <EXACT_MASS>
+253.167793607
+
+> <IUPAC_NAME>
+3-decyl-4-hydroxy-2,5-dihydro-1H-pyrrole-2,5-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+3-decyl-4-hydroxy-1H-pyrrole-2,5-dione
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H23NO3/c1-2-3-4-5-6-7-8-9-10-11-12(16)14(18)15-13(11)17/h2-10H2,1H3,(H2,15,16,17,18)
+
+> <INCHI_KEY>
+InChIKey=LXIDJQZEXUQBGG-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCCCCCCC1=C(O)C(=O)NC1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+6.66
+
+> <JCHEM_BASIC_PKA>
+-5.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+3.9
+
+> <JCHEM_LOGP>
+3.24
+
+> <ALOGPS_LOGS>
+-3.7
+
+> <JCHEM_POLARIZABILITY>
+29.71
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.4
+
+> <JCHEM_REFRACTIVITY>
+71.08
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <ALOGPS_SOLUBILITY>
+5.38e-02 g/l __ 
+
+$$$$

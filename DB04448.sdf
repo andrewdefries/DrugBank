@@ -1,0 +1,98 @@
+
+  Mrv0541 02231217412D          
+
+ 10 10  0  0  0  0            999 V2000
+    2.1434    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  3  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04448
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,4-Difluorobenzyl Alcohol 2,4-Difluoro-1-(Hydroxymethyl)Benzene
+
+> <CHEMICAL_FORMULA>
+C7H6F2O
+
+> <MOLECULAR_WEIGHT>
+144.1187
+
+> <EXACT_MASS>
+144.038671224
+
+> <IUPAC_NAME>
+(2,4-difluorophenyl)methanol
+
+> <IUPAC_TRADITIONAL_NAME>
+(2,4-difluorophenyl)methanol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H6F2O/c8-6-2-1-5(4-10)7(9)3-6/h1-3,10H,4H2
+
+> <INCHI_KEY>
+InChIKey=NIJZBWHOHNWJBX-UHFFFAOYSA-N
+
+> <SMILES>
+OCC1=CC=C(F)C=C1F
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+14.49
+
+> <JCHEM_BASIC_PKA>
+-3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.27
+
+> <JCHEM_LOGP>
+1.49
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+12.1
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+33.31
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.54e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,138 @@
+624
+  Mrv0541 02231214492D          
+
+ 24 27  0  0  1  0            999 V2000
+    7.1353    1.7429    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498   -1.8105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0985   -0.1176    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.0985    0.7073    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.3842   -0.5300    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6697   -0.1176    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.9191   -0.5356    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.3842    1.1197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6697    0.7073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8790    0.9588    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.8790   -0.3689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3974   -1.3891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3604    0.2949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9125   -1.3948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6566   -1.8245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0985    1.5322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1546   -0.0703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9254    0.2893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3726   -0.5058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1409   -1.8482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3657   -1.4007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1683   -0.7738    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9581   -0.8555    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2413    0.2124    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+ 10  1  1  1  0  0  0
+  2 21  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 22  1  6  0  0  0
+  4  8  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 16  1  1  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 23  1  1  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 24  1  6  0  0  0
+  7 14  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  1  0  0  0
+  8  9  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 20  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00624
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Testosterone
+
+> <SYNONYMS>
+17beta-hydroxy-4-androsten-3-one; 17beta-Hydroxy-4-androsten-3-one; 4-androsten-17β-ol-3-one; Depo-Testadiol; Mertestate; Synandrol F; Testosteron; Testosterona; Testostérone; Testosteronum; Testoxyl; Testryl; Virosterone
+
+> <SALTS>
+Testosterone Enanthate; Testosterone Heptanoate; Testosterone Propionate; Testosterone Undecanoate
+
+> <BRANDS>
+Andriol; Androderm; Androgel; Andronate 100; Andronate 200; Andropatch; Andropository 200; Andryl 200; Axiron; Bio-T-Gel; Delatestryl; Intrinsa; Livensa; Nebido; Striant; Sustanon; Testamone 100; Testaqua IM; Testim; Testoderm; Testoderm TTS; Testogel; Testolin; Testopatch; Testopel Pellets; Testrin-P.A; Testro AQ; Virormone
+
+> <CHEMICAL_FORMULA>
+C19H28O2
+
+> <MOLECULAR_WEIGHT>
+288.4244
+
+> <EXACT_MASS>
+288.20893014
+
+> <IUPAC_NAME>
+(1S,2R,10R,11S,14S,15S)-14-hydroxy-2,15-dimethyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadec-6-en-5-one
+
+> <IUPAC_TRADITIONAL_NAME>
+testosterone
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H28O2/c1-18-9-7-13(20)11-12(18)3-4-14-15-5-6-17(21)19(15,2)10-8-16(14)18/h11,14-17,21H,3-10H2,1-2H3/t14-,15-,16-,17-,18-,19-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=MUMGGOZAMZWBJJ-DYKIIFRCSA-N
+
+> <SMILES>
+[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+19.09
+
+> <JCHEM_BASIC_PKA>
+-0.88
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.99
+
+> <JCHEM_LOGP>
+3.37
+
+> <ALOGPS_LOGS>
+-3.9
+
+> <JCHEM_POLARIZABILITY>
+34.02
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+84.43
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.33e-02 g/l __ 
+
+$$$$

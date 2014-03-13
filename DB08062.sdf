@@ -1,0 +1,107 @@
+L03
+  Mrv0541 02241213502D          
+
+ 14 15  0  0  0  0            999 V2000
+    1.4080    2.4789    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6935    2.0664    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6935    1.2414    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3609    0.7564    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1060   -0.0282    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.2810   -0.0282    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0261    0.7564    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2039   -0.6956    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.1316   -1.4493    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3533   -2.1167    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1738   -2.0305    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6587   -2.6979    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5093   -1.2768    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0244   -0.6094    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08062
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-(4-CHLOROPHENYL)-5-(METHYLTHIO)-4H-1,2,4-TRIAZOLE
+
+> <CHEMICAL_FORMULA>
+C9H8ClN3S
+
+> <MOLECULAR_WEIGHT>
+225.698
+
+> <EXACT_MASS>
+225.012745668
+
+> <IUPAC_NAME>
+3-(4-chlorophenyl)-5-(methylsulfanyl)-4H-1,2,4-triazole
+
+> <IUPAC_TRADITIONAL_NAME>
+3-(4-chlorophenyl)-5-(methylsulfanyl)-4H-1,2,4-triazole
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H8ClN3S/c1-14-9-11-8(12-13-9)6-2-4-7(10)5-3-6/h2-5H,1H3,(H,11,12,13)
+
+> <INCHI_KEY>
+InChIKey=YXVAYMRODBYXIQ-UHFFFAOYSA-N
+
+> <SMILES>
+CSC1=NN=C(N1)C1=CC=C(Cl)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+8.42
+
+> <JCHEM_BASIC_PKA>
+1.74
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.53
+
+> <JCHEM_LOGP>
+2.84
+
+> <ALOGPS_LOGS>
+-2.9
+
+> <JCHEM_POLARIZABILITY>
+22.66
+
+> <JCHEM_POLAR_SURFACE_AREA>
+41.57
+
+> <JCHEM_REFRACTIVITY>
+71.37
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.58e-01 g/l __ 
+
+$$$$

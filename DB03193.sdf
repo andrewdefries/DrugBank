@@ -1,0 +1,120 @@
+
+  Mrv0541 02231216462D          
+
+ 20 19  0  0  0  0            999 V2000
+    9.1855    6.1283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9000    5.7158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6145    6.1283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3289    5.7158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0434    6.1283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7579    5.7158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4724    6.1283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1868    5.7158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9013    6.1283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6158    5.7158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3302    6.1283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0447    5.7158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7592    6.1283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4737    5.7158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1881    6.1283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9026    5.7158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6171    6.1283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.3315    5.7158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.0460    6.1283    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.3315    4.8908    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03193
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Stearic acid
+
+> <SYNONYMS>
+Octadecanoic acid; Octadecoic acid
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C18H36O2
+
+> <MOLECULAR_WEIGHT>
+284.4772
+
+> <EXACT_MASS>
+284.271530396
+
+> <IUPAC_NAME>
+octadecanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+stearic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H36O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h2-17H2,1H3,(H,19,20)
+
+> <INCHI_KEY>
+InChIKey=QIQXTHQIDYTFRH-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCCCCCCCCCCCCCC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.95
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+8.02
+
+> <JCHEM_LOGP>
+7.15
+
+> <ALOGPS_LOGS>
+-6.6
+
+> <JCHEM_POLARIZABILITY>
+38.64
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+86.29
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+16
+
+> <ALOGPS_SOLUBILITY>
+6.61e-05 g/l __ 
+
+$$$$

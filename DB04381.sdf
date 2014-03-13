@@ -1,0 +1,84 @@
+
+  Mrv0541 02231217382D          
+
+  5  4  0  0  0  0            999 V2000
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04381
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Crotonaldehyde
+
+> <CHEMICAL_FORMULA>
+C4H6O
+
+> <MOLECULAR_WEIGHT>
+70.0898
+
+> <EXACT_MASS>
+70.041864814
+
+> <IUPAC_NAME>
+(2E)-but-2-enal
+
+> <IUPAC_TRADITIONAL_NAME>
+crotonaldehyde
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6O/c1-2-3-4-5/h2-4H,1H3/b3-2+
+
+> <INCHI_KEY>
+InChIKey=MLUCVPSAIODCQM-NSCUHMNNSA-N
+
+> <SMILES>
+C\C=C\C=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-4.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.88
+
+> <JCHEM_LOGP>
+0.76
+
+> <ALOGPS_LOGS>
+-0.02
+
+> <JCHEM_POLARIZABILITY>
+7.63
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+22.04
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.65e+01 g/l __ 
+
+$$$$

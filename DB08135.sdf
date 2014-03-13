@@ -1,0 +1,107 @@
+LZ5
+  Mrv0541 02241213532D          
+
+ 14 15  0  0  0  0            999 V2000
+   16.8598    3.5077    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1453    3.0952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4308    3.5077    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4308    4.3327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7164    4.7452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7164    5.5702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4308    5.9827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1453    5.5702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1453    4.7452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1453    2.2702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8128    1.7853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5578    1.0006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7328    1.0006    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4779    1.7853    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08135
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-phenyl-1H-pyrazole-3-carboxamide
+
+> <CHEMICAL_FORMULA>
+C10H9N3O
+
+> <MOLECULAR_WEIGHT>
+187.198
+
+> <EXACT_MASS>
+187.074561925
+
+> <IUPAC_NAME>
+N-phenyl-1H-pyrazole-3-carboxamide
+
+> <IUPAC_TRADITIONAL_NAME>
+N-phenyl-1H-pyrazole-3-carboxamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H9N3O/c14-10(9-6-7-11-13-9)12-8-4-2-1-3-5-8/h1-7H,(H,11,13)(H,12,14)
+
+> <INCHI_KEY>
+InChIKey=WMZYZYFPPQOFKY-UHFFFAOYSA-N
+
+> <SMILES>
+O=C(NC1=CC=CC=C1)C1=NNC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+10.51
+
+> <JCHEM_BASIC_PKA>
+-0.14
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.64
+
+> <JCHEM_LOGP>
+1.76
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+19.22
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.78
+
+> <JCHEM_REFRACTIVITY>
+54.91
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.07e+00 g/l __ 
+
+$$$$

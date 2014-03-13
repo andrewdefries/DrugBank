@@ -1,0 +1,111 @@
+DK1
+  Mrv0541 02231215502D          
+
+ 16 17  0  0  0  0            999 V2000
+   -2.4264    0.4735    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7119    0.8860    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7119    1.7110    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9975    0.4735    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2830    0.8860    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4315    0.4735    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1460    0.8860    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8604    0.4735    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5749    0.8860    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8604   -0.3515    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1460   -0.7640    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1460   -1.5890    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4315   -0.3515    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2830   -0.7640    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2830   -1.5890    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9975   -0.3515    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01931
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Dcka, 5,7-Dichlorokynurenic Acid
+
+> <CHEMICAL_FORMULA>
+C10H5Cl2NO3
+
+> <MOLECULAR_WEIGHT>
+258.058
+
+> <EXACT_MASS>
+256.964648445
+
+> <IUPAC_NAME>
+5,7-dichloro-4-hydroxyquinoline-2-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+5,7-dichloro-4-hydroxyquinoline-2-carboxylic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H5Cl2NO3/c11-4-1-5(12)9-6(2-4)13-7(10(15)16)3-8(9)14/h1-3H,(H,13,14)(H,15,16)
+
+> <INCHI_KEY>
+InChIKey=BGKFPRIGXAVYNX-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)C1=NC2=CC(Cl)=CC(Cl)=C2C(O)=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+3.82
+
+> <JCHEM_BASIC_PKA>
+0.59
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+3.63
+
+> <JCHEM_LOGP>
+3.08
+
+> <ALOGPS_LOGS>
+-3.2
+
+> <JCHEM_POLARIZABILITY>
+22.69
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.42
+
+> <JCHEM_REFRACTIVITY>
+58.45
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.56e-01 g/l __ 
+
+$$$$

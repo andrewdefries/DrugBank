@@ -1,0 +1,128 @@
+
+  Mrv0541 02231216372D          
+
+ 25 25  0  0  1  0            999 V2000
+   -3.1744    2.4042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4599    2.8167    0.0000 S   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.4599    3.6417    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7455    2.4042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0310    2.8167    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3165    2.4042    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4804    2.6178    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8929    3.3322    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6939    1.8209    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4084    1.4084    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1228    1.8209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1228    2.6459    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8373    1.4084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5518    1.8209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2662    1.4084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9807    1.8209    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.9807    2.6459    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6952    1.4084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4097    1.8209    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6952    0.5834    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1030    1.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5155    0.8929    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0310    3.6417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7455    4.0542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3165    4.0542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  1  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  1  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  6  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+  9 21  1  0  0  0  0
+  6 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+  5 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03004
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-[(1s)-Carboxy-2-(Methylsulfinyl)Ethyl]-(3r)-[(5s)-5-Amino-5-Carboxypentanamido]-(4r)-Sulfanylazetidin-2-One
+
+> <CHEMICAL_FORMULA>
+C13H21N3O7S2
+
+> <MOLECULAR_WEIGHT>
+395.452
+
+> <EXACT_MASS>
+395.082091421
+
+> <IUPAC_NAME>
+(2S)-2-amino-5-{[(3S,4R)-1-[(1R)-1-carboxy-2-[(S)-methanesulfinyl]ethyl]-2-oxo-4-sulfanylazetidin-3-yl]carbamoyl}pentanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S)-2-amino-5-{[(3S,4R)-1-[(1R)-1-carboxy-2-[(S)-methanesulfinyl]ethyl]-2-oxo-4-sulfanylazetidin-3-yl]carbamoyl}pentanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H21N3O7S2/c1-25(23)5-7(13(21)22)16-10(18)9(11(16)24)15-8(17)4-2-3-6(14)12(19)20/h6-7,9,11,24H,2-5,14H2,1H3,(H,15,17)(H,19,20)(H,21,22)/t6-,7-,9-,11+,25-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=UFLVUEXXBDLOEJ-NBHIPWOASA-N
+
+> <SMILES>
+C[S@](=O)C[C@H](N1[C@H](S)[C@@H](NC(=O)CCC[C@H](N)C(O)=O)C1=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+1.85
+
+> <JCHEM_BASIC_PKA>
+9.49
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-1.5
+
+> <JCHEM_LOGP>
+-5.5
+
+> <ALOGPS_LOGS>
+-2.4
+
+> <JCHEM_POLARIZABILITY>
+37.89
+
+> <JCHEM_POLAR_SURFACE_AREA>
+167.1
+
+> <JCHEM_REFRACTIVITY>
+90
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <ALOGPS_SOLUBILITY>
+1.63e+00 g/l __ 
+
+$$$$

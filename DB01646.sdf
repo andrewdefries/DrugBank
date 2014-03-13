@@ -1,0 +1,106 @@
+AME
+  Mrv0541 02231215372D          
+
+ 13 12  0  0  0  0            999 V2000
+   -2.4165   -0.2276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7020    0.1849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7020    1.0099    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4414   -0.2276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1559    0.1850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8704   -0.2275    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5848    0.1850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2731    1.0099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9875    1.4224    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4414    1.4225    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9875   -0.2276    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2731    0.1849    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.2326    0.4769    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 12 11  1  1  0  0  0
+ 12 13  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01646
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Acetylmethionine
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C7H13NO3S
+
+> <MOLECULAR_WEIGHT>
+191.248
+
+> <EXACT_MASS>
+191.061613977
+
+> <IUPAC_NAME>
+(2S)-2-acetamido-4-(methylsulfanyl)butanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S)-2-acetamido-4-(methylsulfanyl)butanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H13NO3S/c1-5(9)8-6(7(10)11)3-4-12-2/h6H,3-4H2,1-2H3,(H,8,9)(H,10,11)/t6-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=XUYPXLNMDZIRQH-LURJTMIESA-N
+
+> <SMILES>
+[H][C@@](CCSC)(NC(C)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+4.02
+
+> <JCHEM_BASIC_PKA>
+-1.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.15
+
+> <JCHEM_LOGP>
+-0.11
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+19.59
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.4
+
+> <JCHEM_REFRACTIVITY>
+47.03
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+6.84e+00 g/l __ 
+
+$$$$

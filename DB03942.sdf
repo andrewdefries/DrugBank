@@ -1,0 +1,125 @@
+
+  Mrv0541 02231217182D          
+
+ 22 22  0  0  1  0            999 V2000
+   -0.1507   -2.0477    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1849   -1.2940    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.2276   -0.5795    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0481   -0.4933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5330   -1.1607    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3535   -1.0745    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1740   -0.9882    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4397   -1.8950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2673   -0.2540    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3244    0.0336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0781   -0.3020    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7926    0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5070   -0.3020    0.0000 P   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0945   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9195    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2215   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9360   -0.3020    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6505    0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3485   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5235    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9919   -1.1225    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.6050   -1.6745    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  6  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+  3 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+ 13 12  1  6  0  0  0
+ 13 14  1  1  0  0  0
+ 13 15  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 20  2  0  0  0  0
+ 11 21  1  0  0  0  0
+  2 21  1  0  0  0  0
+ 21 22  1  6  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03942
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Carboxylic PRPP
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C6H15O13P3
+
+> <MOLECULAR_WEIGHT>
+388.0968
+
+> <EXACT_MASS>
+387.972550102
+
+> <IUPAC_NAME>
+{[(1S,2S,3R,4R)-2,3-dihydroxy-4-{[hydroxy(phosphonooxy)phosphoryl]oxy}cyclopentyl]methoxy}phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[(1S,2S,3R,4R)-2,3-dihydroxy-4-{[hydroxy(phosphonooxy)phosphoryl]oxy}cyclopentyl]methoxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H15O13P3/c7-5-3(2-17-20(9,10)11)1-4(6(5)8)18-22(15,16)19-21(12,13)14/h3-8H,1-2H2,(H,15,16)(H2,9,10,11)(H2,12,13,14)/t3-,4+,5-,6-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=OICBXEWBKALHHB-FSIIMWSLSA-N
+
+> <SMILES>
+O[C@@H]1[C@@H](O)[C@@H](C[C@H]1COP(O)(O)=O)O[P@](O)(=O)OP(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_DONOR_COUNT>
+7
+
+> <JCHEM_ACIDIC_PKA>
+1.45
+
+> <JCHEM_BASIC_PKA>
+-3.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-4
+
+> <ALOGPS_LOGP>
+-0.83
+
+> <JCHEM_LOGP>
+-3
+
+> <ALOGPS_LOGS>
+-1.5
+
+> <JCHEM_POLARIZABILITY>
+28.55
+
+> <JCHEM_POLAR_SURFACE_AREA>
+220.51
+
+> <JCHEM_REFRACTIVITY>
+66.32
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+1.31e+01 g/l __ 
+
+$$$$

@@ -1,0 +1,101 @@
+HHO
+  Mrv0541 02241213432D          
+
+ 12 11  0  0  0  0            999 V2000
+   -2.5536   -0.2457    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2681    0.1668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9827   -0.2457    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8391    0.1668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1246   -0.2457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4100    0.1668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3045   -0.2457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0190    0.1668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7335   -0.2457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4481    0.1668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1625   -0.2457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8771    0.1668    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07897
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-(HYDROXYMETHYLENEAMINO)-8-HYDROXY-OCTANE
+
+> <CHEMICAL_FORMULA>
+C9H21NO2
+
+> <MOLECULAR_WEIGHT>
+175.2685
+
+> <EXACT_MASS>
+175.157228921
+
+> <IUPAC_NAME>
+8-[(hydroxymethyl)amino]octan-1-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+8-[(hydroxymethyl)amino]octan-1-ol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H21NO2/c11-8-6-4-2-1-3-5-7-10-9-12/h10-12H,1-9H2
+
+> <INCHI_KEY>
+InChIKey=SJEVZMRZAJQYFZ-UHFFFAOYSA-N
+
+> <SMILES>
+OCCCCCCCCNCO
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+14.6
+
+> <JCHEM_BASIC_PKA>
+9.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+0.96
+
+> <JCHEM_LOGP>
+0.89
+
+> <ALOGPS_LOGS>
+-1.5
+
+> <JCHEM_POLARIZABILITY>
+22.08
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.49
+
+> <JCHEM_REFRACTIVITY>
+50
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <ALOGPS_SOLUBILITY>
+6.03e+00 g/l __ 
+
+$$$$

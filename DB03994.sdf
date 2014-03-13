@@ -1,0 +1,85 @@
+
+  Mrv0541 02231217202D          
+
+  4  3  0  0  0  0            999 V2000
+    2.0625   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03994
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Ethanolamine
+
+> <CHEMICAL_FORMULA>
+C2H7NO
+
+> <MOLECULAR_WEIGHT>
+61.0831
+
+> <EXACT_MASS>
+61.052763851
+
+> <IUPAC_NAME>
+2-aminoethan-1-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+ethanolamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H7NO/c3-1-2-4/h4H,1-3H2
+
+> <INCHI_KEY>
+InChIKey=HZAXFHJVJLSVMW-UHFFFAOYSA-N
+
+> <SMILES>
+NCCO
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+15.61
+
+> <JCHEM_BASIC_PKA>
+9.55
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-1.5
+
+> <JCHEM_LOGP>
+-1.3
+
+> <ALOGPS_LOGS>
+1.14
+
+> <JCHEM_POLARIZABILITY>
+6.63
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.25
+
+> <JCHEM_REFRACTIVITY>
+16.21
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.49e+02 g/l __ 
+
+$$$$

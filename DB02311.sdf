@@ -1,0 +1,86 @@
+
+  Mrv0541 02231216072D          
+
+  6  5  0  0  1  0            999 V2000
+    1.2375    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 S   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  6  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02311
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Methyl Methylsulfinylmethyl Sulfide
+
+> <CHEMICAL_FORMULA>
+C3H8OS2
+
+> <MOLECULAR_WEIGHT>
+124.225
+
+> <EXACT_MASS>
+124.001656258
+
+> <IUPAC_NAME>
+(R)-methanesulfinyl(methylsulfanyl)methane
+
+> <IUPAC_TRADITIONAL_NAME>
+(R)-methanesulfinyl(methylsulfanyl)methane
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H8OS2/c1-5-3-6(2)4/h3H2,1-2H3/t6-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=OTKFCIVOVKCFHR-ZCFIWIBFSA-N
+
+> <SMILES>
+CSC[S@@](C)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-6.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.75
+
+> <JCHEM_LOGP>
+-0.56
+
+> <ALOGPS_LOGS>
+-0.42
+
+> <JCHEM_POLARIZABILITY>
+12.85
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+32.76
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+4.69e+01 g/l __ 
+
+$$$$

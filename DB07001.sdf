@@ -1,0 +1,106 @@
+327
+  Mrv0541 02241213082D          
+
+ 15 16  0  0  0  0            999 V2000
+    0.7811    0.0415    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3812    0.9684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0262   -0.3710    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4232   -0.7018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6061    0.0415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0186   -0.6730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8436   -0.6730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4232    0.7848    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5647    1.7727    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0262    0.4540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8108    0.7089    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2957    0.0415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8108   -0.6259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3812   -0.8854    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0918   -0.4529    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  1  0  0  0
+  1  8  1  0  0  0  0
+  1 15  1  6  0  0  0
+  2  8  1  0  0  0  0
+  2  9  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3 10  2  0  0  0  0
+  3 13  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07001
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(3S,5E)-3-propyl-3,4-dihydrothieno[2,3-f][1,4]oxazepin-5(2H)-imine
+
+> <CHEMICAL_FORMULA>
+C10H14N2OS
+
+> <MOLECULAR_WEIGHT>
+210.296
+
+> <EXACT_MASS>
+210.08268377
+
+> <IUPAC_NAME>
+(3S)-3-propyl-2H,3H,4H,5H-thieno[2,3-f][1,4]oxazepin-5-imine
+
+> <IUPAC_TRADITIONAL_NAME>
+(3S)-3-propyl-2H,3H,4H-thieno[2,3-f][1,4]oxazepin-5-imine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14N2OS/c1-2-3-7-6-13-8-4-5-14-9(8)10(11)12-7/h4-5,7H,2-3,6H2,1H3,(H2,11,12)/t7-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=JIIBOYBTIWHZFJ-ZETCQYMHSA-N
+
+> <SMILES>
+[H][C@]1(CCC)COC2=C(SC=C2)C(=N)N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_BASIC_PKA>
+7.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.23
+
+> <JCHEM_LOGP>
+2.14
+
+> <ALOGPS_LOGS>
+-3.5
+
+> <JCHEM_POLARIZABILITY>
+22.66
+
+> <JCHEM_POLAR_SURFACE_AREA>
+45.11
+
+> <JCHEM_REFRACTIVITY>
+67.43
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+5.90e-02 g/l __ 
+
+$$$$

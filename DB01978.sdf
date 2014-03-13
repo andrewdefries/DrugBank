@@ -1,0 +1,105 @@
+
+  Mrv0541 02231215522D          
+
+ 13 14  0  0  0  0            999 V2000
+   -0.3984    0.7541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435   -0.0305    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6284   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435   -1.3654    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.3984   -2.1500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    0.1271    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7845    0.1271    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701   -1.1104    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556   -2.3479    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  6 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01978
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+7,9-Dimethylguanine
+
+> <CHEMICAL_FORMULA>
+C7H10N5O
+
+> <MOLECULAR_WEIGHT>
+180.1872
+
+> <EXACT_MASS>
+180.088534967
+
+> <IUPAC_NAME>
+2-amino-6-hydroxy-7,9-dimethyl-9H-purin-7-ium
+
+> <IUPAC_TRADITIONAL_NAME>
+7,9-dimethylguanine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H9N5O/c1-11-3-12(2)5-4(11)6(13)10-7(8)9-5/h3H,1-2H3,(H2-,8,9,10,13)/p+1
+
+> <INCHI_KEY>
+InChIKey=NAIGKGQHPIGYBB-UHFFFAOYSA-O
+
+> <SMILES>
+CN1C=[N+](C)C2=C1N=C(N)N=C2O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.82
+
+> <JCHEM_BASIC_PKA>
+1.16
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-2.6
+
+> <JCHEM_LOGP>
+-3.8
+
+> <ALOGPS_LOGS>
+-1.9
+
+> <JCHEM_POLARIZABILITY>
+18.01
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.84
+
+> <JCHEM_REFRACTIVITY>
+48.62
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.44e+00 g/l __ 
+
+$$$$

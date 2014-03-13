@@ -1,0 +1,110 @@
+PBB
+  Mrv0541 02241214032D          
+
+ 16 16  0  0  0  0            999 V2000
+   -1.7945   -0.0798    0.0000 C    0  0  1  0  0  0  0  0  0  0  0  0
+   -2.5090    0.3327    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2235   -0.0798    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5090    1.1577    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7945   -0.9048    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0801    0.3327    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3656   -0.0798    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2068   -1.3173    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0634   -0.0798    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7778    0.3327    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4923   -0.0798    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4923   -0.9048    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7778   -1.3173    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0634   -0.9048    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3489    0.3327    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3002   -0.3718    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  6  0  0  0
+  1  6  1  0  0  0  0
+  1 16  1  1  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08370
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+S-(4-BROMOBENZYL)CYSTEINE
+
+> <CHEMICAL_FORMULA>
+C10H12BrNO2S
+
+> <MOLECULAR_WEIGHT>
+290.177
+
+> <EXACT_MASS>
+288.97721197
+
+> <IUPAC_NAME>
+(2R)-2-amino-3-{[(4-bromophenyl)methyl]sulfanyl}propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R)-2-amino-3-{[(4-bromophenyl)methyl]sulfanyl}propanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12BrNO2S/c11-8-3-1-7(2-4-8)5-15-6-9(12)10(13)14/h1-4,9H,5-6,12H2,(H,13,14)/t9-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=QZGWXEMBSFZEBK-VIFPVBQESA-N
+
+> <SMILES>
+[H][C@](N)(CSCC1=CC=C(Br)C=C1)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+1.46
+
+> <JCHEM_BASIC_PKA>
+9.14
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.34
+
+> <JCHEM_LOGP>
+-0.016
+
+> <ALOGPS_LOGS>
+-3.7
+
+> <JCHEM_POLARIZABILITY>
+26.15
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+65.16
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+5.33e-02 g/l __ 
+
+$$$$

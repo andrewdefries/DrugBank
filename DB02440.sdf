@@ -1,0 +1,87 @@
+
+  Mrv0541 02231216122D          
+
+  8  7  0  0  0  0            999 V2000
+    1.0461    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02440
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Octane
+
+> <CHEMICAL_FORMULA>
+C8H18
+
+> <MOLECULAR_WEIGHT>
+114.2285
+
+> <EXACT_MASS>
+114.140850576
+
+> <IUPAC_NAME>
+octane
+
+> <IUPAC_TRADITIONAL_NAME>
+N-octane
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H18/c1-3-5-7-8-6-4-2/h3-8H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=TVMXDCGIABBOFY-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCCCC
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+4.73
+
+> <JCHEM_LOGP>
+4.02
+
+> <ALOGPS_LOGS>
+-4.5
+
+> <JCHEM_POLARIZABILITY>
+16.42
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+38.61
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+3.37e-03 g/l __ 
+
+$$$$

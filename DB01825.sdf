@@ -1,0 +1,105 @@
+MAQ
+  Mrv0541 02231215452D          
+
+ 13 14  0  0  0  0            999 V2000
+   -1.2268    0.0381    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5124    0.4506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5124    1.2756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2021    0.0381    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9166    0.4506    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6310    0.0381    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3455    0.4506    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6310   -0.7869    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9166   -1.1994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9166   -2.0244    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2021   -0.7869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5124   -1.1994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2268   -0.7869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01825
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Amino-8-Methylquinazolin-4(3h)-One
+
+> <CHEMICAL_FORMULA>
+C9H9N3O
+
+> <MOLECULAR_WEIGHT>
+175.1873
+
+> <EXACT_MASS>
+175.074561925
+
+> <IUPAC_NAME>
+2-amino-8-methyl-1,4-dihydroquinazolin-4-one
+
+> <IUPAC_TRADITIONAL_NAME>
+2-amino-8-methyl-1H-quinazolin-4-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H9N3O/c1-5-3-2-4-6-7(5)11-9(10)12-8(6)13/h2-4H,1H3,(H3,10,11,12,13)
+
+> <INCHI_KEY>
+InChIKey=NLLZAHIPYDRNRQ-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=CC=CC2=C1NC(N)=NC2=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+10
+
+> <JCHEM_BASIC_PKA>
+1.55
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.73
+
+> <JCHEM_LOGP>
+1.53
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+17.68
+
+> <JCHEM_POLAR_SURFACE_AREA>
+67.48
+
+> <JCHEM_REFRACTIVITY>
+50.8
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.12e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,113 @@
+LJ1
+  Mrv0541 02241213522D          
+
+ 17 18  0  0  0  0            999 V2000
+   -1.2474    2.0037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2474    1.1787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5329    0.7662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9618    0.7662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6763    1.1787    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9618   -0.0588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6763   -0.4713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2474   -0.4713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5329   -0.0588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1816   -0.4713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8961   -0.0588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6105   -0.4713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3250   -0.0588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0395   -0.4713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0395   -1.2963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3250   -1.7088    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6105   -1.2963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08100
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,6-dimethyl-4-[(E)-2-phenylethenyl]phenol
+
+> <CHEMICAL_FORMULA>
+C16H16O
+
+> <MOLECULAR_WEIGHT>
+224.2976
+
+> <EXACT_MASS>
+224.120115134
+
+> <IUPAC_NAME>
+2,6-dimethyl-4-[(E)-2-phenylethenyl]phenol
+
+> <IUPAC_TRADITIONAL_NAME>
+2,6-dimethyl-4-[(E)-2-phenylethenyl]phenol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H16O/c1-12-10-15(11-13(2)16(12)17)9-8-14-6-4-3-5-7-14/h3-11,17H,1-2H3/b9-8+
+
+> <INCHI_KEY>
+InChIKey=PAHKYLUYTGBFNW-CMDGGOBGSA-N
+
+> <SMILES>
+CC1=CC(\C=C\C2=CC=CC=C2)=CC(C)=C1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+10.22
+
+> <JCHEM_BASIC_PKA>
+-5.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+4.71
+
+> <JCHEM_LOGP>
+5.04
+
+> <ALOGPS_LOGS>
+-4.7
+
+> <JCHEM_POLARIZABILITY>
+26.85
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+73.58
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+4.29e-03 g/l __ 
+
+$$$$

@@ -1,0 +1,100 @@
+
+  Mrv0541 02231216182D          
+
+ 11 11  0  0  0  0            999 V2000
+    1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  4 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02585
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-(Hydroxymethyl)Benzamidine
+
+> <CHEMICAL_FORMULA>
+C8H10N2O
+
+> <MOLECULAR_WEIGHT>
+150.1778
+
+> <EXACT_MASS>
+150.079312952
+
+> <IUPAC_NAME>
+4-(hydroxymethyl)benzene-1-carboximidamide
+
+> <IUPAC_TRADITIONAL_NAME>
+4-(hydroxymethyl)benzenecarboximidamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H10N2O/c9-8(10)7-3-1-6(5-11)2-4-7/h1-4,11H,5H2,(H3,9,10)
+
+> <INCHI_KEY>
+InChIKey=WHMKAFNJMLEDSN-UHFFFAOYSA-N
+
+> <SMILES>
+NC(=N)C1=CC=C(CO)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+14.97
+
+> <JCHEM_BASIC_PKA>
+11.47
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-0.18
+
+> <JCHEM_LOGP>
+0.13
+
+> <ALOGPS_LOGS>
+-2.1
+
+> <JCHEM_POLARIZABILITY>
+15.95
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.1
+
+> <JCHEM_REFRACTIVITY>
+54.55
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.18e+00 g/l __ 
+
+$$$$

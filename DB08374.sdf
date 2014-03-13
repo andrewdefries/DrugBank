@@ -1,0 +1,106 @@
+PCS
+  Mrv0541 02241214032D          
+
+ 14 14  0  0  0  0            999 V2000
+   -0.7675    0.6384    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7675   -0.1866    0.0000 C    0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4820   -0.5991    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0531   -0.5991    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4820   -1.4241    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3759   -0.5991    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6614   -0.1866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6614    0.6384    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3759    1.0509    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0904    0.6384    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0904   -0.1866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1965   -0.1866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9109   -0.5991    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2732    0.1053    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 14  1  6  0  0  0
+  3  5  2  0  0  0  0
+  3 12  1  0  0  0  0
+  4  7  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08374
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+PHENYLALANYLMETHYLCHLORIDE
+
+> <CHEMICAL_FORMULA>
+C10H12ClNO
+
+> <MOLECULAR_WEIGHT>
+197.661
+
+> <EXACT_MASS>
+197.060741718
+
+> <IUPAC_NAME>
+(3S)-3-amino-1-chloro-4-phenylbutan-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+(3S)-3-amino-1-chloro-4-phenylbutan-2-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12ClNO/c11-7-10(13)9(12)6-8-4-2-1-3-5-8/h1-5,9H,6-7,12H2/t9-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=CNNSBPMDYXZFTQ-VIFPVBQESA-N
+
+> <SMILES>
+[H][C@](N)(CC1=CC=CC=C1)C(=O)CCl
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+15.48
+
+> <JCHEM_BASIC_PKA>
+7.66
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.26
+
+> <JCHEM_LOGP>
+1.94
+
+> <ALOGPS_LOGS>
+-2.5
+
+> <JCHEM_POLARIZABILITY>
+20.5
+
+> <JCHEM_POLAR_SURFACE_AREA>
+43.09
+
+> <JCHEM_REFRACTIVITY>
+53.42
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+6.06e-01 g/l __ 
+
+$$$$

@@ -1,0 +1,103 @@
+BIP
+  Mrv0541 02231216562D          
+
+ 14 14  0  0  0  0            999 V2000
+    1.5808    1.1185    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5808    1.9435    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2953    0.7060    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8663    0.7060    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.1518    1.1185    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5626    0.7060    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8663   -0.1190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1518   -0.5315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1518   -1.3565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5626   -1.7690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2771   -1.3565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2771   -0.5315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5626   -0.1190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8663    1.2899    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  6  0  0  0
+  4 14  1  6  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03441
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Benzyl-3-Iodopropanoic Acid
+
+> <CHEMICAL_FORMULA>
+C10H11IO2
+
+> <MOLECULAR_WEIGHT>
+290.0976
+
+> <EXACT_MASS>
+289.980373016
+
+> <IUPAC_NAME>
+(2R)-2-benzyl-3-iodopropanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R)-2-benzyl-3-iodopropanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11IO2/c11-7-9(10(12)13)6-8-4-2-1-3-5-8/h1-5,9H,6-7H2,(H,12,13)/t9-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=CRYXPGIJLMKFPX-VIFPVBQESA-N
+
+> <SMILES>
+[H][C@@](CI)(CC1=CC=CC=C1)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+3.76
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+3.18
+
+> <JCHEM_LOGP>
+3.29
+
+> <ALOGPS_LOGS>
+-3.7
+
+> <JCHEM_POLARIZABILITY>
+22.41
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+59.6
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+5.76e-02 g/l __ 
+
+$$$$

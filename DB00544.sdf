@@ -1,0 +1,102 @@
+544
+  Mrv0541 02231214452D          
+
+  9  9  0  0  0  0            999 V2000
+    4.5080    1.0808    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.5693    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.5693    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.5693    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.6683    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.0808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  7  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00544
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Fluorouracil
+
+> <SYNONYMS>
+5-Fluorouracil; 5-Fluracil; 5-FU; Fluoro Uracil; Fluouracil; FU
+
+> <BRANDS>
+Adrucil; Carac; Carzonal; Efudex; Efudix; Efurix; Fluoroplex; Ftoruracil
+
+> <CHEMICAL_FORMULA>
+C4H3FN2O2
+
+> <MOLECULAR_WEIGHT>
+130.0772
+
+> <EXACT_MASS>
+130.017855555
+
+> <IUPAC_NAME>
+5-fluoro-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+fluorouracil
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H3FN2O2/c5-2-1-6-4(9)7-3(2)8/h1H,(H2,6,7,8,9)
+
+> <INCHI_KEY>
+InChIKey=GHASVSINZRGABV-UHFFFAOYSA-N
+
+> <SMILES>
+FC1=CNC(=O)NC1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+7.76
+
+> <JCHEM_BASIC_PKA>
+-8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.58
+
+> <JCHEM_LOGP>
+-0.66
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+9.46
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.2
+
+> <JCHEM_REFRACTIVITY>
+26.17
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.86e+00 g/l __ 
+
+$$$$

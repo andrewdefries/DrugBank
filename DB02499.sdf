@@ -1,0 +1,99 @@
+
+  Mrv0541 02231216152D          
+
+ 11 10  0  0  1  0            999 V2000
+    0.0000    1.4289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    2.8579    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02499
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Dinor-N(Omega)-Hydroxy-L-Arginine
+
+> <CHEMICAL_FORMULA>
+C4H10N4O3
+
+> <MOLECULAR_WEIGHT>
+162.1472
+
+> <EXACT_MASS>
+162.075290206
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-[(E)-[amino(hydroxyamino)methylidene]amino]propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S)-2-amino-3-[(E)-[amino(hydroxyamino)methylidene]amino]propanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H10N4O3/c5-2(3(9)10)1-7-4(6)8-11/h2,11H,1,5H2,(H,9,10)(H3,6,7,8)/t2-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=RPHCSGPGZUWMRV-REOHCLBHSA-N
+
+> <SMILES>
+N[C@@H](C\N=C(/N)NO)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+1.82
+
+> <JCHEM_BASIC_PKA>
+10.05
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-3.8
+
+> <JCHEM_LOGP>
+-3.7
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+14.94
+
+> <JCHEM_POLAR_SURFACE_AREA>
+133.96
+
+> <JCHEM_REFRACTIVITY>
+46.38
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.17e+01 g/l __ 
+
+$$$$

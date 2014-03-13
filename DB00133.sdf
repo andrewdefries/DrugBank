@@ -1,0 +1,94 @@
+
+  Mrv0541 09081312422D          
+
+  7  6  0  0  1  0            999 V2000
+    0.6124    0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1021   -0.1768    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.8165    0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3269   -0.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6124    1.0607    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1021   -1.0018    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5310   -0.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  5  1  2  0  0  0  0
+  4  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  2  6  1  1  0  0  0
+  7  3  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00133
+
+> <DRUG_GROUPS>
+approved; nutraceutical
+
+> <GENERIC_NAME>
+L-Serine
+
+> <SYNONYMS>
+(S)-(−)-serine; (S)-2-Amino-3-hydroxypropanoic acid; (S)-alpha-Amino-beta-hydroxypropionic acid; (S)-Serine; beta-Hydroxy-L-alanine; beta-Hydroxyalanine; L-(-)-Serine; L-(−)-serine; L-2-Amino-3-hydroxypropionic acid; L-3-Hydroxy-2-aminopropionic acid; L-3-Hydroxy-alanine; L-Ser; L-Serin; Ser; Serine
+
+> <CHEMICAL_FORMULA>
+C3H7NO3
+
+> <MOLECULAR_WEIGHT>
+105.0926
+
+> <EXACT_MASS>
+105.042593095
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-hydroxypropanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+L-serine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H7NO3/c4-2(1-5)3(6)7/h2,5H,1,4H2,(H,6,7)/t2-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
+
+> <SMILES>
+N[C@@H](CO)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+2.03
+
+> <JCHEM_BASIC_PKA>
+8.93
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-3.4
+
+> <JCHEM_LOGP>
+-3.9
+
+> <ALOGPS_LOGS>
+0.66
+
+> <JCHEM_POLARIZABILITY>
+9.39
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55
+
+> <JCHEM_REFRACTIVITY>
+22.04
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+4.80e+02 g/l __ 
+
+$$$$

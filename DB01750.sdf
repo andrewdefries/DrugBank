@@ -1,0 +1,104 @@
+NLA
+  Mrv0541 02231215422D          
+
+ 14 15  0  0  0  0            999 V2000
+    0.3236    0.0242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3909   -0.3883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1054    0.0242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1054    0.8492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3909    1.2617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3236    0.8492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0380    1.2617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7525    0.8492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7525    0.0242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0380   -0.3883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3909   -1.2133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1054   -1.6258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1054   -2.4508    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8198   -1.2133    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01750
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Naphthalen-1-Yl-Acetic Acid
+
+> <CHEMICAL_FORMULA>
+C12H10O2
+
+> <MOLECULAR_WEIGHT>
+186.2066
+
+> <EXACT_MASS>
+186.068079564
+
+> <IUPAC_NAME>
+2-(naphthalen-1-yl)acetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+stop-drop
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H10O2/c13-12(14)8-10-6-3-5-9-4-1-2-7-11(9)10/h1-7H,8H2,(H,13,14)
+
+> <INCHI_KEY>
+InChIKey=PRPINYUDVPFIRX-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)CC1=C2C=CC=CC2=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.75
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+2.97
+
+> <JCHEM_LOGP>
+2.6
+
+> <ALOGPS_LOGS>
+-3.2
+
+> <JCHEM_POLARIZABILITY>
+19.42
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+53.82
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.10e-01 g/l __ 
+
+$$$$

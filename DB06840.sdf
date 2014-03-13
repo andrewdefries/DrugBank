@@ -1,0 +1,104 @@
+0AY
+  Mrv0541 02241213012D          
+
+ 15 14  0  0  0  0            999 V2000
+    0.3748   -1.2502    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1047   -0.4707    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6448    0.1530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4550   -0.0029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9951    0.6207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8052    0.4648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3453    1.0884    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7054   -0.3147    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2455   -0.9384    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0556   -0.7825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5957   -1.4061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9754    0.4648    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7856    0.6207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0556    1.4003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2775   -0.9121    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  8  1  0  0  0  0
+  2 15  1  1  0  0  0
+  3  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB06840
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+diethyl [(1R)-1,5-diaminopentyl]boronate
+
+> <CHEMICAL_FORMULA>
+C9H23BN2O2
+
+> <MOLECULAR_WEIGHT>
+202.102
+
+> <EXACT_MASS>
+202.185258456
+
+> <IUPAC_NAME>
+diethyl [(1R)-1,5-diaminopentyl]boronate
+
+> <IUPAC_TRADITIONAL_NAME>
+diethyl (1R)-1,5-diaminopentylboronate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H23BN2O2/c1-3-13-10(14-4-2)9(12)7-5-6-8-11/h9H,3-8,11-12H2,1-2H3/t9-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=FYUGRVWDCBMIQX-VIFPVBQESA-N
+
+> <SMILES>
+[H][C@](N)(CCCCN)B(OCC)OCC
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_BASIC_PKA>
+10.26
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <ALOGPS_LOGP>
+0.85
+
+> <JCHEM_LOGP>
+1.76
+
+> <ALOGPS_LOGS>
+-1.5
+
+> <JCHEM_POLARIZABILITY>
+25.13
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.5
+
+> <JCHEM_REFRACTIVITY>
+54.13
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <ALOGPS_SOLUBILITY>
+6.26e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,97 @@
+
+  Mrv0541 02231216392D          
+
+ 10  9  0  0  1  0            999 V2000
+    2.9980    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.5704    1.3184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  1  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03061
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(R)-N-(1-Methyl-Hexyl)-Formamide
+
+> <CHEMICAL_FORMULA>
+C8H17NO
+
+> <MOLECULAR_WEIGHT>
+143.2267
+
+> <EXACT_MASS>
+143.131014171
+
+> <IUPAC_NAME>
+N-[(2S)-heptan-2-yl]formamide
+
+> <IUPAC_TRADITIONAL_NAME>
+N-[(2S)-heptan-2-yl]formamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H17NO/c1-3-4-5-6-8(2)9-7-10/h7-8H,3-6H2,1-2H3,(H,9,10)/t8-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=GFVRKPKAQHTAQK-QMMMGPOBSA-N
+
+> <SMILES>
+CCCCC[C@H](C)NC=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+16.77
+
+> <JCHEM_BASIC_PKA>
+-0.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.98
+
+> <JCHEM_LOGP>
+1.77
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+17.54
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.1
+
+> <JCHEM_REFRACTIVITY>
+42.37
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+2.49e+00 g/l __ 
+
+$$$$

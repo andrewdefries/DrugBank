@@ -1,0 +1,109 @@
+G12
+  Mrv0541 02241213392D          
+
+ 15 16  0  0  0  0            999 V2000
+   -2.1170    1.1979    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4025    0.7854    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4025   -0.0396    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1170   -0.4521    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6881   -0.4521    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6881    1.1979    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6881    2.0229    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0264    0.7854    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0264   -0.0396    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7409   -0.4521    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7409   -1.2771    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7409    1.1979    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4553    0.7854    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4553   -0.0396    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1698   -0.4521    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  6  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  4  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8 12  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07802
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3,8-DIBROMO-7-HYDROXY-4-METHYL-2H-CHROMEN-2-ONE
+
+> <CHEMICAL_FORMULA>
+C10H6Br2O3
+
+> <MOLECULAR_WEIGHT>
+333.961
+
+> <EXACT_MASS>
+331.868369352
+
+> <IUPAC_NAME>
+3,8-dibromo-7-hydroxy-4-methyl-2H-chromen-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+3,8-dibromo-7-hydroxy-4-methylchromen-2-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H6Br2O3/c1-4-5-2-3-6(13)8(12)9(5)15-10(14)7(4)11/h2-3,13H,1H3
+
+> <INCHI_KEY>
+InChIKey=MSOLROYRAHCJNK-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=C(Br)C(=O)OC2=C(Br)C(O)=CC=C12
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+6.34
+
+> <JCHEM_BASIC_PKA>
+-7.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+3.64
+
+> <JCHEM_LOGP>
+3.37
+
+> <ALOGPS_LOGS>
+-3.6
+
+> <JCHEM_POLARIZABILITY>
+24.13
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+63.04
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+8.47e-02 g/l __ 
+
+$$$$

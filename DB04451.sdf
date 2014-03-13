@@ -1,0 +1,93 @@
+
+  Mrv0541 02231217412D          
+
+  9  9  0  0  0  0            999 V2000
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04451
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Methylpiperazin-1-Yl Carbonyl Group
+
+> <CHEMICAL_FORMULA>
+C6H12N2O
+
+> <MOLECULAR_WEIGHT>
+128.1723
+
+> <EXACT_MASS>
+128.094963016
+
+> <IUPAC_NAME>
+4-methylpiperazine-1-carbaldehyde
+
+> <IUPAC_TRADITIONAL_NAME>
+4-methylpiperazine-1-carbaldehyde
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12N2O/c1-7-2-4-8(6-9)5-3-7/h6H,2-5H2,1H3
+
+> <INCHI_KEY>
+InChIKey=JQTMGOLZSBTZMS-UHFFFAOYSA-N
+
+> <SMILES>
+CN1CCN(CC1)C=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+7.31
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-1.2
+
+> <JCHEM_LOGP>
+-0.78
+
+> <ALOGPS_LOGS>
+0.74
+
+> <JCHEM_POLARIZABILITY>
+14.06
+
+> <JCHEM_POLAR_SURFACE_AREA>
+23.55
+
+> <JCHEM_REFRACTIVITY>
+35.82
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+6.99e+02 g/l __ 
+
+$$$$

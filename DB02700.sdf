@@ -1,0 +1,100 @@
+
+  Mrv0541 02231216232D          
+
+ 11 11  0  0  1  0            999 V2000
+    2.1434    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  6  0  0  0
+  7  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  2 10  1  0  0  0  0
+ 10 11  1  6  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02700
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Deoxy-D-Glucosamine
+
+> <CHEMICAL_FORMULA>
+C6H13NO4
+
+> <MOLECULAR_WEIGHT>
+163.1717
+
+> <EXACT_MASS>
+163.084457909
+
+> <IUPAC_NAME>
+(2S,3S,5R,6S)-3-amino-6-(hydroxymethyl)oxane-2,5-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+3-deoxy-D-glucosamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13NO4/c7-3-1-4(9)5(2-8)11-6(3)10/h3-6,8-10H,1-2,7H2/t3-,4+,5-,6-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=SNDZDGQLFKEBLF-FSIIMWSLSA-N
+
+> <SMILES>
+N[C@H]1C[C@@H](O)[C@H](CO)O[C@@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+11.84
+
+> <JCHEM_BASIC_PKA>
+8.74
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-2.3
+
+> <JCHEM_LOGP>
+-2.3
+
+> <ALOGPS_LOGS>
+0.72
+
+> <JCHEM_POLARIZABILITY>
+15.97
+
+> <JCHEM_POLAR_SURFACE_AREA>
+95.94
+
+> <JCHEM_REFRACTIVITY>
+36.48
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.49e+02 g/l __ 
+
+$$$$

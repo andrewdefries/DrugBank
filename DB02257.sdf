@@ -1,0 +1,101 @@
+
+  Mrv0541 02231216042D          
+
+ 12 11  0  0  0  0            999 V2000
+    1.0462   -1.4290    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.8415    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -2.6666    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4752   -1.4290    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4752   -0.6039    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1897   -1.8415    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9042   -1.4290    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6187   -1.8415    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3333   -1.4290    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0479   -1.0165    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7458   -2.1436    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9208   -0.7146    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02257
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Bromoacetyl-Aminoethyl Phosphate
+
+> <CHEMICAL_FORMULA>
+C4H9BrNO5P
+
+> <MOLECULAR_WEIGHT>
+261.996
+
+> <EXACT_MASS>
+260.940171562
+
+> <IUPAC_NAME>
+[2-(N-bromoacetamido)ethoxy]phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+2-(N-bromoacetamido)ethoxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H9BrNO5P/c1-4(7)6(5)2-3-11-12(8,9)10/h2-3H2,1H3,(H2,8,9,10)
+
+> <INCHI_KEY>
+InChIKey=DPNUMPJWOVYEOX-UHFFFAOYSA-N
+
+> <SMILES>
+CC(=O)N(Br)CCOP(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+1.49
+
+> <JCHEM_BASIC_PKA>
+-4.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-0.68
+
+> <JCHEM_LOGP>
+-0.71
+
+> <ALOGPS_LOGS>
+-1.2
+
+> <JCHEM_POLARIZABILITY>
+18.25
+
+> <JCHEM_POLAR_SURFACE_AREA>
+87.07
+
+> <JCHEM_REFRACTIVITY>
+44.46
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.67e+01 g/l __ 
+
+$$$$

@@ -1,0 +1,98 @@
+148
+  Mrv0541 02231214282D          
+
+  9  8  0  0  0  0            999 V2000
+    5.6655   -0.0784    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    1.1592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.3341    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.3341    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.9034    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00148
+
+> <DRUG_GROUPS>
+approved; nutraceutical
+
+> <GENERIC_NAME>
+Creatine
+
+> <SYNONYMS>
+(alpha-Methylguanido)acetic acid; (N-methylcarbamimidamido)acetic acid; (α-methylguanido)acetic acid; alpha-Methylguanidino acetic acid; Creatin; Kreatin; Methylglycocyamine; N-(aminoiminomethyl)-N-methylglycine; N-Amidinosarcosine; N-Methyl-N-guanylglycine
+
+> <CHEMICAL_FORMULA>
+C4H9N3O2
+
+> <MOLECULAR_WEIGHT>
+131.1332
+
+> <EXACT_MASS>
+131.069476547
+
+> <IUPAC_NAME>
+2-(1-methylcarbamimidamido)acetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+creatine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H9N3O2/c1-7(4(5)6)2-3(8)9/h2H2,1H3,(H3,5,6)(H,8,9)
+
+> <INCHI_KEY>
+InChIKey=CVSVTCORWBXHQV-UHFFFAOYSA-N
+
+> <SMILES>
+CN(CC(O)=O)C(N)=N
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+3.5
+
+> <JCHEM_BASIC_PKA>
+12.43
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.6
+
+> <JCHEM_LOGP>
+-2.9
+
+> <ALOGPS_LOGS>
+-1.5
+
+> <JCHEM_POLARIZABILITY>
+12.17
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.41
+
+> <JCHEM_REFRACTIVITY>
+42.01
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+4.11e+00 g/l __ 
+
+$$$$

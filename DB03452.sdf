@@ -1,0 +1,98 @@
+
+  Mrv0541 02231216572D          
+
+ 12 11  0  0  1  0            999 V2000
+    1.9520   -2.7770    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520   -1.9520    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770   -1.9520    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270   -1.9520    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520   -1.1270    0.0000 C    0  0  1  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.1105    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    0.5230    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    0.5230    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.7145    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.1105    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809   -1.1270    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  5  2  1  1  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  5 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03452
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Trimethylsilylsuccinic Acid
+
+> <CHEMICAL_FORMULA>
+C7H14O4Si
+
+> <MOLECULAR_WEIGHT>
+190.2692
+
+> <EXACT_MASS>
+190.066135469
+
+> <IUPAC_NAME>
+(2S)-2-(trimethylsilyl)butanedioic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S)-2-(trimethylsilyl)butanedioic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H14O4Si/c1-12(2,3)5(7(10)11)4-6(8)9/h5H,4H2,1-3H3,(H,8,9)(H,10,11)/t5-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=RTXZCZFAAYFFKF-YFKPBYRVSA-N
+
+> <SMILES>
+C[Si](C)(C)[C@@H](CC(O)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+4.09
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+0.93
+
+> <JCHEM_LOGP>
+1.41
+
+> <ALOGPS_LOGS>
+-1.5
+
+> <JCHEM_POLARIZABILITY>
+18.03
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+38.96
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+5.95e+00 g/l __ 
+
+$$$$

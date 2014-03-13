@@ -1,0 +1,106 @@
+
+  Mrv0541 02231217442D          
+
+ 14 14  0  0  1  0            999 V2000
+    2.8579    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  1  0  0  0
+  5  3  1  6  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  1  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  6  0  0  0
+ 11 13  1  0  0  0  0
+  5 13  1  0  0  0  0
+ 13 14  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04526
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+L-Glycero-D-Manno-Heptopyranose
+
+> <CHEMICAL_FORMULA>
+C7H14O7
+
+> <MOLECULAR_WEIGHT>
+210.1819
+
+> <EXACT_MASS>
+210.073952802
+
+> <IUPAC_NAME>
+(2S,3S,4R,5R,6S)-6-[(1R)-1,2-dihydroxyethyl]oxane-2,3,4,5-tetrol
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S,3S,4R,5R,6S)-6-[(1R)-1,2-dihydroxyethyl]oxane-2,3,4,5-tetrol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H14O7/c8-1-2(9)6-4(11)3(10)5(12)7(13)14-6/h2-13H,1H2/t2-,3-,4-,5+,6+,7+/m1/s1
+
+> <INCHI_KEY>
+InChIKey=BGWQRWREUZVRGI-MAFUWASYSA-N
+
+> <SMILES>
+OC[C@@H](O)[C@@H]1O[C@H](O)[C@@H](O)[C@H](O)[C@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_ACIDIC_PKA>
+11.29
+
+> <JCHEM_BASIC_PKA>
+-3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.8
+
+> <JCHEM_LOGP>
+-3.6
+
+> <ALOGPS_LOGS>
+0.36
+
+> <JCHEM_POLARIZABILITY>
+19.11
+
+> <JCHEM_POLAR_SURFACE_AREA>
+130.61
+
+> <JCHEM_REFRACTIVITY>
+41.89
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+4.85e+02 g/l __ 
+
+$$$$

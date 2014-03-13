@@ -1,0 +1,72 @@
+
+  Mrv0541 02231215082D          
+
+  2  1  0  0  0  0            999 V2000
+     1.650     0.000     0.000 Se   0  0  0  0  0  0  0  0  0  0  0  0
+     2.475     0.000     0.000 S    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00971
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Selenium Sulfide
+
+> <SYNONYMS>
+Selenium sulphide
+
+> <BRANDS>
+Exsel Lotion Shampoo; Glo-Sel; Head & Shoulders Intensive Treatment; Selsun Blue; Versel Lotion
+
+> <CHEMICAL_FORMULA>
+SSe
+
+> <MOLECULAR_WEIGHT>
+111.03
+
+> <EXACT_MASS>
+111.888592518
+
+> <IUPAC_NAME>
+sulfaneselone
+
+> <IUPAC_TRADITIONAL_NAME>
+selenium sulfide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/SSe/c1-2
+
+> <INCHI_KEY>
+InChIKey=VIDTVPHHDGRGAF-UHFFFAOYSA-N
+
+> <SMILES>
+S=[Se]
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_LOGP>
+0.53
+
+> <JCHEM_POLARIZABILITY>
+5.1
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+22.55
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0 __ 
+
+$$$$

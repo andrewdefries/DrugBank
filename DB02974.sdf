@@ -1,0 +1,94 @@
+
+  Mrv0541 02231216362D          
+
+ 12 13  0  0  0  0            999 V2000
+    0.7145    6.7661    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    5.9411    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    5.5286    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    4.7036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    4.2911    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.7036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    5.5286    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    3.4661    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3819    2.9812    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270    2.1965    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3020    2.1965    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0470    2.9812    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  4  0  0  0  0
+ 11 12  4  0  0  0  0
+  8 12  4  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02974
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-(4-Chlorophenyl)Imidazole
+
+> <CHEMICAL_FORMULA>
+C9H6ClN2
+
+> <MOLECULAR_WEIGHT>
+177.61
+
+> <EXACT_MASS>
+177.021950909
+
+> <IUPAC_NAME>
+4-(4-chlorophenyl)imidazole
+
+> <IUPAC_TRADITIONAL_NAME>
+4-(4-chlorophenyl)imidazole
+
+> <SMILES>
+ClC1=CC=C(C=C1)c1cncn1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+2.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.48
+
+> <JCHEM_LOGP>
+2.36
+
+> <ALOGPS_LOGS>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+17.53
+
+> <JCHEM_POLAR_SURFACE_AREA>
+25.78
+
+> <JCHEM_REFRACTIVITY>
+47.95
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.78e+00 g/l __ 
+
+$$$$

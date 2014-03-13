@@ -1,0 +1,102 @@
+EYK
+  Mrv0541 02241213362D          
+
+ 12 12  0  0  0  0            999 V2000
+    1.5991    0.8740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8847    0.4615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4722    1.1759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2972   -0.2530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1702    0.0490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1702   -0.7760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5443   -1.1885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5443   -2.0135    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2588   -0.7760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2588    0.0490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5443    0.4615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5443    1.2865    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07726
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-tert-butylbenzene-1,4-diol
+
+> <CHEMICAL_FORMULA>
+C10H14O2
+
+> <MOLECULAR_WEIGHT>
+166.217
+
+> <EXACT_MASS>
+166.099379692
+
+> <IUPAC_NAME>
+2-tert-butylbenzene-1,4-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+tert-butylhydroquinone
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14O2/c1-10(2,3)8-6-7(11)4-5-9(8)12/h4-6,11-12H,1-3H3
+
+> <INCHI_KEY>
+InChIKey=BGNXCDMCOKJUMV-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)(C)C1=CC(O)=CC=C1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.94
+
+> <JCHEM_BASIC_PKA>
+-5.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.61
+
+> <JCHEM_LOGP>
+2.91
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+18.38
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+48.69
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.75e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,75 @@
+
+  Mrv0541 02231217062D          
+
+  2  1  0  0  0  0            999 V2000
+     0.825     0.000     0.000 C    0  0  0  0  0  0  0  0  0  0  0  0
+     0.000     0.000     0.000 Hg   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03674
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Methyl Mercury Ion
+
+> <CHEMICAL_FORMULA>
+CH3Hg
+
+> <MOLECULAR_WEIGHT>
+215.62
+
+> <EXACT_MASS>
+216.9941007
+
+> <IUPAC_NAME>
+methylmercuryylium
+
+> <IUPAC_TRADITIONAL_NAME>
+methyl mercury ion
+
+> <INCHI_IDENTIFIER>
+InChI=1S/CH3.Hg/h1H3;/q;+1
+
+> <INCHI_KEY>
+InChIKey=DBUXSCUEGJMZAE-UHFFFAOYSA-N
+
+> <SMILES>
+C[Hg+]
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+0.06
+
+> <JCHEM_LOGP>
+0.49
+
+> <ALOGPS_LOGS>
+-0.52
+
+> <JCHEM_POLARIZABILITY>
+4.19
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+5.55
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+7.63e+01 g/l __ 
+
+$$$$

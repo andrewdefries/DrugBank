@@ -1,0 +1,113 @@
+1034
+  Mrv0541 02231215112D          
+
+ 16 16  0  0  1  0            999 V2000
+    3.9345    0.9760    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0615   -0.9760    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.9760    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.2615    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3470    0.2615    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.5220    0.2615    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.0615   -0.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7760    0.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4905   -0.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2050    0.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9194   -0.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6339    0.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3484   -0.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0629    0.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7774   -0.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  9  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  6  0  0  0
+  6  9  1  6  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  3  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  3  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01034
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Cerulenin
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C12H17NO3
+
+> <MOLECULAR_WEIGHT>
+223.2683
+
+> <EXACT_MASS>
+223.120843415
+
+> <IUPAC_NAME>
+(2R,3S)-3-(nona-4,7-dienoyl)oxirane-2-carboxamide
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R,3S)-3-(nona-4,7-dienoyl)oxirane-2-carboxamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H17NO3/c1-2-3-4-5-6-7-8-9(14)10-11(16-10)12(13)15/h2-3,5-6,10-11H,4,7-8H2,1H3,(H2,13,15)/b3-2+,6-5+/t10-,11-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=GVEZIHKRYBHEFX-NQQPLRFYSA-N
+
+> <SMILES>
+CC=CCC=CCCC(=O)[C@H]1O[C@H]1C(N)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+14.16
+
+> <JCHEM_BASIC_PKA>
+-4.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.38
+
+> <JCHEM_LOGP>
+1.5
+
+> <ALOGPS_LOGS>
+-2.1
+
+> <JCHEM_POLARIZABILITY>
+23.9
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.69
+
+> <JCHEM_REFRACTIVITY>
+62.54
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+1.60e+00 g/l __ 
+
+$$$$

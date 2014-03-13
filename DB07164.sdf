@@ -1,0 +1,119 @@
+5BP
+  Mrv0541 02241213142D          
+
+ 19 22  0  0  0  0            999 V2000
+   -0.4636    2.1865    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3210    1.1065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0355    0.6940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7499    1.1065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7499    1.9315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7186    0.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5256   -0.1046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9375   -1.7723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9486    1.5190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4636    0.8516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0355    2.3440    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3210    1.9315    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1665   -0.5461    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4215   -1.3307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2285   -1.5023    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7805   -0.8892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1305   -1.9438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7221   -2.0272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5506   -1.2203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  6  2  0  0  0  0
+  8 19  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9  1  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10  2  2  0  0  0  0
+ 11  5  2  0  0  0  0
+ 12 11  1  0  0  0  0
+ 14 13  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 14  1  0  0  0  0
+ 16  7  1  0  0  0  0
+ 16 15  2  0  0  0  0
+ 17  8  1  0  0  0  0
+ 19 18  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07164
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-cyclopropyl-4-pyrazolo[1,5-b]pyridazin-3-ylpyrimidin-2-amine
+
+> <CHEMICAL_FORMULA>
+C13H12N6
+
+> <MOLECULAR_WEIGHT>
+252.2746
+
+> <EXACT_MASS>
+252.112344414
+
+> <IUPAC_NAME>
+N-cyclopropyl-4-{pyrazolo[1,5-b]pyridazin-3-yl}pyrimidin-2-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+N-cyclopropyl-4-{pyrazolo[1,5-b]pyridazin-3-yl}pyrimidin-2-amine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H12N6/c1-2-12-10(8-16-19(12)15-6-1)11-5-7-14-13(18-11)17-9-3-4-9/h1-2,5-9H,3-4H2,(H,14,17,18)
+
+> <INCHI_KEY>
+InChIKey=CAGHIASAHLPQMS-UHFFFAOYSA-N
+
+> <SMILES>
+C1CC1NC1=NC(=CC=N1)C1=C2C=CC=NN2N=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+15.1
+
+> <JCHEM_BASIC_PKA>
+3.06
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.87
+
+> <JCHEM_LOGP>
+1.45
+
+> <ALOGPS_LOGS>
+-3.8
+
+> <JCHEM_POLARIZABILITY>
+26.07
+
+> <JCHEM_POLAR_SURFACE_AREA>
+68
+
+> <JCHEM_REFRACTIVITY>
+83.69
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+4.02e-02 g/l __ 
+
+$$$$

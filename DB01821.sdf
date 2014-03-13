@@ -1,0 +1,121 @@
+
+  Mrv0541 02231215452D          
+
+ 22 21  0  0  1  0            999 V2000
+    6.7105    4.6993    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4250    4.2868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1395    4.6993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8539    4.2868    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    9.5684    4.6993    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2829    4.2868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2829    3.4618    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9974    4.6993    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.9974    5.5243    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7118    4.2868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4263    4.6993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1408    4.2868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8552    4.6993    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5697    4.2868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5697    3.4618    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2842    4.6993    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9987    4.2868    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   16.7131    4.6993    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   15.9987    3.4618    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8539    3.4618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5684    3.0493    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1395    3.0493    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  1  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  1  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+  4 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01821
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+L-N(Omega)-Nitroarginine-2,4-L-Diaminobutyric Amide
+
+> <CHEMICAL_FORMULA>
+C10H22N8O4
+
+> <MOLECULAR_WEIGHT>
+318.3329
+
+> <EXACT_MASS>
+318.176401232
+
+> <IUPAC_NAME>
+(2S)-2-amino-N-[(1R)-3-amino-1-carbamoylpropyl]-5-(1-nitrocarbamimidamido)pentanamide
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S)-2-amino-N-[(1R)-3-amino-1-carbamoylpropyl]-5-(1-nitrocarbamimidamido)pentanamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H22N8O4/c11-4-3-7(8(13)19)16-9(20)6(12)2-1-5-15-10(14)17-18(21)22/h6-7H,1-5,11-12H2,(H2,13,19)(H,16,20)(H3,14,15,17)/t6-,7+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=KUZKVXUOMSVPOA-NKWVEPMBSA-N
+
+> <SMILES>
+NCC[C@@H](NC(=O)[C@@H](N)CCCNC(=N)N[N+]([O-])=O)C(N)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_DONOR_COUNT>
+7
+
+> <JCHEM_ACIDIC_PKA>
+10.15
+
+> <JCHEM_BASIC_PKA>
+9.43
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <ALOGPS_LOGP>
+-1.9
+
+> <JCHEM_LOGP>
+-3.9
+
+> <ALOGPS_LOGS>
+-3.1
+
+> <JCHEM_POLARIZABILITY>
+31.42
+
+> <JCHEM_POLAR_SURFACE_AREA>
+217.96
+
+> <JCHEM_REFRACTIVITY>
+88.1
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <ALOGPS_SOLUBILITY>
+2.56e-01 g/l __ 
+
+$$$$

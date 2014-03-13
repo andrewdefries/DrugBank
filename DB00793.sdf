@@ -1,0 +1,109 @@
+793
+  Mrv0541 02231215002D          
+
+ 14 14  0  0  0  0            999 V2000
+    3.7934    3.0938    0.0000 I    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.6188    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079   -2.2688    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -3.0938    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.2063    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.6188    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -1.0313    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -1.0313    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -1.8563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -1.8563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -2.2688    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    0.6188    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.4438    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    2.2688    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7 10  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  3  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00793
+
+> <DRUG_GROUPS>
+approved; withdrawn
+
+> <GENERIC_NAME>
+Haloprogin
+
+> <SYNONYMS>
+Haloprogin; Haloprogina; Haloprogine; Haloproginum
+
+> <BRANDS>
+Aloprogen; Halotex; Mycanden; Mycilan; Polik
+
+> <CHEMICAL_FORMULA>
+C9H4Cl3IO
+
+> <MOLECULAR_WEIGHT>
+361.391
+
+> <EXACT_MASS>
+359.837241291
+
+> <IUPAC_NAME>
+1,2,4-trichloro-5-[(3-iodoprop-2-yn-1-yl)oxy]benzene
+
+> <IUPAC_TRADITIONAL_NAME>
+haloprogin
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H4Cl3IO/c10-6-4-8(12)9(5-7(6)11)14-3-1-2-13/h4-5H,3H2
+
+> <INCHI_KEY>
+InChIKey=CTETYYAZBPJBHE-UHFFFAOYSA-N
+
+> <SMILES>
+ClC1=CC(Cl)=C(Cl)C=C1OCC#CI
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+4.69
+
+> <JCHEM_LOGP>
+4.85
+
+> <ALOGPS_LOGS>
+-4.8
+
+> <JCHEM_POLARIZABILITY>
+26.82
+
+> <JCHEM_POLAR_SURFACE_AREA>
+9.23
+
+> <JCHEM_REFRACTIVITY>
+66.88
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+6.01e-03 g/l __ 
+
+$$$$

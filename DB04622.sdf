@@ -1,0 +1,100 @@
+
+  Mrv0541 02231217482D          
+
+ 11 11  0  0  0  0            999 V2000
+   -2.6776   -1.7903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9631   -2.2028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9631   -3.0278    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2486   -1.7903    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5342   -2.2028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1803   -1.7903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8948   -2.2028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6484   -1.8673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2005   -2.4804    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7880   -3.1948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9810   -3.0233    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+  7 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04622
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-ACETYLHISTAMINE
+
+> <CHEMICAL_FORMULA>
+C7H11N3O
+
+> <MOLECULAR_WEIGHT>
+153.1817
+
+> <EXACT_MASS>
+153.090211989
+
+> <IUPAC_NAME>
+N-[2-(1H-imidazol-5-yl)ethyl]acetamide
+
+> <IUPAC_TRADITIONAL_NAME>
+N-acetylhistamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H11N3O/c1-6(11)9-3-2-7-4-8-5-10-7/h4-5H,2-3H2,1H3,(H,8,10)(H,9,11)
+
+> <INCHI_KEY>
+InChIKey=XJWPISBUKWZALE-UHFFFAOYSA-N
+
+> <SMILES>
+CC(=O)NCCC1=CN=CN1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+12.94
+
+> <JCHEM_BASIC_PKA>
+6.75
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.46
+
+> <JCHEM_LOGP>
+-1.2
+
+> <ALOGPS_LOGS>
+-1.7
+
+> <JCHEM_POLARIZABILITY>
+16.22
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.78
+
+> <JCHEM_REFRACTIVITY>
+41.67
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.83e+00 g/l __ 
+
+$$$$

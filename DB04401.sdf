@@ -1,0 +1,88 @@
+
+  Mrv0541 02231217392D          
+
+  7  6  0  0  0  0            999 V2000
+    2.8875   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.7145    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.1105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04401
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+[Formylmethyl]Trimethyl-Ammonium, N,N,N-Trimethylammonium Acetaldehyde
+
+> <CHEMICAL_FORMULA>
+C5H12NO
+
+> <MOLECULAR_WEIGHT>
+102.1549
+
+> <EXACT_MASS>
+102.091889011
+
+> <IUPAC_NAME>
+trimethyl(2-oxoethyl)azanium
+
+> <IUPAC_TRADITIONAL_NAME>
+betaine aldehyde
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H12NO/c1-6(2,3)4-5-7/h5H,4H2,1-3H3/q+1
+
+> <INCHI_KEY>
+InChIKey=SXKNCCSPZDCRFD-UHFFFAOYSA-N
+
+> <SMILES>
+C[N+](C)(C)CC=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-8.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-2.7
+
+> <JCHEM_LOGP>
+-4.7
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+11.64
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+41.06
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+9.32e-01 g/l __ 
+
+$$$$

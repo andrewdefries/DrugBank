@@ -1,0 +1,80 @@
+
+  Mrv0541 02231217372D          
+
+  3  2  0  0  0  0            999 V2000
+     1.650     0.000     0.000 C   0  0  0  0  0  0  0  0  0  0  0  0
+     2.475     0.000     0.000 N   0  3  0  0  0  0  0  0  0  0  0  0
+     3.300     0.000     0.000 C   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  3  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04337
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Methyl Isocyanide
+
+> <CHEMICAL_FORMULA>
+C2H3N
+
+> <MOLECULAR_WEIGHT>
+41.0519
+
+> <EXACT_MASS>
+41.026549101
+
+> <IUPAC_NAME>
+isocyanomethane
+
+> <IUPAC_TRADITIONAL_NAME>
+methyl isocyanide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H3N/c1-3-2/h1H3
+
+> <INCHI_KEY>
+InChIKey=ZRKSVHFXTRFQFL-UHFFFAOYSA-N
+
+> <SMILES>
+C[N+]#[C-]
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+16.35
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+0.77
+
+> <JCHEM_LOGP>
+-2
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+4.37
+
+> <JCHEM_POLAR_SURFACE_AREA>
+4.36
+
+> <JCHEM_REFRACTIVITY>
+21.51
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.72e+00 g/l __ 
+
+$$$$

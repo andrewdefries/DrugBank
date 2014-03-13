@@ -1,0 +1,121 @@
+SRD
+  Mrv0541 02241214102D          
+
+ 21 22  0  0  0  0            999 V2000
+    0.2887   -0.3877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2887   -1.2127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0031   -1.6252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7176   -1.2127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7176   -0.3877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0031    0.0248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4258   -1.6252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4258   -2.4502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2887   -2.8627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0031   -2.4502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4258    0.0248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4258    0.8498    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.8547    2.4998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1403    2.0873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1403    1.2623    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4258    2.4998    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7012    0.5478    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1238    1.9767    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0031    1.6748    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2887    1.2623    0.0000 B   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.9315    0.5578    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 20  1  6  0  0  0
+ 12 21  1  6  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 17 20  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08566
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+D-1-NAPHTHYL-2-ACETAMIDO-ETHANE BORONIC ACID
+
+> <CHEMICAL_FORMULA>
+C14H17BNO4
+
+> <MOLECULAR_WEIGHT>
+274.1
+
+> <EXACT_MASS>
+274.125063503
+
+> <IUPAC_NAME>
+[(1S)-1-acetamido-2-(naphthalen-1-yl)ethyl]trihydroxyboranuide
+
+> <IUPAC_TRADITIONAL_NAME>
+[(1S)-1-acetamido-2-(naphthalen-1-yl)ethyl]trihydroxyboranuide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H17BNO4/c1-10(17)16-14(15(18,19)20)9-12-7-4-6-11-5-2-3-8-13(11)12/h2-8,14,18-20H,9H2,1H3,(H,16,17)/q-1/t14-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=XDFLCBUAVBYWFW-CQSZACIVSA-N
+
+> <SMILES>
+[H][C@](CC1=C2C=CC=CC2=CC=C1)(NC(C)=O)[B-](O)(O)O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+12.74
+
+> <JCHEM_BASIC_PKA>
+-0.46
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.35
+
+> <JCHEM_LOGP>
+0.23
+
+> <ALOGPS_LOGS>
+-3.8
+
+> <JCHEM_POLARIZABILITY>
+28.47
+
+> <JCHEM_POLAR_SURFACE_AREA>
+89.79
+
+> <JCHEM_REFRACTIVITY>
+71.43
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+4.46e-02 g/l __ 
+
+$$$$

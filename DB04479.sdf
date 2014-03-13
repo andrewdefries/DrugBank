@@ -1,0 +1,105 @@
+
+  Mrv0541 02231217422D          
+
+ 13 14  0  0  0  0            999 V2000
+    3.9934    2.4750    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.2789    2.0625    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.5645    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798    1.0799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2949    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798   -0.2549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5249   -1.0396    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  4  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04479
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Nitro-Inden-1-One
+
+> <CHEMICAL_FORMULA>
+C9H5NO3
+
+> <MOLECULAR_WEIGHT>
+175.1409
+
+> <EXACT_MASS>
+175.026943031
+
+> <IUPAC_NAME>
+4-nitro-1H-inden-1-one
+
+> <IUPAC_TRADITIONAL_NAME>
+4-nitro-inden-1-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H5NO3/c11-9-5-4-6-7(9)2-1-3-8(6)10(12)13/h1-5H
+
+> <INCHI_KEY>
+InChIKey=UUNZJPCKMDLQPO-UHFFFAOYSA-N
+
+> <SMILES>
+[O-][N+](=O)C1=CC=CC2=C1C=CC2=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+14.49
+
+> <JCHEM_BASIC_PKA>
+-7.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.52
+
+> <JCHEM_LOGP>
+1.86
+
+> <ALOGPS_LOGS>
+-2.6
+
+> <JCHEM_POLARIZABILITY>
+15.81
+
+> <JCHEM_POLAR_SURFACE_AREA>
+62.89
+
+> <JCHEM_REFRACTIVITY>
+48.14
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.02e-01 g/l __ 
+
+$$$$

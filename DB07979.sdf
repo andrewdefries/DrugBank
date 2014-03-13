@@ -1,0 +1,106 @@
+IM3
+  Mrv0541 02241213462D          
+
+ 14 14  0  0  0  0            999 V2000
+    4.5048   -0.5204    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7903   -0.1079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7903    0.7171    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0759   -0.5204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0759   -1.3454    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3614   -0.1079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6469   -0.5204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9325   -0.1079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2180   -0.5204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4965   -0.1079    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2180   -1.3454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4965   -1.7579    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9325   -1.7579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6469   -1.3454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07979
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2E)-3-(3,4-DIHYDROXYPHENYL)-2-IMINOPROPANOIC ACID
+
+> <CHEMICAL_FORMULA>
+C9H9NO4
+
+> <MOLECULAR_WEIGHT>
+195.1721
+
+> <EXACT_MASS>
+195.053157781
+
+> <IUPAC_NAME>
+3-(3,4-dihydroxyphenyl)-2-iminopropanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+3-(3,4-dihydroxyphenyl)-2-iminopropanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H9NO4/c10-6(9(13)14)3-5-1-2-7(11)8(12)4-5/h1-2,4,10-12H,3H2,(H,13,14)
+
+> <INCHI_KEY>
+InChIKey=VFINRVRRNHRWEQ-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)C(=N)CC1=CC(O)=C(O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+3.62
+
+> <JCHEM_BASIC_PKA>
+2.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.69
+
+> <JCHEM_LOGP>
+0.82
+
+> <ALOGPS_LOGS>
+-2.6
+
+> <JCHEM_POLARIZABILITY>
+18.15
+
+> <JCHEM_POLAR_SURFACE_AREA>
+101.61
+
+> <JCHEM_REFRACTIVITY>
+59.15
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+5.33e-01 g/l __ 
+
+$$$$

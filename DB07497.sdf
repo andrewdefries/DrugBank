@@ -1,0 +1,115 @@
+BTI
+  Mrv0541 02241213282D          
+
+ 18 19  0  0  0  0            999 V2000
+   -3.2288   -0.2567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9432    0.1558    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5143    0.1558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7998   -0.2567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0853    0.1558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3709   -0.2567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3436    0.1558    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.4298    0.9763    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2368    1.1478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6493    0.4334    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.4030    0.0978    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3167   -0.7227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9298   -1.2747    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5098   -0.8942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0973   -0.1797    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.1461    0.4738    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0400    0.8673    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7065   -0.6137    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  6  1  6  0  0  0
+  7  8  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  1  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 17  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 18  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07497
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-(HEXAHYDRO-2-OXO-1H-THIENO[3,4-D]IMIDAZOL-6-YL)PENTANAL
+
+> <CHEMICAL_FORMULA>
+C10H16N2O2S
+
+> <MOLECULAR_WEIGHT>
+228.311
+
+> <EXACT_MASS>
+228.093248456
+
+> <IUPAC_NAME>
+5-[(3aS,4S,6aR)-2-oxo-hexahydro-1H-thieno[3,4-d]imidazolidin-4-yl]pentanal
+
+> <IUPAC_TRADITIONAL_NAME>
+5-[(3aS,4S,6aR)-2-oxo-hexahydrothieno[3,4-d]imidazolidin-4-yl]pentanal
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H16N2O2S/c13-5-3-1-2-4-8-9-7(6-15-8)11-10(14)12-9/h5,7-9H,1-4,6H2,(H2,11,12,14)/t7-,8-,9-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=ARDNWGMSCXSPBF-CIUDSAMLSA-N
+
+> <SMILES>
+[H][C@@]1(CCCCC=O)SC[C@]2([H])NC(=O)N[C@]12[H]
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+13.59
+
+> <JCHEM_BASIC_PKA>
+-1.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.36
+
+> <JCHEM_LOGP>
+0.16
+
+> <ALOGPS_LOGS>
+-2.4
+
+> <JCHEM_POLARIZABILITY>
+23.93
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.2
+
+> <JCHEM_REFRACTIVITY>
+59.13
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+8.97e-01 g/l __ 
+
+$$$$

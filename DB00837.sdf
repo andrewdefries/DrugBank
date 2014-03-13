@@ -1,0 +1,131 @@
+837
+  Mrv0541 02231215022D          
+
+ 23 24  0  0  0  0            999 V2000
+    1.6500    0.9034    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -3.2217    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.5717    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3659    1.7284    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.3341    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    2.9659    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.4909    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.9034    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.7466    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    1.7284    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.5717    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.3341    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -1.9842    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.9842    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.7466    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.4909    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    2.1409    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -2.8092    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.8092    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.3341    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.9034    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -3.2217    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.4909    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1 23  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3 14  2  0  0  0  0
+  4 17  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 21  2  0  0  0  0
+ 18 22  1  0  0  0  0
+ 19 22  2  0  0  0  0
+ 20 23  2  0  0  0  0
+ 21 23  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00837
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Progabide
+
+> <SYNONYMS>
+Halogabide; Progabida; Progabide; Progabidum
+
+> <BRANDS>
+Gabren; Gabrene
+
+> <CHEMICAL_FORMULA>
+C17H16ClFN2O2
+
+> <MOLECULAR_WEIGHT>
+334.773
+
+> <EXACT_MASS>
+334.088433678
+
+> <IUPAC_NAME>
+4-{[(4-chlorophenyl)[(1E)-3-fluoro-6-oxocyclohexa-2,4-dien-1-ylidene]methyl]amino}butanamide
+
+> <IUPAC_TRADITIONAL_NAME>
+progabide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H16ClFN2O2/c18-12-5-3-11(4-6-12)17(21-9-1-2-16(20)23)14-10-13(19)7-8-15(14)22/h3-8,10,21H,1-2,9H2,(H2,20,23)/b17-14+
+
+> <INCHI_KEY>
+InChIKey=DWEQWXSKOHHBNT-SAPNQHFASA-N
+
+> <SMILES>
+NC(=O)CCCN\C(C1=CC=C(Cl)C=C1)=C1/C=C(F)C=CC1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+15.32
+
+> <JCHEM_BASIC_PKA>
+4.01
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.68
+
+> <JCHEM_LOGP>
+1.8
+
+> <ALOGPS_LOGS>
+-4.9
+
+> <JCHEM_POLARIZABILITY>
+33.21
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.19
+
+> <JCHEM_REFRACTIVITY>
+91.22
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+4.42e-03 g/l __ 
+
+$$$$

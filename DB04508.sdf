@@ -1,0 +1,104 @@
+
+  Mrv0541 02231217432D          
+
+ 13 13  0  0  1  0            999 V2000
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  1  0  0  0
+  6  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  1  6  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  1  0  0  0
+ 10 12  1  0  0  0  0
+  3 12  1  0  0  0  0
+ 12 13  1  6  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04508
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Methyl(6s)-1-Thio-L-Manno-Hexodialdo-6,2-Pyranoside
+
+> <CHEMICAL_FORMULA>
+C7H12O5S
+
+> <MOLECULAR_WEIGHT>
+208.232
+
+> <EXACT_MASS>
+208.040544184
+
+> <IUPAC_NAME>
+(2R,3R,4R,5S,6S)-3,4,5-trihydroxy-6-methoxyoxane-2-carbothialdehyde
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R,3R,4R,5S,6S)-3,4,5-trihydroxy-6-methoxyoxane-2-carbothialdehyde
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H12O5S/c1-11-7-6(10)5(9)4(8)3(2-13)12-7/h2-10H,1H3/t3-,4-,5+,6-,7-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=RAZJTJNGLFDKPL-ZYNSJIGGSA-N
+
+> <SMILES>
+CO[C@H]1O[C@@H](C=S)[C@H](O)[C@@H](O)[C@@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+11.65
+
+> <JCHEM_BASIC_PKA>
+-3.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.56
+
+> <JCHEM_LOGP>
+-0.8
+
+> <ALOGPS_LOGS>
+-0.98
+
+> <JCHEM_POLARIZABILITY>
+19.58
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.15
+
+> <JCHEM_REFRACTIVITY>
+47.67
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.16e+01 g/l __ 
+
+$$$$

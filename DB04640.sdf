@@ -1,0 +1,115 @@
+BIH
+  Mrv0541 02231217492D          
+
+ 18 19  0  0  0  0            999 V2000
+   -2.8965   -1.2881    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1820   -0.8756    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7695   -1.5901    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5945   -0.1611    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4676   -0.4631    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4676    0.3619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7531    0.7744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0386    0.3619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6758    0.7744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0386   -0.4631    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7531   -0.8756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6758   -0.8756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3903   -0.4631    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3903    0.3619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1048    0.7744    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8192    1.1869    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5173    0.0599    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6923    1.4889    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 18  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04640
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Naphthalene-2,6-disulfonic acid
+
+> <SYNONYMS>
+2,6-naphthalenedisulfonic acid; Ebert-Merz beta-acid; naphthalene-2,6-disulphonic acid
+
+> <CHEMICAL_FORMULA>
+C10H8O6S2
+
+> <MOLECULAR_WEIGHT>
+288.297
+
+> <EXACT_MASS>
+287.976229368
+
+> <IUPAC_NAME>
+naphthalene-2,6-disulfonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+ebert-merz β-acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H8O6S2/c11-17(12,13)9-3-1-7-5-10(18(14,15)16)4-2-8(7)6-9/h1-6H,(H,11,12,13)(H,14,15,16)
+
+> <INCHI_KEY>
+InChIKey=FITZJYAVATZPMJ-UHFFFAOYSA-N
+
+> <SMILES>
+OS(=O)(=O)C1=CC2=CC=C(C=C2C=C1)S(O)(=O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+-2.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-1.9
+
+> <JCHEM_LOGP>
+1.32
+
+> <ALOGPS_LOGS>
+-2.9
+
+> <JCHEM_POLARIZABILITY>
+26.03
+
+> <JCHEM_POLAR_SURFACE_AREA>
+108.74
+
+> <JCHEM_REFRACTIVITY>
+63.75
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+3.41e-01 g/l __ 
+
+$$$$

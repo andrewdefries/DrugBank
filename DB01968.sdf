@@ -1,0 +1,85 @@
+
+  Mrv0541 02231215512D          
+
+  4  3  0  0  0  0            999 V2000
+    1.2375    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -0.7145    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01968
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Thioethenamine
+
+> <CHEMICAL_FORMULA>
+C2H5NS
+
+> <MOLECULAR_WEIGHT>
+75.133
+
+> <EXACT_MASS>
+75.014269855
+
+> <IUPAC_NAME>
+(E)-2-aminoethene-1-thiol
+
+> <IUPAC_TRADITIONAL_NAME>
+2-thioethenamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H5NS/c3-1-2-4/h1-2,4H,3H2/b2-1+
+
+> <INCHI_KEY>
+InChIKey=JLZMZFJVTNYDOT-OWOJBTEDSA-N
+
+> <SMILES>
+N\C=C\S
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.69
+
+> <JCHEM_BASIC_PKA>
+5.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.26
+
+> <JCHEM_LOGP>
+-0.27
+
+> <ALOGPS_LOGS>
+-0.63
+
+> <JCHEM_POLARIZABILITY>
+7.73
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+21.81
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.77e+01 g/l __ 
+
+$$$$

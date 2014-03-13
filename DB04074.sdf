@@ -1,0 +1,96 @@
+
+  Mrv0541 02231217242D          
+
+  8  7  0  0  0  0            999 V2000
+    1.2375    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04074
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Alpha-ketoisovalerate
+
+> <SYNONYMS>
+3-Methyl-2-oxobutanoic acid
+
+> <CHEMICAL_FORMULA>
+C5H8O3
+
+> <MOLECULAR_WEIGHT>
+116.1152
+
+> <EXACT_MASS>
+116.047344122
+
+> <IUPAC_NAME>
+3-methyl-2-oxobutanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+α-ketoisovalerate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H8O3/c1-3(2)4(6)5(7)8/h3H,1-2H3,(H,7,8)
+
+> <INCHI_KEY>
+InChIKey=QHKABHOOEWYVLI-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)C(=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+3.37
+
+> <JCHEM_BASIC_PKA>
+-9.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.49
+
+> <JCHEM_LOGP>
+1.31
+
+> <ALOGPS_LOGS>
+-0.59
+
+> <JCHEM_POLARIZABILITY>
+11.04
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.37
+
+> <JCHEM_REFRACTIVITY>
+27.19
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+3.02e+01 g/l __ 
+
+$$$$

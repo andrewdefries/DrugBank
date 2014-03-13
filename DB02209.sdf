@@ -1,0 +1,110 @@
+
+  Mrv0541 02231216022D          
+
+ 16 16  0  0  0  0            999 V2000
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5559    0.3020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7309   -1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+  5 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 12 15  2  0  0  0  0
+  2 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02209
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Pyridoxine-5'-Phosphate
+
+> <CHEMICAL_FORMULA>
+C8H12NO6P
+
+> <MOLECULAR_WEIGHT>
+249.1577
+
+> <EXACT_MASS>
+249.040223633
+
+> <IUPAC_NAME>
+{[5-hydroxy-4-(hydroxymethyl)-6-methylpyridin-3-yl]methoxy}phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[5-hydroxy-4-(hydroxymethyl)-6-methylpyridin-3-yl]methoxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H12NO6P/c1-5-8(11)7(3-10)6(2-9-5)4-15-16(12,13)14/h2,10-11H,3-4H2,1H3,(H2,12,13,14)
+
+> <INCHI_KEY>
+InChIKey=WHOMFKWHIQZTHY-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=NC=C(COP(O)(O)=O)C(CO)=C1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+1.74
+
+> <JCHEM_BASIC_PKA>
+5.55
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-0.8
+
+> <JCHEM_LOGP>
+-3.6
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+21.72
+
+> <JCHEM_POLAR_SURFACE_AREA>
+120.11
+
+> <JCHEM_REFRACTIVITY>
+54.98
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+9.41e+00 g/l __ 
+
+$$$$

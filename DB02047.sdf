@@ -1,0 +1,112 @@
+BFL
+  Mrv0541 02231215552D          
+
+ 18 19  0  0  0  0            999 V2000
+    0.6785    0.2607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0360    3.1482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6785    2.7357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6785    1.9107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0360   -1.8018    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7504   -2.2143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6785   -2.2143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6785   -0.5643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0360   -0.9768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7504   -0.5643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7504    0.2607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0360    0.6732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0360    1.4982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7504    1.9107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7504    2.7357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7504   -3.0393    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4649   -1.8018    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0360   -2.3857    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4 13  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  6  0  0  0
+  5  9  1  0  0  0  0
+  5 18  1  1  0  0  0
+  6 16  1  0  0  0  0
+  6 17  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02047
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(1,1'-Biphenyl-4-Yl)Propanoic Acid
+
+> <CHEMICAL_FORMULA>
+C15H14O2
+
+> <MOLECULAR_WEIGHT>
+226.2705
+
+> <EXACT_MASS>
+226.099379692
+
+> <IUPAC_NAME>
+(2S)-2-(4-phenylphenyl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S)-2-(4-phenylphenyl)propanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H14O2/c1-11(15(16)17)12-7-9-14(10-8-12)13-5-3-2-4-6-13/h2-11H,1H3,(H,16,17)/t11-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=JALUUBQFLPUJMY-NSHDSACASA-N
+
+> <SMILES>
+[H][C@@](C)(C(O)=O)C1=CC=C(C=C1)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.71
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+3.38
+
+> <JCHEM_LOGP>
+3.8
+
+> <ALOGPS_LOGS>
+-3.9
+
+> <JCHEM_POLARIZABILITY>
+25.22
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+67.08
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.85e-02 g/l __ 
+
+$$$$

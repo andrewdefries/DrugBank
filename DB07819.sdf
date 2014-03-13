@@ -1,0 +1,104 @@
+GB5
+  Mrv0541 02241213402D          
+
+ 13 13  0  0  0  0            999 V2000
+    2.2375    0.8469    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2375    0.0219    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9520   -0.3906    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6665    0.0219    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5231   -0.3906    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8086    0.0219    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0941   -0.3906    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6203    0.0219    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3348   -0.3906    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3348   -1.2156    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0493   -1.6281    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6203   -1.6281    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0941   -1.2156    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07819
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2E)-3-(4-CHLOROPHENYL)-N-HYDROXYACRYLAMIDE
+
+> <CHEMICAL_FORMULA>
+C9H8ClNO2
+
+> <MOLECULAR_WEIGHT>
+197.618
+
+> <EXACT_MASS>
+197.024356212
+
+> <IUPAC_NAME>
+(2E)-3-(4-chlorophenyl)-N-hydroxyprop-2-enamide
+
+> <IUPAC_TRADITIONAL_NAME>
+(2E)-3-(4-chlorophenyl)-N-hydroxyprop-2-enamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H8ClNO2/c10-8-4-1-7(2-5-8)3-6-9(12)11-13/h1-6,13H,(H,11,12)/b6-3+
+
+> <INCHI_KEY>
+InChIKey=YPYUWBDOEMPXSK-ZZXKWVIFSA-N
+
+> <SMILES>
+ONC(=O)\C=C\C1=CC=C(Cl)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.56
+
+> <JCHEM_BASIC_PKA>
+-5.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.65
+
+> <JCHEM_LOGP>
+1.93
+
+> <ALOGPS_LOGS>
+-3
+
+> <JCHEM_POLARIZABILITY>
+19.23
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.33
+
+> <JCHEM_REFRACTIVITY>
+51.45
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.95e-01 g/l __ 
+
+$$$$

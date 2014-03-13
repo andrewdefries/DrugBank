@@ -1,0 +1,120 @@
+1221
+  Mrv0541 02231215202D          
+
+ 16 17  0  0  1  0            999 V2000
+    4.6295   -0.6759    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.1115    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6665    0.6029    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.1115    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.5240    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.3491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.7616    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.5240    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.3491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7110    0.4188    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4863    0.1366    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5677    1.2312    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8415    0.6029    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1182    0.6669    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1997    1.7616    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9750    1.4794    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01221
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Ketamine
+
+> <SYNONYMS>
+
+
+> <SALTS>
+Ketamine Hydrochloride
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C13H16ClNO
+
+> <MOLECULAR_WEIGHT>
+237.725
+
+> <EXACT_MASS>
+237.092041846
+
+> <IUPAC_NAME>
+2-(2-chlorophenyl)-2-(methylamino)cyclohexan-1-one
+
+> <IUPAC_TRADITIONAL_NAME>
+ketamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H16ClNO/c1-15-13(9-5-4-8-12(13)16)10-6-2-3-7-11(10)14/h2-3,6-7,15H,4-5,8-9H2,1H3
+
+> <INCHI_KEY>
+InChIKey=YQEZLKZALYSWHR-UHFFFAOYSA-N
+
+> <SMILES>
+CNC1(CCCCC1=O)C1=CC=CC=C1Cl
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+18.78
+
+> <JCHEM_BASIC_PKA>
+7.45
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.69
+
+> <JCHEM_LOGP>
+3.35
+
+> <ALOGPS_LOGS>
+-3.7
+
+> <JCHEM_POLARIZABILITY>
+24.97
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.1
+
+> <JCHEM_REFRACTIVITY>
+65.55
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+4.64e-02 g/l __ 
+
+$$$$

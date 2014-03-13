@@ -1,0 +1,103 @@
+
+  Mrv0541 02231215552D          
+
+ 14 14  0  0  0  0            999 V2000
+   -2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3020   -3.6020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270   -2.1730    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+  9 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02055
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Butyl-Benzenesulfonamide
+
+> <CHEMICAL_FORMULA>
+C10H15NO2S
+
+> <MOLECULAR_WEIGHT>
+213.297
+
+> <EXACT_MASS>
+213.082349419
+
+> <IUPAC_NAME>
+N-butylbenzenesulfonamide
+
+> <IUPAC_TRADITIONAL_NAME>
+N-butylbenzenesulfonamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H15NO2S/c1-2-3-9-11-14(12,13)10-7-5-4-6-8-10/h4-8,11H,2-3,9H2,1H3
+
+> <INCHI_KEY>
+InChIKey=IPRJXAGUEGOFGG-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCNS(=O)(=O)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+10.19
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.83
+
+> <JCHEM_LOGP>
+2.13
+
+> <ALOGPS_LOGS>
+-2.7
+
+> <JCHEM_POLARIZABILITY>
+22.66
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.17
+
+> <JCHEM_REFRACTIVITY>
+56.99
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+4.60e-01 g/l __ 
+
+$$$$

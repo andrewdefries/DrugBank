@@ -1,0 +1,132 @@
+986
+  Mrv0541 02231215092D          
+
+ 23 25  0  0  1  0            999 V2000
+    3.9683    0.9047    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9058    0.1902    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9683   -0.5242    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0629    1.3172    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.2783    1.5722    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7934    0.9047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0629    0.4922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7308    1.0153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2783    0.2373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7308    0.1902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0634    1.5002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3982    1.5002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3183    2.2848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1433    2.2848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8879    1.3172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3179    2.1019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5558    0.1902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7308   -0.6348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4453   -1.0473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0163   -1.0473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4453   -1.8723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0163   -1.8723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7308   -2.2848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3 17  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 22  2  0  0  0  0
+ 21 23  2  0  0  0  0
+ 22 23  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00986
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Glycopyrrolate
+
+> <SYNONYMS>
+Glycopyrronium bromide
+
+> <BRANDS>
+Nodapton; Robanul; Robinal; Robinul
+
+> <CHEMICAL_FORMULA>
+C19H28NO3
+
+> <MOLECULAR_WEIGHT>
+318.4305
+
+> <EXACT_MASS>
+318.206918767
+
+> <IUPAC_NAME>
+3-[(2-cyclopentyl-2-hydroxy-2-phenylacetyl)oxy]-1,1-dimethylpyrrolidin-1-ium
+
+> <IUPAC_TRADITIONAL_NAME>
+3-[(2-cyclopentyl-2-hydroxy-2-phenylacetyl)oxy]-1,1-dimethylpyrrolidin-1-ium
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H28NO3/c1-20(2)13-12-17(14-20)23-18(21)19(22,16-10-6-7-11-16)15-8-4-3-5-9-15/h3-5,8-9,16-17,22H,6-7,10-14H2,1-2H3/q+1
+
+> <INCHI_KEY>
+InChIKey=ANGKOCUUWGHLCE-UHFFFAOYSA-N
+
+> <SMILES>
+C[N+]1(C)CCC(C1)OC(=O)C(O)(C1CCCC1)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+11.53
+
+> <JCHEM_BASIC_PKA>
+-4.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-1.2
+
+> <JCHEM_LOGP>
+-1.4
+
+> <ALOGPS_LOGS>
+-5.6
+
+> <JCHEM_POLARIZABILITY>
+35.88
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+101.08
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+9.44e-04 g/l __ 
+
+$$$$

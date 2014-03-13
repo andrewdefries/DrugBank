@@ -1,0 +1,102 @@
+
+  Mrv0541 04191212122D          
+
+ 12 12  0  0  1  0            999 V2000
+   -0.7145   -0.4125    0.0000 C    0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C    0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C    0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C    0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C    0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C    0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.8250    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  1  1  0  0  0  0
+  5  3  1  0  0  0  0
+  6  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  3  7  1  1  0  0  0
+  6  8  1  6  0  0  0
+  1  9  1  1  0  0  0
+  2 10  1  6  0  0  0
+  4 11  1  1  0  0  0
+  5 12  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00431
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Lindane
+
+> <SYNONYMS>
+gamma-BHC; gamma-HCH; gamma-Hexachlorocyclohexane; Gammallin; Gammaxene; Lindan; γ-hexachlorocyclohexane; γ-Hexachlorzyklohexan; γ-lindane
+
+> <BRANDS>
+Gamene; Kwell; Scabene
+
+> <CHEMICAL_FORMULA>
+C6H6Cl6
+
+> <MOLECULAR_WEIGHT>
+290.83
+
+> <EXACT_MASS>
+287.860066434
+
+> <IUPAC_NAME>
+(1R,2S,3r,4R,5S,6r)-1,2,3,4,5,6-hexachlorocyclohexane
+
+> <IUPAC_TRADITIONAL_NAME>
+lindane
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6Cl6/c7-1-2(8)4(10)6(12)5(11)3(1)9/h1-6H/t1-,2-,3-,4+,5+,6+
+
+> <INCHI_KEY>
+InChIKey=JLYXXMFPNIAWKQ-GNIYUCBRSA-N
+
+> <SMILES>
+Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.94
+
+> <JCHEM_LOGP>
+4.35
+
+> <ALOGPS_LOGS>
+-4.7
+
+> <JCHEM_POLARIZABILITY>
+23.08
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+54.08
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.47e-03 g/l __ 
+
+$$$$

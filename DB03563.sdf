@@ -1,0 +1,99 @@
+
+  Mrv0541 02231217012D          
+
+ 14 13  0  0  0  0            999 V2000
+    4.7586    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4730    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1875    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9020    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6164    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3309    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0454    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7599    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4743    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1888    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9033    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6177    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3322    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0467    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03563
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tetradecane
+
+> <CHEMICAL_FORMULA>
+C14H30
+
+> <MOLECULAR_WEIGHT>
+198.388
+
+> <EXACT_MASS>
+198.23475096
+
+> <IUPAC_NAME>
+tetradecane
+
+> <IUPAC_TRADITIONAL_NAME>
+tetradecane
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H30/c1-3-5-7-9-11-13-14-12-10-8-6-4-2/h3-14H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=BGHCVCJVXZWKCC-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCCCCCCCCCC
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+7.7
+
+> <JCHEM_LOGP>
+6.69
+
+> <ALOGPS_LOGS>
+-6.5
+
+> <JCHEM_POLARIZABILITY>
+29.08
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+66.22
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+11
+
+> <ALOGPS_SOLUBILITY>
+5.53e-05 g/l __ 
+
+$$$$

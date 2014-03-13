@@ -1,0 +1,103 @@
+
+  Mrv0541 02231217242D          
+
+ 13 12  0  0  1  0            999 V2000
+    2.9980   -2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270   -2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414   -2.1434    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.1414   -1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559   -2.5559    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.8559   -3.3809    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849   -2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993   -2.1434    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138   -1.7309    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4118   -2.8579    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5868   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  1  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04087
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Open Form of 2'-Deoxy-Ribofuranose-5'-Phosphate
+
+> <CHEMICAL_FORMULA>
+C5H13O7P
+
+> <MOLECULAR_WEIGHT>
+216.1263
+
+> <EXACT_MASS>
+216.039889282
+
+> <IUPAC_NAME>
+{[(2R,3R)-2,3,5-trihydroxypentyl]oxy}phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[(2R,3R)-2,3,5-trihydroxypentyl]oxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H13O7P/c6-2-1-4(7)5(8)3-12-13(9,10)11/h4-8H,1-3H2,(H2,9,10,11)/t4-,5-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=YCHBTVQJICBXEI-RFZPGFLSSA-N
+
+> <SMILES>
+OCC[C@@H](O)[C@H](O)COP(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+1.5
+
+> <JCHEM_BASIC_PKA>
+-2.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-1.9
+
+> <JCHEM_LOGP>
+-2.5
+
+> <ALOGPS_LOGS>
+-0.82
+
+> <JCHEM_POLARIZABILITY>
+18.35
+
+> <JCHEM_POLAR_SURFACE_AREA>
+127.45
+
+> <JCHEM_REFRACTIVITY>
+42.22
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+3.30e+01 g/l __ 
+
+$$$$

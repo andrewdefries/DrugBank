@@ -1,0 +1,130 @@
+735
+  Mrv0541 02231214582D          
+
+ 22 24  0  0  1  0            999 V2000
+    4.5079    0.3982    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2223    0.8107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2223    1.6357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9369    2.0482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9369    2.8732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079   -0.4268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079    2.0482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    0.8107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6743    1.6071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2223    3.2857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079    2.8732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6743    3.3143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -0.8393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4219    2.0311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4219    2.8904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -1.6643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -2.0768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -2.9018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -1.6643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -3.3143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.0768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.9018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5 10  1  0  0  0  0
+  5 12  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7 11  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  2  3  0  0  0
+ 14 15  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 20 22  2  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00735
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Naftifine
+
+> <SYNONYMS>
+Naftifin; Naftifina; Naftifine; Naftifinum
+
+> <SALTS>
+Naftifine Hydrochloride
+
+> <BRANDS>
+A Mei; Ancent; Exoderil; Micosona; Naftifina; Naftin; Suadian
+
+> <CHEMICAL_FORMULA>
+C21H21N
+
+> <MOLECULAR_WEIGHT>
+287.3981
+
+> <EXACT_MASS>
+287.167399677
+
+> <IUPAC_NAME>
+methyl(naphthalen-1-ylmethyl)(3-phenylprop-2-en-1-yl)amine
+
+> <IUPAC_TRADITIONAL_NAME>
+methyl(naphthalen-1-ylmethyl)(3-phenylprop-2-en-1-yl)amine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H21N/c1-22(16-8-11-18-9-3-2-4-10-18)17-20-14-7-13-19-12-5-6-15-21(19)20/h2-15H,16-17H2,1H3/b11-8+
+
+> <INCHI_KEY>
+InChIKey=OZGNYLLQHRPOBR-DHZHZOJOSA-N
+
+> <SMILES>
+CN(CC=CC1=CC=CC=C1)CC1=CC=CC2=CC=CC=C12
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+9.08
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+4.96
+
+> <JCHEM_LOGP>
+5.24
+
+> <ALOGPS_LOGS>
+-6.1
+
+> <JCHEM_POLARIZABILITY>
+34.05
+
+> <JCHEM_POLAR_SURFACE_AREA>
+3.24
+
+> <JCHEM_REFRACTIVITY>
+95.98
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+2.29e-04 g/l __ 
+
+$$$$

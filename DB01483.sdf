@@ -1,0 +1,101 @@
+1483
+  Mrv0541 02231215312D          
+
+ 13 13  0  0  0  0            999 V2000
+    1.6500    0.5231    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.5231    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.5231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6665    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4916    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.1106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.1106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8415    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2 10  2  0  0  0  0
+  3 13  2  0  0  0  0
+  4  9  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01483
+
+> <DRUG_GROUPS>
+experimental; illicit
+
+> <GENERIC_NAME>
+Barbital
+
+> <CHEMICAL_FORMULA>
+C8H12N2O3
+
+> <MOLECULAR_WEIGHT>
+184.1925
+
+> <EXACT_MASS>
+184.08479226
+
+> <IUPAC_NAME>
+5,5-diethyl-1,3-diazinane-2,4,6-trione
+
+> <IUPAC_TRADITIONAL_NAME>
+barbital
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H12N2O3/c1-3-8(4-2)5(11)9-7(13)10-6(8)12/h3-4H2,1-2H3,(H2,9,10,11,12,13)
+
+> <INCHI_KEY>
+InChIKey=FTOAOBMCPZCFFF-UHFFFAOYSA-N
+
+> <SMILES>
+CCC1(CC)C(=O)NC(=O)NC1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+8.48
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.73
+
+> <JCHEM_LOGP>
+0.72
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+17.59
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.27
+
+> <JCHEM_REFRACTIVITY>
+44.25
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+3.23e+00 g/l __ 
+
+$$$$

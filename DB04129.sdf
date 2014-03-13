@@ -1,0 +1,106 @@
+
+  Mrv0541 02231217272D          
+
+ 14 14  0  0  1  0            999 V2000
+    1.4289    2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  4 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  2 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04129
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Willardiine
+
+> <CHEMICAL_FORMULA>
+C7H9N3O4
+
+> <MOLECULAR_WEIGHT>
+199.1641
+
+> <EXACT_MASS>
+199.059305791
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-(2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-yl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+willardiine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H9N3O4/c8-4(6(12)13)3-10-2-1-5(11)9-7(10)14/h1-2,4H,3,8H2,(H,12,13)(H,9,11,14)/t4-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=FACUYWPMDKTVFU-BYPYZUCNSA-N
+
+> <SMILES>
+N[C@@H](CN1C=CC(=O)NC1=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.78
+
+> <JCHEM_BASIC_PKA>
+8.46
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.5
+
+> <JCHEM_LOGP>
+-4
+
+> <ALOGPS_LOGS>
+-0.96
+
+> <JCHEM_POLARIZABILITY>
+17.62
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.73
+
+> <JCHEM_REFRACTIVITY>
+44.65
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.17e+01 g/l __ 
+
+$$$$

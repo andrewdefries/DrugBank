@@ -1,0 +1,89 @@
+
+  Mrv0541 02231217472D          
+
+  6  5  0  0  0  0            999 V2000
+    1.2375    2.1434    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04592
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Bromo-3-buten-1-ol
+
+> <CHEMICAL_FORMULA>
+C4H7BrO
+
+> <MOLECULAR_WEIGHT>
+151.002
+
+> <EXACT_MASS>
+149.968027493
+
+> <IUPAC_NAME>
+3-bromobut-3-en-1-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+3-bromo-3-buten-1-ol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H7BrO/c1-4(5)2-3-6/h6H,1-3H2
+
+> <INCHI_KEY>
+InChIKey=RTKMFQOHBDVEBC-UHFFFAOYSA-N
+
+> <SMILES>
+OCCC(Br)=C
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+15.9
+
+> <JCHEM_BASIC_PKA>
+-2.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.05
+
+> <JCHEM_LOGP>
+0.67
+
+> <ALOGPS_LOGS>
+-0.71
+
+> <JCHEM_POLARIZABILITY>
+11.37
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+29.82
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.94e+01 g/l __ 
+
+$$$$

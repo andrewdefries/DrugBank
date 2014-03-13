@@ -1,0 +1,113 @@
+34154
+  Mrv0541 02241214202D          
+
+ 17 18  0  0  0  0            999 V2000
+    3.7935   -0.0160    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8405    1.7065    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1754    1.7065    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.8410    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.2535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.8410    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.2215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.2535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.0160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0955    2.4911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -2.0786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.3965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9205    2.4911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.2535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -2.0786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.4911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -2.4911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  7  2  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08803
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Tymazoline
+
+> <BRANDS>
+Thymazen
+
+> <CHEMICAL_FORMULA>
+C14H20N2O
+
+> <MOLECULAR_WEIGHT>
+232.3214
+
+> <EXACT_MASS>
+232.157563272
+
+> <IUPAC_NAME>
+2-[5-methyl-2-(propan-2-yl)phenoxymethyl]-4,5-dihydro-1H-imidazole
+
+> <IUPAC_TRADITIONAL_NAME>
+2-(2-isopropyl-5-methylphenoxymethyl)-4,5-dihydro-1H-imidazole
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H20N2O/c1-10(2)12-5-4-11(3)8-13(12)17-9-14-15-6-7-16-14/h4-5,8,10H,6-7,9H2,1-3H3,(H,15,16)
+
+> <INCHI_KEY>
+InChIKey=QRORCRWSRPKEHR-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)C1=C(OCC2=NCCN2)C=C(C)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+7.66
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+3.2
+
+> <JCHEM_LOGP>
+2.64
+
+> <ALOGPS_LOGS>
+-3.3
+
+> <JCHEM_POLARIZABILITY>
+27.29
+
+> <JCHEM_POLAR_SURFACE_AREA>
+33.62
+
+> <JCHEM_REFRACTIVITY>
+69.54
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.18e-01 g/l __ 
+
+$$$$

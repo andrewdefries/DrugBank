@@ -1,0 +1,106 @@
+4FE
+  Mrv0541 02241213122D          
+
+ 14 14  0  0  0  0            999 V2000
+    2.1243    1.5898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1243    0.7648    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4098    0.3523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4098   -0.4727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6953   -0.8852    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0191   -0.4727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0191    0.3523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6953    1.5898    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6953    0.7648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7336   -0.8852    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4481   -0.4727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1626   -0.8852    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1626   -1.7102    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8770   -0.4727    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  4  2  0  0  0  0
+  6  5  1  0  0  0  0
+  7  6  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9  3  2  0  0  0  0
+ 10  6  1  0  0  0  0
+ 11 10  2  0  0  0  0
+ 12 11  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 12  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07109
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2E)-3-(3-hydroxy-4-methoxyphenyl)prop-2-enoic acid
+
+> <CHEMICAL_FORMULA>
+C10H10O4
+
+> <MOLECULAR_WEIGHT>
+194.184
+
+> <EXACT_MASS>
+194.057908808
+
+> <IUPAC_NAME>
+(2E)-3-(3-hydroxy-4-methoxyphenyl)prop-2-enoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+isoferulic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H10O4/c1-14-9-4-2-7(6-8(9)11)3-5-10(12)13/h2-6,11H,1H3,(H,12,13)/b5-3+
+
+> <INCHI_KEY>
+InChIKey=QURCVMIEKCOAJU-HWKANZROSA-N
+
+> <SMILES>
+COC1=C(O)C=C(\C=C\C(O)=O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+3.77
+
+> <JCHEM_BASIC_PKA>
+-4.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.56
+
+> <JCHEM_LOGP>
+1.67
+
+> <ALOGPS_LOGS>
+-2.4
+
+> <JCHEM_POLARIZABILITY>
+19.36
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.76
+
+> <JCHEM_REFRACTIVITY>
+51.5
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+8.71e-01 g/l __ 
+
+$$$$

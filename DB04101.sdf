@@ -1,0 +1,113 @@
+CK3
+  Mrv0541 02231217252D          
+
+ 17 18  0  0  0  0            999 V2000
+   -1.0882    2.4482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0882    1.6232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4207    1.1383    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7556    1.1383    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5007    0.3536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9856   -0.3138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6757    0.3536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1907   -0.3138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6297   -0.2276    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5263   -1.0675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0414   -1.7349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7791   -1.6487    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1147   -0.8950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9351   -0.8088    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4201   -1.4762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2406   -1.3900    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5761   -0.6363    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04101
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-[4-(2,4-Dimethyl-1,3-Thiazol-5-Yl)Pyrimidin-2-Yl]-N'-Hydroxyimidoformamide
+
+> <CHEMICAL_FORMULA>
+C10H11N5OS
+
+> <MOLECULAR_WEIGHT>
+249.292
+
+> <EXACT_MASS>
+249.068430689
+
+> <IUPAC_NAME>
+(Z)-N-[4-(dimethyl-1,3-thiazol-5-yl)pyrimidin-2-yl]-N'-hydroxymethanimidamide
+
+> <IUPAC_TRADITIONAL_NAME>
+(Z)-N-[4-(dimethyl-1,3-thiazol-5-yl)pyrimidin-2-yl]-N'-hydroxymethanimidamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11N5OS/c1-6-9(17-7(2)14-6)8-3-4-11-10(15-8)12-5-13-16/h3-5,16H,1-2H3,(H,11,12,13,15)
+
+> <INCHI_KEY>
+InChIKey=OVKZTPFHUYGZBI-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=NC(C)=C(S1)C1=CC=NC(N\C=N/O)=N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+10.44
+
+> <JCHEM_BASIC_PKA>
+2.64
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.56
+
+> <JCHEM_LOGP>
+0.87
+
+> <ALOGPS_LOGS>
+-3.4
+
+> <JCHEM_POLARIZABILITY>
+25.36
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.29
+
+> <JCHEM_REFRACTIVITY>
+65.65
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.09e-01 g/l __ 
+
+$$$$

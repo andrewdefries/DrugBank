@@ -1,0 +1,94 @@
+
+  Mrv0541 02231216472D          
+
+  7  6  0  0  1  0            999 V2000
+    2.0625    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03214
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Vinylglycine
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C4H7NO2
+
+> <MOLECULAR_WEIGHT>
+101.1039
+
+> <EXACT_MASS>
+101.047678473
+
+> <IUPAC_NAME>
+(2S)-2-aminobut-3-enoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+vinylglycine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H7NO2/c1-2-3(5)4(6)7/h2-3H,1,5H2,(H,6,7)/t3-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=RQVLGLPAZTUBKX-VKHMYHEASA-N
+
+> <SMILES>
+N[C@@H](C=C)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.42
+
+> <JCHEM_BASIC_PKA>
+8.95
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.7
+
+> <JCHEM_LOGP>
+-2.5
+
+> <ALOGPS_LOGS>
+0.39
+
+> <JCHEM_POLARIZABILITY>
+9.65
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+24.91
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.50e+02 g/l __ 
+
+$$$$

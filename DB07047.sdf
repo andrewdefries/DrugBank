@@ -1,0 +1,115 @@
+3CA
+  Mrv0541 02241213102D          
+
+ 18 19  0  0  0  0            999 V2000
+    1.7306    2.0187    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0162    1.6062    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3017    2.0187    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0162    0.7812    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7306    0.3687    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4451    0.7812    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7306   -0.4563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0162   -0.8688    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3017   -0.4563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3017    0.3687    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4128   -0.8688    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4128   -1.6938    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1272   -0.4563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1272    0.3687    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8417   -0.8688    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8417   -1.6938    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5562   -2.1063    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1272   -2.1063    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 18  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07047
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2',4'-DICHLORO-4-HYDROXY-1,1'-BIPHENYL-3-CARBOXYLIC ACID
+
+> <CHEMICAL_FORMULA>
+C13H8Cl2O3
+
+> <MOLECULAR_WEIGHT>
+283.107
+
+> <EXACT_MASS>
+281.985049536
+
+> <IUPAC_NAME>
+5-(2,4-dichlorophenyl)-2-hydroxybenzoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+5-(2,4-dichlorophenyl)-2-hydroxybenzoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H8Cl2O3/c14-8-2-3-9(11(15)6-8)7-1-4-12(16)10(5-7)13(17)18/h1-6,16H,(H,17,18)
+
+> <INCHI_KEY>
+InChIKey=SKAFZYDMDHPPJM-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)C1=CC(=CC=C1O)C1=C(Cl)C=C(Cl)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.7
+
+> <JCHEM_BASIC_PKA>
+-6.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+4.85
+
+> <JCHEM_LOGP>
+4.83
+
+> <ALOGPS_LOGS>
+-4.1
+
+> <JCHEM_POLARIZABILITY>
+26.49
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+70.04
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.42e-02 g/l __ 
+
+$$$$

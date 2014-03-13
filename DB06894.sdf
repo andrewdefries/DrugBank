@@ -1,0 +1,103 @@
+1DO
+  Mrv0541 02241213032D          
+
+ 13 12  0  0  0  0            999 V2000
+   -4.2713    0.1788    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5570   -0.2337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8425    0.1788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1281   -0.2337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4136    0.1788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6993   -0.2337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0152    0.1788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7297   -0.2337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4440    0.1788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1585   -0.2337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8729    0.1788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5874   -0.2337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3017    0.1788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB06894
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-DODECANOL
+
+> <CHEMICAL_FORMULA>
+C12H26O
+
+> <MOLECULAR_WEIGHT>
+186.3342
+
+> <EXACT_MASS>
+186.198365454
+
+> <IUPAC_NAME>
+dodecan-1-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+dodecanol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H26O/c1-2-3-4-5-6-7-8-9-10-11-12-13/h13H,2-12H2,1H3
+
+> <INCHI_KEY>
+InChIKey=LQZZUXJYWNFBMV-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCCCCCCCCO
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+16.84
+
+> <JCHEM_BASIC_PKA>
+-2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+5.36
+
+> <JCHEM_LOGP>
+4.36
+
+> <ALOGPS_LOGS>
+-4.9
+
+> <JCHEM_POLARIZABILITY>
+25.86
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+58.94
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <ALOGPS_SOLUBILITY>
+2.60e-03 g/l __ 
+
+$$$$

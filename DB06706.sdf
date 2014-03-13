@@ -1,0 +1,94 @@
+
+  Mrv0541 02241212482D          
+
+ 10  9  0  0  0  0            999 V2000
+    1.9520    1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1914    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9059    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6204    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9059    1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB06706
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Isometheptene
+
+> <CHEMICAL_FORMULA>
+C9H19N
+
+> <MOLECULAR_WEIGHT>
+141.2539
+
+> <EXACT_MASS>
+141.151749613
+
+> <IUPAC_NAME>
+methyl(6-methylhept-5-en-2-yl)amine
+
+> <IUPAC_TRADITIONAL_NAME>
+isometheptene
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H19N/c1-8(2)6-5-7-9(3)10-4/h6,9-10H,5,7H2,1-4H3
+
+> <INCHI_KEY>
+InChIKey=XVQUOJBERHHONY-UHFFFAOYSA-N
+
+> <SMILES>
+CNC(C)CCC=C(C)C
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+10.67
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.07
+
+> <JCHEM_LOGP>
+2.32
+
+> <ALOGPS_LOGS>
+-1.7
+
+> <JCHEM_POLARIZABILITY>
+18.81
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+47.59
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+3.06e+00 g/l __ 
+
+$$$$

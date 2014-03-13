@@ -1,0 +1,83 @@
+
+  Mrv0541 02231216112D          
+
+  9  8  0  0  1  0            999 V2000
+   -0.6039   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1105   -1.2375    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230   -1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3020   -0.5230    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 P   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8250    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 S   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  6  0  0  0
+  6  8  1  1  0  0  0
+  6  9  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02423
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Thiopyrophosphate
+
+> <CHEMICAL_FORMULA>
+H3O6P2S
+
+> <MOLECULAR_WEIGHT>
+193.033
+
+> <EXACT_MASS>
+192.912556542
+
+> <IUPAC_NAME>
+{[hydroxy(sulfanidyl)phosphoryl]oxy}phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[hydroxy(sulfanidyl)phosphoryl]oxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/H4O6P2S/c1-7(2,3)6-8(4,5)9/h(H2,1,2,3)(H2,4,5,9)/p-1
+
+> <INCHI_KEY>
+InChIKey=HWTUHTNZLQJJEV-UHFFFAOYSA-M
+
+> <SMILES>
+OP(O)(=O)O[P@](O)([S-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+0.89
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_LOGP>
+-0.7
+
+> <JCHEM_POLARIZABILITY>
+12.08
+
+> <JCHEM_POLAR_SURFACE_AREA>
+104.06
+
+> <JCHEM_REFRACTIVITY>
+32.39
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2 __ 
+
+$$$$

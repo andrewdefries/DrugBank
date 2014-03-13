@@ -1,0 +1,82 @@
+
+  Mrv0541 02231216102D          
+
+  4  3  0  0  0  0            999 V2000
+    2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02396
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Methylethylamine
+
+> <CHEMICAL_FORMULA>
+C3H9N
+
+> <MOLECULAR_WEIGHT>
+59.1103
+
+> <EXACT_MASS>
+59.073499293
+
+> <IUPAC_NAME>
+ethyl(methyl)amine
+
+> <IUPAC_TRADITIONAL_NAME>
+methylethylamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H9N/c1-3-4-2/h4H,3H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=LIWAQLJGPBVORC-UHFFFAOYSA-N
+
+> <SMILES>
+CCNC
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+10.54
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+0.13
+
+> <JCHEM_LOGP>
+0.16
+
+> <ALOGPS_LOGS>
+0.85
+
+> <JCHEM_POLARIZABILITY>
+7.72
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+19.44
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.18e+02 g/l __ 
+
+$$$$

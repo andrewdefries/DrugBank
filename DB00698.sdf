@@ -1,0 +1,119 @@
+698
+  Mrv0541 02231214562D          
+
+ 17 18  0  0  0  0            999 V2000
+    5.2848    1.2546    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9996   -1.8430    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.1360    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9929    1.4814    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    7.1423    0.0602    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1022    0.0940    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6896   -1.1756    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1022    0.9190    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6573    0.7277    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.7696   -0.3910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5147   -1.1756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4347   -0.3910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5311    0.9190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8166    1.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6174    0.0985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8368    0.6415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4243   -0.0730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 12  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 14  2  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00698
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Nitrofurantoin
+
+> <SYNONYMS>
+5-Nitrofurantoin; N-(5-Nitrofurfurylidene)-1-aminohydantoin
+
+> <BRANDS>
+Furabid; Furadantin; Macrobid; Macrodantin; Niftran; Siraliden; Urantoin; Urolong
+
+> <CHEMICAL_FORMULA>
+C8H6N4O5
+
+> <MOLECULAR_WEIGHT>
+238.157
+
+> <EXACT_MASS>
+238.033819322
+
+> <IUPAC_NAME>
+1-[(Z)-[(5-nitrofuran-2-yl)methylidene]amino]imidazolidine-2,4-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+nitrofurantoin
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H6N4O5/c13-6-4-11(8(14)10-6)9-3-5-1-2-7(17-5)12(15)16/h1-3H,4H2,(H,10,13,14)/b9-3-
+
+> <INCHI_KEY>
+InChIKey=NXFQHRVNIOXGAQ-OQFOIZHKSA-N
+
+> <SMILES>
+[O-][N+](=O)C1=CC=C(O1)\C=N/N1CC(=O)NC1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+9.23
+
+> <JCHEM_BASIC_PKA>
+-2.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.03
+
+> <JCHEM_LOGP>
+-0.22
+
+> <ALOGPS_LOGS>
+-2.8
+
+> <JCHEM_POLARIZABILITY>
+19.75
+
+> <JCHEM_POLAR_SURFACE_AREA>
+120.73
+
+> <JCHEM_REFRACTIVITY>
+53.11
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+4.15e-01 g/l __ 
+
+$$$$

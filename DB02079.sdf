@@ -1,0 +1,89 @@
+
+  Mrv0541 02231215572D          
+
+  6  5  0  0  0  0            999 V2000
+    1.2375    2.1434    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02079
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(Aminooxy)Acetic Acid
+
+> <CHEMICAL_FORMULA>
+C2H5NO3
+
+> <MOLECULAR_WEIGHT>
+91.066
+
+> <EXACT_MASS>
+91.026943031
+
+> <IUPAC_NAME>
+2-(aminooxy)acetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(aminooxy)acetic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H5NO3/c3-6-1-2(4)5/h1,3H2,(H,4,5)
+
+> <INCHI_KEY>
+InChIKey=NQRKYASMKDDGHT-UHFFFAOYSA-N
+
+> <SMILES>
+NOCC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+3.16
+
+> <JCHEM_BASIC_PKA>
+4.52
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.79
+
+> <JCHEM_LOGP>
+-2.2
+
+> <ALOGPS_LOGS>
+0.76
+
+> <JCHEM_POLARIZABILITY>
+7.61
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.55
+
+> <JCHEM_REFRACTIVITY>
+18.42
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+5.26e+02 g/l __ 
+
+$$$$

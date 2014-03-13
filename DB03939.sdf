@@ -1,0 +1,94 @@
+
+  Mrv0541 02231217172D          
+
+  8  8  0  0  1  0            999 V2000
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  2  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03939
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Hydroxy-3,4-Dihydro-1h-Pyrimidin-2-One
+
+> <CHEMICAL_FORMULA>
+C4H6N2O2
+
+> <MOLECULAR_WEIGHT>
+114.1026
+
+> <EXACT_MASS>
+114.042927446
+
+> <IUPAC_NAME>
+(4R)-4-hydroxy-1,2,3,4-tetrahydropyrimidin-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+(4R)-4-hydroxy-3,4-dihydro-1H-pyrimidin-2-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6N2O2/c7-3-1-2-5-4(8)6-3/h1-3,7H,(H2,5,6,8)/t3-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=DEAAWXYGBWCVJW-GSVOUGTGSA-N
+
+> <SMILES>
+O[C@H]1NC(=O)NC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+11.06
+
+> <JCHEM_BASIC_PKA>
+-3.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.8
+
+> <JCHEM_LOGP>
+-1.2
+
+> <ALOGPS_LOGS>
+-0.23
+
+> <JCHEM_POLARIZABILITY>
+10
+
+> <JCHEM_POLAR_SURFACE_AREA>
+61.36
+
+> <JCHEM_REFRACTIVITY>
+26.84
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+6.77e+01 g/l __ 
+
+$$$$

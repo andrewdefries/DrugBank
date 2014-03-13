@@ -1,0 +1,98 @@
+
+  Mrv0541 02231214362D          
+
+  9  8  0  0  0  0            999 V2000
+   -3.1875    1.3438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4730    0.1063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4730    0.9313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7586    1.3438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0441    0.1063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0441    0.9313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3296    2.1688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3296    1.3438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3849    0.9313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  3  2  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  5  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00331
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Metformin
+
+> <SALTS>
+Metformin Hydrochloride
+
+> <BRANDS>
+Apo-Metformin; Glucophage; Glucophage XR; Glumetza; Mylan-Metformin; Novo-Metformin; Nu-Metformin; PMS-Metformin; Ran-Metformin; Ratio-Metformin; Sandoz Metformin; Teva-Metformin
+
+> <CHEMICAL_FORMULA>
+C4H11N5
+
+> <MOLECULAR_WEIGHT>
+129.1636
+
+> <EXACT_MASS>
+129.101445377
+
+> <IUPAC_NAME>
+1-carbamimidamido-N,N-dimethylmethanimidamide
+
+> <IUPAC_TRADITIONAL_NAME>
+metformin
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H11N5/c1-9(2)4(7)8-3(5)6/h1-2H3,(H5,5,6,7,8)
+
+> <INCHI_KEY>
+InChIKey=XZWYZXLIPXDOLR-UHFFFAOYSA-N
+
+> <SMILES>
+CN(C)C(=N)NC(N)=N
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_BASIC_PKA>
+12.33
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <ALOGPS_LOGP>
+-1.8
+
+> <JCHEM_LOGP>
+-0.92
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+13.43
+
+> <JCHEM_POLAR_SURFACE_AREA>
+88.99
+
+> <JCHEM_REFRACTIVITY>
+56.64
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.38e+00 g/l __ 
+
+$$$$

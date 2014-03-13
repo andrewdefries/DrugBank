@@ -1,0 +1,90 @@
+
+  Mrv0541 02231216412D          
+
+  5  4  0  0  0  0            999 V2000
+    0.8250    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03085
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Hydroxyacetic Acid
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C2H4O3
+
+> <MOLECULAR_WEIGHT>
+76.0514
+
+> <EXACT_MASS>
+76.016043994
+
+> <IUPAC_NAME>
+2-hydroxyacetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+hydroxyacetic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H4O3/c3-1-2(4)5/h3H,1H2,(H,4,5)
+
+> <INCHI_KEY>
+InChIKey=AEMRFAOFKBGASW-UHFFFAOYSA-N
+
+> <SMILES>
+OCC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+3.53
+
+> <JCHEM_BASIC_PKA>
+-3.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-1
+
+> <JCHEM_LOGP>
+-1
+
+> <ALOGPS_LOGS>
+0.9
+
+> <JCHEM_POLARIZABILITY>
+6.2
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+14.35
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.08e+02 g/l __ 
+
+$$$$

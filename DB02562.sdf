@@ -1,0 +1,113 @@
+
+  Mrv0541 02231216172D          
+
+ 17 18  0  0  1  0            999 V2000
+   -0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  6  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  6  0  0  0
+  6  4  1  1  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+  6 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02562
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Quinonoid 7,8-Tetrahydrobiopterin
+
+> <CHEMICAL_FORMULA>
+C9H13N5O3
+
+> <MOLECULAR_WEIGHT>
+239.2312
+
+> <EXACT_MASS>
+239.101839307
+
+> <IUPAC_NAME>
+(6R)-2-amino-6-[(1R,2R)-1,2-dihydroxypropyl]-4,6,7,8-tetrahydropteridin-4-one
+
+> <IUPAC_TRADITIONAL_NAME>
+(6R)-2-amino-6-[(1R,2R)-1,2-dihydroxypropyl]-7,8-dihydro-6H-pteridin-4-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13N5O3/c1-3(15)6(16)4-2-11-7-5(12-4)8(17)14-9(10)13-7/h3-4,6,15-16H,2H2,1H3,(H3,10,11,13,14,17)/t3-,4-,6+/m1/s1
+
+> <INCHI_KEY>
+InChIKey=ZHQJVZLJDXWFFX-KODRXGBYSA-N
+
+> <SMILES>
+C[C@@H](O)[C@H](O)[C@H]1CNC2=NC(N)=NC(=O)C2=N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+13.3
+
+> <JCHEM_BASIC_PKA>
+3.47
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.4
+
+> <JCHEM_LOGP>
+-2.1
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+22.98
+
+> <JCHEM_POLAR_SURFACE_AREA>
+132.66
+
+> <JCHEM_REFRACTIVITY>
+57.03
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.42e+00 g/l __ 
+
+$$$$

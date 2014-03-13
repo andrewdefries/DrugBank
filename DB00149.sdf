@@ -1,0 +1,98 @@
+
+  Mrv0541 04191212102D          
+
+  9  8  0  0  1  0            999 V2000
+    1.7862   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.2063    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3572   -1.0313    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  6  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  8  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  6  7  1  1  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00149
+
+> <DRUG_GROUPS>
+approved; nutraceutical
+
+> <GENERIC_NAME>
+L-Leucine
+
+> <SYNONYMS>
+(2S)-2-Amino-4-methylpentanoic acid; (2S)-alpha-2-Amino-4-methylvaleric acid; (2S)-alpha-Leucine; (S)-(+)-Leucine; (S)-Leucine; 2-Amino-4-methylvaleric acid; Leu; Leucine
+
+> <CHEMICAL_FORMULA>
+C6H13NO2
+
+> <MOLECULAR_WEIGHT>
+131.1729
+
+> <EXACT_MASS>
+131.094628665
+
+> <IUPAC_NAME>
+(2S)-2-amino-4-methylpentanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+D-leucine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13NO2/c1-4(2)3-5(7)6(8)9/h4-5H,3,7H2,1-2H3,(H,8,9)/t5-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
+
+> <SMILES>
+CC(C)C[C@H](N)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.79
+
+> <JCHEM_BASIC_PKA>
+9.52
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.8
+
+> <JCHEM_LOGP>
+-1.6
+
+> <ALOGPS_LOGS>
+-0.27
+
+> <JCHEM_POLARIZABILITY>
+14.16
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+34.17
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+6.98e+01 g/l __ 
+
+$$$$

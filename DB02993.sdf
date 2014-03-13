@@ -1,0 +1,103 @@
+
+  Mrv0541 02231216372D          
+
+ 12 13  0  0  0  0            999 V2000
+   -1.4534   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6284   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435   -1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435   -0.0305    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    0.1271    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7845    0.1271    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701   -1.1104    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556   -2.3479    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  2  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  4 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02993
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+8-Methyl-9-Oxoguanine
+
+> <CHEMICAL_FORMULA>
+C6H6N4O2
+
+> <MOLECULAR_WEIGHT>
+166.1374
+
+> <EXACT_MASS>
+166.049075456
+
+> <IUPAC_NAME>
+5-amino-2-methyl-6H,7H-[1,3]oxazolo[5,4-d]pyrimidin-7-one
+
+> <IUPAC_TRADITIONAL_NAME>
+8-methyl-9-oxoguanine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6N4O2/c1-2-8-3-4(11)9-6(7)10-5(3)12-2/h1H3,(H3,7,9,10,11)
+
+> <INCHI_KEY>
+InChIKey=NEKSCFHMQPOHBF-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=NC2=C(O1)N=C(N)NC2=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.81
+
+> <JCHEM_BASIC_PKA>
+-0.54
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.49
+
+> <JCHEM_LOGP>
+-0.96
+
+> <ALOGPS_LOGS>
+-1.3
+
+> <JCHEM_POLARIZABILITY>
+15.38
+
+> <JCHEM_POLAR_SURFACE_AREA>
+93.51
+
+> <JCHEM_REFRACTIVITY>
+40.22
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+7.71e+00 g/l __ 
+
+$$$$

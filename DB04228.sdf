@@ -1,0 +1,104 @@
+
+  Mrv0541 02231217322D          
+
+ 13 13  0  0  1  0            999 V2000
+    2.1434   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+  6 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04228
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2r)-Amino(3,5-Dihydroxyphenyl)Acetic Acid
+
+> <CHEMICAL_FORMULA>
+C8H9NO4
+
+> <MOLECULAR_WEIGHT>
+183.1614
+
+> <EXACT_MASS>
+183.053157781
+
+> <IUPAC_NAME>
+(2S)-2-amino-2-(3,5-dihydroxyphenyl)acetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(S)-amino(3,5-dihydroxyphenyl)acetic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H9NO4/c9-7(8(12)13)4-1-5(10)3-6(11)2-4/h1-3,7,10-11H,9H2,(H,12,13)/t7-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=HOOWCUZPEFNHDT-ZETCQYMHSA-N
+
+> <SMILES>
+N[C@H](C(O)=O)C1=CC(O)=CC(O)=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+1.37
+
+> <JCHEM_BASIC_PKA>
+8.07
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.4
+
+> <JCHEM_LOGP>
+-2.1
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+17.11
+
+> <JCHEM_POLAR_SURFACE_AREA>
+103.78
+
+> <JCHEM_REFRACTIVITY>
+44.32
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+8.09e+00 g/l __ 
+
+$$$$

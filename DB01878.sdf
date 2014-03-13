@@ -1,0 +1,107 @@
+
+  Mrv0541 02231215472D          
+
+ 14 15  0  0  0  0            999 V2000
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  3  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+  9 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01878
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Benzophenone
+
+> <SYNONYMS>
+Benzoylbenzene; Diphenyl ketone
+
+> <CHEMICAL_FORMULA>
+C13H10O
+
+> <MOLECULAR_WEIGHT>
+182.2179
+
+> <EXACT_MASS>
+182.073164942
+
+> <IUPAC_NAME>
+diphenylmethanone
+
+> <IUPAC_TRADITIONAL_NAME>
+benzophenone
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H10O/c14-13(11-7-3-1-4-8-11)12-9-5-2-6-10-12/h1-10H
+
+> <INCHI_KEY>
+InChIKey=RWCCWEUUXYIKHB-UHFFFAOYSA-N
+
+> <SMILES>
+O=C(C1=CC=CC=C1)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-7.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.03
+
+> <JCHEM_LOGP>
+3.43
+
+> <ALOGPS_LOGS>
+-3.7
+
+> <JCHEM_POLARIZABILITY>
+20.19
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+56.63
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+4.01e-02 g/l __ 
+
+$$$$

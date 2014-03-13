@@ -1,0 +1,121 @@
+501
+  Mrv0541 02231214432D          
+
+ 17 17  0  0  0  0            999 V2000
+    2.8795   -0.9075    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3176   -3.5983    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5138    1.1812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9050   -2.3287    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6631    2.6024    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3577    2.0211    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9920    4.1098    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7301   -2.3287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2150   -1.6612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3645   -0.2400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0288    0.5137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9850   -3.1133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7697   -3.3683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6501   -3.1133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1782    1.9349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0221    2.7749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3276    3.3561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 14  2  0  0  0  0
+  5 15  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6 15  2  0  0  0  0
+  6 16  1  0  0  0  0
+  7 17  3  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00501
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Cimetidine
+
+> <SYNONYMS>
+Cimetidin; Cimetidina; Cimétidine; Cimetidinum
+
+> <SALTS>
+Cimetidine Hydrochloride
+
+> <BRANDS>
+Cimetag; Tagamet; Tagamet HB; Tagamet HB200; Ulcedine; Ulcerfen; Ulcimet
+
+> <CHEMICAL_FORMULA>
+C10H16N6S
+
+> <MOLECULAR_WEIGHT>
+252.339
+
+> <EXACT_MASS>
+252.115715232
+
+> <IUPAC_NAME>
+(Z)-1-cyano-2-methyl-3-(2-{[(5-methyl-1H-imidazol-4-yl)methyl]sulfanyl}ethyl)guanidine
+
+> <IUPAC_TRADITIONAL_NAME>
+cimetidine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H16N6S/c1-8-9(16-7-15-8)5-17-4-3-13-10(12-2)14-6-11/h7H,3-5H2,1-2H3,(H,15,16)(H2,12,13,14)
+
+> <INCHI_KEY>
+InChIKey=AQIXAKUUQRKLND-UHFFFAOYSA-N
+
+> <SMILES>
+C\N=C(\NCCSCC1=C(C)NC=N1)NC#N
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+13.38
+
+> <JCHEM_BASIC_PKA>
+6.91
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.44
+
+> <JCHEM_LOGP>
+-0.11
+
+> <ALOGPS_LOGS>
+-2.5
+
+> <JCHEM_POLARIZABILITY>
+27.47
+
+> <JCHEM_POLAR_SURFACE_AREA>
+88.89
+
+> <JCHEM_REFRACTIVITY>
+70.32
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+8.16e-01 g/l __ 
+
+$$$$

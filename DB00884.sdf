@@ -1,0 +1,121 @@
+884
+  Mrv0541 02231215042D          
+
+ 17 17  0  0  0  0            999 V2000
+    2.8075    1.4134    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9344    1.1114    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6325   -0.0156    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3950    2.1278    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0929    1.0009    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6489    1.5239    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3469    0.3969    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0896    2.1886    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0776    1.9238    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7910   -1.7761    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2200    0.6989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5054    0.2864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5054   -0.5386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2200   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7910   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2200   -1.7761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5054   -2.1886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  9  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3 11  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 17  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00884
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Risedronate
+
+> <SYNONYMS>
+Acide risédroniqe; Acido risedronico; Acidum risedronicum; Risedronic acid; Risedronsäure
+
+> <SALTS>
+Risedronate sodium
+
+> <BRANDS>
+Actonel; Atelvia; Benet
+
+> <CHEMICAL_FORMULA>
+C7H11NO7P2
+
+> <MOLECULAR_WEIGHT>
+283.1123
+
+> <EXACT_MASS>
+283.001074735
+
+> <IUPAC_NAME>
+[1-hydroxy-1-phosphono-2-(pyridin-3-yl)ethyl]phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+1-hydroxy-1-phosphono-2-(pyridin-3-yl)ethylphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H11NO7P2/c9-7(16(10,11)12,17(13,14)15)4-6-2-1-3-8-5-6/h1-3,5,9H,4H2,(H2,10,11,12)(H2,13,14,15)
+
+> <INCHI_KEY>
+InChIKey=IIDJRNMFWXDHID-UHFFFAOYSA-N
+
+> <SMILES>
+OC(CC1=CN=CC=C1)(P(O)(O)=O)P(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+0.68
+
+> <JCHEM_BASIC_PKA>
+4.91
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-0.75
+
+> <JCHEM_LOGP>
+-3.3
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+21.91
+
+> <JCHEM_POLAR_SURFACE_AREA>
+148.18
+
+> <JCHEM_REFRACTIVITY>
+57.12
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.04e+01 g/l __ 
+
+$$$$

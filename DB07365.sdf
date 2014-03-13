@@ -1,0 +1,113 @@
+ALN
+  Mrv0541 02241213232D          
+
+ 17 18  0  0  0  0            999 V2000
+   -1.5748   -0.7428    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8604   -1.1553    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.8604   -1.9803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5748   -2.3928    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1459   -0.7428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1459    0.0822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8604    0.4947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8604    1.3197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5686    0.4947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5686    1.3197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1459    1.7322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2831    0.0822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9975    0.4947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9975    1.3197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2831    1.7322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1459   -2.3928    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3660   -1.4473    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 17  1  6  0  0  0
+  3  4  2  0  0  0  0
+  3 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07365
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+NAPHTHALEN-2-YL-3-ALANINE
+
+> <CHEMICAL_FORMULA>
+C13H13NO2
+
+> <MOLECULAR_WEIGHT>
+215.2478
+
+> <EXACT_MASS>
+215.094628665
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-(naphthalen-1-yl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S)-2-amino-3-(naphthalen-1-yl)propanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H13NO2/c14-12(13(15)16)8-10-6-3-5-9-4-1-2-7-11(9)10/h1-7,12H,8,14H2,(H,15,16)/t12-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=OFYAYGJCPXRNBL-LBPRGKRZSA-N
+
+> <SMILES>
+[H][C@](N)(CC1=CC=CC2=C1C=CC=C2)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.61
+
+> <JCHEM_BASIC_PKA>
+9.42
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.44
+
+> <JCHEM_LOGP>
+-0.19
+
+> <ALOGPS_LOGS>
+-3
+
+> <JCHEM_POLARIZABILITY>
+22.6
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+61.57
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.21e-01 g/l __ 
+
+$$$$

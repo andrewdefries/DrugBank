@@ -1,0 +1,125 @@
+
+  Mrv0541 04191212152D          
+
+ 20 21  0  0  0  0            999 V2000
+   -2.4455   -0.9723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1600   -1.3848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1600   -2.2098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4455   -2.6223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7311   -2.2098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7311   -1.3848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8745   -2.6223    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0166   -0.9723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3021   -1.3848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4123   -0.9723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0166   -0.1473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3021   -2.2098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1268    0.2652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4123   -0.1473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1268   -1.3848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8413   -0.9723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8413   -0.1473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7311    0.2652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4123   -2.6223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5558    0.2652    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 12  2  0  0  0  0
+ 14 10  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 11 18  1  4  0  0  0
+ 12 19  1  4  0  0  0
+ 17 20  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00890
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Dienestrol
+
+> <SYNONYMS>
+Dienestrol; Diènestrol; Dienestrol; Dienestrolum
+
+> <BRANDS>
+Ortho Dienestrol; Sexadien
+
+> <CHEMICAL_FORMULA>
+C18H18O2
+
+> <MOLECULAR_WEIGHT>
+266.3343
+
+> <EXACT_MASS>
+266.13067982
+
+> <IUPAC_NAME>
+4-[4-(4-hydroxyphenyl)hexa-2,4-dien-3-yl]phenol
+
+> <IUPAC_TRADITIONAL_NAME>
+dienestrol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H18O2/c1-3-17(13-5-9-15(19)10-6-13)18(4-2)14-7-11-16(20)12-8-14/h3-12,19-20H,1-2H3/b17-3+,18-4+
+
+> <INCHI_KEY>
+InChIKey=NFDFQCUYFHCNBW-SCGPFSFSSA-N
+
+> <SMILES>
+CC=C(C(=CC)C1=CC=C(O)C=C1)C1=CC=C(O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.1
+
+> <JCHEM_BASIC_PKA>
+-6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+5.18
+
+> <JCHEM_LOGP>
+4.83
+
+> <ALOGPS_LOGS>
+-4.3
+
+> <JCHEM_POLARIZABILITY>
+30.3
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+84.36
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.23e-02 g/l __ 
+
+$$$$

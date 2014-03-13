@@ -1,0 +1,89 @@
+
+  Mrv0541 02231216162D          
+
+  6  5  0  0  0  0            999 V2000
+   -0.1914    0.7145    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02541
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Hydroxybutan-1-Aminium
+
+> <CHEMICAL_FORMULA>
+C4H12NO
+
+> <MOLECULAR_WEIGHT>
+90.1442
+
+> <EXACT_MASS>
+90.091889011
+
+> <IUPAC_NAME>
+4-hydroxybutan-1-aminium
+
+> <IUPAC_TRADITIONAL_NAME>
+4-hydroxybutan-1-aminium
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H11NO/c5-3-1-2-4-6/h6H,1-5H2/p+1
+
+> <INCHI_KEY>
+InChIKey=BLFRQYKZFKYQLO-UHFFFAOYSA-O
+
+> <SMILES>
+[NH3+]CCCCO
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+15.97
+
+> <JCHEM_BASIC_PKA>
+9.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-2.5
+
+> <JCHEM_LOGP>
+-0.74
+
+> <ALOGPS_LOGS>
+-0.72
+
+> <JCHEM_POLARIZABILITY>
+10.96
+
+> <JCHEM_POLAR_SURFACE_AREA>
+47.87
+
+> <JCHEM_REFRACTIVITY>
+37.01
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.41e+01 g/l __ 
+
+$$$$

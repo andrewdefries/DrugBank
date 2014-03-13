@@ -1,0 +1,102 @@
+
+  Mrv0541 02231216412D          
+
+ 12 12  0  0  1  0            999 V2000
+    2.1434    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  6  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+  9 11  1  0  0  0  0
+  3 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03092
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-Hydroxymethyl-Chonduritol
+
+> <CHEMICAL_FORMULA>
+C7H12O5
+
+> <MOLECULAR_WEIGHT>
+176.1672
+
+> <EXACT_MASS>
+176.068473494
+
+> <IUPAC_NAME>
+(1S,2R,3R,4S)-5-(hydroxymethyl)cyclohex-5-ene-1,2,3,4-tetrol
+
+> <IUPAC_TRADITIONAL_NAME>
+(1S,2R,3R,4S)-5-(hydroxymethyl)cyclohex-5-ene-1,2,3,4-tetrol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H12O5/c8-2-3-1-4(9)6(11)7(12)5(3)10/h1,4-12H,2H2/t4-,5-,6+,7+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=PJPGMULJEYSZBS-VWDOSNQTSA-N
+
+> <SMILES>
+OCC1=C[C@H](O)[C@@H](O)[C@H](O)[C@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+12.65
+
+> <JCHEM_BASIC_PKA>
+-2.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.3
+
+> <JCHEM_LOGP>
+-3
+
+> <ALOGPS_LOGS>
+0.37
+
+> <JCHEM_POLARIZABILITY>
+16.55
+
+> <JCHEM_POLAR_SURFACE_AREA>
+101.15
+
+> <JCHEM_REFRACTIVITY>
+40.23
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.12e+02 g/l __ 
+
+$$$$

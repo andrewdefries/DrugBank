@@ -1,0 +1,88 @@
+
+  Mrv0541 02231216262D          
+
+  7  6  0  0  0  0            999 V2000
+    2.8875   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.1105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02768
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tert-Butyloxycarbonyl Group
+
+> <CHEMICAL_FORMULA>
+C5H10O2
+
+> <MOLECULAR_WEIGHT>
+102.1317
+
+> <EXACT_MASS>
+102.068079564
+
+> <IUPAC_NAME>
+tert-butyl formate
+
+> <IUPAC_TRADITIONAL_NAME>
+tert-butyl formate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H10O2/c1-5(2,3)7-4-6/h4H,1-3H3
+
+> <INCHI_KEY>
+InChIKey=RUPAXCPQAAOIPB-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)(C)OC=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-6.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.54
+
+> <JCHEM_LOGP>
+0.93
+
+> <ALOGPS_LOGS>
+-0.61
+
+> <JCHEM_POLARIZABILITY>
+10.93
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.3
+
+> <JCHEM_REFRACTIVITY>
+26.73
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.50e+01 g/l __ 
+
+$$$$

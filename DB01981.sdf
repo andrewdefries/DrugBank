@@ -1,0 +1,109 @@
+
+  Mrv0541 02231215522D          
+
+ 15 16  0  0  1  0            999 V2000
+    2.5393   -2.0740    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1275   -1.3591    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.6113   -0.9304    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6396   -0.9304    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.1197   -1.6427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7400   -1.2658    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0605   -0.5572    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.4999   -0.1173    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0773    0.5912    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9893   -0.5417    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5165    0.0928    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2306    0.8667    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9447    1.6406    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0045    1.1526    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4568    0.5808    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  4  3  1  1  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  6  1  6  0  0  0
+  7  8  1  0  0  0  0
+  4  8  1  0  0  0  0
+  8  9  1  6  0  0  0
+  7 10  1  0  0  0  0
+  2 10  1  0  0  0  0
+ 10 11  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01981
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3,6-Anhydro-D-Galactose-2-Sulfate
+
+> <CHEMICAL_FORMULA>
+C6H10O8S
+
+> <MOLECULAR_WEIGHT>
+242.204
+
+> <EXACT_MASS>
+242.009637986
+
+> <IUPAC_NAME>
+[(1S,3R,4R,5R,8S)-3,8-dihydroxy-2,6-dioxabicyclo[3.2.1]octan-4-yl]oxidanesulfonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[(1S,3R,4R,5R,8S)-3,8-dihydroxy-2,6-dioxabicyclo[3.2.1]octan-4-yl]oxidanesulfonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10O8S/c7-3-2-1-12-4(3)5(6(8)13-2)14-15(9,10)11/h2-8H,1H2,(H,9,10,11)/t2-,3-,4+,5+,6+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=BBGPRYFPTZDJIZ-HGVZOGFYSA-N
+
+> <SMILES>
+O[C@H]1[C@@H]2CO[C@H]1[C@@H](OS(O)(=O)=O)[C@H](O)O2
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+-2.1
+
+> <JCHEM_BASIC_PKA>
+-3.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-2
+
+> <JCHEM_LOGP>
+-3.6
+
+> <ALOGPS_LOGS>
+-0.36
+
+> <JCHEM_POLARIZABILITY>
+19.69
+
+> <JCHEM_POLAR_SURFACE_AREA>
+122.52
+
+> <JCHEM_REFRACTIVITY>
+42.41
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.05e+02 g/l __ 
+
+$$$$

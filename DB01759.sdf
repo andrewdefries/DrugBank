@@ -1,0 +1,98 @@
+
+  Mrv0541 02231215422D          
+
+ 10 10  0  0  0  0            999 V2000
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  3 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01759
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-Hydroxy-2-(Hydroxymethyl)-4h-Pyran-4-One
+
+> <CHEMICAL_FORMULA>
+C6H6O4
+
+> <MOLECULAR_WEIGHT>
+142.1094
+
+> <EXACT_MASS>
+142.02660868
+
+> <IUPAC_NAME>
+5-hydroxy-2-(hydroxymethyl)-4H-pyran-4-one
+
+> <IUPAC_TRADITIONAL_NAME>
+kojic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6O4/c7-2-4-1-5(8)6(9)3-10-4/h1,3,7,9H,2H2
+
+> <INCHI_KEY>
+InChIKey=BEJNERDRQOWKJM-UHFFFAOYSA-N
+
+> <SMILES>
+OCC1=CC(=O)C(O)=CO1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.3
+
+> <JCHEM_BASIC_PKA>
+-3.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1
+
+> <JCHEM_LOGP>
+-0.5
+
+> <ALOGPS_LOGS>
+-0.19
+
+> <JCHEM_POLARIZABILITY>
+12.63
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.76
+
+> <JCHEM_REFRACTIVITY>
+35.27
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.23e+01 g/l __ 
+
+$$$$

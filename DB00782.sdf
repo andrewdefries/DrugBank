@@ -1,0 +1,143 @@
+782
+  Mrv0541 02231215002D          
+
+ 27 29  0  0  0  0            999 V2000
+    4.5640   -0.1920    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8495   -3.0795    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350   -0.1920    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2784    1.8705    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    6.1034    1.8705    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2784    2.6955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2784    1.0455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4534    1.8705    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5159    1.1561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5159    2.5851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9929    3.1080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5640    3.1080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5640    0.6330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8495   -1.4295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8495   -0.6045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5640   -1.8420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350   -1.8420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5640   -2.6670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350   -2.6670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3015   -1.4008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3975   -1.4008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3015   -3.1080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3975   -3.1080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0490   -1.8248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.8248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0490   -2.6841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.6841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2 18  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3 15  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 20  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 21  2  0  0  0  0
+ 18 22  2  0  0  0  0
+ 19 23  2  0  0  0  0
+ 20 24  1  0  0  0  0
+ 21 25  1  0  0  0  0
+ 22 26  1  0  0  0  0
+ 23 27  1  0  0  0  0
+ 24 26  2  0  0  0  0
+ 25 27  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00782
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Propantheline
+
+> <SYNONYMS>
+Propantelina bromuro; Propantelina, bromuro de; Propanthelin bromid; Propanthéline, bromure de; Propanthelini Bromidum
+
+> <SALTS>
+Propantheline Bromide
+
+> <BRANDS>
+Ercoril; Methaphyllin; Pro Banthine; Prokind; Propanline; Propantheline; Spastheline
+
+> <CHEMICAL_FORMULA>
+C23H30NO3
+
+> <MOLECULAR_WEIGHT>
+368.4892
+
+> <EXACT_MASS>
+368.222568831
+
+> <IUPAC_NAME>
+methylbis(propan-2-yl){2-[(9H-xanthen-9-yl)carbonyloxy]ethyl}azanium
+
+> <IUPAC_TRADITIONAL_NAME>
+propantheline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C23H30NO3/c1-16(2)24(5,17(3)4)14-15-26-23(25)22-18-10-6-8-12-20(18)27-21-13-9-7-11-19(21)22/h6-13,16-17,22H,14-15H2,1-5H3/q+1
+
+> <INCHI_KEY>
+InChIKey=VVWYOYDLCMFIEM-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)[N+](C)(CCOC(=O)C1C2=CC=CC=C2OC2=CC=CC=C12)C(C)C
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+18.1
+
+> <JCHEM_BASIC_PKA>
+-7.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.66
+
+> <JCHEM_LOGP>
+0.36
+
+> <ALOGPS_LOGS>
+-6.8
+
+> <JCHEM_POLARIZABILITY>
+40.87
+
+> <JCHEM_POLAR_SURFACE_AREA>
+35.53
+
+> <JCHEM_REFRACTIVITY>
+119.25
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+7.22e-05 g/l __ 
+
+$$$$

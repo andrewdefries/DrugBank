@@ -1,0 +1,90 @@
+
+  Mrv0541 02231217022D          
+
+  8  7  0  0  0  0            999 V2000
+    1.2375    2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03589
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Alpha-Ketomalonic Acid
+
+> <CHEMICAL_FORMULA>
+C3H2O5
+
+> <MOLECULAR_WEIGHT>
+118.045
+
+> <EXACT_MASS>
+117.990223174
+
+> <IUPAC_NAME>
+2-oxopropanedioic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+α-ketomalonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H2O5/c4-1(2(5)6)3(7)8/h(H,5,6)(H,7,8)
+
+> <INCHI_KEY>
+InChIKey=XEEVLJKYYUVTRC-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)C(=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+1.56
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-0.43
+
+> <JCHEM_LOGP>
+0.025
+
+> <ALOGPS_LOGS>
+-0.91
+
+> <JCHEM_POLARIZABILITY>
+8.05
+
+> <JCHEM_POLAR_SURFACE_AREA>
+91.67
+
+> <JCHEM_REFRACTIVITY>
+19.78
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.45e+01 g/l __ 
+
+$$$$

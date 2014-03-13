@@ -1,0 +1,104 @@
+855
+  Mrv0541 02231215032D          
+
+  9  8  0  0  0  0            999 V2000
+    3.5217   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3793   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6650    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0928   -0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2361    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9504   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5217   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8072    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6650    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00855
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Aminolevulinic acid
+
+> <SYNONYMS>
+5-Aminolevulinic acid; ALA; ALA-PDT; Aminolevulinate; delta-Aminolevulinic acid
+
+> <SALTS>
+5-Aminolevulinate hydrochloride
+
+> <BRANDS>
+Gliolan; Levulan; Levulan Kerastick
+
+> <CHEMICAL_FORMULA>
+C5H9NO3
+
+> <MOLECULAR_WEIGHT>
+131.1299
+
+> <EXACT_MASS>
+131.058243159
+
+> <IUPAC_NAME>
+5-amino-4-oxopentanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+aminolevulinic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H9NO3/c6-3-4(7)1-2-5(8)9/h1-3,6H2,(H,8,9)
+
+> <INCHI_KEY>
+InChIKey=ZGXJTSGNIOSYLO-UHFFFAOYSA-N
+
+> <SMILES>
+NCC(=O)CCC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+4.05
+
+> <JCHEM_BASIC_PKA>
+7.84
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.9
+
+> <JCHEM_LOGP>
+-3.3
+
+> <ALOGPS_LOGS>
+0.12
+
+> <JCHEM_POLARIZABILITY>
+12.55
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.39
+
+> <JCHEM_REFRACTIVITY>
+30.45
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.73e+02 g/l __ 
+
+$$$$

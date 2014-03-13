@@ -1,0 +1,94 @@
+
+  Mrv0541 02231217092D          
+
+  8  8  0  0  1  0            999 V2000
+   -1.1908    1.7138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4763    2.1263    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.2382    1.7138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2382    0.8888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6507    0.1743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1743    0.1743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4763    2.9513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1908    3.3638    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  4  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03736
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Cyclopropylmethylenepropanal
+
+> <CHEMICAL_FORMULA>
+C7H12O
+
+> <MOLECULAR_WEIGHT>
+112.1696
+
+> <EXACT_MASS>
+112.088815006
+
+> <IUPAC_NAME>
+(2R)-3-cyclopropyl-2-methylpropanal
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R)-3-cyclopropyl-2-methylpropanal
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H12O/c1-6(5-8)4-7-2-3-7/h5-7H,2-4H2,1H3/t6-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=NOQCSSAEKDLHCI-ZCFIWIBFSA-N
+
+> <SMILES>
+C[C@H](CC1CC1)C=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+15.89
+
+> <JCHEM_BASIC_PKA>
+-7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.29
+
+> <JCHEM_LOGP>
+1.57
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+13.17
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+32.87
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.98e+00 g/l __ 
+
+$$$$

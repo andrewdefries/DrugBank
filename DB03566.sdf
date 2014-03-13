@@ -1,0 +1,97 @@
+
+  Mrv0541 02231217012D          
+
+ 10  9  0  0  0  0            999 V2000
+    2.2836    2.1434    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9980    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03566
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Spermidine
+
+> <SYNONYMS>
+1,5,10-Triazadecane; 4-Azaoctane-1,8-diamine; N-(3-aminopropyl)butane-1,4-diamine
+
+> <CHEMICAL_FORMULA>
+C7H19N3
+
+> <MOLECULAR_WEIGHT>
+145.2459
+
+> <EXACT_MASS>
+145.157897623
+
+> <IUPAC_NAME>
+(4-aminobutyl)(3-aminopropyl)amine
+
+> <IUPAC_TRADITIONAL_NAME>
+spermidine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H19N3/c8-4-1-2-6-10-7-3-5-9/h10H,1-9H2
+
+> <INCHI_KEY>
+InChIKey=ATHGHQPFGPMSJY-UHFFFAOYSA-N
+
+> <SMILES>
+NCCCCNCCCN
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_BASIC_PKA>
+10.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+3
+
+> <ALOGPS_LOGP>
+-0.62
+
+> <JCHEM_LOGP>
+-1.1
+
+> <ALOGPS_LOGS>
+-0.65
+
+> <JCHEM_POLARIZABILITY>
+18.8
+
+> <JCHEM_POLAR_SURFACE_AREA>
+64.07
+
+> <JCHEM_REFRACTIVITY>
+44.97
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+3.27e+01 g/l __ 
+
+$$$$

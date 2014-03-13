@@ -1,0 +1,105 @@
+
+  Mrv0541 04191212102D          
+
+ 12 12  0  0  0  0            999 V2000
+   -0.0308    0.7026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3817   -0.5669    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6982    0.2177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4433   -0.5669    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6366    0.2177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3511    0.6302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0656    0.2177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7801    0.6302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4945    0.2177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2090    0.6302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2090    1.4552    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9235    0.2177    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  0  0  0  0
+  5  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00166
+
+> <DRUG_GROUPS>
+approved; nutraceutical
+
+> <GENERIC_NAME>
+Lipoic Acid
+
+> <SYNONYMS>
+1,2-dithiolane-3-pentanoic acid; 1,2-dithiolane-3-valeric acid; 5-(1,2-dithiolan-3-yl)valeric acid; 5-(dithiolan-3-yl)valeric acid; 5-[3-(1,2-dithiolanyl)]pentanoic acid; 6-thioctic acid; 6-thiotic acid; 6,8-thioctic acid; 6,8-thiotic acid; alpha-Lipoic acid; liponic acid; α-lipoic acid
+
+> <BRANDS>
+Biletan
+
+> <CHEMICAL_FORMULA>
+C8H14O2S2
+
+> <MOLECULAR_WEIGHT>
+206.326
+
+> <EXACT_MASS>
+206.043521072
+
+> <IUPAC_NAME>
+5-(1,2-dithiolan-3-yl)pentanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+thioctic acid dl-form
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H14O2S2/c9-8(10)4-2-1-3-7-5-6-11-12-7/h7H,1-6H2,(H,9,10)
+
+> <INCHI_KEY>
+InChIKey=AGBQKNBQESQNJD-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)CCCCC1CCSS1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.52
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+2.75
+
+> <JCHEM_LOGP>
+2.11
+
+> <ALOGPS_LOGS>
+-3
+
+> <JCHEM_POLARIZABILITY>
+22
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+54.37
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+2.24e-01 g/l __ 
+
+$$$$

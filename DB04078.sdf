@@ -1,0 +1,92 @@
+
+  Mrv0541 02231217242D          
+
+ 10 10  0  0  0  0            999 V2000
+    0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  5 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04078
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Isobutylbenzene
+
+> <CHEMICAL_FORMULA>
+C10H14
+
+> <MOLECULAR_WEIGHT>
+134.2182
+
+> <EXACT_MASS>
+134.109550448
+
+> <IUPAC_NAME>
+(2-methylpropyl)benzene
+
+> <IUPAC_TRADITIONAL_NAME>
+isobutylbenzene
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14/c1-9(2)8-10-6-4-3-5-7-10/h3-7,9H,8H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=KXUHSQYYJYAXGZ-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)CC1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+4.13
+
+> <JCHEM_LOGP>
+3.66
+
+> <ALOGPS_LOGS>
+-4.2
+
+> <JCHEM_POLARIZABILITY>
+16.74
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+44.85
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+8.71e-03 g/l __ 
+
+$$$$

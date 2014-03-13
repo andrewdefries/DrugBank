@@ -1,0 +1,101 @@
+
+  Mrv0541 02231216532D          
+
+ 12 11  0  0  1  0            999 V2000
+    1.0461    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.8414    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    0.1914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    0.1914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  1  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  5 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03364
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Carbamyl-D-Methionine
+
+> <CHEMICAL_FORMULA>
+C6H12N2O3S
+
+> <MOLECULAR_WEIGHT>
+192.236
+
+> <EXACT_MASS>
+192.05686295
+
+> <IUPAC_NAME>
+(2R)-2-(carbamoylamino)-4-(methylsulfanyl)butanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+N-carbamyl-D-methionine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12N2O3S/c1-12-3-2-4(5(9)10)8-6(7)11/h4H,2-3H2,1H3,(H,9,10)(H3,7,8,11)/t4-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=DEWDMTSMCKXBNP-SCSAIBSYSA-N
+
+> <SMILES>
+CSCC[C@@H](NC(N)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+3.94
+
+> <JCHEM_BASIC_PKA>
+-2.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.88
+
+> <JCHEM_LOGP>
+-0.44
+
+> <ALOGPS_LOGS>
+-1.2
+
+> <JCHEM_POLARIZABILITY>
+18.78
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.42
+
+> <JCHEM_REFRACTIVITY>
+45.71
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+1.28e+01 g/l __ 
+
+$$$$

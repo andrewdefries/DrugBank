@@ -1,0 +1,99 @@
+
+  Mrv0541 03191312282D          
+ 
+ 11 10  0  0  0  0            999 V2000
+     1.650     0.000     0.000 F   0  0  0  0  0  0  0  0  0  0  0  0
+     0.825     0.000     0.000 C   0  0  0  0  0  0  0  0  0  0  0  0
+     0.000     0.000     0.000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    -0.825     0.000     0.000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    -0.825     0.825     0.000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    -0.825    -0.825     0.000 F   0  0  0  0  0  0  0  0  0  0  0  0
+     0.000    -0.825     0.000 F   0  0  0  0  0  0  0  0  0  0  0  0
+     0.825    -0.825     0.000 F   0  0  0  0  0  0  0  0  0  0  0  0
+     0.825     0.825     0.000 F   0  0  0  0  0  0  0  0  0  0  0  0
+     0.000     0.825     0.000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    -1.650     0.000     0.000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  4  6  1  0  0  0  0
+  1  2  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  3 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00556
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Perflutren
+
+> <SYNONYMS>
+Octafluoropropane; Octafluorpropan; Perfluoropropane
+
+> <BRANDS>
+Definity
+
+> <CHEMICAL_FORMULA>
+C3F8
+
+> <MOLECULAR_WEIGHT>
+188.0193
+
+> <EXACT_MASS>
+187.98722564
+
+> <IUPAC_NAME>
+octafluoropropane
+
+> <IUPAC_TRADITIONAL_NAME>
+definity
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3F8/c4-1(5,2(6,7)8)3(9,10)11
+
+> <INCHI_KEY>
+InChIKey=QYSGYZVSCZSLHT-UHFFFAOYSA-N
+
+> <SMILES>
+FC(F)(F)C(F)(F)C(F)(F)F
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.96
+
+> <JCHEM_LOGP>
+2.78
+
+> <ALOGPS_LOGS>
+-3.1
+
+> <JCHEM_POLARIZABILITY>
+7.1
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+17.54
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.46e-01 g/l __ 
+
+$$$$

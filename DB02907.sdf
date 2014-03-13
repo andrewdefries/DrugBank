@@ -1,0 +1,93 @@
+
+  Mrv0541 02231216332D          
+
+  8  7  0  0  0  0            999 V2000
+    1.2375    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4289    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02907
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Amino-Vinyl-Phosphate
+
+> <CHEMICAL_FORMULA>
+C2H6NO4P
+
+> <MOLECULAR_WEIGHT>
+139.0471
+
+> <EXACT_MASS>
+139.003444197
+
+> <IUPAC_NAME>
+{[(E)-2-aminoethenyl]oxy}phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[(E)-2-aminoethenyl]oxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H6NO4P/c3-1-2-7-8(4,5)6/h1-2H,3H2,(H2,4,5,6)/b2-1+
+
+> <INCHI_KEY>
+InChIKey=KYMLMTPYCDIFEC-OWOJBTEDSA-N
+
+> <SMILES>
+N\C=C\OP(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.4
+
+> <JCHEM_BASIC_PKA>
+5.25
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-1.5
+
+> <JCHEM_LOGP>
+-2.4
+
+> <ALOGPS_LOGS>
+-0.87
+
+> <JCHEM_POLARIZABILITY>
+10.18
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.78
+
+> <JCHEM_REFRACTIVITY>
+26.46
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.88e+01 g/l __ 
+
+$$$$

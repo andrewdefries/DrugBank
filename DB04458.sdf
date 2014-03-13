@@ -1,0 +1,121 @@
+
+  Mrv0541 02231217412D          
+
+ 21 22  0  0  1  0            999 V2000
+    0.3302   -1.2894    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1054   -1.0072    0.0000 C    0  0  2  0  0  0  0  0  0  0  0  0
+    1.7374   -1.5375    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5941   -2.3500    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8189   -2.6321    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2261   -2.8803    0.0000 C    0  0  2  0  0  0  0  0  0  0  0  0
+    2.6386   -3.5947    0.0000 C    0  0  2  0  0  0  0  0  0  0  0  0
+    3.3531   -4.0072    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8136   -3.5947    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4650   -4.3424    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9918   -3.5228    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8581   -2.3500    0.0000 S    0  0  2  0  0  0  0  0  0  0  0  0
+    3.6334   -2.6321    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7149   -1.5375    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2487   -0.1947    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6167    0.3356    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7599    1.1480    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5352    1.4302    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6784    2.2427    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1672    0.8999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0239    0.0874    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  6  4  1  6  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  7  9  1  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  6 12  1  1  0  0  0
+ 12 13  1  1  0  0  0
+ 12 14  2  0  0  0  0
+  2 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 15 21  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04458
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,2-Dichloro-1-Methanesulfinyl-3-Methyl-Cyclopropanecarboxylic Acid [1-(4-Bromo-Phenyl)-Ethyl]-Amide
+
+> <CHEMICAL_FORMULA>
+C14H16BrCl2NO2S
+
+> <MOLECULAR_WEIGHT>
+413.157
+
+> <EXACT_MASS>
+410.946217512
+
+> <IUPAC_NAME>
+(1R,3S)-N-[(1S)-1-(4-bromophenyl)ethyl]-2,2-dichloro-1-[(S)-methanesulfinyl]-3-methylcyclopropane-1-carboxamide
+
+> <IUPAC_TRADITIONAL_NAME>
+(1R,3S)-N-[(1S)-1-(4-bromophenyl)ethyl]-2,2-dichloro-1-[(S)-methanesulfinyl]-3-methylcyclopropane-1-carboxamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H16BrCl2NO2S/c1-8(10-4-6-11(15)7-5-10)18-12(19)13(21(3)20)9(2)14(13,16)17/h4-9H,1-3H3,(H,18,19)/t8-,9-,13+,21-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=VMASMYSTIDDLTO-IHOOPEAUSA-N
+
+> <SMILES>
+C[C@H](NC(=O)[C@@]1([C@H](C)C1(Cl)Cl)[S@](C)=O)C1=CC=C(Br)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+10.44
+
+> <JCHEM_BASIC_PKA>
+-5.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.61
+
+> <JCHEM_LOGP>
+3.18
+
+> <ALOGPS_LOGS>
+-3.8
+
+> <JCHEM_POLARIZABILITY>
+35.89
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.17
+
+> <JCHEM_REFRACTIVITY>
+91.42
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+6.77e-02 g/l __ 
+
+$$$$

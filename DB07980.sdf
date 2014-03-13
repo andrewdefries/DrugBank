@@ -1,0 +1,110 @@
+IM4
+  Mrv0541 02241213462D          
+
+ 17 18  0  0  0  0            999 V2000
+    1.2966    1.3022    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4681    2.1092    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8550    2.6612    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0266    3.4682    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0704    2.4063    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1011    1.5993    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.5120    1.0473    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3405    0.2403    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4442   -0.0146    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1116    0.4703    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7790   -0.0146    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5241   -0.7993    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6991   -0.7993    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2142   -1.4667    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5497   -2.2204    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+   -0.0648   -2.8878    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3702   -2.3066    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  1  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  3  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07980
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2E)-1-[(6-chloropyridin-3-yl)methyl]-N-nitroimidazolidin-2-imine
+
+> <CHEMICAL_FORMULA>
+C9H10ClN5O2
+
+> <MOLECULAR_WEIGHT>
+255.661
+
+> <EXACT_MASS>
+255.052302296
+
+> <IUPAC_NAME>
+2-chloro-5-{[(2E)-2-(nitroimino)imidazolidin-1-yl]methyl}pyridine
+
+> <IUPAC_TRADITIONAL_NAME>
+imidacloprid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10ClN5O2/c10-8-2-1-7(5-12-8)6-14-4-3-11-9(14)13-15(16)17/h1-2,5H,3-4,6H2,(H,11,13)
+
+> <INCHI_KEY>
+InChIKey=YWTYJOPNNQFBPC-UHFFFAOYSA-N
+
+> <SMILES>
+[O-][N+](=O)\N=C1/NCCN1CC1=CN=C(Cl)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+2.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.65
+
+> <JCHEM_LOGP>
+0.76
+
+> <ALOGPS_LOGS>
+-2.9
+
+> <JCHEM_POLARIZABILITY>
+23.28
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.34
+
+> <JCHEM_REFRACTIVITY>
+63.55
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+3.46e-01 g/l __ 
+
+$$$$

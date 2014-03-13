@@ -1,0 +1,86 @@
+
+  Mrv0541 02231217452D          
+
+  7  7  0  0  0  0            999 V2000
+    0.7145    2.0625    0.0000 Hg   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04558
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Phenylmercury
+
+> <CHEMICAL_FORMULA>
+C6H5Hg
+
+> <MOLECULAR_WEIGHT>
+277.69
+
+> <EXACT_MASS>
+279.009750764
+
+> <IUPAC_NAME>
+phenylmercury
+
+> <IUPAC_TRADITIONAL_NAME>
+phenylmercury
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H5.Hg/c1-2-4-6-5-3-1;/h1-5H;
+
+> <INCHI_KEY>
+InChIKey=DCNLOVYDMCVNRZ-UHFFFAOYSA-N
+
+> <SMILES>
+[Hg]C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.55
+
+> <JCHEM_LOGP>
+0.9
+
+> <ALOGPS_LOGS>
+-0.74
+
+> <JCHEM_POLARIZABILITY>
+10.76
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+25.47
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.07e+01 g/l __ 
+
+$$$$

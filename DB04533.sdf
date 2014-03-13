@@ -1,0 +1,96 @@
+
+  Mrv0541 02231217442D          
+
+  9  9  0  0  0  0            999 V2000
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  2  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04533
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Amino-P-Cresol
+
+> <CHEMICAL_FORMULA>
+C7H9NO
+
+> <MOLECULAR_WEIGHT>
+123.1525
+
+> <EXACT_MASS>
+123.068413915
+
+> <IUPAC_NAME>
+2-amino-4-methylphenol
+
+> <IUPAC_TRADITIONAL_NAME>
+2-amino-P-cresol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H9NO/c1-5-2-3-7(9)6(8)4-5/h2-4,9H,8H2,1H3
+
+> <INCHI_KEY>
+InChIKey=ZMXYNJXDULEQCK-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=CC=C(O)C(N)=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+10.69
+
+> <JCHEM_BASIC_PKA>
+4.74
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.77
+
+> <JCHEM_LOGP>
+1.35
+
+> <ALOGPS_LOGS>
+-0.51
+
+> <JCHEM_POLARIZABILITY>
+13.29
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.25
+
+> <JCHEM_REFRACTIVITY>
+37.78
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.84e+01 g/l __ 
+
+$$$$

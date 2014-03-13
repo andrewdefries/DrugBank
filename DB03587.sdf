@@ -1,0 +1,87 @@
+
+  Mrv0541 02231217022D          
+
+  5  4  0  0  0  0            999 V2000
+    2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03587
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Pyruvoyl Group
+
+> <CHEMICAL_FORMULA>
+C3H4O2
+
+> <MOLECULAR_WEIGHT>
+72.0627
+
+> <EXACT_MASS>
+72.021129372
+
+> <IUPAC_NAME>
+2-oxopropanal
+
+> <IUPAC_TRADITIONAL_NAME>
+pyruvoyl group
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H4O2/c1-3(5)2-4/h2H,1H3
+
+> <INCHI_KEY>
+InChIKey=AIJULSRZWUXGPQ-UHFFFAOYSA-N
+
+> <SMILES>
+CC(=O)C=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+16.38
+
+> <JCHEM_BASIC_PKA>
+-8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.38
+
+> <JCHEM_LOGP>
+0.2
+
+> <ALOGPS_LOGS>
+0.4
+
+> <JCHEM_POLARIZABILITY>
+6.42
+
+> <JCHEM_POLAR_SURFACE_AREA>
+34.14
+
+> <JCHEM_REFRACTIVITY>
+17.05
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.80e+02 g/l __ 
+
+$$$$

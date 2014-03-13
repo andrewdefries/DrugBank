@@ -1,0 +1,119 @@
+1015
+  Mrv0541 02231215102D          
+
+ 17 18  0  0  0  0            999 V2000
+    2.4751    0.6631    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0828    2.8927    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.6631    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    0.6631    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    1.4882    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2758    2.7212    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -2.6369    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.1619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -0.5744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -0.5744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.9007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -1.8119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.3994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.3994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9433    1.5651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4953    2.1782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3158    2.0920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 16  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01015
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Sulfamethoxazole
+
+> <SYNONYMS>
+3-(p-Aminophenylsulfonamido)-5-methylisoxazole; 3-Sulfanilamido-5-methylisoxazole; 4-Amino-N-(5-methyl-3-isoxazolyl)benzenesulfonamide; SMX
+
+> <BRANDS>
+Gantanol; Sinomin
+
+> <CHEMICAL_FORMULA>
+C10H11N3O3S
+
+> <MOLECULAR_WEIGHT>
+253.278
+
+> <EXACT_MASS>
+253.052111923
+
+> <IUPAC_NAME>
+4-amino-N-(5-methyl-1,2-oxazol-3-yl)benzene-1-sulfonamide
+
+> <IUPAC_TRADITIONAL_NAME>
+sulfamethoxazole
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11N3O3S/c1-7-6-10(12-16-7)13-17(14,15)9-4-2-8(11)3-5-9/h2-6H,11H2,1H3,(H,12,13)
+
+> <INCHI_KEY>
+InChIKey=JLKIGFTWXXRPMT-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=CC(NS(=O)(=O)C2=CC=C(N)C=C2)=NO1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+6.16
+
+> <JCHEM_BASIC_PKA>
+1.97
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.79
+
+> <JCHEM_LOGP>
+0.79
+
+> <ALOGPS_LOGS>
+-2.7
+
+> <JCHEM_POLARIZABILITY>
+24.99
+
+> <JCHEM_POLAR_SURFACE_AREA>
+98.22
+
+> <JCHEM_REFRACTIVITY>
+64.5
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+4.59e-01 g/l __ 
+
+$$$$

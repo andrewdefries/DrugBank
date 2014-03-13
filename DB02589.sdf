@@ -1,0 +1,86 @@
+
+  Mrv0541 02231216192D          
+
+  6  5  0  0  0  0            999 V2000
+    1.2375    2.1434    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 Se   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02589
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Se-Ethyl-Isoselenourea
+
+> <CHEMICAL_FORMULA>
+C3H8N2Se
+
+> <MOLECULAR_WEIGHT>
+151.07
+
+> <EXACT_MASS>
+151.985270094
+
+> <IUPAC_NAME>
+(ethylselanyl)methanimidamide
+
+> <IUPAC_TRADITIONAL_NAME>
+ethylselanylmethanimidamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H8N2Se/c1-2-6-3(4)5/h2H2,1H3,(H3,4,5)
+
+> <INCHI_KEY>
+InChIKey=FFKYNFXDBBLWGF-UHFFFAOYSA-N
+
+> <SMILES>
+CC[Se]C(N)=N
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_BASIC_PKA>
+9.71
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-0.25
+
+> <JCHEM_LOGP>
+0.37
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+10.34
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.87
+
+> <JCHEM_REFRACTIVITY>
+45.1
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+6.60e+00 g/l __ 
+
+$$$$

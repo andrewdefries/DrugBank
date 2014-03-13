@@ -1,0 +1,113 @@
+
+  Mrv0541 02231217092D          
+
+ 18 17  0  0  1  0            999 V2000
+    5.8224    1.0711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1286    1.8372    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4348    2.6033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3625    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7143    1.6331    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8946    1.5310    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.0125    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5429    2.0413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4250    2.8579    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3089    1.7351    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9571    2.2455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7232    1.9393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3714    2.4496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2536    3.2662    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1375    2.1434    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7857    2.6537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5518    2.3475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2000    2.8579    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  1  6  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03738
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Pantothenoylaminoethenethiol
+
+> <CHEMICAL_FORMULA>
+C11H20N2O4S
+
+> <MOLECULAR_WEIGHT>
+276.353
+
+> <EXACT_MASS>
+276.114377828
+
+> <IUPAC_NAME>
+(2R)-2,4-dihydroxy-3,3-dimethyl-N-(2-{[(E)-2-sulfanylethenyl]carbamoyl}ethyl)butanamide
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R)-2,4-dihydroxy-3,3-dimethyl-N-(2-{[(E)-2-sulfanylethenyl]carbamoyl}ethyl)butanamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H20N2O4S/c1-11(2,7-14)9(16)10(17)13-4-3-8(15)12-5-6-18/h5-6,9,14,16,18H,3-4,7H2,1-2H3,(H,12,15)(H,13,17)/b6-5+/t9-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=GVPONLWGQFZYSV-CYNONHLPSA-N
+
+> <SMILES>
+OCC(C)(C)[C@@H](O)C(=O)NCCC(=O)N\C=C\S
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+8.47
+
+> <JCHEM_BASIC_PKA>
+-2.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.16
+
+> <JCHEM_LOGP>
+-1.6
+
+> <ALOGPS_LOGS>
+-3.1
+
+> <JCHEM_POLARIZABILITY>
+28.69
+
+> <JCHEM_POLAR_SURFACE_AREA>
+98.66
+
+> <JCHEM_REFRACTIVITY>
+70.12
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+2.20e-01 g/l __ 
+
+$$$$

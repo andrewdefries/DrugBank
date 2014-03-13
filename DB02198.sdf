@@ -1,0 +1,84 @@
+
+  Mrv0541 02231216022D          
+
+  5  4  0  0  0  0            999 V2000
+    2.0625   -0.7145    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -1.4289    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02198
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Bromoacetyl Group
+
+> <CHEMICAL_FORMULA>
+C2H3BrO2
+
+> <MOLECULAR_WEIGHT>
+138.948
+
+> <EXACT_MASS>
+137.931641987
+
+> <IUPAC_NAME>
+2-bromoacetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+2-bromoacetyl group
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H3BrO2/c3-1-2(4)5/h1H2,(H,4,5)
+
+> <INCHI_KEY>
+InChIKey=KDPAWGWELVVRCH-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)CBr
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+2.64
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.53
+
+> <JCHEM_LOGP>
+0.5
+
+> <ALOGPS_LOGS>
+-0.11
+
+> <JCHEM_POLARIZABILITY>
+8.39
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+20.38
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.07e+02 g/l __ 
+
+$$$$

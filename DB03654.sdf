@@ -1,0 +1,99 @@
+PR3
+  Mrv0541 02231217052D          
+
+ 11 10  0  0  0  0            999 V2000
+   -1.9120    0.7722    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9120   -0.0529    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.6266   -0.4654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3410   -0.0529    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1975   -0.4654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4830   -0.0529    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2315   -0.4654    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9461   -0.0529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6606   -0.4654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3751   -0.0529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4178    0.2391    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 11  1  6  0  0  0
+  3  4  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03654
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+S,S-Propylthiocysteine
+
+> <CHEMICAL_FORMULA>
+C6H13NOS2
+
+> <MOLECULAR_WEIGHT>
+179.304
+
+> <EXACT_MASS>
+179.043855423
+
+> <IUPAC_NAME>
+(2R)-2-amino-3-(propyldisulfanyl)propanal
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R)-2-amino-3-(propyldisulfanyl)propanal
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13NOS2/c1-2-3-9-10-5-6(7)4-8/h4,6H,2-3,5,7H2,1H3/t6-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=JOUZYBMKOXDVCY-ZCFIWIBFSA-N
+
+> <SMILES>
+[H][C@](N)(CSSCCC)C=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+15.99
+
+> <JCHEM_BASIC_PKA>
+7.58
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.13
+
+> <JCHEM_LOGP>
+0.68
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+19.47
+
+> <JCHEM_POLAR_SURFACE_AREA>
+43.09
+
+> <JCHEM_REFRACTIVITY>
+49.33
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+1.60e+00 g/l __ 
+
+$$$$

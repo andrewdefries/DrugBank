@@ -1,0 +1,122 @@
+62P
+  Mrv0541 02241213152D          
+
+ 21 23  0  0  0  0            999 V2000
+   -1.9445    0.9477    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5320    0.2333    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7070    0.2333    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7070    1.0583    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7070   -0.5917    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.1180    0.2333    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6029    0.9007    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3875    0.6458    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1020    1.0583    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8164    0.6458    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8164   -0.1792    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5309   -0.5917    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1020   -0.5917    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3875   -0.1792    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6029   -0.4342    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3479   -1.2188    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9445   -0.4812    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7695   -0.4812    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1820    0.2333    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0070    0.2333    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7695    0.9477    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 21  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 17  2  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07187
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-[(5-CHLORO-3-METHYL-1-BENZOFURAN-2-YL)SULFONYL]PYRIDAZIN-3(2H)-ONE
+
+> <CHEMICAL_FORMULA>
+C13H9ClN2O4S
+
+> <MOLECULAR_WEIGHT>
+324.74
+
+> <EXACT_MASS>
+323.997155183
+
+> <IUPAC_NAME>
+6-(5-chloro-3-methyl-1-benzofuran-2-sulfonyl)-2,3-dihydropyridazin-3-one
+
+> <IUPAC_TRADITIONAL_NAME>
+6-(5-chloro-3-methyl-1-benzofuran-2-sulfonyl)-2H-pyridazin-3-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H9ClN2O4S/c1-7-9-6-8(14)2-3-10(9)20-13(7)21(18,19)12-5-4-11(17)15-16-12/h2-6H,1H3,(H,15,17)
+
+> <INCHI_KEY>
+InChIKey=FXFPQPNUMWQRAO-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=C(OC2=CC=C(Cl)C=C12)S(=O)(=O)C1=NNC(=O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+8.5
+
+> <JCHEM_BASIC_PKA>
+-4.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.6
+
+> <JCHEM_LOGP>
+2.23
+
+> <ALOGPS_LOGS>
+-3.8
+
+> <JCHEM_POLARIZABILITY>
+30.05
+
+> <JCHEM_POLAR_SURFACE_AREA>
+88.74
+
+> <JCHEM_REFRACTIVITY>
+76.66
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+5.16e-02 g/l __ 
+
+$$$$

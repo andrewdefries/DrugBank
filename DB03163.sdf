@@ -1,0 +1,99 @@
+
+  Mrv0541 02231216442D          
+
+ 11 10  0  0  0  0            999 V2000
+    1.0461   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605   -1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605   -2.6664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.8414    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184   -1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329   -1.4289    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7454   -2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9204   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03163
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2-[2-Ketopropylthio]Ethanesulfonate
+
+> <CHEMICAL_FORMULA>
+C5H10O4S2
+
+> <MOLECULAR_WEIGHT>
+198.26
+
+> <EXACT_MASS>
+198.002050188
+
+> <IUPAC_NAME>
+2-[(2-oxopropyl)sulfanyl]ethane-1-sulfonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+2-oxopropyl-CoM
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H10O4S2/c1-5(6)4-10-2-3-11(7,8)9/h2-4H2,1H3,(H,7,8,9)
+
+> <INCHI_KEY>
+InChIKey=CRNXHFXAXBWIRH-UHFFFAOYSA-N
+
+> <SMILES>
+CC(=O)CSCCS(O)(=O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+-1
+
+> <JCHEM_BASIC_PKA>
+-7.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-1.4
+
+> <JCHEM_LOGP>
+-0.52
+
+> <ALOGPS_LOGS>
+-0.92
+
+> <JCHEM_POLARIZABILITY>
+18.73
+
+> <JCHEM_POLAR_SURFACE_AREA>
+71.44
+
+> <JCHEM_REFRACTIVITY>
+43.56
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+2.39e+01 g/l __ 
+
+$$$$

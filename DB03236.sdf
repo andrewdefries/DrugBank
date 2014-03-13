@@ -1,0 +1,103 @@
+
+  Mrv0541 02231216482D          
+
+ 13 12  0  0  1  0            999 V2000
+    2.2836    2.1434    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9980    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    3.3809    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.2849    3.3809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03236
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2s)-4-(Beta-Alanylamino)-2-Aminobutanoic Acid
+
+> <CHEMICAL_FORMULA>
+C7H15N3O3
+
+> <MOLECULAR_WEIGHT>
+189.2123
+
+> <EXACT_MASS>
+189.111341361
+
+> <IUPAC_NAME>
+(2S)-2-amino-4-(3-aminopropanamido)butanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S)-2-amino-4-(3-aminopropanamido)butanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H15N3O3/c8-3-1-6(11)10-4-2-5(9)7(12)13/h5H,1-4,8-9H2,(H,10,11)(H,12,13)/t5-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=ZTTQHTAQUGLWNQ-YFKPBYRVSA-N
+
+> <SMILES>
+NCCC(=O)NCC[C@H](N)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+2.35
+
+> <JCHEM_BASIC_PKA>
+9.41
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-3.6
+
+> <JCHEM_LOGP>
+-5.1
+
+> <ALOGPS_LOGS>
+-0.83
+
+> <JCHEM_POLARIZABILITY>
+19.52
+
+> <JCHEM_POLAR_SURFACE_AREA>
+118.44
+
+> <JCHEM_REFRACTIVITY>
+46.07
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+2.83e+01 g/l __ 
+
+$$$$

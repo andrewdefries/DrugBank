@@ -1,0 +1,128 @@
+1246
+  Mrv0541 02231215212D          
+
+ 21 23  0  0  1  0            999 V2000
+    3.6959   -2.3626    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6959   -0.7784    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0680    1.5979    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3820    0.4097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6959    0.0137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3820    1.2019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0680    0.0137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3820   -1.1744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0100   -1.1744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3820   -1.9666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0100   -1.9666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0900   -0.7509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -0.7509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0680    2.3900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7539    1.2019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0900   -2.3900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -2.3900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8078   -1.1580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5842   -1.1580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8078   -1.9831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5842   -1.9831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 11  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 16  2  0  0  0  0
+ 11 17  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 21  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01246
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Alimemazine
+
+> <SYNONYMS>
+Trimeprazine
+
+> <SALTS>
+Alimemazine tartrate
+
+> <BRANDS>
+Alimezine; Nedeltran; Theralen; Theralene; Vallergan
+
+> <CHEMICAL_FORMULA>
+C18H22N2S
+
+> <MOLECULAR_WEIGHT>
+298.446
+
+> <EXACT_MASS>
+298.150369404
+
+> <IUPAC_NAME>
+dimethyl[2-methyl-3-(10H-phenothiazin-10-yl)propyl]amine
+
+> <IUPAC_TRADITIONAL_NAME>
+trimeprazine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H22N2S/c1-14(12-19(2)3)13-20-15-8-4-6-10-17(15)21-18-11-7-5-9-16(18)20/h4-11,14H,12-13H2,1-3H3
+
+> <INCHI_KEY>
+InChIKey=ZZHLYYDVIOPZBE-UHFFFAOYSA-N
+
+> <SMILES>
+CC(CN(C)C)CN1C2=CC=CC=C2SC2=CC=CC=C12
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+9.42
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+4.82
+
+> <JCHEM_LOGP>
+4.41
+
+> <ALOGPS_LOGS>
+-4.5
+
+> <JCHEM_POLARIZABILITY>
+34.83
+
+> <JCHEM_POLAR_SURFACE_AREA>
+6.48
+
+> <JCHEM_REFRACTIVITY>
+93.37
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+8.35e-03 g/l __ 
+
+$$$$

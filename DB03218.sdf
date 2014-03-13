@@ -1,0 +1,114 @@
+
+  Mrv0541 02231216472D          
+
+ 18 18  0  0  1  0            999 V2000
+   -2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.0625    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.0625    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.8579   -3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -3.3000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  8  7  1  1  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 13 14  1  6  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  1  0  0  0
+ 15 17  1  0  0  0  0
+  8 17  1  0  0  0  0
+ 17 18  1  6  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03218
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Acetyl-N'-Beta-D-Glucopyranosyl Urea
+
+> <CHEMICAL_FORMULA>
+C9H16N2O7
+
+> <MOLECULAR_WEIGHT>
+264.2325
+
+> <EXACT_MASS>
+264.095750876
+
+> <IUPAC_NAME>
+3-acetyl-1-[(2S,3S,4R,5R,6S)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]urea
+
+> <IUPAC_TRADITIONAL_NAME>
+3-acetyl-1-[(2S,3S,4R,5R,6S)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]urea
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H16N2O7/c1-3(13)10-9(17)11-8-7(16)6(15)5(14)4(2-12)18-8/h4-8,12,14-16H,2H2,1H3,(H2,10,11,13,17)/t4-,5-,6+,7-,8-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=UQKBNLXZEGBQAF-RLMOJYMMSA-N
+
+> <SMILES>
+CC(=O)NC(=O)N[C@H]1O[C@@H](CO)[C@H](O)[C@@H](O)[C@@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_ACIDIC_PKA>
+11.33
+
+> <JCHEM_BASIC_PKA>
+-3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.3
+
+> <JCHEM_LOGP>
+-3.6
+
+> <ALOGPS_LOGS>
+-0.49
+
+> <JCHEM_POLARIZABILITY>
+24.4
+
+> <JCHEM_POLAR_SURFACE_AREA>
+148.35
+
+> <JCHEM_REFRACTIVITY>
+55.27
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+8.62e+01 g/l __ 
+
+$$$$

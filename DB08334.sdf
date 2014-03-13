@@ -1,0 +1,117 @@
+OX4
+  Mrv0541 02241214012D          
+
+ 19 20  0  0  0  0            999 V2000
+   -0.8227    5.0371    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8227    4.2121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5372    3.7996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2517    4.2121    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5372    2.9746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8227    2.5621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1082    2.9746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1082    3.7996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8227    1.7371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5372    1.3246    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5372    0.4996    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8227    0.0871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1082    0.4996    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8227   -0.7379    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1082   -1.1504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1082   -1.9754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8227   -2.3879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5372   -1.9754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5372   -1.1504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  8  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08334
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-FLUORO-4-HYDROXYBENZALDEHYDE O-(CYCLOHEXYLCARBONYL)OXIME
+
+> <CHEMICAL_FORMULA>
+C14H16FNO3
+
+> <MOLECULAR_WEIGHT>
+265.2801
+
+> <EXACT_MASS>
+265.111421588
+
+> <IUPAC_NAME>
+(E)-[(3-fluoro-4-hydroxyphenyl)methylidene]amino cyclohexanecarboxylate
+
+> <IUPAC_TRADITIONAL_NAME>
+(E)-[(3-fluoro-4-hydroxyphenyl)methylidene]amino cyclohexanecarboxylate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H16FNO3/c15-12-8-10(6-7-13(12)17)9-16-19-14(18)11-4-2-1-3-5-11/h6-9,11,17H,1-5H2/b16-9+
+
+> <INCHI_KEY>
+InChIKey=NPVNUGQNVVMJJP-CXUHLZMHSA-N
+
+> <SMILES>
+OC1=CC=C(\C=N\OC(=O)C2CCCCC2)C=C1F
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+7.97
+
+> <JCHEM_BASIC_PKA>
+1.57
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.75
+
+> <JCHEM_LOGP>
+3.79
+
+> <ALOGPS_LOGS>
+-3.8
+
+> <JCHEM_POLARIZABILITY>
+26.83
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.89
+
+> <JCHEM_REFRACTIVITY>
+69.01
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+4.76e-02 g/l __ 
+
+$$$$

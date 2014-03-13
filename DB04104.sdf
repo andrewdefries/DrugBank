@@ -1,0 +1,101 @@
+
+  Mrv0541 02231217252D          
+
+ 11 12  0  0  0  0            999 V2000
+    3.2789    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798   -0.2549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2949    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798    1.0799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  2 11  1  0  0  0  0
+  7 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04104
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Methyladenine
+
+> <CHEMICAL_FORMULA>
+C6H7N5
+
+> <MOLECULAR_WEIGHT>
+149.1533
+
+> <EXACT_MASS>
+149.070145249
+
+> <IUPAC_NAME>
+3-methyl-3H-purin-6-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+3-methyladenine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H7N5/c1-11-3-10-5(7)4-6(11)9-2-8-4/h2-3H,7H2,1H3
+
+> <INCHI_KEY>
+InChIKey=FSASIHFSFGAIJM-UHFFFAOYSA-N
+
+> <SMILES>
+CN1C=NC(N)=C2N=CN=C12
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+17.3
+
+> <JCHEM_BASIC_PKA>
+3.03
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.1
+
+> <JCHEM_LOGP>
+-0.31
+
+> <ALOGPS_LOGS>
+-1.9
+
+> <JCHEM_POLARIZABILITY>
+14.48
+
+> <JCHEM_POLAR_SURFACE_AREA>
+69.62
+
+> <JCHEM_REFRACTIVITY>
+41.5
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.81e+00 g/l __ 
+
+$$$$

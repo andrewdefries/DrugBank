@@ -1,0 +1,129 @@
+
+  Mrv0541 05031312592D          
+
+ 23 25  0  0  0  0            999 V2000
+   -7.7491    5.2741    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1657    4.6907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3407    4.6907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7574    4.1074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9324    4.1074    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7189    3.3105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0706    3.5770    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9324    2.5136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1355    2.7271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4814    3.3105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6328    2.6093    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.8331    3.5770    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.2497    4.1604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6622    4.8749    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4247    4.1604    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0122    4.8749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8078    2.6093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3953    1.8948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5703    1.8948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1578    2.6093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5703    3.3237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3953    3.3237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6672    2.6093    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+ 12 11  1  0  0  0  0
+ 12 13  1  1  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 11 17  1  1  0  0  0
+ 17 18  1  0  0  0  0
+ 17 22  2  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 20 23  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08824
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Ioflupane I 123
+
+> <SYNONYMS>
+123I-FP-CIT; 123I-Ioflupane; Datscan; ioflupane ((123)I); ioflupane (123I); ioflupane I(123); ioflupano (123I); ioflupanum (123I); methyl (1R,2S,3S,5S)-8-(3-fluoropropyl)-3-[4-((123)I)iodophenyl]-8-azabicyclo[3.2.1]octane-2-carboxylate; Methyl 8-(3-fluoropropyl)-3β-(p-iodo-I(sup 123)-phenyl)-1αH, 5αH-nortropane-2β-carboxylate.
+
+> <BRANDS>
+Datscan
+
+> <CHEMICAL_FORMULA>
+C18H23FINO2
+
+> <MOLECULAR_WEIGHT>
+431.2836
+
+> <EXACT_MASS>
+431.07575061
+
+> <IUPAC_NAME>
+methyl (2S,3S)-8-(3-fluoropropyl)-3-(4-iodophenyl)-8-azabicyclo[3.2.1]octane-2-carboxylate
+
+> <IUPAC_TRADITIONAL_NAME>
+methyl (2S,3S)-8-(3-fluoropropyl)-3-(4-iodophenyl)-8-azabicyclo[3.2.1]octane-2-carboxylate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H23FINO2/c1-23-18(22)17-15(12-3-5-13(20)6-4-12)11-14-7-8-16(17)21(14)10-2-9-19/h3-6,14-17H,2,7-11H2,1H3/t14?,15-,16?,17+/m1/s1
+
+> <INCHI_KEY>
+InChIKey=HXWLAJVUJSVENX-MYBQVCMBSA-N
+
+> <SMILES>
+COC(=O)[C@@H]1C2CCC(C[C@@H]1C1=CC=C(I)C=C1)N2CCCF
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+9.46
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+4.24
+
+> <JCHEM_LOGP>
+3.7
+
+> <ALOGPS_LOGS>
+-4.9
+
+> <JCHEM_POLARIZABILITY>
+38.79
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.54
+
+> <JCHEM_REFRACTIVITY>
+97.34
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+5.66e-03 g/l __ 
+
+$$$$

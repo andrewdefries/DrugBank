@@ -1,0 +1,95 @@
+
+  Mrv0541 02231217402D          
+
+  9  8  0  0  1  0            999 V2000
+    1.7605    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6184    2.6664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  1  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04419
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Norleucine
+
+> <CHEMICAL_FORMULA>
+C6H13NO2
+
+> <MOLECULAR_WEIGHT>
+131.1729
+
+> <EXACT_MASS>
+131.094628665
+
+> <IUPAC_NAME>
+(2R)-2-aminohexanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+norleucine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13NO2/c1-2-3-4-5(7)6(8)9/h5H,2-4,7H2,1H3,(H,8,9)/t5-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=LRQKBLKVPFOOQJ-RXMQYKEDSA-N
+
+> <SMILES>
+CCCC[C@@H](N)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.79
+
+> <JCHEM_BASIC_PKA>
+9.53
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.7
+
+> <JCHEM_LOGP>
+-1.4
+
+> <ALOGPS_LOGS>
+-0.17
+
+> <JCHEM_POLARIZABILITY>
+14.43
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+34.22
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+8.91e+01 g/l __ 
+
+$$$$

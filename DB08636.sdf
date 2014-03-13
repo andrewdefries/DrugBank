@@ -1,0 +1,106 @@
+TOH
+  Mrv0541 02241214132D          
+
+ 14 14  0  0  0  0            999 V2000
+    3.8396   -0.6435    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1251   -0.2310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1251    0.5940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8396    1.0065    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4106    1.0065    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4106   -0.6435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4106   -1.4685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6961   -1.8810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6961   -2.7060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9817   -3.1185    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2672   -2.7060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2672   -1.8810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9817   -1.4685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9817   -0.6435    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08636
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(3E)-4-(2-HYDROXYPHENYL)-2-OXOBUT-3-ENOIC ACID
+
+> <CHEMICAL_FORMULA>
+C10H8O4
+
+> <MOLECULAR_WEIGHT>
+192.1681
+
+> <EXACT_MASS>
+192.042258744
+
+> <IUPAC_NAME>
+(3E)-4-(2-hydroxyphenyl)-2-oxobut-3-enoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+2-hydroxybenzalpyruvate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H8O4/c11-8-4-2-1-3-7(8)5-6-9(12)10(13)14/h1-6,11H,(H,13,14)/b6-5+
+
+> <INCHI_KEY>
+InChIKey=HMXOGGUFCBUALL-AATRIKPKSA-N
+
+> <SMILES>
+OC(=O)C(=O)\C=C\C1=CC=CC=C1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.93
+
+> <JCHEM_BASIC_PKA>
+-6.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.86
+
+> <JCHEM_LOGP>
+2.12
+
+> <ALOGPS_LOGS>
+-2.5
+
+> <JCHEM_POLARIZABILITY>
+18.48
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+50.39
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+6.23e-01 g/l __ 
+
+$$$$

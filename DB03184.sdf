@@ -1,0 +1,98 @@
+
+  Mrv0541 02231216452D          
+
+ 10 10  0  0  1  0            999 V2000
+    2.0198    0.8843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2352    0.6294    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.9803   -0.1553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1553   -0.1553    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3297   -0.8227    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0997    0.6294    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5678    1.1143    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5678    1.9393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1467    2.3518    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2822    2.3518    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03184
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-Amino-3-Methyl-Pyrrolidine-2-Carboxylic Acid
+
+> <CHEMICAL_FORMULA>
+C6H12N2O2
+
+> <MOLECULAR_WEIGHT>
+144.1717
+
+> <EXACT_MASS>
+144.089877638
+
+> <IUPAC_NAME>
+(2S,3S,5S)-5-amino-3-methylpyrrolidine-2-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S,3S,5S)-5-amino-3-methylpyrrolidine-2-carboxylic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12N2O2/c1-3-2-4(7)8-5(3)6(9)10/h3-5,8H,2,7H2,1H3,(H,9,10)/t3-,4-,5-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=ZELPFFKOULVLMW-YUPRTTJUSA-N
+
+> <SMILES>
+C[C@H]1C[C@@H](N)N[C@@H]1C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+3.13
+
+> <JCHEM_BASIC_PKA>
+8.62
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.9
+
+> <JCHEM_LOGP>
+-2.8
+
+> <ALOGPS_LOGS>
+0.13
+
+> <JCHEM_POLARIZABILITY>
+14.74
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.35
+
+> <JCHEM_REFRACTIVITY>
+35.33
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.93e+02 g/l __ 
+
+$$$$

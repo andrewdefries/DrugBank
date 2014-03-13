@@ -1,0 +1,109 @@
+ROI
+  Mrv0541 02231216052D          
+
+ 15 16  0  0  0  0            999 V2000
+   -0.9910   -0.5265    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7055   -0.1140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4200   -0.5265    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7055    0.7110    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9910    1.1235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9910    1.9485    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2766    0.7110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4379    1.1235    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1524    0.7110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1524   -0.1140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9648    0.0292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4345   -0.8893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4379   -0.5265    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2766   -0.1140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8669    1.1235    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  2  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02278
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+7,8-Dihydro-7,7-Dimethyl-6-Hydroxypterin
+
+> <CHEMICAL_FORMULA>
+C8H11N5O2
+
+> <MOLECULAR_WEIGHT>
+209.2052
+
+> <EXACT_MASS>
+209.091274621
+
+> <IUPAC_NAME>
+2-amino-6-hydroxy-7,7-dimethyl-3,4,7,8-tetrahydropteridin-4-one
+
+> <IUPAC_TRADITIONAL_NAME>
+2-amino-6-hydroxy-7,7-dimethyl-3,8-dihydropteridin-4-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11N5O2/c1-8(2)6(15)10-3-4(13-8)11-7(9)12-5(3)14/h1-2H3,(H,10,15)(H4,9,11,12,13,14)
+
+> <INCHI_KEY>
+InChIKey=JMLQSLXEUWNWFI-UHFFFAOYSA-N
+
+> <SMILES>
+CC1(C)NC2=C(N=C1O)C(=O)NC(N)=N2
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+5.8
+
+> <JCHEM_BASIC_PKA>
+3.77
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.74
+
+> <JCHEM_LOGP>
+-0.4
+
+> <ALOGPS_LOGS>
+-2.1
+
+> <JCHEM_POLARIZABILITY>
+20.03
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.1
+
+> <JCHEM_REFRACTIVITY>
+62.1
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.57e+00 g/l __ 
+
+$$$$

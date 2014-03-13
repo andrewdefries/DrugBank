@@ -1,0 +1,121 @@
+B1V
+  Mrv0541 02231216372D          
+
+ 21 22  0  0  0  0            999 V2000
+   -0.9193    4.3434    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9193    3.5184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7443    3.5184    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0943    3.5184    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9193    2.6934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2048    2.2809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6338    2.2809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6338    1.4559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3482    1.0434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9193    1.0434    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2048    1.4559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5097    1.0434    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5097    0.2184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2241   -0.1941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9386    0.2184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2241   -1.0191    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9386   -1.4316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9386   -2.2566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2241   -2.6691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5097   -2.2566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5097   -1.4316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03009
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-[(2-Oxo-2-Piperidin-1-Ylethyl)Thio]-6-(Trifluoromethyl)Pyrimidin-4(1h)-One
+
+> <CHEMICAL_FORMULA>
+C12H14F3N3O2S
+
+> <MOLECULAR_WEIGHT>
+321.319
+
+> <EXACT_MASS>
+321.075882012
+
+> <IUPAC_NAME>
+2-{[4-hydroxy-6-(trifluoromethyl)pyrimidin-2-yl]sulfanyl}-1-(piperidin-1-yl)ethan-1-one
+
+> <IUPAC_TRADITIONAL_NAME>
+2-{[4-hydroxy-6-(trifluoromethyl)pyrimidin-2-yl]sulfanyl}-1-(piperidin-1-yl)ethanone
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H14F3N3O2S/c13-12(14,15)8-6-9(19)17-11(16-8)21-7-10(20)18-4-2-1-3-5-18/h6H,1-5,7H2,(H,16,17,19)
+
+> <INCHI_KEY>
+InChIKey=UDBHGUOSOKOIAX-UHFFFAOYSA-N
+
+> <SMILES>
+OC1=CC(=NC(SCC(=O)N2CCCCC2)=N1)C(F)(F)F
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+11.59
+
+> <JCHEM_BASIC_PKA>
+-1.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.51
+
+> <JCHEM_LOGP>
+2.57
+
+> <ALOGPS_LOGS>
+-2.8
+
+> <JCHEM_POLARIZABILITY>
+29.18
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.32
+
+> <JCHEM_REFRACTIVITY>
+73.31
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+5.18e-01 g/l __ 
+
+$$$$

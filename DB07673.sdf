@@ -1,0 +1,101 @@
+DPH
+  Mrv0541 02241213342D          
+
+ 13 13  0  0  0  0            999 V2000
+    0.0156    1.2404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7301    0.8279    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7301    0.0029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0156   -0.4096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0156   -1.2346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6989    0.0029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6989   -1.6471    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4133   -0.4096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4133   -1.2346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4445    1.2404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4445    2.0654    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1590    0.8279    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2244    0.5359    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 13  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07673
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+DEAMINO-METHYL-PHENYLALANINE
+
+> <CHEMICAL_FORMULA>
+C10H12O2
+
+> <MOLECULAR_WEIGHT>
+164.2011
+
+> <EXACT_MASS>
+164.083729628
+
+> <IUPAC_NAME>
+(2S)-2-methyl-3-phenylpropanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S)-2-methyl-3-phenylpropanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12O2/c1-8(10(11)12)7-9-5-3-2-4-6-9/h2-6,8H,7H2,1H3,(H,11,12)/t8-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=MCIIDRLDHRQKPH-QMMMGPOBSA-N
+
+> <SMILES>
+[H][C@](C)(CC1=CC=CC=C1)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.76
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+2.28
+
+> <JCHEM_LOGP>
+2.6
+
+> <ALOGPS_LOGS>
+-2.3
+
+> <JCHEM_POLARIZABILITY>
+17.78
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+46.54
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+8.63e-01 g/l __ 
+
+$$$$

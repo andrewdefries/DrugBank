@@ -1,0 +1,96 @@
+TEN
+  Mrv0541 02231216522D          
+
+ 11 10  0  0  0  0            999 V2000
+   -0.3539   -0.5685    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9372   -1.1517    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2295   -1.1517    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0160   -1.9487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5994   -2.5321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9372    0.0150    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7238    0.8119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3071    1.3953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2295    0.0150    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0160    0.8119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5994    1.3953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03347
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Triethyl Phosphate
+
+> <CHEMICAL_FORMULA>
+C6H15O4P
+
+> <MOLECULAR_WEIGHT>
+182.1547
+
+> <EXACT_MASS>
+182.07079548
+
+> <IUPAC_NAME>
+triethyl phosphate
+
+> <IUPAC_TRADITIONAL_NAME>
+triethyl phosphate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H15O4P/c1-4-8-11(7,9-5-2)10-6-3/h4-6H2,1-3H3
+
+> <INCHI_KEY>
+InChIKey=DQWPFSLDHJDLRL-UHFFFAOYSA-N
+
+> <SMILES>
+CCOP(=O)(OCC)OCC
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-9.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.71
+
+> <JCHEM_LOGP>
+1.18
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+17.86
+
+> <JCHEM_POLAR_SURFACE_AREA>
+44.76
+
+> <JCHEM_REFRACTIVITY>
+42.34
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+1.59e+01 g/l __ 
+
+$$$$

@@ -1,0 +1,105 @@
+
+  Mrv0541 02231215552D          
+
+ 13 14  0  0  0  0            999 V2000
+    0.0000   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+  5 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+  2 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02041
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Aminophthalhydrazide
+
+> <CHEMICAL_FORMULA>
+C8H7N3O2
+
+> <MOLECULAR_WEIGHT>
+177.1601
+
+> <EXACT_MASS>
+177.053826483
+
+> <IUPAC_NAME>
+6-amino-1,2,3,4-tetrahydrophthalazine-1,4-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+4-aminophthalhydrazide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H7N3O2/c9-4-1-2-5-6(3-4)8(13)11-10-7(5)12/h1-3H,9H2,(H,10,12)(H,11,13)
+
+> <INCHI_KEY>
+InChIKey=HUDPLKWXRLNSPC-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=CC=C2C(=O)NNC(=O)C2=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+13.75
+
+> <JCHEM_BASIC_PKA>
+2.15
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.39
+
+> <JCHEM_LOGP>
+-0.71
+
+> <ALOGPS_LOGS>
+-1.9
+
+> <JCHEM_POLARIZABILITY>
+16.46
+
+> <JCHEM_POLAR_SURFACE_AREA>
+84.22
+
+> <JCHEM_REFRACTIVITY>
+47.32
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.43e+00 g/l __ 
+
+$$$$

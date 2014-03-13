@@ -1,0 +1,107 @@
+
+  Mrv0541 02231215562D          
+
+ 13 13  0  0  1  0            999 V2000
+   -0.3297   -0.8227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1553   -0.1553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0997    0.6294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8843    0.8843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4974    0.3323    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.3259   -0.4747    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2820    0.5872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8951    0.0352    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4535    1.3942    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5678    1.1143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5678    1.9393    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2352    0.6294    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9803   -0.1553    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  6  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  3 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+  2 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02057
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+AMPA
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C7H10N2O4
+
+> <MOLECULAR_WEIGHT>
+186.1653
+
+> <EXACT_MASS>
+186.064056818
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-(3-hydroxy-5-methyl-1,2-oxazol-4-yl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+AMPA
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H10N2O4/c1-3-4(6(10)9-13-3)2-5(8)7(11)12/h5H,2,8H2,1H3,(H,9,10)(H,11,12)/t5-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=UUDAMDVQRQNNHZ-YFKPBYRVSA-N
+
+> <SMILES>
+CC1=C(C[C@H](N)C(O)=O)C(O)=NO1
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.56
+
+> <JCHEM_BASIC_PKA>
+8.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-2.5
+
+> <JCHEM_LOGP>
+-2.3
+
+> <ALOGPS_LOGS>
+-0.88
+
+> <JCHEM_POLARIZABILITY>
+17.1
+
+> <JCHEM_POLAR_SURFACE_AREA>
+109.58
+
+> <JCHEM_REFRACTIVITY>
+44
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.45e+01 g/l __ 
+
+$$$$

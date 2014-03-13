@@ -1,0 +1,126 @@
+
+  Mrv0541 02241212462D          
+
+ 19 20  0  0  0  0            999 V2000
+    2.1552    1.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8697    0.8920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8697    0.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5842   -0.3455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5842   -1.1705    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8697   -1.5830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1552   -1.1705    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1552   -0.3455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8697   -2.4080    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5842    1.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1145    1.9365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9269    1.7933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2091    1.0180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6788    0.3860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8663    0.5293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0539    1.9365    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4407    0.8920    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7263    1.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4407    0.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  3  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+  1 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB06700
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Desvenlafaxine
+
+> <SYNONYMS>
+O-desmethylvenlafaxine; ODV
+
+> <SALTS>
+Desvenlafaxine Succinate 
+
+> <BRANDS>
+Pristiq
+
+> <CHEMICAL_FORMULA>
+C16H25NO2
+
+> <MOLECULAR_WEIGHT>
+263.3752
+
+> <EXACT_MASS>
+263.188529049
+
+> <IUPAC_NAME>
+4-[2-(dimethylamino)-1-(1-hydroxycyclohexyl)ethyl]phenol
+
+> <IUPAC_TRADITIONAL_NAME>
+desvenlafaxine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H25NO2/c1-17(2)12-15(13-6-8-14(18)9-7-13)16(19)10-4-3-5-11-16/h6-9,15,18-19H,3-5,10-12H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=KYYIDSXMWOZKMP-UHFFFAOYSA-N
+
+> <SMILES>
+CN(C)CC(C1=CC=C(O)C=C1)C1(O)CCCCC1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+10.11
+
+> <JCHEM_BASIC_PKA>
+8.87
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.6
+
+> <JCHEM_LOGP>
+2.29
+
+> <ALOGPS_LOGS>
+-2.3
+
+> <JCHEM_POLARIZABILITY>
+30.29
+
+> <JCHEM_POLAR_SURFACE_AREA>
+43.7
+
+> <JCHEM_REFRACTIVITY>
+78.54
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.40e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,112 @@
+
+  Mrv0541 02231217362D          
+
+ 17 17  0  0  1  0            999 V2000
+   -0.7066    1.0881    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7066    0.2631    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.4211   -0.1494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1356    0.2631    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8501   -0.1494    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.9363   -0.9698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7433   -1.1414    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -4.1558   -0.4269    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6037    0.1862    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0788   -1.8950    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.5939   -2.5625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8993   -1.9813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2349   -2.7350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3842   -1.3138    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0078   -0.1494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7223    0.2631    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0078   -0.9744    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  4  1  6  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  5  9  1  0  0  0  0
+  7 10  1  6  0  0  0
+ 10 11  1  1  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+  2 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04323
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Amino-3-(Cystein-S-Yl)-Isoxazolidin-5-Yl-Acetic Acid
+
+> <CHEMICAL_FORMULA>
+C8H15N3O5S
+
+> <MOLECULAR_WEIGHT>
+265.287
+
+> <EXACT_MASS>
+265.073241295
+
+> <IUPAC_NAME>
+(2R)-2-amino-3-{[(3R,5R)-5-[(R)-amino(carboxy)methyl]-1,2-oxazolidin-3-yl]sulfanyl}propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R)-2-amino-3-{[(3R,5R)-5-[(R)-amino(carboxy)methyl]-1,2-oxazolidin-3-yl]sulfanyl}propanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H15N3O5S/c9-3(7(12)13)2-17-5-1-4(16-11-5)6(10)8(14)15/h3-6,11H,1-2,9-10H2,(H,12,13)(H,14,15)/t3-,4+,5+,6+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=YLODKYYPRFTBNK-SLPGGIOYSA-N
+
+> <SMILES>
+N[C@@H](CS[C@@H]1C[C@@H](ON1)[C@@H](N)C(O)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+1.13
+
+> <JCHEM_BASIC_PKA>
+9.29
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-4.1
+
+> <JCHEM_LOGP>
+-6
+
+> <ALOGPS_LOGS>
+-1.2
+
+> <JCHEM_POLARIZABILITY>
+24.83
+
+> <JCHEM_POLAR_SURFACE_AREA>
+147.9
+
+> <JCHEM_REFRACTIVITY>
+68.48
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+1.85e+01 g/l __ 
+
+$$$$

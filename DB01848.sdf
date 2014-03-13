@@ -1,0 +1,105 @@
+
+  Mrv0541 02231215462D          
+
+ 14 13  0  0  1  0            999 V2000
+    0.8250   -1.4289    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -2.1434    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -2.8579    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -2.1434    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750   -2.8579    0.0000 C    0  0  1  0  0  0  0  0  0  0  0  0
+    3.3000   -2.8579    0.0000 C    0  0  1  0  0  0  0  0  0  0  0  0
+    3.7125   -3.5724    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5375   -3.5724    0.0000 Ca   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125   -2.1434    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3000   -1.4289    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5375   -2.1434    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -3.5724    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750   -4.2868    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -3.5724    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  6  0  0  0
+  7  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+  5 12  1  1  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01848
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Isocitrate Calcium Complex
+
+> <CHEMICAL_FORMULA>
+C6H7CaO7
+
+> <MOLECULAR_WEIGHT>
+231.194
+
+> <EXACT_MASS>
+230.981768733
+
+> <IUPAC_NAME>
+[(1R,2S)-1,2,3-tricarboxypropoxy]calcio
+
+> <IUPAC_TRADITIONAL_NAME>
+[(1R,2S)-1,2,3-tricarboxypropoxy]calcio
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H7O7.Ca/c7-3(8)1-2(5(10)11)4(9)6(12)13;/h2,4H,1H2,(H,7,8)(H,10,11)(H,12,13);/q-1;+1/t2-,4+;/m0./s1
+
+> <INCHI_KEY>
+InChIKey=ZJKBMQLDNVJREQ-LEJBHHMKSA-N
+
+> <SMILES>
+OC(=O)C[C@@H]([C@@H](O[Ca])C(O)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+2.72
+
+> <JCHEM_BASIC_PKA>
+-4.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <ALOGPS_LOGP>
+0.21
+
+> <JCHEM_LOGP>
+-1.1
+
+> <ALOGPS_LOGS>
+-0.37
+
+> <JCHEM_POLARIZABILITY>
+17.11
+
+> <JCHEM_POLAR_SURFACE_AREA>
+121.13
+
+> <JCHEM_REFRACTIVITY>
+34.5
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+9.93e+01 g/l __ 
+
+$$$$

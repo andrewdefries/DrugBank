@@ -1,0 +1,110 @@
+
+  Mrv0541 02231217332D          
+
+ 18 17  0  0  0  0            999 V2000
+   -2.7177    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0033    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2888    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5743    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1401    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8546    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5691    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2836    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9980    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04257
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Palmitoleic Acid
+
+> <CHEMICAL_FORMULA>
+C16H30O2
+
+> <MOLECULAR_WEIGHT>
+254.4082
+
+> <EXACT_MASS>
+254.224580204
+
+> <IUPAC_NAME>
+(9E)-hexadec-9-enoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+palmitoleic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H30O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16(17)18/h7-8H,2-6,9-15H2,1H3,(H,17,18)/b8-7+
+
+> <INCHI_KEY>
+InChIKey=SECPZKHBENQXJG-BQYQJAHWSA-N
+
+> <SMILES>
+CCCCCC\C=C\CCCCCCCC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.99
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+6.71
+
+> <JCHEM_LOGP>
+5.89
+
+> <ALOGPS_LOGS>
+-5.8
+
+> <JCHEM_POLARIZABILITY>
+33.37
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+78.2
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+13
+
+> <ALOGPS_SOLUBILITY>
+4.47e-04 g/l __ 
+
+$$$$

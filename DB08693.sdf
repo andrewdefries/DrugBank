@@ -1,0 +1,114 @@
+V36
+  Mrv0541 02241214152D          
+
+ 18 18  0  0  0  0            999 V2000
+    0.6969    0.9270    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6969    1.7520    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4114    2.1645    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1258    1.7520    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1258    0.9270    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4114    0.5145    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0176    0.5145    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0176   -0.3105    0.0000 C    0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4465   -1.9605    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7321   -1.5480    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7321   -0.7230    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0176   -1.9605    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.2844   -1.4375    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1094   -0.0086    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4114   -1.1355    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6969   -0.7230    0.0000 B    0  5  0  0  0  0  0  0  0  0  0  0
+    2.8403    2.1645    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5233   -0.0186    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 16  1  6  0  0  0
+  8 18  1  6  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08693
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+L-1-(4-CHLOROPHENYL)-2-(ACETAMIDO)ETHANE BORONIC ACID
+
+> <CHEMICAL_FORMULA>
+C10H14BClNO4
+
+> <MOLECULAR_WEIGHT>
+258.486
+
+> <EXACT_MASS>
+258.070441114
+
+> <IUPAC_NAME>
+[(1R)-2-(4-chlorophenyl)-1-acetamidoethyl]trihydroxyboranuide
+
+> <IUPAC_TRADITIONAL_NAME>
+[(1R)-2-(4-chlorophenyl)-1-acetamidoethyl]trihydroxyboranuide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14BClNO4/c1-7(14)13-10(11(15,16)17)6-8-2-4-9(12)5-3-8/h2-5,10,15-17H,6H2,1H3,(H,13,14)/q-1/t10-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=FPCXTDQHLFRWCJ-JTQLQIEISA-N
+
+> <SMILES>
+[H][C@@](CC1=CC=C(Cl)C=C1)(NC(C)=O)[B-](O)(O)O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+11.6
+
+> <JCHEM_BASIC_PKA>
+-0.46
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.76
+
+> <JCHEM_LOGP>
+-0.25
+
+> <ALOGPS_LOGS>
+-3.1
+
+> <JCHEM_POLARIZABILITY>
+25.33
+
+> <JCHEM_POLAR_SURFACE_AREA>
+89.79
+
+> <JCHEM_REFRACTIVITY>
+59.79
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+2.15e-01 g/l __ 
+
+$$$$

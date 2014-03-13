@@ -1,0 +1,87 @@
+
+  Mrv0541 02231216512D          
+
+  6  6  0  0  0  0            999 V2000
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  1  6  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03316
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,4-Diethylene Dioxide
+
+> <CHEMICAL_FORMULA>
+C4H8O2
+
+> <MOLECULAR_WEIGHT>
+88.1051
+
+> <EXACT_MASS>
+88.0524295
+
+> <IUPAC_NAME>
+1,4-dioxane
+
+> <IUPAC_TRADITIONAL_NAME>
+1,4-diethylene dioxide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8O2/c1-2-6-4-3-5-1/h1-4H2
+
+> <INCHI_KEY>
+InChIKey=RYHBNJHYFVUHQT-UHFFFAOYSA-N
+
+> <SMILES>
+C1COCCO1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-3.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.23
+
+> <JCHEM_LOGP>
+-0.094
+
+> <ALOGPS_LOGS>
+0.51
+
+> <JCHEM_POLARIZABILITY>
+8.97
+
+> <JCHEM_POLAR_SURFACE_AREA>
+18.46
+
+> <JCHEM_REFRACTIVITY>
+22.09
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.83e+02 g/l __ 
+
+$$$$

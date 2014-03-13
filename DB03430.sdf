@@ -1,0 +1,100 @@
+
+  Mrv0541 02231216562D          
+
+ 11 11  0  0  1  0            999 V2000
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  3  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  5 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03430
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2s)-Hydroxy(4-Hydroxyphenyl)Ethanenitrile
+
+> <CHEMICAL_FORMULA>
+C8H7NO2
+
+> <MOLECULAR_WEIGHT>
+149.1467
+
+> <EXACT_MASS>
+149.047678473
+
+> <IUPAC_NAME>
+(2S)-2-hydroxy-2-(4-hydroxyphenyl)acetonitrile
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S)-2-hydroxy-2-(4-hydroxyphenyl)acetonitrile
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H7NO2/c9-5-8(11)6-1-3-7(10)4-2-6/h1-4,8,10-11H/t8-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=HOOOPXDSCKBLFG-MRVPVSSYSA-N
+
+> <SMILES>
+O[C@H](C#N)C1=CC=C(O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.46
+
+> <JCHEM_BASIC_PKA>
+-4.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.73
+
+> <JCHEM_LOGP>
+0.65
+
+> <ALOGPS_LOGS>
+-1.2
+
+> <JCHEM_POLARIZABILITY>
+14.53
+
+> <JCHEM_POLAR_SURFACE_AREA>
+64.25
+
+> <JCHEM_REFRACTIVITY>
+39.66
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.37e+00 g/l __ 
+
+$$$$

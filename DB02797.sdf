@@ -1,0 +1,102 @@
+
+  Mrv0541 02231216282D          
+
+ 12 12  0  0  0  0            999 V2000
+    2.1434   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  4  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02797
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Nitrophenylboronic Acid
+
+> <CHEMICAL_FORMULA>
+C6H6BNO4
+
+> <MOLECULAR_WEIGHT>
+166.927
+
+> <EXACT_MASS>
+167.038988151
+
+> <IUPAC_NAME>
+(3-nitrophenyl)boronic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+3-nitrophenylboronic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6BNO4/c9-7(10)5-2-1-3-6(4-5)8(11)12/h1-4,9-10H
+
+> <INCHI_KEY>
+InChIKey=ZNRGSYUVFVNSAW-UHFFFAOYSA-N
+
+> <SMILES>
+OB(O)C1=CC=CC(=C1)[N+]([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+8.49
+
+> <JCHEM_BASIC_PKA>
+-5.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.52
+
+> <JCHEM_LOGP>
+1.59
+
+> <ALOGPS_LOGS>
+-2.1
+
+> <JCHEM_POLARIZABILITY>
+15.22
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.28
+
+> <JCHEM_REFRACTIVITY>
+37.93
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.40e+00 g/l __ 
+
+$$$$

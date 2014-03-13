@@ -1,0 +1,123 @@
+202
+  Mrv0541 02231214312D          
+
+ 20 19  0  0  0  0            999 V2000
+    4.5077    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0799   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2221   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3655    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -0.2063    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   10.2233    0.2063    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.0789    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5088   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7768   -0.9206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9519    0.5082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6499   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6358   -0.5082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8108    0.9206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9376    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7933   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7944    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9366    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6511   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2221   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3655    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2 16  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3 19  2  0  0  0  0
+  4 20  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00202
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Succinylcholine
+
+> <SYNONYMS>
+Dicholine succinate; Succinocholine; Succinoylcholine; Succinylbischoline; Succinyldicholine; Suxamethonium
+
+> <SALTS>
+Succinylcholine Chloride
+
+> <BRANDS>
+Anectine; Quelicin; Scoline; Sucostrin
+
+> <CHEMICAL_FORMULA>
+C14H30N2O4
+
+> <MOLECULAR_WEIGHT>
+290.399
+
+> <EXACT_MASS>
+290.220557458
+
+> <IUPAC_NAME>
+trimethyl[2-({4-oxo-4-[2-(trimethylazaniumyl)ethoxy]butanoyl}oxy)ethyl]azanium
+
+> <IUPAC_TRADITIONAL_NAME>
+succinylcholine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H30N2O4/c1-15(2,3)9-11-19-13(17)7-8-14(18)20-12-10-16(4,5)6/h7-12H2,1-6H3/q+2
+
+> <INCHI_KEY>
+InChIKey=AXOIZCJOOAYSMI-UHFFFAOYSA-N
+
+> <SMILES>
+C[N+](C)(C)CCOC(=O)CCC(=O)OCC[N+](C)(C)C
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-6.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <ALOGPS_LOGP>
+-2.5
+
+> <JCHEM_LOGP>
+-8.4
+
+> <ALOGPS_LOGS>
+-5.7
+
+> <JCHEM_POLARIZABILITY>
+33.15
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.6
+
+> <JCHEM_REFRACTIVITY>
+100.94
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+11
+
+> <ALOGPS_SOLUBILITY>
+7.57e-04 g/l __ 
+
+$$$$

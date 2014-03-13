@@ -1,0 +1,102 @@
+339
+  Mrv0541 02231214362D          
+
+  9  9  0  0  0  0            999 V2000
+    2.8075   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  2  5  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00339
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Pyrazinamide
+
+> <SYNONYMS>
+2-carbamylpyrazine; 2-pyrazinecarboxamide; Aldinamide; Pyrazine carboxamide; Pyrazineamide; Pyrazinoic acid amide; PZA
+
+> <BRANDS>
+Piraldina; Prazina; Pyrafat; Pyrazide; Tebrazid; Zinamide
+
+> <CHEMICAL_FORMULA>
+C5H5N3O
+
+> <MOLECULAR_WEIGHT>
+123.1127
+
+> <EXACT_MASS>
+123.043261797
+
+> <IUPAC_NAME>
+pyrazine-2-carboxamide
+
+> <IUPAC_TRADITIONAL_NAME>
+pyrazinamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H5N3O/c6-5(9)4-3-7-1-2-8-4/h1-3H,(H2,6,9)
+
+> <INCHI_KEY>
+InChIKey=IPEHBUMCGVEMRF-UHFFFAOYSA-N
+
+> <SMILES>
+NC(=O)C1=NC=CN=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+13.06
+
+> <JCHEM_BASIC_PKA>
+-0.68
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.71
+
+> <JCHEM_LOGP>
+-1.2
+
+> <ALOGPS_LOGS>
+-0.12
+
+> <JCHEM_POLARIZABILITY>
+11.13
+
+> <JCHEM_POLAR_SURFACE_AREA>
+68.87
+
+> <JCHEM_REFRACTIVITY>
+30.45
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.37e+01 g/l __ 
+
+$$$$

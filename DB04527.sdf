@@ -1,0 +1,100 @@
+
+  Mrv0541 02231217442D          
+
+ 10  9  0  0  1  0            999 V2000
+    1.9520    1.9520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2375   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1914    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  6  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  2  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04527
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Beta-Hydroxyasparagine
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C4H8N2O4
+
+> <MOLECULAR_WEIGHT>
+148.1173
+
+> <EXACT_MASS>
+148.048406754
+
+> <IUPAC_NAME>
+(2S,3S)-2-amino-3-carbamoyl-3-hydroxypropanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+β-hydroxyasparagine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8N2O4/c5-1(4(9)10)2(7)3(6)8/h1-2,7H,5H2,(H2,6,8)(H,9,10)/t1-,2-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=VQTLPSCRBFYDNX-LWMBPPNESA-N
+
+> <SMILES>
+N[C@@H]([C@H](O)C(N)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+1.76
+
+> <JCHEM_BASIC_PKA>
+7.89
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-3.2
+
+> <JCHEM_LOGP>
+-5
+
+> <ALOGPS_LOGS>
+-0.18
+
+> <JCHEM_POLARIZABILITY>
+12.51
+
+> <JCHEM_POLAR_SURFACE_AREA>
+126.64
+
+> <JCHEM_REFRACTIVITY>
+29.69
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+9.71e+01 g/l __ 
+
+$$$$

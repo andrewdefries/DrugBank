@@ -1,0 +1,83 @@
+
+  Mrv0541 02231216052D          
+
+  6  5  0  0  0  0            999 V2000
+    0.1105   -1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02265
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Ethyl-Trimethyl-Silane
+
+> <CHEMICAL_FORMULA>
+C5H14Si
+
+> <MOLECULAR_WEIGHT>
+102.2502
+
+> <EXACT_MASS>
+102.086476981
+
+> <IUPAC_NAME>
+ethyltrimethylsilane
+
+> <IUPAC_TRADITIONAL_NAME>
+ethyl-trimethyl-silane
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H14Si/c1-5-6(2,3)4/h5H2,1-4H3
+
+> <INCHI_KEY>
+InChIKey=UKAJDOBPPOAZSS-UHFFFAOYSA-N
+
+> <SMILES>
+CC[Si](C)(C)C
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.95
+
+> <JCHEM_LOGP>
+2.51
+
+> <ALOGPS_LOGS>
+-2.6
+
+> <JCHEM_POLARIZABILITY>
+12.43
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+26.99
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.28e-01 g/l __ 
+
+$$$$

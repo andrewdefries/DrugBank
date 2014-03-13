@@ -1,0 +1,92 @@
+
+  Mrv0541 02231216542D          
+
+  9  8  0  0  0  0            999 V2000
+   -0.1914   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230   -1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230   -1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520   -1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.7145    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809   -0.3020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0789   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2539    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03379
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Carboxyethylphosphonic Acid
+
+> <CHEMICAL_FORMULA>
+C3H7O5P
+
+> <MOLECULAR_WEIGHT>
+154.0584
+
+> <EXACT_MASS>
+154.003109846
+
+> <IUPAC_NAME>
+3-phosphonopropanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+3-phosphonopropanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H7O5P/c4-3(5)1-2-9(6,7)8/h1-2H2,(H,4,5)(H2,6,7,8)
+
+> <INCHI_KEY>
+InChIKey=NLBSQHGCGGFVJW-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)CCP(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-2.5
+
+> <JCHEM_LOGP>
+-1.5
+
+> <ALOGPS_LOGS>
+-0.75
+
+> <JCHEM_POLARIZABILITY>
+11.81
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.83
+
+> <JCHEM_REFRACTIVITY>
+28.09
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.74e+01 g/l __ 
+
+$$$$

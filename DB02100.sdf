@@ -1,0 +1,104 @@
+
+  Mrv0541 02231215582D          
+
+ 13 13  0  0  1  0            999 V2000
+    2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7144    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  6  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  1  0  0  0
+  6  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  1  1  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  1  0  0  0
+ 10 12  1  0  0  0  0
+  3 12  1  0  0  0  0
+ 12 13  1  6  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02100
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Methyl alpha-galactoside
+
+> <CHEMICAL_FORMULA>
+C7H14O6
+
+> <MOLECULAR_WEIGHT>
+194.1825
+
+> <EXACT_MASS>
+194.07903818
+
+> <IUPAC_NAME>
+(2R,3R,4S,5R,6S)-2-(hydroxymethyl)-6-methoxyoxane-3,4,5-triol
+
+> <IUPAC_TRADITIONAL_NAME>
+α-methyl D-galactoside
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H14O6/c1-12-7-6(11)5(10)4(9)3(2-8)13-7/h3-11H,2H2,1H3/t3-,4+,5+,6-,7+/m1/s1
+
+> <INCHI_KEY>
+InChIKey=HOVAGTYPODGVJG-PZRMXXKTSA-N
+
+> <SMILES>
+CO[C@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+12.21
+
+> <JCHEM_BASIC_PKA>
+-3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.5
+
+> <JCHEM_LOGP>
+-2.3
+
+> <ALOGPS_LOGS>
+0.65
+
+> <JCHEM_POLARIZABILITY>
+18.07
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.38
+
+> <JCHEM_REFRACTIVITY>
+40.67
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+8.62e+02 g/l __ 
+
+$$$$

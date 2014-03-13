@@ -1,0 +1,96 @@
+
+  Mrv0541 02231216062D          
+
+  9  9  0  0  1  0            999 V2000
+    2.1434    1.2375    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  2  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02303
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(5s)-5-Iododihydro-2,4(1h,3h)-Pyrimidinedione
+
+> <CHEMICAL_FORMULA>
+C4H5IN2O2
+
+> <MOLECULAR_WEIGHT>
+239.9992
+
+> <EXACT_MASS>
+239.939570834
+
+> <IUPAC_NAME>
+(5R)-5-iodo-1,3-diazinane-2,4-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+(5R)-5-iodo-1,3-diazinane-2,4-dione
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H5IN2O2/c5-2-1-6-4(9)7-3(2)8/h2H,1H2,(H2,6,7,8,9)/t2-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=YGKCTZPSAOUUMT-UWTATZPHSA-N
+
+> <SMILES>
+I[C@@H]1CNC(=O)NC1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+10.49
+
+> <JCHEM_BASIC_PKA>
+-8.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.05
+
+> <JCHEM_LOGP>
+-0.17
+
+> <ALOGPS_LOGS>
+-1.3
+
+> <JCHEM_POLARIZABILITY>
+15.24
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.2
+
+> <JCHEM_REFRACTIVITY>
+38.47
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.26e+01 g/l __ 
+
+$$$$

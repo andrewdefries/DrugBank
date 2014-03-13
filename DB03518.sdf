@@ -1,0 +1,97 @@
+
+  Mrv0541 02231216592D          
+
+ 10  9  0  0  1  0            999 V2000
+    4.3164    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.4914    2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.0164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  6  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03518
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(R)-Mevalonate
+
+> <CHEMICAL_FORMULA>
+C6H11O4
+
+> <MOLECULAR_WEIGHT>
+147.1491
+
+> <EXACT_MASS>
+147.06573384
+
+> <IUPAC_NAME>
+(3R)-3,5-dihydroxy-3-methylpentanoate
+
+> <IUPAC_TRADITIONAL_NAME>
+(R)-mevalonate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O4/c1-6(10,2-3-7)4-5(8)9/h7,10H,2-4H2,1H3,(H,8,9)/p-1/t6-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=KJTLQQUUPVSXIM-ZCFIWIBFSA-M
+
+> <SMILES>
+C[C@@](O)(CCO)CC([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+4.38
+
+> <JCHEM_BASIC_PKA>
+-2.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.62
+
+> <JCHEM_LOGP>
+-1.1
+
+> <ALOGPS_LOGS>
+0.48
+
+> <JCHEM_POLARIZABILITY>
+14.14
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.59
+
+> <JCHEM_REFRACTIVITY>
+45.35
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+4.98e+02 g/l __ 
+
+$$$$

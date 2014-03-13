@@ -1,0 +1,93 @@
+
+  Mrv0541 02231215522D          
+
+  9  9  0  0  0  0            999 V2000
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  2  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01986
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Fluoro-2-Methyl-Aniline
+
+> <CHEMICAL_FORMULA>
+C7H8FN
+
+> <MOLECULAR_WEIGHT>
+125.1435
+
+> <EXACT_MASS>
+125.064077466
+
+> <IUPAC_NAME>
+3-fluoro-2-methylaniline
+
+> <IUPAC_TRADITIONAL_NAME>
+3-fluoro-2-methyl-aniline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8FN/c1-5-6(8)3-2-4-7(5)9/h2-4H,9H2,1H3
+
+> <INCHI_KEY>
+InChIKey=SLDLVGFPFFLYBM-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=C(N)C=CC=C1F
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+3.29
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.63
+
+> <JCHEM_LOGP>
+1.8
+
+> <ALOGPS_LOGS>
+-1
+
+> <JCHEM_POLARIZABILITY>
+12.4
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+36.02
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.17e+01 g/l __ 
+
+$$$$

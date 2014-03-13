@@ -1,0 +1,96 @@
+6116
+  Mrv0541 02231214332D          
+
+  9  6  0  0  0  0            999 V2000
+    3.7932    0.2063    0.0000 Ca   0  2  0  0  0  0  0  0  0  0  0  0
+    3.0788    0.6188    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    4.5077    0.6188    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    2.3643   -0.6188    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2220   -0.6188    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6499    0.6188    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9365    0.6188    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3643    0.2063    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2220    0.2063    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00258
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Calcium Acetate
+
+> <SYNONYMS>
+Brown acetate of lime; calcium ethanoate; calcium(II) acetate; Gray acetate of lime; Lime acetate; Lime pyrolignite
+
+> <BRANDS>
+PhosLo
+
+> <CHEMICAL_FORMULA>
+C4H6CaO4
+
+> <MOLECULAR_WEIGHT>
+158.166
+
+> <EXACT_MASS>
+157.989199835
+
+> <IUPAC_NAME>
+calcium diacetate
+
+> <IUPAC_TRADITIONAL_NAME>
+calcium bis(acetate ion)
+
+> <INCHI_IDENTIFIER>
+InChI=1S/2C2H4O2.Ca/c2*1-2(3)4;/h2*1H3,(H,3,4);/q;;+2/p-2
+
+> <INCHI_KEY>
+InChIKey=VSGNNIFQASZAOI-UHFFFAOYSA-L
+
+> <SMILES>
+[Ca++].CC([O-])=O.CC([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+4.54
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.24
+
+> <JCHEM_LOGP>
+-0.22
+
+> <ALOGPS_LOGS>
+-0.03
+
+> <JCHEM_POLARIZABILITY>
+4.96
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.13
+
+> <JCHEM_REFRACTIVITY>
+23.48
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.47e+02 g/l __ 
+
+$$$$

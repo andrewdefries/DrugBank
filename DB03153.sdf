@@ -1,0 +1,99 @@
+
+  Mrv0541 02231216442D          
+
+ 10 11  0  0  0  0            999 V2000
+    3.2789    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798    1.0799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2949    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798   -0.2549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  6 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03153
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3h-Pyrazolo[4,3-D]Pyrimidin-7-Ol
+
+> <CHEMICAL_FORMULA>
+C5H4N4O
+
+> <MOLECULAR_WEIGHT>
+136.1115
+
+> <EXACT_MASS>
+136.03851077
+
+> <IUPAC_NAME>
+3H-pyrazolo[4,3-d]pyrimidin-7-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+3H-pyrazolo[4,3-d]pyrimidin-7-ol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H4N4O/c10-5-4-3(1-8-9-4)6-2-7-5/h2H,1H2,(H,6,7,10)
+
+> <INCHI_KEY>
+InChIKey=OGCXIHWGXUQTCQ-UHFFFAOYSA-N
+
+> <SMILES>
+OC1=NC=NC2=C1N=NC2
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+10.2
+
+> <JCHEM_BASIC_PKA>
+0.38
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0
+
+> <JCHEM_LOGP>
+0.49
+
+> <ALOGPS_LOGS>
+-1.9
+
+> <JCHEM_POLARIZABILITY>
+11.72
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.73
+
+> <JCHEM_REFRACTIVITY>
+35.58
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.55e+00 g/l __ 
+
+$$$$

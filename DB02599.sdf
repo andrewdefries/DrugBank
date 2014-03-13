@@ -1,0 +1,115 @@
+APQ
+  Mrv0541 02231216192D          
+
+ 18 19  0  0  0  0            999 V2000
+   -1.8569    0.1229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5713   -0.2896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2858    0.1229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1424   -0.2896    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4279    0.1229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2866   -0.2896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0010    0.1229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0010    0.9479    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7155    1.3604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4300    0.9479    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4300    0.1229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1444   -0.2896    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7155   -0.2896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7155   -1.1146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0010   -1.5271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0010   -2.3521    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2866   -1.1146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7155    2.1854    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 17  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02599
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,6-Diamino-8-Propylsulfanylmethyl-3h-Quinazoline-4-One
+
+> <CHEMICAL_FORMULA>
+C12H16N4OS
+
+> <MOLECULAR_WEIGHT>
+264.347
+
+> <EXACT_MASS>
+264.104481844
+
+> <IUPAC_NAME>
+2,6-diamino-8-[(propylsulfanyl)methyl]-3,4-dihydroquinazolin-4-one
+
+> <IUPAC_TRADITIONAL_NAME>
+2,6-diamino-8-[(propylsulfanyl)methyl]-3H-quinazolin-4-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H16N4OS/c1-2-3-18-6-7-4-8(13)5-9-10(7)15-12(14)16-11(9)17/h4-5H,2-3,6,13H2,1H3,(H3,14,15,16,17)
+
+> <INCHI_KEY>
+InChIKey=RSKNEWMEOVQZII-UHFFFAOYSA-N
+
+> <SMILES>
+CCCSCC1=CC(N)=CC2=C1N=C(N)NC2=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+11.4
+
+> <JCHEM_BASIC_PKA>
+5.87
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.34
+
+> <JCHEM_LOGP>
+1.31
+
+> <ALOGPS_LOGS>
+-2.8
+
+> <JCHEM_POLARIZABILITY>
+28.69
+
+> <JCHEM_POLAR_SURFACE_AREA>
+93.5
+
+> <JCHEM_REFRACTIVITY>
+77.71
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+4.35e-01 g/l __ 
+
+$$$$

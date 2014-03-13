@@ -1,0 +1,101 @@
+791
+  Mrv0541 02231217242D          
+
+ 13 13  0  0  0  0            999 V2000
+    1.3935    0.8384    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3935    0.0134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6790   -0.3991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0355    0.0134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0355    0.8384    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6790    1.2509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7499   -0.3991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4644    0.0134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7499   -1.2241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1789   -0.3991    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4644    0.8384    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4644   -1.6366    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0355   -1.6366    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+  9 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04080
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+RU78191
+
+> <CHEMICAL_FORMULA>
+C9H8O4
+
+> <MOLECULAR_WEIGHT>
+180.1574
+
+> <EXACT_MASS>
+180.042258744
+
+> <IUPAC_NAME>
+2-phenylpropanedioic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+2-phenylpropanedioic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H8O4/c10-8(11)7(9(12)13)6-4-2-1-3-5-6/h1-5,7H,(H,10,11)(H,12,13)
+
+> <INCHI_KEY>
+InChIKey=WWYDYZMNFQIYPT-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)C(C(O)=O)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.49
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+1.32
+
+> <JCHEM_LOGP>
+1.35
+
+> <ALOGPS_LOGS>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+16.55
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+43.66
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+4.84e+00 g/l __ 
+
+$$$$

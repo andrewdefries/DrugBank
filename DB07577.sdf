@@ -1,0 +1,111 @@
+CP7
+  Mrv0541 02241213312D          
+
+ 16 17  0  0  0  0            999 V2000
+    1.8675    0.1119    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8675   -0.7131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530    0.5244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4386    0.1119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4386   -0.7131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530   -1.1256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2759    0.5244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9904    0.1119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7048    0.5244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7048    1.3494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9904    1.7619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2759    1.3494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530    1.3494    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5820   -1.1256    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2759   -1.1256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2759   -1.9506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 15  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07577
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-ETHYL-5-PHENYLPYRIMIDINE-2,4-DIAMINE
+
+> <CHEMICAL_FORMULA>
+C12H14N4
+
+> <MOLECULAR_WEIGHT>
+214.2664
+
+> <EXACT_MASS>
+214.121846468
+
+> <IUPAC_NAME>
+6-ethyl-5-phenylpyrimidine-2,4-diamine
+
+> <IUPAC_TRADITIONAL_NAME>
+6-ethyl-5-phenylpyrimidine-2,4-diamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H14N4/c1-2-9-10(8-6-4-3-5-7-8)11(13)16-12(14)15-9/h3-7H,2H2,1H3,(H4,13,14,15,16)
+
+> <INCHI_KEY>
+InChIKey=XREDUPOVEQDQQS-UHFFFAOYSA-N
+
+> <SMILES>
+CCC1=NC(N)=NC(N)=C1C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+17.22
+
+> <JCHEM_BASIC_PKA>
+7.77
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.13
+
+> <JCHEM_LOGP>
+2.14
+
+> <ALOGPS_LOGS>
+-2.4
+
+> <JCHEM_POLARIZABILITY>
+23.4
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.82
+
+> <JCHEM_REFRACTIVITY>
+66.74
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+7.71e-01 g/l __ 
+
+$$$$

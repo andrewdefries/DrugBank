@@ -1,0 +1,106 @@
+PPL
+  Mrv0541 02241214052D          
+
+ 14 14  0  0  0  0            999 V2000
+   -0.2730    1.3659    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2730    0.5409    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.9875    0.1284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7020    0.5409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7020    1.3659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9875    1.7784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4415    0.1284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1559    0.5409    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4415   -0.6966    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1559   -1.1091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8704   -1.5216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7434   -1.8236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5684   -0.3947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2327    0.8328    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  6  0  0  0
+  2 14  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08421
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+PIPERIDINE-2-CARBOXYLIC ACID TERT-BUTYLAMIDE
+
+> <CHEMICAL_FORMULA>
+C10H20N2O
+
+> <MOLECULAR_WEIGHT>
+184.2786
+
+> <EXACT_MASS>
+184.157563272
+
+> <IUPAC_NAME>
+(2S)-N-tert-butylpiperidine-2-carboxamide
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S)-N-tert-butylpiperidine-2-carboxamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H20N2O/c1-10(2,3)12-9(13)8-6-4-5-7-11-8/h8,11H,4-7H2,1-3H3,(H,12,13)/t8-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=BZRGONFHSWNSQA-QMMMGPOBSA-N
+
+> <SMILES>
+[H][C@]1(CCCCN1)C(=O)NC(C)(C)C
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+15.86
+
+> <JCHEM_BASIC_PKA>
+8.88
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.06
+
+> <JCHEM_LOGP>
+0.82
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+21.62
+
+> <JCHEM_POLAR_SURFACE_AREA>
+41.13
+
+> <JCHEM_REFRACTIVITY>
+53.19
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+7.41e+00 g/l __ 
+
+$$$$

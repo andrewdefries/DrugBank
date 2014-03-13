@@ -1,0 +1,129 @@
+2901
+  Mrv0541 02231216322D          
+
+ 21 24  0  0  0  0            999 V2000
+    1.1883    1.7360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2471    0.9131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5326    1.3256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1819    0.9131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1819    0.0881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5326   -0.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5326   -1.1494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1819   -1.5619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8964   -1.1494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6108   -1.5619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3253   -1.1494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0398   -1.5619    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3253   -0.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6108    0.0881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8964   -0.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8964    0.5006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2471    0.0881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0317   -0.1668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5166    0.5006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0317    1.1680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2866    1.9527    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+  5 15  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  2 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+  2 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02901
+
+> <DRUG_GROUPS>
+experimental; illicit
+
+> <GENERIC_NAME>
+Dihydrotestosterone
+
+> <SYNONYMS>
+17beta-Hydroxy-5alpha-androstan-3-one; Androstanolone; Stanolone
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C19H30O2
+
+> <MOLECULAR_WEIGHT>
+290.4403
+
+> <EXACT_MASS>
+290.224580204
+
+> <IUPAC_NAME>
+14-hydroxy-2,15-dimethyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadecan-5-one
+
+> <IUPAC_TRADITIONAL_NAME>
+14-hydroxy-2,15-dimethyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadecan-5-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H30O2/c1-18-9-7-13(20)11-12(18)3-4-14-15-5-6-17(21)19(15,2)10-8-16(14)18/h12,14-17,21H,3-11H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=NVKAWKQGWWIWPM-UHFFFAOYSA-N
+
+> <SMILES>
+CC12CCC3C(CCC4CC(=O)CCC34C)C1CCC2O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+19.38
+
+> <JCHEM_BASIC_PKA>
+-0.88
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.37
+
+> <JCHEM_LOGP>
+3.41
+
+> <ALOGPS_LOGS>
+-4.5
+
+> <JCHEM_POLARIZABILITY>
+34.17
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+83.6
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+9.98e-03 g/l __ 
+
+$$$$

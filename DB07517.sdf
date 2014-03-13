@@ -1,0 +1,112 @@
+C1F
+  Mrv0541 02241213282D          
+
+ 17 17  0  0  0  0            999 V2000
+    0.8984    0.3781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6434   -0.4066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1816   -0.4066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6665   -1.0740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6830    0.6330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4365    0.3781    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9454    2.9255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3309   -1.8277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2309    1.6880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2309    0.8630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9454    2.1005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8159   -2.4951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7928   -1.8277    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1283   -1.0740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9488   -0.9878    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4803   -3.2488    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6363   -2.4089    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1 10  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07517
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-CARBOXY-4-METHYL-5-PROPYL-2-FURANPROPIONIC
+
+> <CHEMICAL_FORMULA>
+C12H16O5
+
+> <MOLECULAR_WEIGHT>
+240.2524
+
+> <EXACT_MASS>
+240.099773622
+
+> <IUPAC_NAME>
+2-(2-carboxyethyl)-4-methyl-5-propylfuran-3-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+2-(2-carboxyethyl)-4-methyl-5-propylfuran-3-carboxylic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H16O5/c1-3-4-8-7(2)11(12(15)16)9(17-8)5-6-10(13)14/h3-6H2,1-2H3,(H,13,14)(H,15,16)
+
+> <INCHI_KEY>
+InChIKey=WMCQWXZMVIETAO-UHFFFAOYSA-N
+
+> <SMILES>
+CCCC1=C(C)C(C(O)=O)=C(CCC(O)=O)O1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+3.87
+
+> <JCHEM_BASIC_PKA>
+-3.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+1.68
+
+> <JCHEM_LOGP>
+2.3
+
+> <ALOGPS_LOGS>
+-3
+
+> <JCHEM_POLARIZABILITY>
+25.26
+
+> <JCHEM_POLAR_SURFACE_AREA>
+87.74
+
+> <JCHEM_REFRACTIVITY>
+61.08
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+2.17e-01 g/l __ 
+
+$$$$

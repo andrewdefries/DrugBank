@@ -1,0 +1,105 @@
+1008
+  Mrv0541 02231215102D          
+
+ 14 13  0  0  0  0            999 V2000
+    7.3659    0.2063    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.2063    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7784   -0.5082    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9534    0.9207    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    0.5082    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770   -0.9207    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0804    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  2  0  0  0  0
+  1 13  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  2  0  0  0  0
+  2  8  2  0  0  0  0
+  2 14  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01008
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Busulfan
+
+> <SYNONYMS>
+1,4-Bis(methanesulfonoxy)butane; 1,4-Butanediol dimethanesulfonate; 1,4-Dimesyloxybutane; 1,4-Dimethanesulfonoxybutane; Tetramethylene bis(methanesulfonate)
+
+> <BRANDS>
+Busulfex; Myleran
+
+> <CHEMICAL_FORMULA>
+C6H14O6S2
+
+> <MOLECULAR_WEIGHT>
+246.302
+
+> <EXACT_MASS>
+246.02317956
+
+> <IUPAC_NAME>
+4-(methanesulfonyloxy)butyl methanesulfonate
+
+> <IUPAC_TRADITIONAL_NAME>
+busulfan
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H14O6S2/c1-13(7,8)11-5-3-4-6-12-14(2,9)10/h3-6H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=COVZYZSDYWQREU-UHFFFAOYSA-N
+
+> <SMILES>
+CS(=O)(=O)OCCCCOS(C)(=O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.9
+
+> <JCHEM_LOGP>
+-0.76
+
+> <ALOGPS_LOGS>
+-1.7
+
+> <JCHEM_POLARIZABILITY>
+23.64
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.74
+
+> <JCHEM_REFRACTIVITY>
+49.57
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+5.16e+00 g/l __ 
+
+$$$$

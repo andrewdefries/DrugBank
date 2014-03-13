@@ -1,0 +1,97 @@
+
+  Mrv0541 02231214362D          
+
+ 13 12  0  0  0  0            999 V2000
+    0.0000   -1.6500    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Fe   0  6  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.8250    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  3  0  0  0  0
+  2  7  1  0  0  0  0
+  2  5  3  0  0  0  0
+  7  3  1  0  0  0  0
+  7  4  1  0  0  0  0
+  4  6  3  0  0  0  0
+  7 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  3  0  0  0  0
+ 10 11  3  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00325
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Nitroprusside
+
+> <SALTS>
+Sodium nitroprusside
+
+> <BRANDS>
+Nipride; Nitropress
+
+> <CHEMICAL_FORMULA>
+C5FeN6O
+
+> <MOLECULAR_WEIGHT>
+215.938
+
+> <EXACT_MASS>
+215.948300785
+
+> <IUPAC_NAME>
+pentacyano(nitroso)irondiuide
+
+> <IUPAC_TRADITIONAL_NAME>
+nitroprusside
+
+> <INCHI_IDENTIFIER>
+InChI=1S/5CN.Fe.NO/c5*1-2;;1-2/q;;;;;2*-1
+
+> <INCHI_KEY>
+InChIKey=ASPOIVQEUUCDQT-UHFFFAOYSA-N
+
+> <SMILES>
+O=N[Fe--](C#N)(C#N)(C#N)(C#N)C#N
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-3.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_LOGP>
+0.071
+
+> <JCHEM_POLARIZABILITY>
+16.52
+
+> <JCHEM_POLAR_SURFACE_AREA>
+148.38
+
+> <JCHEM_REFRACTIVITY>
+39.44
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1 __ 
+
+$$$$

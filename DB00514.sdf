@@ -1,0 +1,129 @@
+
+  Mrv0541 11221314242D          
+
+ 21 24  0  0  0  0            999 V2000
+    6.6802   -1.8120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9679   -1.4050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2556   -1.8120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2556   -2.6353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2556   -4.2820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2556   -5.0960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9679   -5.5123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6802   -5.0961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3925   -3.8657    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.3926   -3.0516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6802   -2.6353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9679   -3.0516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9679   -3.8657    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.6802   -4.2820    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.5692   -3.4494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0955   -3.4494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1049   -4.2820    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4018   -4.7259    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5355   -1.3940    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8135   -1.8088    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8296   -4.6762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 11  1  1  0  0  0  0
+  2  1  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 11  2  0  0  0  0
+  3  2  1  0  0  0  0
+  4 12  1  0  0  0  0
+ 13 12  1  0  0  0  0
+  4  3  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 14  9  1  0  0  0  0
+  9 17  1  1  0  0  0
+  5 13  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 13 15  1  1  0  0  0
+  8 14  1  0  0  0  0
+ 14 18  1  1  0  0  0
+  6  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 16 15  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 20 19  1  0  0  0  0
+  3 19  1  0  0  0  0
+ 17 21  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00514
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Dextromethorphan
+
+> <SYNONYMS>
+d-Methorphan; delta-Methorphan; Dextromethorfan; Dextromethorphan; Dextrométhorphane; Dextromethorphanum; Dextrometorfano; DM; DMHM; DXM
+
+> <SALTS>
+Dextromethorphan hydrobromide
+
+> <BRANDS>
+Balminil DM; Benylin DM; Delsym; Koffex DM; Romilar; Triaminic; Vicks Formula 44
+
+> <CHEMICAL_FORMULA>
+C18H25NO
+
+> <MOLECULAR_WEIGHT>
+271.3972
+
+> <EXACT_MASS>
+271.193614427
+
+> <IUPAC_NAME>
+(1R,9R,10R)-4-methoxy-17-methyl-17-azatetracyclo[7.5.3.0¹,¹⁰.0²,⁷]heptadeca-2,4,6-triene
+
+> <IUPAC_TRADITIONAL_NAME>
+levomethorphan
+
+> <INCHI_IDENTIFIER>
+InChI=1/C18H25NO/c1-19-10-9-18-8-4-3-5-15(18)17(19)11-13-6-7-14(20-2)12-16(13)18/h6-7,12,15,17H,3-5,8-11H2,1-2H3/t15-,17+,18+/s2
+
+> <INCHI_KEY>
+InChIKey=MKXZASYAUGDDCJ-HPAQEFICNA-N
+
+> <SMILES>
+[H][C@@]12CCCC[C@@]11CCN(C)[C@@H]2CC2=C1C=C(OC)C=C2
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+9.85
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+3.75
+
+> <JCHEM_LOGP>
+3.49
+
+> <ALOGPS_LOGS>
+-4.5
+
+> <JCHEM_POLARIZABILITY>
+31.74
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.47
+
+> <JCHEM_REFRACTIVITY>
+82.56
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.51e-03 g/l __ 
+
+$$$$

@@ -1,0 +1,94 @@
+122
+  Mrv0541 02231214272D          
+
+  7  6  0  0  0  0            999 V2000
+    4.5080    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6501   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7936    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00122
+
+> <DRUG_GROUPS>
+approved; nutraceutical
+
+> <GENERIC_NAME>
+Choline
+
+> <SYNONYMS>
+Bilineurine; Choline ion; N-trimethylethanolamine; N,N,N-trimethylethanol-ammonium; trimethylethanolamine
+
+> <CHEMICAL_FORMULA>
+C5H14NO
+
+> <MOLECULAR_WEIGHT>
+104.1708
+
+> <EXACT_MASS>
+104.107539075
+
+> <IUPAC_NAME>
+(2-hydroxyethyl)trimethylazanium
+
+> <IUPAC_TRADITIONAL_NAME>
+choline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H14NO/c1-6(2,3)4-5-7/h7H,4-5H2,1-3H3/q+1
+
+> <INCHI_KEY>
+InChIKey=OEYIOHPDSNJKLS-UHFFFAOYSA-N
+
+> <SMILES>
+C[N+](C)(C)CCO
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+13.97
+
+> <JCHEM_BASIC_PKA>
+-3.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-3.6
+
+> <JCHEM_LOGP>
+-4.7
+
+> <ALOGPS_LOGS>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+12.57
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+42.19
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+3.61e+00 g/l __ 
+
+$$$$

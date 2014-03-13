@@ -1,0 +1,118 @@
+
+  Mrv0541 02231217182D          
+
+ 20 20  0  0  1  0            999 V2000
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    3.1895    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    1.7605    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  1  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 10  2  0  0  0  0
+  4 11  1  0  0  0  0
+ 11 12  1  6  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  1  0  0  0
+ 13 15  1  0  0  0  0
+  2 15  1  0  0  0  0
+ 15 16  1  6  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 20  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03959
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N,O6-Disulfo-Glucosamine
+
+> <CHEMICAL_FORMULA>
+C6H13NO11S2
+
+> <MOLECULAR_WEIGHT>
+339.298
+
+> <EXACT_MASS>
+338.993001643
+
+> <IUPAC_NAME>
+{[(2S,3R,4S,5S,6S)-3,4,6-trihydroxy-5-(sulfoamino)oxan-2-yl]methoxy}sulfonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[(2S,3R,4S,5S,6S)-3,4,6-trihydroxy-5-(sulfoamino)oxan-2-yl]methoxysulfonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13NO11S2/c8-4-2(1-17-20(14,15)16)18-6(10)3(5(4)9)7-19(11,12)13/h2-10H,1H2,(H,11,12,13)(H,14,15,16)/t2-,3-,4-,5-,6-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=DQTRACMFIGDHSN-RUTHBDMASA-N
+
+> <SMILES>
+O[C@H]1O[C@@H](COS(O)(=O)=O)[C@H](O)[C@@H](O)[C@@H]1NS(O)(=O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_ACIDIC_PKA>
+-2.3
+
+> <JCHEM_BASIC_PKA>
+-3.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-2.6
+
+> <JCHEM_LOGP>
+-7
+
+> <ALOGPS_LOGS>
+-1.5
+
+> <JCHEM_POLARIZABILITY>
+27.49
+
+> <JCHEM_POLAR_SURFACE_AREA>
+199.92
+
+> <JCHEM_REFRACTIVITY>
+57.86
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.10e+01 g/l __ 
+
+$$$$

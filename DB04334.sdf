@@ -1,0 +1,111 @@
+
+  Mrv0541 02231217362D          
+
+ 15 15  0  0  1  0            999 V2000
+    1.4289    2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+  4 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  2 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04334
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-hydroxydopa quinone
+
+> <SYNONYMS>
+Topa quinone
+
+> <CHEMICAL_FORMULA>
+C9H9NO5
+
+> <MOLECULAR_WEIGHT>
+211.1715
+
+> <EXACT_MASS>
+211.048072403
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-(4-hydroxy-3,6-dioxocyclohexa-1,4-dien-1-yl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+6-hydroxydopa quinone
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H9NO5/c10-5(9(14)15)1-4-2-7(12)8(13)3-6(4)11/h2-3,5,13H,1,10H2,(H,14,15)/t5-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=AGMJSPIGDFKRRO-YFKPBYRVSA-N
+
+> <SMILES>
+N[C@@H](CC1=CC(=O)C(O)=CC1=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.73
+
+> <JCHEM_BASIC_PKA>
+9.04
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2
+
+> <JCHEM_LOGP>
+-2.8
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+19.04
+
+> <JCHEM_POLAR_SURFACE_AREA>
+117.69
+
+> <JCHEM_REFRACTIVITY>
+51.37
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.01e+00 g/l __ 
+
+$$$$

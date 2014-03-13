@@ -1,0 +1,106 @@
+244
+  Mrv0541 02231214322D          
+
+ 11 11  0  0  0  0            999 V2000
+    2.0930    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -1.4438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00244
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Mesalazine
+
+> <SYNONYMS>
+3-carboxy-4-hydroxyaniline; 5-aminosalicylic acid; 5-ASA; m-Aminosalicylic acid; Mesalamine
+
+> <BRANDS>
+Asacol; Asacolitin; Canasa; Claversal; Fisalamine; Lixacol; Mesasal; Pentasa; Rowasa; Salofalk
+
+> <CHEMICAL_FORMULA>
+C7H7NO3
+
+> <MOLECULAR_WEIGHT>
+153.1354
+
+> <EXACT_MASS>
+153.042593095
+
+> <IUPAC_NAME>
+5-amino-2-hydroxybenzoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+mesalazine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H7NO3/c8-4-1-2-6(9)5(3-4)7(10)11/h1-3,9H,8H2,(H,10,11)
+
+> <INCHI_KEY>
+InChIKey=KBOPZPXVLCULAV-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=CC(C(O)=O)=C(O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+2.02
+
+> <JCHEM_BASIC_PKA>
+5.87
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.75
+
+> <JCHEM_LOGP>
+-0.29
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+14.26
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55
+
+> <JCHEM_REFRACTIVITY>
+40
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.22e+01 g/l __ 
+
+$$$$

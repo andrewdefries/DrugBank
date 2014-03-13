@@ -1,0 +1,113 @@
+1424
+  Mrv0541 02231215292D          
+
+ 17 18  0  0  1  0            999 V2000
+    4.5542    0.1222    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4347    0.3771    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1021   -0.1078    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9996    1.8292    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6896    1.1617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5146    1.1617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7696    0.3771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1021   -0.9328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2047    1.8292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.1222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6640    2.5829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8201    1.7429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8166   -1.3454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3876   -1.3454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8166   -2.1704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3876   -2.1704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1021   -2.5829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8 13  2  0  0  0  0
+  8 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01424
+
+> <DRUG_GROUPS>
+approved; withdrawn
+
+> <GENERIC_NAME>
+Aminophenazone
+
+> <SYNONYMS>
+4-Dimethylaminoantipyrine; Aminopyrine; Dipyrine
+
+> <CHEMICAL_FORMULA>
+C13H17N3O
+
+> <MOLECULAR_WEIGHT>
+231.2936
+
+> <EXACT_MASS>
+231.137162181
+
+> <IUPAC_NAME>
+4-(dimethylamino)-1,5-dimethyl-2-phenyl-2,3-dihydro-1H-pyrazol-3-one
+
+> <IUPAC_TRADITIONAL_NAME>
+aminophenazone
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H17N3O/c1-10-12(14(2)3)13(17)16(15(10)4)11-8-6-5-7-9-11/h5-9H,1-4H3
+
+> <INCHI_KEY>
+InChIKey=RMMXTBMQSGEXHJ-UHFFFAOYSA-N
+
+> <SMILES>
+CN(C)C1=C(C)N(C)N(C1=O)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+3.47
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.94
+
+> <JCHEM_LOGP>
+1.15
+
+> <ALOGPS_LOGS>
+-1
+
+> <JCHEM_POLARIZABILITY>
+25.87
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.79
+
+> <JCHEM_REFRACTIVITY>
+70.11
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.25e+01 g/l __ 
+
+$$$$

@@ -1,0 +1,109 @@
+BBL
+  Mrv0541 02231217482D          
+
+ 17 17  0  0  0  0            999 V2000
+   -3.5778    0.1575    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8633   -0.2550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8633   -1.0800    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1489    0.1575    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.1489    0.9825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4344   -0.2550    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7199    0.1575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7199    0.9825    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0055   -0.2550    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7090    0.1575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4235   -0.2550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1380    0.1575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8524   -0.2550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8524   -1.0800    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1380   -1.4925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4235   -1.0800    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6546    0.4495    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  6  0  0  0
+  4  6  1  0  0  0  0
+  4 17  1  1  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04634
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-BENZYLOXYCARBONYL-L-SERINE-BETALACTONE
+
+> <CHEMICAL_FORMULA>
+C11H13NO4
+
+> <MOLECULAR_WEIGHT>
+223.2252
+
+> <EXACT_MASS>
+223.084457909
+
+> <IUPAC_NAME>
+(2S)-2-{[(benzyloxy)carbonyl]amino}propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S)-2-{[(benzyloxy)carbonyl]amino}propanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H13NO4/c1-8(10(13)14)12-11(15)16-7-9-5-3-2-4-6-9/h2-6,8H,7H2,1H3,(H,12,15)(H,13,14)/t8-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=TYRGLVWXHJRKMT-QMMMGPOBSA-N
+
+> <SMILES>
+[H][C@@](C)(NC(=O)OCC1=CC=CC=C1)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+3.75
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.03
+
+> <JCHEM_LOGP>
+1.58
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+22.5
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.63
+
+> <JCHEM_REFRACTIVITY>
+56.18
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+1.28e+00 g/l __ 
+
+$$$$

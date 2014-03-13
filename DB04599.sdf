@@ -1,0 +1,114 @@
+4MP
+  Mrv0541 02231217472D          
+
+ 16 17  0  0  0  0            999 V2000
+   -0.7502   -0.5399    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0240    1.9741    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2568   -1.0410    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9802    0.9122    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2351    0.1276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0601    0.1276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3151    0.9122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6476    1.3971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1956    1.1671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4175    0.6151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2021    0.8700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8152    0.3180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6437   -0.4890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8591   -0.7439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2460   -0.1919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0414   -0.7861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  2  9  2  0  0  0  0
+  3 13  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04599
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Aniracetam
+
+> <SYNONYMS>
+
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C12H13NO3
+
+> <MOLECULAR_WEIGHT>
+219.2365
+
+> <EXACT_MASS>
+219.089543287
+
+> <IUPAC_NAME>
+1-[(4-methoxyphenyl)carbonyl]pyrrolidin-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+aniracetam
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H13NO3/c1-16-10-6-4-9(5-7-10)12(15)13-8-2-3-11(13)14/h4-7H,2-3,8H2,1H3
+
+> <INCHI_KEY>
+InChIKey=ZXNRTKGTQJPIJK-UHFFFAOYSA-N
+
+> <SMILES>
+COC1=CC=C(C=C1)C(=O)N1CCCC1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-4.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.55
+
+> <JCHEM_LOGP>
+1.11
+
+> <ALOGPS_LOGS>
+-1.9
+
+> <JCHEM_POLARIZABILITY>
+22.6
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.61
+
+> <JCHEM_REFRACTIVITY>
+58.96
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.47e+00 g/l __ 
+
+$$$$

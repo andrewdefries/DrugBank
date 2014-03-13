@@ -1,0 +1,69 @@
+
+  Mrv0541 02231217412D          
+
+  5  4  0  0  0  0            999 V2000
+     0.825    -0.825     0.000 F    0  0  0  0  0  0  0  0  0  0  0  0
+     0.825     0.000     0.000 Al   0  0  0  0  0  0  0  0  0  0  0  0
+     0.825     0.825     0.000 F    0  0  0  0  0  0  0  0  0  0  0  0
+     1.650     0.000     0.000 F    0  0  0  0  0  0  0  0  0  0  0  0
+     0.000     0.000     0.000 F    0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04444
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tetrafluoroaluminate Ion
+
+> <CHEMICAL_FORMULA>
+AlF4
+
+> <MOLECULAR_WEIGHT>
+102.9751514
+
+> <EXACT_MASS>
+102.975151261
+
+> <IUPAC_NAME>
+(trifluoro-$l^{4}-alumanyl)-$l^{2}-fluoranide
+
+> <IUPAC_TRADITIONAL_NAME>
+tetrafluoroaluminate ion
+
+> <INCHI_IDENTIFIER>
+InChI=1S/Al.4FH/h;4*1H/q+3;;;;/p-4
+
+> <INCHI_KEY>
+InChIKey=UYOMQIYKOOHAMK-UHFFFAOYSA-J
+
+> <SMILES>
+F[Al](F)(F)[F-]
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_POLARIZABILITY>
+4.37
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+6.01
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0 __ 
+
+$$$$

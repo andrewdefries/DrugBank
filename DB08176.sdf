@@ -1,0 +1,101 @@
+MFG
+  Mrv0541 02241213552D          
+
+ 13 13  0  0  0  0            999 V2000
+   25.6498   80.9148    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   26.3643   81.3273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.3643   82.1523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.0788   82.5648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.7933   82.1523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.5077   82.5648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.2222   82.1523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.9367   82.5648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.6511   82.1523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.3656   82.5648    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   27.7933   81.3273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.0788   80.9148    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.9367   83.3898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08176
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(1Z)-4-(4-FLUOROPHENYL)-2-METHYLIDENEBUTAN-1-IMINE
+
+> <CHEMICAL_FORMULA>
+C11H12FN
+
+> <MOLECULAR_WEIGHT>
+177.2181
+
+> <EXACT_MASS>
+177.095377594
+
+> <IUPAC_NAME>
+1-(3-carboximidoylbut-3-en-1-yl)-4-fluorobenzene
+
+> <IUPAC_TRADITIONAL_NAME>
+1-(3-carboximidoylbut-3-en-1-yl)-4-fluorobenzene
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H12FN/c1-9(8-13)2-3-10-4-6-11(12)7-5-10/h4-8,13H,1-3H2
+
+> <INCHI_KEY>
+InChIKey=CFVUPEQWSFCCFT-UHFFFAOYSA-N
+
+> <SMILES>
+FC1=CC=C(CCC(=C)C=N)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+8.52
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.49
+
+> <JCHEM_LOGP>
+2.95
+
+> <ALOGPS_LOGS>
+-3.9
+
+> <JCHEM_POLARIZABILITY>
+18.94
+
+> <JCHEM_POLAR_SURFACE_AREA>
+23.85
+
+> <JCHEM_REFRACTIVITY>
+62.71
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+2.26e-02 g/l __ 
+
+$$$$

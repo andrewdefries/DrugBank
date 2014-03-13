@@ -1,0 +1,133 @@
+1110
+  Mrv0541 02231215152D          
+
+ 25 27  0  0  1  0            999 V2000
+    3.7934   -0.6188    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2223   -3.0938    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079    3.0938    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    3.0938    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079    0.6188    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9369    1.4438    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3494    2.7133    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2223    0.2063    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9369    0.6188    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2223   -0.6188    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079    1.4438    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079   -1.0313    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9369   -1.0313    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.8563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2694    1.9287    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6043    1.9287    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079   -1.8563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9369   -1.8563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2223   -2.2688    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5244    2.7133    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    2.6812    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.4438    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    3.0938    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    1.8563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    2.6812    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 25  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 16  2  0  0  0  0
+  7 20  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 14 21  2  0  0  0  0
+ 14 22  1  0  0  0  0
+ 15 20  2  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 22 24  2  0  0  0  0
+ 23 25  2  0  0  0  0
+ 24 25  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01110
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Miconazole
+
+> <SYNONYMS>
+1-(2,4-Dichloro-beta-((2,4-dichlorobenzyl)oxy)phenethyl)imidazole; 1-[2-(2,4-Dichloro-benzyloxy)-2-(2,4-dichloro-phenyl)-ethyl]-1H-imidazole
+
+> <BRANDS>
+Daktarin; Decocort; Desenex; Femizol-M; Gyno-Daktarin; Micatin; Miconazex; Monistat; Monistat-Derm; Oravig; Zeasorb-AF; Zimycan
+
+> <CHEMICAL_FORMULA>
+C18H14Cl4N2O
+
+> <MOLECULAR_WEIGHT>
+416.129
+
+> <EXACT_MASS>
+413.986023908
+
+> <IUPAC_NAME>
+1-[2-(2,4-dichlorophenyl)-2-[(2,4-dichlorophenyl)methoxy]ethyl]-1H-imidazole
+
+> <IUPAC_TRADITIONAL_NAME>
+miconazole
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H14Cl4N2O/c19-13-2-1-12(16(21)7-13)10-25-18(9-24-6-5-23-11-24)15-4-3-14(20)8-17(15)22/h1-8,11,18H,9-10H2
+
+> <INCHI_KEY>
+InChIKey=BYBLEWFAAKGYCD-UHFFFAOYSA-N
+
+> <SMILES>
+ClC1=CC(Cl)=C(COC(CN2C=CN=C2)C2=C(Cl)C=C(Cl)C=C2)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+6.77
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+5.86
+
+> <JCHEM_LOGP>
+5.96
+
+> <ALOGPS_LOGS>
+-5.7
+
+> <JCHEM_POLARIZABILITY>
+39.54
+
+> <JCHEM_POLAR_SURFACE_AREA>
+27.05
+
+> <JCHEM_REFRACTIVITY>
+103.07
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+7.63e-04 g/l __ 
+
+$$$$

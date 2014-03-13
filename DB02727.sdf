@@ -1,0 +1,95 @@
+
+  Mrv0541 02231216252D          
+
+  9  8  0  0  0  0            999 V2000
+    1.0461    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    2.6664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02727
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Butyl-N'-Hydroxyguanidine
+
+> <CHEMICAL_FORMULA>
+C5H13N3O
+
+> <MOLECULAR_WEIGHT>
+131.1762
+
+> <EXACT_MASS>
+131.105862053
+
+> <IUPAC_NAME>
+3-butyl-1-hydroxyguanidine
+
+> <IUPAC_TRADITIONAL_NAME>
+3-butyl-1-hydroxyguanidine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H13N3O/c1-2-3-4-7-5(6)8-9/h9H,2-4H2,1H3,(H3,6,7,8)
+
+> <INCHI_KEY>
+InChIKey=ULDDTFAPYWLDGF-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCNC(=N)NO
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+14.82
+
+> <JCHEM_BASIC_PKA>
+10.72
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-0.08
+
+> <JCHEM_LOGP>
+0.43
+
+> <ALOGPS_LOGS>
+-1.7
+
+> <JCHEM_POLARIZABILITY>
+14.61
+
+> <JCHEM_POLAR_SURFACE_AREA>
+68.14
+
+> <JCHEM_REFRACTIVITY>
+56.76
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.90e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,137 @@
+679
+  Mrv0541 02231214552D          
+
+ 25 28  0  0  1  0            999 V2000
+    3.8495   -2.6670    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7619   -0.9970    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4206    1.4580    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8495   -1.0170    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    1.0455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8495    1.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    0.2205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8495    2.2830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4206    2.2830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    2.6955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8495   -0.1920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7061    1.0455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5640   -1.4295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350   -1.4295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5640   -2.2545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350   -2.2545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3015   -0.9884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3975   -0.9884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3015   -2.6955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3975   -2.6955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0490   -1.4123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.4123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0490   -2.2716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.2716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4779   -1.4068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2 21  1  0  0  0  0
+  2 25  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 20  2  0  0  0  0
+ 17 21  2  0  0  0  0
+ 18 22  1  0  0  0  0
+ 19 23  2  0  0  0  0
+ 20 24  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 22 24  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00679
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Thioridazine
+
+> <SYNONYMS>
+Thioridazin
+
+> <SALTS>
+Thioridazine Hydrochloride
+
+> <BRANDS>
+Aldazine; Mallorol; Meleril; Mellaril; Mellerette; Melleretten; Melleril; Novoridazine; Ridazin; Ridazine; Sonapax; Thioril
+
+> <CHEMICAL_FORMULA>
+C21H26N2S2
+
+> <MOLECULAR_WEIGHT>
+370.575
+
+> <EXACT_MASS>
+370.153740222
+
+> <IUPAC_NAME>
+10-[2-(1-methylpiperidin-2-yl)ethyl]-2-(methylsulfanyl)-10H-phenothiazine
+
+> <IUPAC_TRADITIONAL_NAME>
+thioridazine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H26N2S2/c1-22-13-6-5-7-16(22)12-14-23-18-8-3-4-9-20(18)25-21-11-10-17(24-2)15-19(21)23/h3-4,8-11,15-16H,5-7,12-14H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=KLBQZWRITKRQQV-UHFFFAOYSA-N
+
+> <SMILES>
+CSC1=CC2=C(SC3=CC=CC=C3N2CCC2CCCCN2C)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+8.93
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+5.93
+
+> <JCHEM_LOGP>
+5.47
+
+> <ALOGPS_LOGS>
+-5.6
+
+> <JCHEM_POLARIZABILITY>
+43.26
+
+> <JCHEM_POLAR_SURFACE_AREA>
+6.48
+
+> <JCHEM_REFRACTIVITY>
+113.52
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+8.55e-04 g/l __ 
+
+$$$$

@@ -1,0 +1,110 @@
+
+  Mrv0541 02231217272D          
+
+ 16 16  0  0  1  0            999 V2000
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  1  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  4 11  1  0  0  0  0
+ 11 12  1  6  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  1  0  0  0
+ 13 15  1  0  0  0  0
+  2 15  1  0  0  0  0
+ 15 16  1  6  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04122
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Beta-D-Glucose-6-Phosphate
+
+> <CHEMICAL_FORMULA>
+C6H13O9P
+
+> <MOLECULAR_WEIGHT>
+260.1358
+
+> <EXACT_MASS>
+260.029718526
+
+> <IUPAC_NAME>
+{[(2S,3R,4R,5S,6S)-3,4,5,6-tetrahydroxyoxan-2-yl]methoxy}phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[(2S,3R,4R,5S,6S)-3,4,5,6-tetrahydroxyoxan-2-yl]methoxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13O9P/c7-3-2(1-14-16(11,12)13)15-6(10)5(9)4(3)8/h2-10H,1H2,(H2,11,12,13)/t2-,3-,4+,5-,6-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=NBSCHQHZLSJFNQ-QYESYBIKSA-N
+
+> <SMILES>
+O[C@H]1O[C@@H](COP(O)(O)=O)[C@H](O)[C@@H](O)[C@@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_ACIDIC_PKA>
+1.22
+
+> <JCHEM_BASIC_PKA>
+-3.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-2.1
+
+> <JCHEM_LOGP>
+-3.1
+
+> <ALOGPS_LOGS>
+-0.92
+
+> <JCHEM_POLARIZABILITY>
+20.86
+
+> <JCHEM_POLAR_SURFACE_AREA>
+156.91
+
+> <JCHEM_REFRACTIVITY>
+46.8
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+3.14e+01 g/l __ 
+
+$$$$

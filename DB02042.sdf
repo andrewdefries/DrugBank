@@ -1,0 +1,111 @@
+
+  Mrv0541 02231215552D          
+
+ 17 16  0  0  0  0            999 V2000
+    7.9480    5.4138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6625    5.0013    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3770    5.4138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0914    5.0013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8059    5.4138    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5204    5.0013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2349    5.4138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9493    5.0013    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6638    5.4138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3783    5.0013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0927    5.4138    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8072    5.0013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5217    5.4138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2362    5.0013    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9506    5.4138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6651    5.0013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3796    5.4138    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02042
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(2-{2-[2-(2-Methoxy-Ethoxy)-Ethoxy]-Ethoxy}-Ethoxy)-Ethanol
+
+> <CHEMICAL_FORMULA>
+C11H24O6
+
+> <MOLECULAR_WEIGHT>
+252.3047
+
+> <EXACT_MASS>
+252.1572885
+
+> <IUPAC_NAME>
+2,5,8,11,14-pentaoxahexadecan-16-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+2,5,8,11,14-pentaoxahexadecan-16-ol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H24O6/c1-13-4-5-15-8-9-17-11-10-16-7-6-14-3-2-12/h12H,2-11H2,1H3
+
+> <INCHI_KEY>
+InChIKey=SLNYBUIEAMRFSZ-UHFFFAOYSA-N
+
+> <SMILES>
+COCCOCCOCCOCCOCCO
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+15.12
+
+> <JCHEM_BASIC_PKA>
+-2.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.42
+
+> <JCHEM_LOGP>
+-0.75
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+29.33
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.38
+
+> <JCHEM_REFRACTIVITY>
+63.48
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+14
+
+> <ALOGPS_SOLUBILITY>
+4.22e+00 g/l __ 
+
+$$$$

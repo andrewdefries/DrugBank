@@ -1,0 +1,103 @@
+
+  Mrv0541 02231215492D          
+
+ 13 12  0  0  1  0            999 V2000
+    1.0461   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605   -1.8414    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7605   -2.6664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750   -1.4289    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.4750   -0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.8414    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.1895   -2.6664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184   -1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329   -1.4289    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7454   -2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9204   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  6  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  1  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01923
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+L-Xylulose 5-Phosphate
+
+> <CHEMICAL_FORMULA>
+C5H13O7P
+
+> <MOLECULAR_WEIGHT>
+216.1263
+
+> <EXACT_MASS>
+216.039889282
+
+> <IUPAC_NAME>
+{[(2R,3R,4R)-2,3,4-trihydroxypentyl]oxy}phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[(2R,3R,4R)-2,3,4-trihydroxypentyl]oxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H13O7P/c1-3(6)5(8)4(7)2-12-13(9,10)11/h3-8H,2H2,1H3,(H2,9,10,11)/t3-,4-,5-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=YPXGTKHZRCDZTL-UOWFLXDJSA-N
+
+> <SMILES>
+C[C@@H](O)[C@@H](O)[C@H](O)COP(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+1.49
+
+> <JCHEM_BASIC_PKA>
+-3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-1.8
+
+> <JCHEM_LOGP>
+-2.2
+
+> <ALOGPS_LOGS>
+-0.82
+
+> <JCHEM_POLARIZABILITY>
+18.01
+
+> <JCHEM_POLAR_SURFACE_AREA>
+127.45
+
+> <JCHEM_REFRACTIVITY>
+41.77
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+3.26e+01 g/l __ 
+
+$$$$

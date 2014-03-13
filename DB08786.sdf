@@ -1,0 +1,104 @@
+ZZ2
+  Mrv0541 02241214192D          
+
+ 13 13  0  0  0  0            999 V2000
+   -2.5783    0.6405    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8638    0.2280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1493    0.6405    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4348    0.2280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4348   -0.5970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1493   -1.0095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1493   -1.8345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8638   -0.5970    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2796    0.6405    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9941    0.2280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7086    0.6405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4230    0.2280    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1375    0.6405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08786
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-(2-methoxyethoxy)-6-methylpyrimidin-2-amine
+
+> <CHEMICAL_FORMULA>
+C8H13N3O2
+
+> <MOLECULAR_WEIGHT>
+183.2077
+
+> <EXACT_MASS>
+183.100776675
+
+> <IUPAC_NAME>
+4-(2-methoxyethoxy)-6-methylpyrimidin-2-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+4-(2-methoxyethoxy)-6-methylpyrimidin-2-amine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H13N3O2/c1-6-5-7(11-8(9)10-6)13-4-3-12-2/h5H,3-4H2,1-2H3,(H2,9,10,11)
+
+> <INCHI_KEY>
+InChIKey=VCJHOFUOIQHNBC-UHFFFAOYSA-N
+
+> <SMILES>
+COCCOC1=NC(N)=NC(C)=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+16.34
+
+> <JCHEM_BASIC_PKA>
+5.68
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.05
+
+> <JCHEM_LOGP>
+0.42
+
+> <ALOGPS_LOGS>
+-1.2
+
+> <JCHEM_POLARIZABILITY>
+19.57
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.26
+
+> <JCHEM_REFRACTIVITY>
+49.78
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.08e+01 g/l __ 
+
+$$$$

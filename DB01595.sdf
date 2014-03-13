@@ -1,0 +1,128 @@
+1595
+  Mrv0541 02231215352D          
+
+ 21 23  0  0  0  0            999 V2000
+    2.3403    2.5929    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8668   -2.5929    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.2913   -2.4806    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1839    1.2046    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0375    1.2046    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5467   -2.1255    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.1107    0.0423    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3674    0.4003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8540    0.4003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4990   -0.1141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1881   -0.8135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.0728    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5232    1.8496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4818   -1.3031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6982    1.8496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7076   -0.9302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2670    0.1873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3760   -0.9299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9120   -0.3271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0210   -1.4442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7890   -1.1429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  9  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 17  2  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 21  2  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01595
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Nitrazepam
+
+> <SYNONYMS>
+Nitrazepamum
+
+> <BRANDS>
+Alodorm; Arem; Benzalin; Insoma; Mogadon; Nitrados; Nitrazadon; Nitrosun; Ormodon; Pacisyn; Paxadorm; Remnos; Somnite
+
+> <CHEMICAL_FORMULA>
+C15H11N3O3
+
+> <MOLECULAR_WEIGHT>
+281.2661
+
+> <EXACT_MASS>
+281.080041233
+
+> <IUPAC_NAME>
+7-nitro-5-phenyl-2,3-dihydro-1H-1,4-benzodiazepin-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+nitrazepam
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H11N3O3/c19-14-9-16-15(10-4-2-1-3-5-10)12-8-11(18(20)21)6-7-13(12)17-14/h1-8H,9H2,(H,17,19)
+
+> <INCHI_KEY>
+InChIKey=KJONHKAYOJNZEC-UHFFFAOYSA-N
+
+> <SMILES>
+[O-][N+](=O)C1=CC2=C(NC(=O)CN=C2C2=CC=CC=C2)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+11.9
+
+> <JCHEM_BASIC_PKA>
+2.61
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.95
+
+> <JCHEM_LOGP>
+2.55
+
+> <ALOGPS_LOGS>
+-4
+
+> <JCHEM_POLARIZABILITY>
+27.59
+
+> <JCHEM_POLAR_SURFACE_AREA>
+87.28
+
+> <JCHEM_REFRACTIVITY>
+79.22
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.99e-02 g/l __ 
+
+$$$$

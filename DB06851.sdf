@@ -1,0 +1,104 @@
+11X
+  Mrv0541 02241213022D          
+
+ 14 15  0  0  0  0            999 V2000
+   -1.5900    2.1614    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2678   -0.3136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9823   -0.7261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5534   -0.7261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5534   -1.5511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9823   -1.5511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2678   -1.9636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8756    1.7489    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5900    0.5114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3045    0.9239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3045    1.7489    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1611    0.5114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8756    0.9239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1611   -0.3136    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 14  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB06851
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-(pyridin-3-ylmethyl)aniline
+
+> <CHEMICAL_FORMULA>
+C12H12N2
+
+> <MOLECULAR_WEIGHT>
+184.2371
+
+> <EXACT_MASS>
+184.100048394
+
+> <IUPAC_NAME>
+N-(pyridin-3-ylmethyl)aniline
+
+> <IUPAC_TRADITIONAL_NAME>
+N-(pyridin-3-ylmethyl)aniline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H12N2/c1-2-6-12(7-3-1)14-10-11-5-4-8-13-9-11/h1-9,14H,10H2
+
+> <INCHI_KEY>
+InChIKey=BJXLHKJBRORJJJ-UHFFFAOYSA-N
+
+> <SMILES>
+C(NC1=CC=CC=C1)C1=CC=CN=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+4.86
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.47
+
+> <JCHEM_LOGP>
+1.95
+
+> <ALOGPS_LOGS>
+-1.9
+
+> <JCHEM_POLARIZABILITY>
+20.73
+
+> <JCHEM_POLAR_SURFACE_AREA>
+24.92
+
+> <JCHEM_REFRACTIVITY>
+58.71
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.10e+00 g/l __ 
+
+$$$$

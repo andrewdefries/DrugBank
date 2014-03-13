@@ -1,0 +1,102 @@
+1JZ
+  Mrv0541 02241213042D          
+
+ 12 12  0  0  0  0            999 V2000
+   -1.2615    1.2779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8819    0.0404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5471   -0.7846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1674   -1.1971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5964   -1.1971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3108   -0.7846    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8819   -0.7846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5471    0.0404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1674    0.4529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2615    0.4529    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9760    1.6904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5471    1.6904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  3  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  6  1  0  0  0  0
+  7  2  1  0  0  0  0
+  7  5  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9  2  2  0  0  0  0
+ 10  8  1  0  0  0  0
+ 11  1  1  0  0  0  0
+ 12  1  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB06900
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-[4-(hydroxymethyl)phenyl]guanidine
+
+> <CHEMICAL_FORMULA>
+C8H11N3O
+
+> <MOLECULAR_WEIGHT>
+165.1924
+
+> <EXACT_MASS>
+165.090211989
+
+> <IUPAC_NAME>
+1-[4-(hydroxymethyl)phenyl]guanidine
+
+> <IUPAC_TRADITIONAL_NAME>
+1-[4-(hydroxymethyl)phenyl]guanidine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11N3O/c9-8(10)11-7-3-1-6(5-12)2-4-7/h1-4,12H,5H2,(H4,9,10,11)
+
+> <INCHI_KEY>
+InChIKey=JAFHTIHHRCEJDS-UHFFFAOYSA-N
+
+> <SMILES>
+NC(=N)NC1=CC=C(CO)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+15.1
+
+> <JCHEM_BASIC_PKA>
+10.64
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+0.3
+
+> <JCHEM_LOGP>
+0.18
+
+> <ALOGPS_LOGS>
+-2.3
+
+> <JCHEM_POLARIZABILITY>
+17.53
+
+> <JCHEM_POLAR_SURFACE_AREA>
+82.13
+
+> <JCHEM_REFRACTIVITY>
+59.01
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+8.58e-01 g/l __ 
+
+$$$$

@@ -1,0 +1,121 @@
+MPX
+  Mrv0541 02241213562D          
+
+ 21 22  0  0  0  0            999 V2000
+    1.5874    2.9517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019    2.5392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019    1.7142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5874    1.3017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8729    1.7142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8729    2.5392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5874    0.4767    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8729    0.0642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1584    0.4767    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8729   -0.7608    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1584   -1.1733    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1584   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5560   -2.4108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2705   -1.9983    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9850   -2.4108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2705   -1.1733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5560   -0.7608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5874    3.7767    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5874    4.6017    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4124    3.7767    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7624    3.7767    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1 18  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 21  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08202
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-({[(4-METHYLPIPERAZIN-1-YL)AMINO]CARBONOTHIOYL}AMINO)BENZENESULFONAMIDE
+
+> <CHEMICAL_FORMULA>
+C12H19N5O2S2
+
+> <MOLECULAR_WEIGHT>
+329.442
+
+> <EXACT_MASS>
+329.098016257
+
+> <IUPAC_NAME>
+1-(4-methylpiperazin-1-yl)-3-(4-sulfamoylphenyl)thiourea
+
+> <IUPAC_TRADITIONAL_NAME>
+1-(4-methylpiperazin-1-yl)-3-(4-sulfamoylphenyl)thiourea
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H19N5O2S2/c1-16-6-8-17(9-7-16)15-12(20)14-10-2-4-11(5-3-10)21(13,18)19/h2-5H,6-9H2,1H3,(H2,13,18,19)(H2,14,15,20)
+
+> <INCHI_KEY>
+InChIKey=BPPLIZHQOIGRPZ-UHFFFAOYSA-N
+
+> <SMILES>
+CN1CCN(CC1)NC(=S)NC1=CC=C(C=C1)S(N)(=O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+9.24
+
+> <JCHEM_BASIC_PKA>
+7.19
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+0.61
+
+> <JCHEM_LOGP>
+0.09
+
+> <ALOGPS_LOGS>
+-3.1
+
+> <JCHEM_POLARIZABILITY>
+33.89
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.7
+
+> <JCHEM_REFRACTIVITY>
+88.89
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.82e-01 g/l __ 
+
+$$$$

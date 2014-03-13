@@ -1,0 +1,103 @@
+
+  Mrv0541 02231216542D          
+
+ 13 12  0  0  1  0            999 V2000
+    2.9980    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    3.3809    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.5704    1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.2849    3.3809    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  1  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03390
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Propyl-Tartramic Acid
+
+> <CHEMICAL_FORMULA>
+C7H13NO5
+
+> <MOLECULAR_WEIGHT>
+191.1818
+
+> <EXACT_MASS>
+191.079372531
+
+> <IUPAC_NAME>
+(2R,3S)-2,3-dihydroxy-3-(propylcarbamoyl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+N-propyl-tartramic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H13NO5/c1-2-3-8-6(11)4(9)5(10)7(12)13/h4-5,9-10H,2-3H2,1H3,(H,8,11)(H,12,13)/t4-,5+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=LNEZKQHJUNIZIS-CRCLSJGQSA-N
+
+> <SMILES>
+CCCNC(=O)[C@@H](O)[C@@H](O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+3.69
+
+> <JCHEM_BASIC_PKA>
+-4.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-1.2
+
+> <JCHEM_LOGP>
+-1.5
+
+> <ALOGPS_LOGS>
+-0.28
+
+> <JCHEM_POLARIZABILITY>
+18.24
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.86
+
+> <JCHEM_REFRACTIVITY>
+42.2
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+1.00e+02 g/l __ 
+
+$$$$

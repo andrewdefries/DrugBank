@@ -1,0 +1,105 @@
+1412
+  Mrv0541 02231215282D          
+
+ 13 14  0  0  0  0            999 V2000
+    3.0791    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5741    0.6639    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5741   -0.6639    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0556    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8305    1.4482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2 10  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01412
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Theobromine
+
+> <CHEMICAL_FORMULA>
+C7H8N4O2
+
+> <MOLECULAR_WEIGHT>
+180.164
+
+> <EXACT_MASS>
+180.06472552
+
+> <IUPAC_NAME>
+3,7-dimethyl-2,3,6,7-tetrahydro-1H-purine-2,6-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+theobromine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8N4O2/c1-10-3-8-5-4(10)6(12)9-7(13)11(5)2/h3H,1-2H3,(H,9,12,13)
+
+> <INCHI_KEY>
+InChIKey=YAPQBXQYLJRXSA-UHFFFAOYSA-N
+
+> <SMILES>
+CN1C=NC2=C1C(=O)NC(=O)N2C
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+9.28
+
+> <JCHEM_BASIC_PKA>
+-0.91
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.46
+
+> <JCHEM_LOGP>
+-0.77
+
+> <ALOGPS_LOGS>
+-1.3
+
+> <JCHEM_POLARIZABILITY>
+16.85
+
+> <JCHEM_POLAR_SURFACE_AREA>
+67.23
+
+> <JCHEM_REFRACTIVITY>
+44.93
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+9.74e+00 g/l __ 
+
+$$$$

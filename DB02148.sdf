@@ -1,0 +1,106 @@
+
+  Mrv0541 02231216002D          
+
+ 14 14  0  0  1  0            999 V2000
+   -2.8579   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -3.3000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.4289   -4.1250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  6  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+  9 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02148
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Amino-4-Oxybenzyl-2-Butanone
+
+> <CHEMICAL_FORMULA>
+C11H15NO2
+
+> <MOLECULAR_WEIGHT>
+193.2423
+
+> <EXACT_MASS>
+193.110278729
+
+> <IUPAC_NAME>
+(3S)-3-amino-4-(benzyloxy)butan-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+(3S)-3-amino-4-(benzyloxy)butan-2-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H15NO2/c1-9(13)11(12)8-14-7-10-5-3-2-4-6-10/h2-6,11H,7-8,12H2,1H3/t11-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=ISLRAQPEXPIKDJ-NSHDSACASA-N
+
+> <SMILES>
+CC(=O)[C@@H](N)COCC1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+16.32
+
+> <JCHEM_BASIC_PKA>
+7.44
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+0.36
+
+> <JCHEM_LOGP>
+1.07
+
+> <ALOGPS_LOGS>
+-2.1
+
+> <JCHEM_POLARIZABILITY>
+21.45
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.32
+
+> <JCHEM_REFRACTIVITY>
+54.96
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+1.65e+00 g/l __ 
+
+$$$$

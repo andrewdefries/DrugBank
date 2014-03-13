@@ -1,0 +1,123 @@
+1097
+  Mrv0541 02231215142D          
+
+ 19 20  0  0  0  0            999 V2000
+    2.9915    2.4910    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6416    2.4910    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8166    3.3160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6896   -3.3160    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3876   -0.8090    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8166   -0.8090    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5146   -3.3160    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8166    0.0160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8166    1.6660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1021   -2.0465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5310    0.4285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1021    0.4285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5310    1.2535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1021    1.2535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1021   -1.2215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4347   -2.5314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8166    2.4910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7695   -2.5314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.2764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5 15  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 18  2  0  0  0  0
+  8 11  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  2  0  0  0  0
+  9 14  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  2  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 16 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01097
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Leflunomide
+
+> <SYNONYMS>
+Leflunomidum; Lefunomide
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C12H9F3N2O2
+
+> <MOLECULAR_WEIGHT>
+270.2073
+
+> <EXACT_MASS>
+270.061612157
+
+> <IUPAC_NAME>
+5-methyl-N-[4-(trifluoromethyl)phenyl]-1,2-oxazole-4-carboxamide
+
+> <IUPAC_TRADITIONAL_NAME>
+leflunomide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H9F3N2O2/c1-7-10(6-16-19-7)11(18)17-9-4-2-8(3-5-9)12(13,14)15/h2-6H,1H3,(H,17,18)
+
+> <INCHI_KEY>
+InChIKey=VHOGYURTWQBHIL-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=C(C=NO1)C(=O)NC1=CC=C(C=C1)C(F)(F)F
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+10.41
+
+> <JCHEM_BASIC_PKA>
+-0.45
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.52
+
+> <JCHEM_LOGP>
+2.51
+
+> <ALOGPS_LOGS>
+-3.5
+
+> <JCHEM_POLARIZABILITY>
+23.11
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.13
+
+> <JCHEM_REFRACTIVITY>
+64.16
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+8.44e-02 g/l __ 
+
+$$$$

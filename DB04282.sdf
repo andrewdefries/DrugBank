@@ -1,0 +1,102 @@
+
+  Mrv0541 02231217342D          
+
+ 12 12  0  0  1  0            999 V2000
+    2.1434    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  1  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  1  0  0  0
+  9 11  1  0  0  0  0
+  3 11  1  0  0  0  0
+ 11 12  1  6  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04282
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Deoxy-2fluoro-Glucose
+
+> <CHEMICAL_FORMULA>
+C6H11FO5
+
+> <MOLECULAR_WEIGHT>
+182.1469
+
+> <EXACT_MASS>
+182.059051667
+
+> <IUPAC_NAME>
+(2R,3R,4S,5S,6R)-3-fluoro-6-(hydroxymethyl)oxane-2,4,5-triol
+
+> <IUPAC_TRADITIONAL_NAME>
+2-deoxy-2fluoro-glucose
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H11FO5/c7-3-5(10)4(9)2(1-8)12-6(3)11/h2-6,8-11H,1H2/t2-,3-,4-,5-,6-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=ZCXUVYAZINUVJD-QZABAPFNSA-N
+
+> <SMILES>
+OC[C@H]1O[C@@H](O)[C@H](F)[C@@H](O)[C@@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+11.02
+
+> <JCHEM_BASIC_PKA>
+-3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.9
+
+> <JCHEM_LOGP>
+-2
+
+> <ALOGPS_LOGS>
+0.15
+
+> <JCHEM_POLARIZABILITY>
+15.55
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.15
+
+> <JCHEM_REFRACTIVITY>
+34.23
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.57e+02 g/l __ 
+
+$$$$

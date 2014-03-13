@@ -1,0 +1,103 @@
+
+  Mrv0541 02231217492D          
+
+ 12 13  0  0  1  0            999 V2000
+    2.6227    0.0245    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9798   -0.5391    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1174   -1.3526    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5478   -2.0756    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6036   -0.9260    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.5640    0.0063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6365   -0.9260    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.1990   -0.6735    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1191   -1.6349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7365   -1.2598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0555   -0.5545    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.4975   -0.1167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  1  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  1  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  2 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+  7 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04658
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(1S,2R,3S,4R,5S)-8-AZABICYCLO[3.2.1]OCTANE-1,2,3,4-TETROL
+
+> <CHEMICAL_FORMULA>
+C7H13NO4
+
+> <MOLECULAR_WEIGHT>
+175.1824
+
+> <EXACT_MASS>
+175.084457909
+
+> <IUPAC_NAME>
+(1R,2S,3R,4S,5R)-8-azabicyclo[3.2.1]octane-1,2,3,4-tetrol
+
+> <IUPAC_TRADITIONAL_NAME>
+(1R,2S,3R,4S,5R)-8-azabicyclo[3.2.1]octane-1,2,3,4-tetrol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H13NO4/c9-4-3-1-2-7(12,8-3)6(11)5(4)10/h3-6,8-12H,1-2H2/t3-,4+,5-,6+,7-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=FXFBVZOJVHCEDO-IBISWUOJSA-N
+
+> <SMILES>
+O[C@H]1[C@H]2CC[C@](O)(N2)[C@@H](O)[C@@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+12.13
+
+> <JCHEM_BASIC_PKA>
+8.57
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-1.8
+
+> <JCHEM_LOGP>
+-2.1
+
+> <ALOGPS_LOGS>
+0.62
+
+> <JCHEM_POLARIZABILITY>
+16.66
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.95
+
+> <JCHEM_REFRACTIVITY>
+39.07
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+7.33e+02 g/l __ 
+
+$$$$

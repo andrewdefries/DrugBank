@@ -1,0 +1,79 @@
+
+  Mrv0541 02231217092D          
+
+  4  3  0  0  0  0            999 V2000
+    2.0625   -0.7145    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03733
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Ethylene Dichloride
+
+> <CHEMICAL_FORMULA>
+C2H4Cl2
+
+> <MOLECULAR_WEIGHT>
+98.959
+
+> <EXACT_MASS>
+97.969005542
+
+> <IUPAC_NAME>
+1,2-dichloroethane
+
+> <IUPAC_TRADITIONAL_NAME>
+ethylene dichloride
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H4Cl2/c3-1-2-4/h1-2H2
+
+> <INCHI_KEY>
+InChIKey=WSLDOOZREJYCGB-UHFFFAOYSA-N
+
+> <SMILES>
+ClCCCl
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.48
+
+> <JCHEM_LOGP>
+1.5
+
+> <ALOGPS_LOGS>
+-1.2
+
+> <JCHEM_POLARIZABILITY>
+8.5
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+20.66
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.94e+00 g/l __ 
+
+$$$$

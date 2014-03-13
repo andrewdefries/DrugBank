@@ -1,0 +1,96 @@
+
+  Mrv0541 09241312372D          
+
+  8  7  0  0  0  0            999 V2000
+    0.7145    0.9281    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.1031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.3094    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.3094    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1344    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.1031    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    0.9281    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.3094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  2  1  0  0  0  0
+  4  2  1  0  0  0  0
+  4  5  1  1  0  0  0
+  6  4  1  0  0  0  0
+  6  7  1  1  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00156
+
+> <DRUG_GROUPS>
+approved; nutraceutical
+
+> <GENERIC_NAME>
+L-Threonine
+
+> <SYNONYMS>
+(2S,3R)-(-)-Threonine; (2S)-threonine; 2-Amino-3-hydroxybutyric acid; L-(-)-Threonine; L-2-Amino-3-hydroxybutyric acid; L-alpha-amino-beta-hydroxybutyric acid; L-Threonin; L-α-amino-β-hydroxybutyric acid; Thr; Threonine
+
+> <CHEMICAL_FORMULA>
+C4H9NO3
+
+> <MOLECULAR_WEIGHT>
+119.1192
+
+> <EXACT_MASS>
+119.058243159
+
+> <IUPAC_NAME>
+(2S,3R)-2-amino-3-hydroxybutanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+L-threonine
+
+> <INCHI_IDENTIFIER>
+InChI=1/C4H9NO3/c1-2(6)3(5)4(7)8/h2-3,6H,5H2,1H3,(H,7,8)/t2-,3+/s2
+
+> <INCHI_KEY>
+InChIKey=AYFVYJQAPQTCCC-FGNFWGHYNA-N
+
+> <SMILES>
+C[C@@H](O)[C@H](N)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+2.21
+
+> <JCHEM_BASIC_PKA>
+9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-3
+
+> <JCHEM_LOGP>
+-3.5
+
+> <ALOGPS_LOGS>
+0.6
+
+> <JCHEM_POLARIZABILITY>
+11.08
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55
+
+> <JCHEM_REFRACTIVITY>
+26.46
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+4.77e+02 g/l __ 
+
+$$$$

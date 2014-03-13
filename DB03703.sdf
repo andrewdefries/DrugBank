@@ -1,0 +1,92 @@
+
+  Mrv0541 02231217072D          
+
+  7  7  0  0  0  0            999 V2000
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03703
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Cyclohexanol
+
+> <CHEMICAL_FORMULA>
+C6H12O
+
+> <MOLECULAR_WEIGHT>
+100.1589
+
+> <EXACT_MASS>
+100.088815006
+
+> <IUPAC_NAME>
+cyclohexanol
+
+> <IUPAC_TRADITIONAL_NAME>
+cyclohexanol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O/c7-6-4-2-1-3-5-6/h6-7H,1-5H2
+
+> <INCHI_KEY>
+InChIKey=HPXRVTGHNJAIIH-UHFFFAOYSA-N
+
+> <SMILES>
+OC1CCCCC1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+18.18
+
+> <JCHEM_BASIC_PKA>
+-1.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.35
+
+> <JCHEM_LOGP>
+1.28
+
+> <ALOGPS_LOGS>
+-0.77
+
+> <JCHEM_POLARIZABILITY>
+11.94
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+29.28
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.72e+01 g/l __ 
+
+$$$$

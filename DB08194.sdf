@@ -1,0 +1,103 @@
+MO8
+  Mrv0541 02241213552D          
+
+ 12 13  0  0  0  0            999 V2000
+   -1.9209   -0.9097    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2064   -0.4972    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2064    0.3278    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4919    0.7403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4919    1.5653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2225    0.3278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4919   -0.9097    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2225   -0.4972    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9370   -0.9097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6515   -0.4972    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6515    0.3278    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9370    0.7403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  6  4  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  2  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  6  2  0  0  0  0
+  9  8  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08194
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-methyl-7,8-dihydro-5H-thiopyrano[4,3-d]pyrimidin-2-amine
+
+> <CHEMICAL_FORMULA>
+C8H11N3S
+
+> <MOLECULAR_WEIGHT>
+181.258
+
+> <EXACT_MASS>
+181.067368057
+
+> <IUPAC_NAME>
+4-methyl-5H,7H,8H-thiopyrano[4,3-d]pyrimidin-2-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+4-methyl-5H,7H,8H-thiopyrano[4,3-d]pyrimidin-2-amine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11N3S/c1-5-6-4-12-3-2-7(6)11-8(9)10-5/h2-4H2,1H3,(H2,9,10,11)
+
+> <INCHI_KEY>
+InChIKey=ONZWAEXRMZGFAN-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=NC(N)=NC2=C1CSCC2
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+16.92
+
+> <JCHEM_BASIC_PKA>
+4.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.04
+
+> <JCHEM_LOGP>
+0.87
+
+> <ALOGPS_LOGS>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+19.28
+
+> <JCHEM_POLAR_SURFACE_AREA>
+51.8
+
+> <JCHEM_REFRACTIVITY>
+52.24
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+4.41e+00 g/l __ 
+
+$$$$

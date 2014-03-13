@@ -1,0 +1,122 @@
+
+  Mrv0541 02231216132D          
+
+ 21 23  0  0  1  0            999 V2000
+    3.2789    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798    1.0799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2949    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798   -0.2549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5249   -1.0396    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0098   -1.7070    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5249   -2.3744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7403   -2.1195    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0728   -2.6044    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1591   -3.4249    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2453   -4.2454    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6614   -3.5111    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9796   -3.3387    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7403   -1.2945    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0728   -0.8096    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  6 10  1  0  0  0  0
+ 11 10  1  6  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  1  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 14 20  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 20 21  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02454
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-(6-Amino-9h-Purin-9-Yl)-4-Hydroxytetrahydrofuran-3-Yl Dihydrogen Phosphate
+
+> <CHEMICAL_FORMULA>
+C9H12N5O6P
+
+> <MOLECULAR_WEIGHT>
+317.1952
+
+> <EXACT_MASS>
+317.052519653
+
+> <IUPAC_NAME>
+{[(3R,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxyoxolan-3-yl]oxy}phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[(3R,4R,5R)-5-(6-aminopurin-9-yl)-4-hydroxyoxolan-3-yl]oxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H12N5O6P/c10-7-5-8(12-2-11-7)14(3-13-5)9-6(15)4(1-19-9)20-21(16,17)18/h2-4,6,9,15H,1H2,(H2,10,11,12)(H2,16,17,18)/t4-,6-,9-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=IJEJRDCFMFEDGL-NVMQTXNBSA-N
+
+> <SMILES>
+NC1=NC=NC2=C1N=CN2[C@@H]1OC[C@@H](OP(O)(O)=O)[C@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+0.84
+
+> <JCHEM_BASIC_PKA>
+4.93
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-2.9
+
+> <JCHEM_LOGP>
+-4.2
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+26.83
+
+> <JCHEM_POLAR_SURFACE_AREA>
+165.84
+
+> <JCHEM_REFRACTIVITY>
+68.11
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+3.25e+00 g/l __ 
+
+$$$$

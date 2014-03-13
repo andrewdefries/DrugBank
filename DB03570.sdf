@@ -1,0 +1,93 @@
+
+  Mrv0541 02231217012D          
+
+  8  7  0  0  0  0            999 V2000
+    1.6500    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1914    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03570
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tris-Hydroxymethyl-Methyl-Ammonium
+
+> <CHEMICAL_FORMULA>
+C4H12NO3
+
+> <MOLECULAR_WEIGHT>
+122.143
+
+> <EXACT_MASS>
+122.081718255
+
+> <IUPAC_NAME>
+tris(hydroxymethyl)(methyl)azanium
+
+> <IUPAC_TRADITIONAL_NAME>
+tris(hydroxymethyl)(methyl)azanium
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H12NO3/c1-5(2-6,3-7)4-8/h6-8H,2-4H2,1H3/q+1
+
+> <INCHI_KEY>
+InChIKey=DRDCQJADRSJFFD-UHFFFAOYSA-N
+
+> <SMILES>
+C[N+](CO)(CO)CO
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+11.84
+
+> <JCHEM_BASIC_PKA>
+-4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-0.1
+
+> <JCHEM_LOGP>
+-5.7
+
+> <ALOGPS_LOGS>
+-0.73
+
+> <JCHEM_POLARIZABILITY>
+12.41
+
+> <JCHEM_POLAR_SURFACE_AREA>
+60.69
+
+> <JCHEM_REFRACTIVITY>
+39.21
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.97e+01 g/l __ 
+
+$$$$

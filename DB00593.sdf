@@ -1,0 +1,104 @@
+593
+  Mrv0541 02231214482D          
+
+ 10 10  0  0  1  0            999 V2000
+    4.5544   -0.6800    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6501   -0.6800    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1023   -0.9100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5148    0.3596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6897    0.3596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2994    0.6146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7697   -0.4251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5148    1.1846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4348   -0.4251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4709    1.4216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  2  9  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00593
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Ethosuximide
+
+> <SYNONYMS>
+(±)-2-ethyl-2-methylsuccinimide; 2-ethyl-2-methylsuccinimide; 3-ethyl-3-methyl-2,5-pyrrolidinedione; Atysmal; Ethosuximid; Ethosuximidum; Etosuximida; Thilopemal; γ-ethyl-γ-methyl-succinimide
+
+> <BRANDS>
+Emeside; Ethymal; Etoxin; Petimid; Petinimid; Petnidan; Suxilep; Suxinutin; Zarondan; Zarontin
+
+> <CHEMICAL_FORMULA>
+C7H11NO2
+
+> <MOLECULAR_WEIGHT>
+141.1677
+
+> <EXACT_MASS>
+141.078978601
+
+> <IUPAC_NAME>
+3-ethyl-3-methylpyrrolidine-2,5-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+ethosuximide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H11NO2/c1-3-7(2)4-5(9)8-6(7)10/h3-4H2,1-2H3,(H,8,9,10)
+
+> <INCHI_KEY>
+InChIKey=HAPOVYFOVVWLRS-UHFFFAOYSA-N
+
+> <SMILES>
+CCC1(C)CC(=O)NC1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+10.73
+
+> <JCHEM_BASIC_PKA>
+-6.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.1
+
+> <JCHEM_LOGP>
+0.55
+
+> <ALOGPS_LOGS>
+-0.15
+
+> <JCHEM_POLARIZABILITY>
+14.45
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.17
+
+> <JCHEM_REFRACTIVITY>
+35.96
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.01e+02 g/l __ 
+
+$$$$

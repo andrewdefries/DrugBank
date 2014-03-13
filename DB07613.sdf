@@ -1,0 +1,112 @@
+D25
+  Mrv0541 02241213322D          
+
+ 16 18  0  0  0  0            999 V2000
+  -18.9023    6.7752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.2349    6.2903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.4502    6.5452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.1953    7.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.5697    6.2903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.7828    6.0603    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.1154    6.5452    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.3703    7.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.8854    7.9973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.2209    8.7510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.7360    9.4184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.9155    9.3322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.5800    8.5785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.0649    7.9111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.4898    5.5057    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.3148    5.5057    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 15  2  0  0  0  0
+  3  4  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07613
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-phenyl-5-(1H-pyrazol-3-yl)isoxazole
+
+> <CHEMICAL_FORMULA>
+C12H9N3O
+
+> <MOLECULAR_WEIGHT>
+211.2194
+
+> <EXACT_MASS>
+211.074561925
+
+> <IUPAC_NAME>
+3-phenyl-5-(1H-pyrazol-3-yl)-1,2-oxazole
+
+> <IUPAC_TRADITIONAL_NAME>
+3-phenyl-5-(1H-pyrazol-3-yl)-1,2-oxazole
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H9N3O/c1-2-4-9(5-3-1)11-8-12(16-15-11)10-6-7-13-14-10/h1-8H,(H,13,14)
+
+> <INCHI_KEY>
+InChIKey=SRSSTOPJERVMRZ-UHFFFAOYSA-N
+
+> <SMILES>
+N1C=CC(=N1)C1=CC(=NO1)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+13.64
+
+> <JCHEM_BASIC_PKA>
+0.63
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3
+
+> <JCHEM_LOGP>
+2.63
+
+> <ALOGPS_LOGS>
+-2.8
+
+> <JCHEM_POLARIZABILITY>
+22.23
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.71
+
+> <JCHEM_REFRACTIVITY>
+60.59
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+3.64e-01 g/l __ 
+
+$$$$

@@ -1,0 +1,105 @@
+
+  Mrv0541 02231217482D          
+
+ 14 13  0  0  1  0            999 V2000
+    2.9980    1.7309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3000    2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.8559    3.3809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  1  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04636
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Glutamine t-butyl ester
+
+> <CHEMICAL_FORMULA>
+C9H18N2O3
+
+> <MOLECULAR_WEIGHT>
+202.2508
+
+> <EXACT_MASS>
+202.131742452
+
+> <IUPAC_NAME>
+tert-butyl (2S)-2-amino-4-carbamoylbutanoate
+
+> <IUPAC_TRADITIONAL_NAME>
+glutamine t-butyl ester
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H18N2O3/c1-9(2,3)14-8(13)6(10)4-5-7(11)12/h6H,4-5,10H2,1-3H3,(H2,11,12)/t6-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=VVOPSEUXHSUTJS-LURJTMIESA-N
+
+> <SMILES>
+CC(C)(C)OC(=O)[C@@H](N)CCC(N)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+16.46
+
+> <JCHEM_BASIC_PKA>
+7.18
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-0.27
+
+> <JCHEM_LOGP>
+-0.54
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+21.46
+
+> <JCHEM_POLAR_SURFACE_AREA>
+95.41
+
+> <JCHEM_REFRACTIVITY>
+51.68
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+1.44e+01 g/l __ 
+
+$$$$

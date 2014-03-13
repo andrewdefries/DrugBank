@@ -1,0 +1,91 @@
+
+  Mrv0541 02231216352D          
+
+  7  6  0  0  0  0            999 V2000
+    1.2375    2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02951
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Hydroxypyruvic Acid
+
+> <CHEMICAL_FORMULA>
+C3H4O4
+
+> <MOLECULAR_WEIGHT>
+104.0615
+
+> <EXACT_MASS>
+104.010958616
+
+> <IUPAC_NAME>
+3-hydroxy-2-oxopropanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+3-hydroxypyruvic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H4O4/c4-1-2(5)3(6)7/h4H,1H2,(H,6,7)
+
+> <INCHI_KEY>
+InChIKey=HHDDCCUIIUWNGJ-UHFFFAOYSA-N
+
+> <SMILES>
+OCC(=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.57
+
+> <JCHEM_BASIC_PKA>
+-3.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-1.4
+
+> <JCHEM_LOGP>
+-0.75
+
+> <ALOGPS_LOGS>
+0.3
+
+> <JCHEM_POLARIZABILITY>
+8.17
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+19.69
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.09e+02 g/l __ 
+
+$$$$

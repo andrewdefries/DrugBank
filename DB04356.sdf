@@ -1,0 +1,95 @@
+
+  Mrv0541 02231217372D          
+
+ 11 12  0  0  0  0            999 V2000
+    2.7845    0.6979    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    0.6979    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435    0.8555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6284    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435    2.1904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    3.1729    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701    1.9354    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  6  7  4  0  0  0  0
+  7  8  4  0  0  0  0
+  4  8  4  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+  2 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04356
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+9-Deazaguanine
+
+> <CHEMICAL_FORMULA>
+C6H5N4O
+
+> <MOLECULAR_WEIGHT>
+149.1301
+
+> <EXACT_MASS>
+149.046335802
+
+> <IUPAC_NAME>
+2-aminopyrrolo[3,2-d]pyrimidin-4-one
+
+> <IUPAC_TRADITIONAL_NAME>
+9-deazaguanine
+
+> <SMILES>
+NC1=Nc2ccnc2C(=O)N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+7.73
+
+> <JCHEM_BASIC_PKA>
+0.21
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.48
+
+> <JCHEM_LOGP>
+-0.78
+
+> <ALOGPS_LOGS>
+-1.7
+
+> <JCHEM_POLARIZABILITY>
+13.59
+
+> <JCHEM_POLAR_SURFACE_AREA>
+84.66
+
+> <JCHEM_REFRACTIVITY>
+36.85
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.03e+00 g/l __ 
+
+$$$$

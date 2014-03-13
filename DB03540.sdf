@@ -1,0 +1,92 @@
+
+  Mrv0541 02231217002D          
+
+  8  9  0  0  1  0            999 V2000
+   -0.4595   -2.6321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1351   -2.0602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5004   -1.3997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1407   -0.9495    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9362   -1.4148    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6411   -2.0402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9106   -1.6699    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.9807   -0.1341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  4  8  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03540
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Norcamphor
+
+> <CHEMICAL_FORMULA>
+C7H10O
+
+> <MOLECULAR_WEIGHT>
+110.1537
+
+> <EXACT_MASS>
+110.073164942
+
+> <IUPAC_NAME>
+(1S,4R)-bicyclo[2.2.1]heptan-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+norcamphor
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H10O/c8-7-4-5-1-2-6(7)3-5/h5-6H,1-4H2/t5-,6+/m1/s1
+
+> <INCHI_KEY>
+InChIKey=KPMKEVXVVHNIEY-RITPCOANSA-N
+
+> <SMILES>
+O=C1C[C@@H]2CC[C@H]1C2
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-7.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.4
+
+> <JCHEM_LOGP>
+1.41
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+12.19
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+30.97
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+8.51e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,108 @@
+437
+  Mrv0541 02231214412D          
+
+ 10 11  0  0  0  0            999 V2000
+    2.3645    1.4001    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597   -0.9139    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3412   -0.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.0750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.1625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597    0.4140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  7  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00437
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Allopurinol
+
+> <SYNONYMS>
+4-HPP; 4-Hydroxypyrazolopyrimidine; Allopurinolum; Alopurinol
+
+> <SALTS>
+Allopurinol Sodium
+
+> <BRANDS>
+Allohexal; Alloril; Aluron; Milurit; Progout; Zyloprim; Zyloric; Zyrik
+
+> <CHEMICAL_FORMULA>
+C5H4N4O
+
+> <MOLECULAR_WEIGHT>
+136.1115
+
+> <EXACT_MASS>
+136.03851077
+
+> <IUPAC_NAME>
+1H,2H,4H-pyrazolo[3,4-d]pyrimidin-4-one
+
+> <IUPAC_TRADITIONAL_NAME>
+allopurinol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H4N4O/c10-5-3-1-8-9-4(3)6-2-7-5/h1-2H,(H2,6,7,8,9,10)
+
+> <INCHI_KEY>
+InChIKey=OFCNXPDARWKPPY-UHFFFAOYSA-N
+
+> <SMILES>
+O=C1N=CN=C2NNC=C12
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+7.83
+
+> <JCHEM_BASIC_PKA>
+2.57
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.7
+
+> <JCHEM_LOGP>
+-1.8
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+11.67
+
+> <JCHEM_POLAR_SURFACE_AREA>
+65.85
+
+> <JCHEM_REFRACTIVITY>
+54.24
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.88e+00 g/l __ 
+
+$$$$

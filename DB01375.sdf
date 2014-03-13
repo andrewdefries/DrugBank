@@ -1,0 +1,79 @@
+1375
+  Mrv0541 02231215242D          
+
+  8  5  0  0  0  0            999 V2000
+    2.6203   -0.0152    0.0000 Al   0  0  0  0  0  1  0  0  0  0  0  0
+    3.3350    0.3973    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9058    0.3973    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6203   -0.8403    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0494   -0.8403    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4784   -0.0152    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7639    0.3973    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0494   -0.0152    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  8  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01375
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Dihydroxyaluminium
+
+> <CHEMICAL_FORMULA>
+C2H8AlNO4
+
+> <MOLECULAR_WEIGHT>
+137.0708
+
+> <EXACT_MASS>
+137.02687119
+
+> <IUPAC_NAME>
+$l^{1}-alumanyl 2-aminoacetate dihydrate
+
+> <IUPAC_TRADITIONAL_NAME>
+$l^{1}-alumanyl 2-aminoacetate dihydrate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H5NO2.Al.2H2O/c3-1-2(4)5;;;/h1,3H2,(H,4,5);;2*1H2/q;+1;;/p-1
+
+> <INCHI_KEY>
+InChIKey=RBNPZEHAODHBPZ-UHFFFAOYSA-M
+
+> <SMILES>
+O.O.NCC(=O)O[Al]
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+7.19
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_LOGP>
+0.49
+
+> <JCHEM_POLARIZABILITY>
+8.34
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.32
+
+> <JCHEM_REFRACTIVITY>
+15.08
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2 __ 
+
+$$$$

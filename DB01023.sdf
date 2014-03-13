@@ -1,0 +1,132 @@
+1023
+  Mrv0541 02231215112D          
+
+ 25 26  0  0  1  0            999 V2000
+    6.7495    1.2240    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    2.3183    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.5693    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3659   -0.5693    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.6683    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.1818    0.4752    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -1.8068    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.1568    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.5693    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -0.5693    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.6683    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.3943    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -1.3943    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.1568    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.8068    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -1.8068    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -0.1568    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    1.0808    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.0808    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    1.9058    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.9058    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.3183    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.1568    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0804   -0.1568    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.5693    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 17  1  0  0  0  0
+  4 24  1  0  0  0  0
+  5 14  2  0  0  0  0
+  6 17  2  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  2  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 20 22  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 23 25  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01023
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Felodipine
+
+> <SYNONYMS>
+Felodipina; Felodipine; Felodipinum
+
+> <BRANDS>
+Felodur ER; Felogard; Penedil; Plendil; Plendil Depottab; Plendil ER; Plendil Retard; Renedil; Splendil
+
+> <CHEMICAL_FORMULA>
+C18H19Cl2NO4
+
+> <MOLECULAR_WEIGHT>
+384.254
+
+> <EXACT_MASS>
+383.069113515
+
+> <IUPAC_NAME>
+3-ethyl 5-methyl 4-(2,3-dichlorophenyl)-2,6-dimethyl-1,4-dihydropyridine-3,5-dicarboxylate
+
+> <IUPAC_TRADITIONAL_NAME>
+felodipine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H19Cl2NO4/c1-5-25-18(23)14-10(3)21-9(2)13(17(22)24-4)15(14)11-7-6-8-12(19)16(11)20/h6-8,15,21H,5H2,1-4H3
+
+> <INCHI_KEY>
+InChIKey=RZTAMFZIAATZDJ-UHFFFAOYSA-N
+
+> <SMILES>
+CCOC(=O)C1=C(C)NC(C)=C(C1C1=C(Cl)C(Cl)=CC=C1)C(=O)OC
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+5.39
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+4.36
+
+> <JCHEM_LOGP>
+3.44
+
+> <ALOGPS_LOGS>
+-4.7
+
+> <JCHEM_POLARIZABILITY>
+38.04
+
+> <JCHEM_POLAR_SURFACE_AREA>
+64.63
+
+> <JCHEM_REFRACTIVITY>
+99.2
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+7.15e-03 g/l __ 
+
+$$$$

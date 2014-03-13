@@ -1,0 +1,122 @@
+
+  Mrv0541 04191212142D          
+
+ 17 18  0  0  0  0            999 V2000
+   -1.6795    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3939    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3939   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6795   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9650   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9650    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2505    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2505   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4639   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4639    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1784    1.0313    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.8929    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8929   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6073    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1784    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1084   -0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1084   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 11 15  1  6  0  0  0
+  3 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00788
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Naproxen
+
+> <SYNONYMS>
+Naprolag; Naproxen; Naproxène; Naproxeno; Naproxenum
+
+> <SALTS>
+Naproxen sodium
+
+> <BRANDS>
+Aleve; Alidase; Alpoxen; Alpron; Apain; Apranax; Apronax; Bonyl; Bruproxen; Bumaflex N; Congex; Debril; Deproxen; Dysmenalgit; Ec-naprosyn; Emox; Emoxen; Eurogesic; Fabralgina; Feminax Ultra; Flogotone; Gerinap; Honlow; Improstan; Inflamax; Inza; Iraxen; Jinkangpuli; Lexinax; Melgar; Messelxen; Mobilat; Naprometin; Naprosyn; Naprosyn CR; Naprosyn EC; Naprosyn Entero; Naprosyn SR; Naprosyne; Naproval; Naproxen; Naprux; Neuralprona; Noflam; Nopain; Prexan; Priaxen; Princeps; Pronaxen; Proxen; Proxen S; Proxen SR; Releve; Repro; Reuxen; Riproxen; Sanaprox; Seladin; Servinaprox; Tarproxen; Ticoflex; Tundra; Xenar; Xenar-CR
+
+> <CHEMICAL_FORMULA>
+C14H14O3
+
+> <MOLECULAR_WEIGHT>
+230.2592
+
+> <EXACT_MASS>
+230.094294314
+
+> <IUPAC_NAME>
+(2S)-2-(6-methoxynaphthalen-2-yl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+naproxen
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H14O3/c1-9(14(15)16)10-3-4-12-8-13(17-2)6-5-11(12)7-10/h3-9H,1-2H3,(H,15,16)/t9-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=CMWTZPSULFXXJA-VIFPVBQESA-N
+
+> <SMILES>
+COC1=CC2=C(C=C1)C=C(C=C2)[C@H](C)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.19
+
+> <JCHEM_BASIC_PKA>
+-4.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+3.29
+
+> <JCHEM_LOGP>
+2.99
+
+> <ALOGPS_LOGS>
+-3.6
+
+> <JCHEM_POLARIZABILITY>
+24.81
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+64.85
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+5.11e-02 g/l __ 
+
+$$$$

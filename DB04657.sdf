@@ -1,0 +1,117 @@
+
+  Mrv0541 02231217492D          
+
+ 16 17  0  0  0  0            999 V2000
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 11 16  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04657
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Carboxin
+
+> <SYNONYMS>
+
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C12H13NO2S
+
+> <MOLECULAR_WEIGHT>
+235.302
+
+> <EXACT_MASS>
+235.066699355
+
+> <IUPAC_NAME>
+2-methyl-N-phenyl-5,6-dihydro-1,4-oxathiine-3-carboxamide
+
+> <IUPAC_TRADITIONAL_NAME>
+carboxin
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H13NO2S/c1-9-11(16-8-7-15-9)12(14)13-10-5-3-2-4-6-10/h2-6H,7-8H2,1H3,(H,13,14)
+
+> <INCHI_KEY>
+InChIKey=GYSSRZJIHXQEHQ-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=C(SCCO1)C(=O)NC1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+13.24
+
+> <JCHEM_BASIC_PKA>
+-2.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.65
+
+> <JCHEM_LOGP>
+1.51
+
+> <ALOGPS_LOGS>
+-2.6
+
+> <JCHEM_POLARIZABILITY>
+24.87
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.33
+
+> <JCHEM_REFRACTIVITY>
+69.1
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+5.36e-01 g/l __ 
+
+$$$$

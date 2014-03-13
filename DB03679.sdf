@@ -1,0 +1,105 @@
+
+  Mrv0541 02231217062D          
+
+ 16 17  0  0  1  0            999 V2000
+    2.2428   -2.5916    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4358   -2.7631    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8838   -2.1500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1712   -0.6979    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -0.0305    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1809   -3.5477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7329   -4.1608    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3739   -3.7192    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  4  0  0  0  0
+  7  8  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  4  0  0  0  0
+ 11 12  4  0  0  0  0
+ 12 13  4  0  0  0  0
+  4 13  4  0  0  0  0
+  8 13  4  0  0  0  0
+  2 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03679
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Hydroxy-Tryptophan
+
+> <CHEMICAL_FORMULA>
+C11H11N2O3
+
+> <MOLECULAR_WEIGHT>
+219.2166
+
+> <EXACT_MASS>
+219.076967228
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-(2-hydroxyindol-3-yl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+2-hydroxy-tryptophan
+
+> <SMILES>
+N[C@@H](Cc1c(O)nc2ccccc12)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+2.03
+
+> <JCHEM_BASIC_PKA>
+11.93
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.5
+
+> <JCHEM_LOGP>
+-1.1
+
+> <ALOGPS_LOGS>
+-1.7
+
+> <JCHEM_POLARIZABILITY>
+21.78
+
+> <JCHEM_POLAR_SURFACE_AREA>
+96.44
+
+> <JCHEM_REFRACTIVITY>
+56.99
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+4.50e+00 g/l __ 
+
+$$$$

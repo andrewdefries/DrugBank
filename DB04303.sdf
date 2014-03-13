@@ -1,0 +1,106 @@
+
+  Mrv0541 02231217352D          
+
+ 14 14  0  0  1  0            999 V2000
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  6  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  1  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  6  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  3 11  1  0  0  0  0
+ 11 12  1  6  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04303
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-O-Methyl-Alpha-D-Glucuronic Acid
+
+> <CHEMICAL_FORMULA>
+C7H12O7
+
+> <MOLECULAR_WEIGHT>
+208.166
+
+> <EXACT_MASS>
+208.058302738
+
+> <IUPAC_NAME>
+(2S,3S,4R,5R,6R)-4,5,6-trihydroxy-3-methoxyoxane-2-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S,3S,4R,5R,6R)-4,5,6-trihydroxy-3-methoxyoxane-2-carboxylic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H12O7/c1-13-4-2(8)3(9)7(12)14-5(4)6(10)11/h2-5,7-9,12H,1H3,(H,10,11)/t2-,3-,4+,5+,7-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=WGLLPAPKWFDHHV-RLZVPWTLSA-N
+
+> <SMILES>
+CO[C@H]1[C@H](O)[C@@H](O)[C@H](O)O[C@@H]1C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+3.34
+
+> <JCHEM_BASIC_PKA>
+-3.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-2.2
+
+> <JCHEM_LOGP>
+-2
+
+> <ALOGPS_LOGS>
+0.21
+
+> <JCHEM_POLARIZABILITY>
+18.32
+
+> <JCHEM_POLAR_SURFACE_AREA>
+116.45
+
+> <JCHEM_REFRACTIVITY>
+40.54
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+3.34e+02 g/l __ 
+
+$$$$

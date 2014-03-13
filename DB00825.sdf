@@ -1,0 +1,103 @@
+825
+  Mrv0541 02231215022D          
+
+ 11 11  0  0  1  0            999 V2000
+    2.0930    0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.6188    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.8075    0.2063    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.2365    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.0313    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.8075   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  1  6  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  1  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00825
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Menthol
+
+> <SYNONYMS>
+Levomenthol
+
+> <CHEMICAL_FORMULA>
+C10H20O
+
+> <MOLECULAR_WEIGHT>
+156.2652
+
+> <EXACT_MASS>
+156.151415262
+
+> <IUPAC_NAME>
+(1R,2S,5R)-5-methyl-2-(propan-2-yl)cyclohexan-1-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+menthol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H20O/c1-7(2)9-5-4-8(3)6-10(9)11/h7-11H,4-6H2,1-3H3/t8-,9+,10-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=NOOLISFMXDJSKH-KXUCPTDWSA-N
+
+> <SMILES>
+CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+19.55
+
+> <JCHEM_BASIC_PKA>
+-0.81
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.68
+
+> <JCHEM_LOGP>
+2.66
+
+> <ALOGPS_LOGS>
+-2.5
+
+> <JCHEM_POLARIZABILITY>
+19.69
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+47.45
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.58e-01 g/l __ 
+
+$$$$

@@ -1,0 +1,111 @@
+277
+  Mrv0541 02231214342D          
+
+ 13 14  0  0  0  0            999 V2000
+    3.0791    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5741    0.6639    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5741   -0.6639    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0556    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2 10  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 13  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00277
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Theophylline
+
+> <SYNONYMS>
+1,3-dimethyl-7H-purine-2,6-dione; 1,3-dimethylxanthine; Theophyllin; Theophylline Anhydrous
+
+> <BRANDS>
+Elixophyllin; Quibron-T; Respbid; Slo-Bid; Theo 24; Theo-Dur; Theodur G; Theolair; Uniphyl
+
+> <CHEMICAL_FORMULA>
+C7H8N4O2
+
+> <MOLECULAR_WEIGHT>
+180.164
+
+> <EXACT_MASS>
+180.06472552
+
+> <IUPAC_NAME>
+1,3-dimethyl-2,3,6,7-tetrahydro-1H-purine-2,6-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+theophylline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8N4O2/c1-10-5-4(8-3-9-5)6(12)11(2)7(10)13/h3H,1-2H3,(H,8,9)
+
+> <INCHI_KEY>
+InChIKey=ZFXYFBGIUFBOJW-UHFFFAOYSA-N
+
+> <SMILES>
+CN1C2=C(NC=N2)C(=O)N(C)C1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+7.82
+
+> <JCHEM_BASIC_PKA>
+-0.78
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.26
+
+> <JCHEM_LOGP>
+-0.77
+
+> <ALOGPS_LOGS>
+-0.9
+
+> <JCHEM_POLARIZABILITY>
+16.86
+
+> <JCHEM_POLAR_SURFACE_AREA>
+69.3
+
+> <JCHEM_REFRACTIVITY>
+44.93
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.29e+01 g/l __ 
+
+$$$$

@@ -1,0 +1,98 @@
+
+  Mrv0541 02231215412D          
+
+ 11 12  0  0  1  0            999 V2000
+    1.6436    0.3570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9807   -0.1341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2526    0.2537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1407   -0.9495    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5004   -1.3997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1351   -2.0602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9106   -1.6699    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.9094   -2.4949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6411   -2.0402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9087   -2.8206    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9362   -1.4148    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  2  1  6  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+  4 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01744
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Camphor
+
+> <CHEMICAL_FORMULA>
+C10H16O
+
+> <MOLECULAR_WEIGHT>
+152.2334
+
+> <EXACT_MASS>
+152.120115134
+
+> <IUPAC_NAME>
+(1S,4S)-1,7,7-trimethylbicyclo[2.2.1]heptan-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+camphor
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H16O/c1-9(2)7-4-5-10(9,3)8(11)6-7/h7H,4-6H2,1-3H3/t7-,10+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=DSSYKIVIOFKYAU-OIBJUYFYSA-N
+
+> <SMILES>
+CC1(C)[C@H]2CC[C@]1(C)C(=O)C2
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-7.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.85
+
+> <JCHEM_LOGP>
+2.55
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+17.73
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+44.49
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+8.80e-01 g/l __ 
+
+$$$$

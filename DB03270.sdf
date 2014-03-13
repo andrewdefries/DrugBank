@@ -1,0 +1,99 @@
+
+  Mrv0541 02231216492D          
+
+ 12 12  0  0  0  0            999 V2000
+    2.8579    1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7309    1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5559    0.5230    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  5 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03270
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,6-Difluorobenzenesulfonamide
+
+> <CHEMICAL_FORMULA>
+C6H5F2NO2S
+
+> <MOLECULAR_WEIGHT>
+193.171
+
+> <EXACT_MASS>
+193.000905509
+
+> <IUPAC_NAME>
+2,6-difluorobenzene-1-sulfonamide
+
+> <IUPAC_TRADITIONAL_NAME>
+2,6-difluorobenzenesulfonamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H5F2NO2S/c7-4-2-1-3-5(8)6(4)12(9,10)11/h1-3H,(H2,9,10,11)
+
+> <INCHI_KEY>
+InChIKey=RVVVGGCOFWWDEL-UHFFFAOYSA-N
+
+> <SMILES>
+NS(=O)(=O)C1=C(F)C=CC=C1F
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+7.36
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.24
+
+> <JCHEM_LOGP>
+0.86
+
+> <ALOGPS_LOGS>
+-2.1
+
+> <JCHEM_POLARIZABILITY>
+14.84
+
+> <JCHEM_POLAR_SURFACE_AREA>
+60.16
+
+> <JCHEM_REFRACTIVITY>
+38.65
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.62e+00 g/l __ 
+
+$$$$

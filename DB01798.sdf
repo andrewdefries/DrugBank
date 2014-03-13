@@ -1,0 +1,96 @@
+
+  Mrv0541 02231215442D          
+
+ 11 10  0  0  1  0            999 V2000
+    1.7605   -1.0164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039   -1.4289    0.0000 P   0  0  2  0  0  0  0  0  0  0  0  0
+    3.4914   -2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3164   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184   -1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329   -1.4289    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7454   -2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9204   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  3  1  6  0  0  0
+  4  5  1  1  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01798
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Ethyl Dihydrogen Diphosphate
+
+> <CHEMICAL_FORMULA>
+C2H8O7P2
+
+> <MOLECULAR_WEIGHT>
+206.0282
+
+> <EXACT_MASS>
+205.974525634
+
+> <IUPAC_NAME>
+{[ethoxy(hydroxy)phosphoryl]oxy}phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[ethoxy(hydroxy)phosphoryl]oxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H8O7P2/c1-2-8-11(6,7)9-10(3,4)5/h2H2,1H3,(H,6,7)(H2,3,4,5)
+
+> <INCHI_KEY>
+InChIKey=OJDJHGIXNZPZFD-UHFFFAOYSA-N
+
+> <SMILES>
+CCO[P@](O)(=O)OP(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.78
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-0.3
+
+> <JCHEM_LOGP>
+-0.71
+
+> <ALOGPS_LOGS>
+-1.2
+
+> <JCHEM_POLARIZABILITY>
+14.35
+
+> <JCHEM_POLAR_SURFACE_AREA>
+113.29
+
+> <JCHEM_REFRACTIVITY>
+34.76
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.30e+01 g/l __ 
+
+$$$$

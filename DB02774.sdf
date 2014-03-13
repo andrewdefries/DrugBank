@@ -1,0 +1,87 @@
+
+  Mrv0541 02231216272D          
+
+  5  4  0  0  0  0            999 V2000
+    2.4750   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02774
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,3-Propandiol
+
+> <CHEMICAL_FORMULA>
+C3H8O2
+
+> <MOLECULAR_WEIGHT>
+76.0944
+
+> <EXACT_MASS>
+76.0524295
+
+> <IUPAC_NAME>
+propane-1,3-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+1,3-propandiol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H8O2/c4-2-1-3-5/h4-5H,1-3H2
+
+> <INCHI_KEY>
+InChIKey=YPFDHNVEDLHUCE-UHFFFAOYSA-N
+
+> <SMILES>
+OCCCO
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+15.6
+
+> <JCHEM_BASIC_PKA>
+-2.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.2
+
+> <JCHEM_LOGP>
+-1.1
+
+> <ALOGPS_LOGS>
+1.05
+
+> <JCHEM_POLARIZABILITY>
+8.15
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+19.42
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+8.59e+02 g/l __ 
+
+$$$$

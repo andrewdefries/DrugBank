@@ -1,0 +1,95 @@
+
+  Mrv0541 02231216262D          
+
+  9  8  0  0  1  0            999 V2000
+    1.7605    1.8414    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 Hg   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C    0  0  1  0  0  0  0  0  0  0  0  0
+    4.6184    2.6664    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  1  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02750
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+S-(Methylmercury)-L-Cysteine
+
+> <CHEMICAL_FORMULA>
+C4H9HgNO2S
+
+> <MOLECULAR_WEIGHT>
+335.77
+
+> <EXACT_MASS>
+337.006024831
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-[(methylmercurio)sulfanyl]propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S)-2-amino-3-[(methylmercurio)sulfanyl]propanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H7NO2S.CH3.Hg/c4-2(1-7)3(5)6;;/h2,7H,1,4H2,(H,5,6);1H3;/q;;+1/p-1/t2-;;/m1../s1
+
+> <INCHI_KEY>
+InChIKey=OMYFBIZVJYGJJA-YBBRRFGFSA-M
+
+> <SMILES>
+C[Hg]SC[C@@H](N)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+1.76
+
+> <JCHEM_BASIC_PKA>
+9.21
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.4
+
+> <JCHEM_LOGP>
+-3.4
+
+> <ALOGPS_LOGS>
+-1.2
+
+> <JCHEM_POLARIZABILITY>
+15.59
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+33.22
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+2.02e+01 g/l __ 
+
+$$$$

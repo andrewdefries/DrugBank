@@ -1,0 +1,111 @@
+
+  Mrv0541 08061307412D          
+
+ 14 13  0  0  0  0            999 V2000
+   -5.3330    2.1214    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6186    2.5339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9041    2.1214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1896    2.5339    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.4752    2.1214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7607    2.5339    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.0462    2.1214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9357    2.5339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7607    1.7089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1896    3.3589    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6186    3.3589    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4752    3.7714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7607    3.3589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4752    4.5964    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  4 10  1  1  0  0  0
+  2 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08842
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Acetylcarnitine
+
+> <SYNONYMS>
+acetyl-L-carnitine; O-acetyl-L-carnitine 
+
+> <BRANDS>
+Acilen; Actigeron; Branigen; Branitil; Ceredor; Fertilix; Lacetilina; Laremide; Levocetile; Maxoza; Memorx IQ Plus; Memovigor; Neurex; Neuroactil ; Nicetile; Normobren; Phototrop; Zibren
+
+> <CHEMICAL_FORMULA>
+C9H18NO4
+
+> <MOLECULAR_WEIGHT>
+204.2435
+
+> <EXACT_MASS>
+204.123583069
+
+> <IUPAC_NAME>
+[(2R)-2-(acetyloxy)-3-carboxypropyl]trimethylazanium
+
+> <IUPAC_TRADITIONAL_NAME>
+O-acetylcarnitinium
+
+> <INCHI_IDENTIFIER>
+InChI=1/C9H17NO4/c1-7(11)14-8(5-9(12)13)6-10(2,3)4/h8H,5-6H2,1-4H3/p+1/t8-/s2
+
+> <INCHI_KEY>
+InChIKey=RDHQFKQIGNGIED-SVGMAFHSNA-O
+
+> <SMILES>
+CC(=O)O[C@H](CC(O)=O)C[N+](C)(C)C
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.09
+
+> <JCHEM_BASIC_PKA>
+-7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.1
+
+> <JCHEM_LOGP>
+-4.4
+
+> <ALOGPS_LOGS>
+-2.8
+
+> <JCHEM_POLARIZABILITY>
+21.19
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.6
+
+> <JCHEM_REFRACTIVITY>
+61.8
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+4.29e-01 g/l __ 
+
+$$$$

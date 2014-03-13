@@ -1,0 +1,97 @@
+
+  Mrv0541 02231217472D          
+
+  8  8  0  0  0  0            999 V2000
+    2.1434    1.2375    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04586
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-bromophenol
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C6H5BrO
+
+> <MOLECULAR_WEIGHT>
+173.007
+
+> <EXACT_MASS>
+171.952377429
+
+> <IUPAC_NAME>
+2-bromophenol
+
+> <IUPAC_TRADITIONAL_NAME>
+2-bromophenol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H5BrO/c7-5-3-1-2-4-6(5)8/h1-4,8H
+
+> <INCHI_KEY>
+InChIKey=VADKRMSMGWJZCF-UHFFFAOYSA-N
+
+> <SMILES>
+OC1=CC=CC=C1Br
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+8.16
+
+> <JCHEM_BASIC_PKA>
+-6.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.52
+
+> <JCHEM_LOGP>
+2.44
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+13.05
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+35.66
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+7.60e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,131 @@
+
+  Mrv0541 04191212122D          
+
+ 21 23  0  0  0  0            999 V2000
+   -0.7145    0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3595   -0.9269    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1759   -1.7312    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1638   -0.7433    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3595    0.9269    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3876   -1.9744    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7807   -2.2923    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5218    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6782   -1.3883    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1638    0.7433    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.8250    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2040   -2.7787    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5971   -3.0967    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8087   -3.3398    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3768    2.1563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6782    1.3883    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  2  2  0  0  0  0
+  5  3  1  0  0  0  0
+  6  1  2  0  0  0  0
+  4  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 11  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 15  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 18  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 21 20  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00475
+
+> <DRUG_GROUPS>
+approved; illicit
+
+> <GENERIC_NAME>
+Chlordiazepoxide
+
+> <SYNONYMS>
+Chloradiazepoxide; Chlordiazepoxidum; Clopoxide; Methaminodiazepoxide
+
+> <SALTS>
+Chlordiazepoxide Hydrochloride
+
+> <BRANDS>
+Angirex; Elenium; Klopoxid; Libritabs; Librium; Menrium; Mesural; Multum; Napoton; Novapam; Radepur; Risolid; Silibrin; Sonimen; Tropium
+
+> <CHEMICAL_FORMULA>
+C16H14ClN3O
+
+> <MOLECULAR_WEIGHT>
+299.755
+
+> <EXACT_MASS>
+299.082539792
+
+> <IUPAC_NAME>
+7-chloro-2-(methylamino)-5-phenyl-3H-1,4$l^{5}-benzodiazepin-4-one
+
+> <IUPAC_TRADITIONAL_NAME>
+multum
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H14ClN3O/c1-18-15-10-20(21)16(11-5-3-2-4-6-11)13-9-12(17)7-8-14(13)19-15/h2-9H,10H2,1H3,(H,18,19)
+
+> <INCHI_KEY>
+InChIKey=ANTSCNMPPGJYLG-UHFFFAOYSA-N
+
+> <SMILES>
+CNC1=NC2=C(C=C(Cl)C=C2)C(C2=CC=CC=C2)=N(=O)C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+18.52
+
+> <JCHEM_BASIC_PKA>
+6.43
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.01
+
+> <JCHEM_LOGP>
+3.05
+
+> <ALOGPS_LOGS>
+-4.2
+
+> <JCHEM_POLARIZABILITY>
+30.97
+
+> <JCHEM_POLAR_SURFACE_AREA>
+53.14
+
+> <JCHEM_REFRACTIVITY>
+87.34
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.99e-02 g/l __ 
+
+$$$$

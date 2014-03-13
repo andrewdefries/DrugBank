@@ -1,0 +1,77 @@
+
+  Mrv0541 02231216442D          
+
+  5  9  0  0  0  0            999 V2000
+    0.8913    0.3126    0.0000 Cu   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1012   -0.2963    0.0000 S    0  0  2  0  0  0  0  0  0  0  0  0
+   -0.5696    0.2871    0.0000 Cu   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4648   -0.3218    0.0000 Cu   0  0  2  0  0  0  0  0  0  0  0  0
+    0.1624    0.6676    0.0000 Cu   0  0  1  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  4  3  1  6  0  0  0
+  1  4  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  1  1  1  0  0  0
+  2  5  1  0  0  0  0
+  3  5  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03151
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(Mu-4-Sulfido)-Tetra-Nuclear Copper Ion
+
+> <CHEMICAL_FORMULA>
+Cu4S
+
+> <MOLECULAR_WEIGHT>
+286.249
+
+> <EXACT_MASS>
+283.690475006
+
+> <IUPAC_NAME>
+(2r,4s)-1$l^{4}-thia-2,3,4,5-tetracuprapentacyclo[2.1.0.0^{1,3}.0^{2,4}.0^{2,5}]pentane
+
+> <IUPAC_TRADITIONAL_NAME>
+(2r,4s)-1$l^{4}-thia-2,3,4,5-tetracuprapentacyclo[2.1.0.0^{1,3}.0^{2,4}.0^{2,5}]pentane
+
+> <INCHI_IDENTIFIER>
+InChI=1S/4Cu.S
+
+> <INCHI_KEY>
+InChIKey=IGIWMDIIFLPFOP-UHFFFAOYSA-N
+
+> <SMILES>
+[Cu]12[S@]34[Cu]5[Cu@]13[Cu@]245
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_LOGP>
+1
+
+> <JCHEM_POLARIZABILITY>
+6.91
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+5.76
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0 __ 
+
+$$$$

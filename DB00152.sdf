@@ -1,0 +1,124 @@
+152
+  Mrv0541 02231214282D          
+
+ 18 19  0  0  0  0            999 V2000
+    1.9050    0.8501    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3643    2.9387    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3175   -0.4194    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.7465   -2.8945    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4610   -1.6570    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3175   -2.8945    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9849    0.0655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3175   -1.2445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7300    0.8501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2149    1.5175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0319   -1.6570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7696   -0.1894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8794    2.2713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0319   -2.4820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7465   -1.2445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4610   -2.4820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1754   -2.8945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 12  2  0  0  0  0
+  4 15  2  0  0  0  0
+  4 17  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  2  0  0  0  0
+  6 15  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00152
+
+> <DRUG_GROUPS>
+approved; nutraceutical
+
+> <GENERIC_NAME>
+Thiamine
+
+> <SYNONYMS>
+Aneurin; Antiberiberi factor; Thiamin; thiamine(1+); thiamine(1+) ion; thiaminium; Vitamin B1
+
+> <SALTS>
+Thiamine Hydrochloride
+
+> <BRANDS>
+Betalin S; Betaxin; Biamine
+
+> <CHEMICAL_FORMULA>
+C12H17N4OS
+
+> <MOLECULAR_WEIGHT>
+265.355
+
+> <EXACT_MASS>
+265.112306876
+
+> <IUPAC_NAME>
+3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-5-(2-hydroxyethyl)-4-methyl-1,3-thiazol-3-ium
+
+> <IUPAC_TRADITIONAL_NAME>
+thiamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H17N4OS/c1-8-11(3-4-17)18-7-16(8)6-10-5-14-9(2)15-12(10)13/h5,7,17H,3-4,6H2,1-2H3,(H2,13,14,15)/q+1
+
+> <INCHI_KEY>
+InChIKey=JZRWCGZRTZMZEH-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=C(CCO)SC=[N+]1CC1=CN=C(C)N=C1N
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+15.5
+
+> <JCHEM_BASIC_PKA>
+5.54
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-2.1
+
+> <JCHEM_LOGP>
+-3.1
+
+> <ALOGPS_LOGS>
+-4.3
+
+> <JCHEM_POLARIZABILITY>
+28.14
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.91
+
+> <JCHEM_REFRACTIVITY>
+73.4
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.53e-02 g/l __ 
+
+$$$$

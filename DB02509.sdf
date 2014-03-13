@@ -1,0 +1,109 @@
+FOH
+  Mrv0541 02231216152D          
+
+ 16 15  0  0  0  0            999 V2000
+   -1.9455   -0.7271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1206   -0.7271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7081   -0.0126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7081   -1.4414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1169   -1.4414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5293   -0.7271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3543   -0.7271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7668   -1.4414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7668   -0.0126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3543    0.7019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5293    0.7019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1169    1.4162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5293    2.1307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7081    1.4162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1206    0.7019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9455    0.7019    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02509
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Farnesol
+
+> <CHEMICAL_FORMULA>
+C15H26O
+
+> <MOLECULAR_WEIGHT>
+222.3663
+
+> <EXACT_MASS>
+222.198365454
+
+> <IUPAC_NAME>
+(2Z,6Z)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+farnesol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H26O/c1-13(2)7-5-8-14(3)9-6-10-15(4)11-12-16/h7,9,11,16H,5-6,8,10,12H2,1-4H3/b14-9-,15-11-
+
+> <INCHI_KEY>
+InChIKey=CRDAMVZIKSXKFV-FBXUGWQNSA-N
+
+> <SMILES>
+CC(C)=CCC\C(C)=C/CC\C(C)=C/CO
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+16.33
+
+> <JCHEM_BASIC_PKA>
+-2.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+4.84
+
+> <JCHEM_LOGP>
+4.16
+
+> <ALOGPS_LOGS>
+-3.6
+
+> <JCHEM_POLARIZABILITY>
+28.64
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+74.98
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+5.87e-02 g/l __ 
+
+$$$$

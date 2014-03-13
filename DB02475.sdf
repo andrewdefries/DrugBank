@@ -1,0 +1,113 @@
+
+  Mrv0541 02231216142D          
+
+ 16 16  0  0  1  0            999 V2000
+   -1.6496   -3.5171    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1095   -4.1408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3796   -4.9203    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2994   -3.9848    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2407   -4.6085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0508   -4.4526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5909   -5.0762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4011   -4.9203    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.9412   -5.5439    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7640   -5.6030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7050   -6.4259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8821   -6.3668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2584   -6.9069    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6711   -4.1408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1310   -3.5171    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4812   -3.9848    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  6  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+  8 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02475
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Deoxyguanidinoproclavaminic acid
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C9H16N4O3
+
+> <MOLECULAR_WEIGHT>
+228.2483
+
+> <EXACT_MASS>
+228.122240398
+
+> <IUPAC_NAME>
+(2R)-5-carbamimidamido-2-(2-oxoazetidin-1-yl)pentanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R)-5-carbamimidamido-2-(2-oxoazetidin-1-yl)pentanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H16N4O3/c10-9(11)12-4-1-2-6(8(15)16)13-5-3-7(13)14/h6H,1-5H2,(H,15,16)(H4,10,11,12)/t6-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=UYADDEKIZFRINK-ZCFIWIBFSA-N
+
+> <SMILES>
+NC(=N)NCCC[C@@H](N1CCC1=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+3.6
+
+> <JCHEM_BASIC_PKA>
+12.23
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.4
+
+> <JCHEM_LOGP>
+-3.2
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+23.32
+
+> <JCHEM_POLAR_SURFACE_AREA>
+119.51
+
+> <JCHEM_REFRACTIVITY>
+66.4
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+1.38e+00 g/l __ 
+
+$$$$

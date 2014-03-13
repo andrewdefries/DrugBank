@@ -1,0 +1,123 @@
+
+  Mrv0541 02231215502D          
+
+ 22 23  0  0  1  0            999 V2000
+    0.5420    0.2323    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2564   -0.1802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9709    0.2323    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2564   -1.0052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9239   -1.4901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7085   -1.2352    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.6689   -2.2748    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8439   -2.2748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5890   -1.4901    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.1538   -2.9422    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.9788   -2.9422    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2338   -3.7268    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.0184   -3.9818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1899   -4.7887    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9746   -5.0437    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7592   -5.2986    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.7196   -5.8283    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.2295   -4.2590    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5663   -4.2117    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.5663   -5.0367    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8989   -3.7268    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.1143   -3.9818    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  4  9  1  0  0  0  0
+ 10  7  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  1  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 12 19  1  0  0  0  0
+ 19 20  1  6  0  0  0
+ 19 21  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 21 22  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01945
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Carbamoyl-1-Beta-D-Ribofuranosyl-Imidazolium-5-Olate-5'-Phosphate
+
+> <CHEMICAL_FORMULA>
+C9H14N3O9P
+
+> <MOLECULAR_WEIGHT>
+339.1959
+
+> <EXACT_MASS>
+339.046765573
+
+> <IUPAC_NAME>
+5-carbamoyl-3-[(2R,3R,4R,5S)-3,4-dihydroxy-5-[(phosphonatooxy)methyl]oxolan-2-yl]-2,3-dihydro-1H-imidazol-1-ium-4-olate
+
+> <IUPAC_TRADITIONAL_NAME>
+5-carbamoyl-3-[(2R,3R,4R,5S)-3,4-dihydroxy-5-[(phosphonatooxy)methyl]oxolan-2-yl]-1,2-dihydroimidazol-1-ium-4-olate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H16N3O9P/c10-7(15)4-8(16)12(2-11-4)9-6(14)5(13)3(21-9)1-20-22(17,18)19/h3,5-6,9,11,13-14,16H,1-2H2,(H2,10,15)(H2,17,18,19)/p-2/t3-,5-,6+,9+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=NTDZCJUPKJXMLU-BZKDHIKHSA-L
+
+> <SMILES>
+NC(=O)C1=C([O-])N(C[NH2+]1)[C@@H]1O[C@@H](COP([O-])([O-])=O)[C@H](O)[C@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+1.26
+
+> <JCHEM_BASIC_PKA>
+0.081
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-0.4
+
+> <JCHEM_LOGP>
+-3.4
+
+> <ALOGPS_LOGS>
+-1
+
+> <JCHEM_POLARIZABILITY>
+28.27
+
+> <JCHEM_POLAR_SURFACE_AREA>
+208.11
+
+> <JCHEM_REFRACTIVITY>
+97.63
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+4.07e+01 g/l __ 
+
+$$$$

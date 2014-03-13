@@ -1,0 +1,108 @@
+
+  Mrv0541 02231217172D          
+
+ 15 15  0  0  1  0            999 V2000
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    1.7605    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    3.1895    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  2  0  0  0  0
+  4 13  1  6  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03935
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,4-Dideoxy-O2-Sulfo-Glucuronic Acid
+
+> <CHEMICAL_FORMULA>
+C6H10O8S
+
+> <MOLECULAR_WEIGHT>
+242.204
+
+> <EXACT_MASS>
+242.009637986
+
+> <IUPAC_NAME>
+(2R,4R,5R)-4-hydroxy-5-(sulfooxy)oxane-2-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R,4R,5R)-4-hydroxy-5-(sulfooxy)oxane-2-carboxylic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10O8S/c7-3-1-4(6(8)9)13-2-5(3)14-15(10,11)12/h3-5,7H,1-2H2,(H,8,9)(H,10,11,12)/t3-,4-,5-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=IRTONBQROPNEJZ-UOWFLXDJSA-N
+
+> <SMILES>
+O[C@@H]1C[C@@H](OC[C@H]1OS(O)(=O)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+-2
+
+> <JCHEM_BASIC_PKA>
+-3.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-1.9
+
+> <JCHEM_LOGP>
+-3.4
+
+> <ALOGPS_LOGS>
+-0.64
+
+> <JCHEM_POLARIZABILITY>
+20.16
+
+> <JCHEM_POLAR_SURFACE_AREA>
+130.36
+
+> <JCHEM_REFRACTIVITY>
+43.66
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+5.52e+01 g/l __ 
+
+$$$$

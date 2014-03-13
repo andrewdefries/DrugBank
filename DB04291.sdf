@@ -1,0 +1,102 @@
+
+  Mrv0541 02231217352D          
+
+ 12 12  0  0  1  0            999 V2000
+    0.0000   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  6 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04291
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2s)-Amino(4-Hydroxyphenyl)Acetic Acid
+
+> <CHEMICAL_FORMULA>
+C8H9NO3
+
+> <MOLECULAR_WEIGHT>
+167.162
+
+> <EXACT_MASS>
+167.058243159
+
+> <IUPAC_NAME>
+(2S)-2-amino-2-(4-hydroxyphenyl)acetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+4-hydroxyphenylglycine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H9NO3/c9-7(8(11)12)5-1-3-6(10)4-2-5/h1-4,7,10H,9H2,(H,11,12)/t7-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=LJCWONGJFPCTTL-ZETCQYMHSA-N
+
+> <SMILES>
+N[C@H](C(O)=O)C1=CC=C(O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.74
+
+> <JCHEM_BASIC_PKA>
+8.75
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.4
+
+> <JCHEM_LOGP>
+-1.8
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+16.18
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55
+
+> <JCHEM_REFRACTIVITY>
+42.34
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+7.44e+00 g/l __ 
+
+$$$$

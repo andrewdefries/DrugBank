@@ -1,0 +1,84 @@
+
+  Mrv0541 02231216372D          
+
+  5  4  0  0  0  0            999 V2000
+     0.825    -0.825     0.000 C    0  0  0  0  0  0  0  0  0  0  0  0
+     0.825     0.000     0.000 As   0  0  0  0  0  0  0  0  0  0  0  0
+     0.825     0.825     0.000 C    0  0  0  0  0  0  0  0  0  0  0  0
+     1.650     0.000     0.000 O    0  0  0  0  0  0  0  0  0  0  0  0
+     0.000     0.000     0.000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02994
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Hydroxydimethylarsine Oxide
+
+> <CHEMICAL_FORMULA>
+C2H7AsO2
+
+> <MOLECULAR_WEIGHT>
+137.9974
+
+> <EXACT_MASS>
+137.966200885
+
+> <IUPAC_NAME>
+dimethylarsinic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+ansar
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H7AsO2/c1-3(2,4)5/h1-2H3,(H,4,5)
+
+> <INCHI_KEY>
+InChIKey=OGGXGZAMXPVRFZ-UHFFFAOYSA-N
+
+> <SMILES>
+C[As](C)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+6.22
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.48
+
+> <JCHEM_LOGP>
+-0.33
+
+> <ALOGPS_LOGS>
+0.27
+
+> <JCHEM_POLARIZABILITY>
+9.18
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+15.9
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.55e+02 g/l __ 
+
+$$$$

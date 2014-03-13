@@ -1,0 +1,90 @@
+
+  Mrv0541 02231217202D          
+
+  8  7  0  0  0  0            999 V2000
+   -0.1914    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03993
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Methyl Valeric Acid
+
+> <CHEMICAL_FORMULA>
+C6H12O2
+
+> <MOLECULAR_WEIGHT>
+116.1583
+
+> <EXACT_MASS>
+116.083729628
+
+> <IUPAC_NAME>
+4-methylpentanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+4-methyl valeric acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O2/c1-5(2)3-4-6(7)8/h5H,3-4H2,1-2H3,(H,7,8)
+
+> <INCHI_KEY>
+InChIKey=FGKJLKRYENPLQH-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)CCC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+5.09
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.72
+
+> <JCHEM_LOGP>
+1.65
+
+> <ALOGPS_LOGS>
+-0.96
+
+> <JCHEM_POLARIZABILITY>
+13.06
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+31.02
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.29e+01 g/l __ 
+
+$$$$

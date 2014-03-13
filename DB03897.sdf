@@ -1,0 +1,102 @@
+HPP
+  Mrv0541 02231217152D          
+
+ 12 12  0  0  0  0            999 V2000
+    0.0203   -0.1980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0203   -1.0230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6941   -1.4355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4086   -1.0230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1231   -1.4355    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4086   -0.1980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6941    0.2145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7348    0.2145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7348    1.0395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4493    1.4520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4493    2.2770    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1638    1.0395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03897
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Hydroxyphenyl Propionic Acid
+
+> <CHEMICAL_FORMULA>
+C9H10O3
+
+> <MOLECULAR_WEIGHT>
+166.1739
+
+> <EXACT_MASS>
+166.062994186
+
+> <IUPAC_NAME>
+3-(4-hydroxyphenyl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+phloretic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10O3/c10-8-4-1-7(2-5-8)3-6-9(11)12/h1-2,4-5,10H,3,6H2,(H,11,12)
+
+> <INCHI_KEY>
+InChIKey=NMHMNPHRMNGLLB-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)CCC1=CC=C(O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+4.21
+
+> <JCHEM_BASIC_PKA>
+-6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.15
+
+> <JCHEM_LOGP>
+1.75
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+16.97
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+43.95
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.71e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,105 @@
+
+  Mrv0541 02231215452D          
+
+ 13 14  0  0  1  0            999 V2000
+    0.8838   -2.1500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -1.3654    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6538   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -0.0305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -0.2854    0.0000 N   0  0  2  0  0  0  0  0  0  0  0  0
+    2.6378    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -0.2854    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.0668    0.1271    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -1.1104    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.0668   -1.5229    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -1.5229    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.6378   -2.3479    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -1.1104    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  6  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  1  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  6  0  0  0
+ 11 13  1  0  0  0  0
+  2 13  1  0  0  0  0
+ 13  5  1  6  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01816
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(1s,6s,7r,8r,8ar)-1,6,7,8-Tetrahydroxyindolizidine
+
+> <CHEMICAL_FORMULA>
+C8H15NO4
+
+> <MOLECULAR_WEIGHT>
+189.209
+
+> <EXACT_MASS>
+189.100107973
+
+> <IUPAC_NAME>
+(1S,6S,7R,8R,8aS)-octahydroindolizine-1,6,7,8-tetrol
+
+> <IUPAC_TRADITIONAL_NAME>
+(1S,6S,7R,8R,8aS)-octahydroindolizine-1,6,7,8-tetrol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H15NO4/c10-4-1-2-9-3-5(11)7(12)8(13)6(4)9/h4-8,10-13H,1-3H2/t4-,5-,6-,7+,8+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=JDVVGAQPNNXQDW-QYYLWSOASA-N
+
+> <SMILES>
+O[C@H]1CCN2C[C@H](O)[C@@H](O)[C@H](O)[C@H]12
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+12.89
+
+> <JCHEM_BASIC_PKA>
+8.96
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-2.1
+
+> <JCHEM_LOGP>
+-2.6
+
+> <ALOGPS_LOGS>
+0.77
+
+> <JCHEM_POLARIZABILITY>
+18.68
+
+> <JCHEM_POLAR_SURFACE_AREA>
+84.16
+
+> <JCHEM_REFRACTIVITY>
+44.44
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.11e+03 g/l __ 
+
+$$$$

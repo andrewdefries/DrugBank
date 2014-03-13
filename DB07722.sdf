@@ -1,0 +1,106 @@
+EPN
+  Mrv0541 02241213362D          
+
+ 14 14  0  0  0  0            999 V2000
+   -2.2934   -0.2824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0078   -0.6949    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5789   -0.6949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8644   -0.2824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1500   -0.6949    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2790    0.9551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9934    0.5426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7079    0.9551    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.7079    1.7801    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.4224    0.5426    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9934   -0.2824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2790   -0.6949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5645   -0.2824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5645    0.5426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07722
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-(4-NITRO-PHENOXY)-PROPAN-1-OL
+
+> <CHEMICAL_FORMULA>
+C9H11NO4
+
+> <MOLECULAR_WEIGHT>
+197.1879
+
+> <EXACT_MASS>
+197.068807845
+
+> <IUPAC_NAME>
+3-(4-nitrophenoxy)propan-1-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+3-(4-nitrophenoxy)propan-1-ol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11NO4/c11-6-1-7-14-9-4-2-8(3-5-9)10(12)13/h2-5,11H,1,6-7H2
+
+> <INCHI_KEY>
+InChIKey=XHRNQMMJGWBTBU-UHFFFAOYSA-N
+
+> <SMILES>
+OCCCOC1=CC=C(C=C1)[N+]([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+15.9
+
+> <JCHEM_BASIC_PKA>
+-2.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.66
+
+> <JCHEM_LOGP>
+1.13
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+19.45
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.28
+
+> <JCHEM_REFRACTIVITY>
+51
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+1.93e+00 g/l __ 
+
+$$$$

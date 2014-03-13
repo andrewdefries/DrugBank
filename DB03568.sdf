@@ -1,0 +1,86 @@
+
+  Mrv0541 02231217012D          
+
+  6  5  0  0  0  0            999 V2000
+    1.2375    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03568
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Butanoic Acid
+
+> <CHEMICAL_FORMULA>
+C4H8O2
+
+> <MOLECULAR_WEIGHT>
+88.1051
+
+> <EXACT_MASS>
+88.0524295
+
+> <IUPAC_NAME>
+butanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+butanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8O2/c1-2-3-4(5)6/h2-3H2,1H3,(H,5,6)
+
+> <INCHI_KEY>
+InChIKey=FERIUCNNQQJTOY-UHFFFAOYSA-N
+
+> <SMILES>
+CCCC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.91
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.78
+
+> <JCHEM_LOGP>
+0.92
+
+> <ALOGPS_LOGS>
+0.43
+
+> <JCHEM_POLARIZABILITY>
+9.22
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+21.87
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.39e+02 g/l __ 
+
+$$$$

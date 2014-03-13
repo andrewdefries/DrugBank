@@ -1,0 +1,106 @@
+
+  Mrv0541 04191212112D          
+
+ 11 11  0  0  0  0            999 V2000
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  1  1  0  0  0  0
+  5  4  1  0  0  0  0
+  5  8  1  1  0  0  0
+  2  6  1  0  0  0  0
+  6  3  1  0  0  0  0
+  6 10  1  6  0  0  0
+  8  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00302
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Tranexamic Acid
+
+> <SYNONYMS>
+Tranexamsaeure; Tranexmic acid; Tranhexamic acid; Trans AMCHA; trans-4-aminomethylcyclohexane-1-carboxylic acid; trans-Amcha; trans-Tranexamic acid
+
+> <BRANDS>
+Cyclo-F; Cyklokapron; Espercil; Femstrual; Lysteda; Rikavarin; Transamin; Transcam; Traxyl
+
+> <CHEMICAL_FORMULA>
+C8H15NO2
+
+> <MOLECULAR_WEIGHT>
+157.2102
+
+> <EXACT_MASS>
+157.110278729
+
+> <IUPAC_NAME>
+(1r,4r)-4-(aminomethyl)cyclohexane-1-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+cyklokapron
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H15NO2/c9-5-6-1-3-7(4-2-6)8(10)11/h6-7H,1-5,9H2,(H,10,11)/t6-,7-
+
+> <INCHI_KEY>
+InChIKey=GYDJEQRTZSCIOI-LJGSYFOKSA-N
+
+> <SMILES>
+NC[C@H]1CC[C@@H](CC1)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+4.56
+
+> <JCHEM_BASIC_PKA>
+10.22
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.4
+
+> <JCHEM_LOGP>
+-1.6
+
+> <ALOGPS_LOGS>
+-0.94
+
+> <JCHEM_POLARIZABILITY>
+17.28
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+41.9
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.82e+01 g/l __ 
+
+$$$$

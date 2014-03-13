@@ -1,0 +1,112 @@
+AI7
+  Mrv0541 02241213222D          
+
+ 17 17  0  0  0  0            999 V2000
+   -4.1279   -1.5752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1279   -3.2252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8423   -2.8127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8734   -1.9877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5568   -1.5752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2700   -1.5752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4134   -2.8127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9845   -1.9877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3024   -1.9877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5879   -1.5752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4134   -1.9877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1590   -1.5752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5555   -1.9877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8423   -1.9877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2713   -1.9877    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6989   -1.5752    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5568   -0.7502    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  2  2  0  0  0  0
+  3 14  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8  6  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14  1  2  0  0  0  0
+ 15  5  2  0  0  0  0
+ 16  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07355
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-(heptyloxy)benzoic acid
+
+> <CHEMICAL_FORMULA>
+C14H20O3
+
+> <MOLECULAR_WEIGHT>
+236.3068
+
+> <EXACT_MASS>
+236.141244506
+
+> <IUPAC_NAME>
+3-(heptyloxy)benzoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+3-(heptyloxy)benzoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H20O3/c1-2-3-4-5-6-10-17-13-9-7-8-12(11-13)14(15)16/h7-9,11H,2-6,10H2,1H3,(H,15,16)
+
+> <INCHI_KEY>
+InChIKey=FOFZVIUYGPBWLV-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCCCOC1=CC=CC(=C1)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+3.84
+
+> <JCHEM_BASIC_PKA>
+-4.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+4.44
+
+> <JCHEM_LOGP>
+4.13
+
+> <ALOGPS_LOGS>
+-4.1
+
+> <JCHEM_POLARIZABILITY>
+27.6
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+67.45
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <ALOGPS_SOLUBILITY>
+1.74e-02 g/l __ 
+
+$$$$

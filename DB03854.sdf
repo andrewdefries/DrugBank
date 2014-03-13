@@ -1,0 +1,88 @@
+
+  Mrv0541 02231217142D          
+
+  7  6  0  0  0  0            999 V2000
+    1.7605    1.8414    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03854
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Pentane-1,5-Diamine
+
+> <CHEMICAL_FORMULA>
+C5H14N2
+
+> <MOLECULAR_WEIGHT>
+102.1781
+
+> <EXACT_MASS>
+102.115698458
+
+> <IUPAC_NAME>
+pentane-1,5-diamine
+
+> <IUPAC_TRADITIONAL_NAME>
+pentane-1,5-diamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H14N2/c6-4-2-1-3-5-7/h1-7H2
+
+> <INCHI_KEY>
+InChIKey=VHRGRCVQAFMJIZ-UHFFFAOYSA-N
+
+> <SMILES>
+NCCCCCN
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_BASIC_PKA>
+10.51
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <ALOGPS_LOGP>
+-0.27
+
+> <JCHEM_LOGP>
+-0.4
+
+> <ALOGPS_LOGS>
+-0.06
+
+> <JCHEM_POLARIZABILITY>
+13.11
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.04
+
+> <JCHEM_REFRACTIVITY>
+31.98
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+8.91e+01 g/l __ 
+
+$$$$

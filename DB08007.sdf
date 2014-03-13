@@ -1,0 +1,114 @@
+J54
+  Mrv0541 02241213472D          
+
+ 18 18  0  0  0  0            999 V2000
+   -3.6747   -0.0296    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9602    0.3829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2457   -0.0296    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.2457   -0.8546    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5312    0.3829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8168   -0.0296    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1023    0.3829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1023    1.2079    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6122   -0.0296    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3266    0.3829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0411   -0.0296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7556    0.3829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4701   -0.0296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4701   -0.8546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7556   -1.2671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0411   -0.8546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9602    1.2079    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7514   -0.3215    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  1  1  0  0  0
+  3  5  1  0  0  0  0
+  3 18  1  6  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08007
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2R)-3-{[(BENZYLAMINO)CARBONYL]AMINO}-2-HYDROXYPROPANOIC ACID
+
+> <CHEMICAL_FORMULA>
+C11H14N2O4
+
+> <MOLECULAR_WEIGHT>
+238.2399
+
+> <EXACT_MASS>
+238.095356946
+
+> <IUPAC_NAME>
+(2R)-3-[(benzylcarbamoyl)amino]-2-hydroxypropanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R)-3-[(benzylcarbamoyl)amino]-2-hydroxypropanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H14N2O4/c14-9(10(15)16)7-13-11(17)12-6-8-4-2-1-3-5-8/h1-5,9,14H,6-7H2,(H,15,16)(H2,12,13,17)/t9-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=KGFDIRSBGRVEFZ-SECBINFHSA-N
+
+> <SMILES>
+[H][C@@](O)(CNC(=O)NCC1=CC=CC=C1)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+3.67
+
+> <JCHEM_BASIC_PKA>
+-2.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.25
+
+> <JCHEM_LOGP>
+-0.19
+
+> <ALOGPS_LOGS>
+-2.3
+
+> <JCHEM_POLARIZABILITY>
+23.78
+
+> <JCHEM_POLAR_SURFACE_AREA>
+98.66
+
+> <JCHEM_REFRACTIVITY>
+59.67
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+1.08e+00 g/l __ 
+
+$$$$

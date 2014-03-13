@@ -1,0 +1,110 @@
+
+  Mrv0541 02231217432D          
+
+ 16 16  0  0  1  0            999 V2000
+    1.9268    1.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1198    1.7274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5678    1.1143    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0157    1.7274    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2352    0.6294    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9803   -0.1553    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4652   -0.8227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1296   -1.5764    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6145   -2.2438    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0995   -2.9112    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9471   -2.7287    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2820   -1.7589    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1553   -0.1553    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3297   -0.8227    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0997    0.6294    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8843    0.8843    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  6  0  0  0
+  3  4  1  1  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  6  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+  6 13  1  0  0  0  0
+ 13 14  1  1  0  0  0
+ 13 15  1  0  0  0  0
+  3 15  1  0  0  0  0
+ 15 16  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04493
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Fructose-6-Phosphate
+
+> <CHEMICAL_FORMULA>
+C6H13O9P
+
+> <MOLECULAR_WEIGHT>
+260.1358
+
+> <EXACT_MASS>
+260.029718526
+
+> <IUPAC_NAME>
+{[(2R,3S,4R,5S)-3,4,5-trihydroxy-5-(hydroxymethyl)oxolan-2-yl]methoxy}phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[(2R,3S,4R,5S)-3,4,5-trihydroxy-5-(hydroxymethyl)oxolan-2-yl]methoxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13O9P/c7-2-6(10)5(9)4(8)3(15-6)1-14-16(11,12)13/h3-5,7-10H,1-2H2,(H2,11,12,13)/t3-,4-,5-,6+/m1/s1
+
+> <INCHI_KEY>
+InChIKey=BGWGXPAPYGQALX-KAZBKCHUSA-N
+
+> <SMILES>
+OC[C@]1(O)O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_ACIDIC_PKA>
+1.22
+
+> <JCHEM_BASIC_PKA>
+-3.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-2.1
+
+> <JCHEM_LOGP>
+-2.9
+
+> <ALOGPS_LOGS>
+-0.89
+
+> <JCHEM_POLARIZABILITY>
+20.82
+
+> <JCHEM_POLAR_SURFACE_AREA>
+156.91
+
+> <JCHEM_REFRACTIVITY>
+47.23
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+3.34e+01 g/l __ 
+
+$$$$

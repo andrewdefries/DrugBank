@@ -1,0 +1,105 @@
+TAQ
+  Mrv0541 02231216162D          
+
+ 13 14  0  0  0  0            999 V2000
+   -1.4143   -0.1951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1288   -0.6076    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4143    0.6299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6999    1.0424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0146    0.6299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7291    1.0424    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4435    0.6299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1580    1.0424    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4435   -0.1951    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7291   -0.6076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0146   -0.1951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6999   -0.6076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7291   -1.4326    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02532
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,4,6-Triaminoquinazoline
+
+> <CHEMICAL_FORMULA>
+C8H9N5
+
+> <MOLECULAR_WEIGHT>
+175.1906
+
+> <EXACT_MASS>
+175.085795313
+
+> <IUPAC_NAME>
+quinazoline-2,4,6-triamine
+
+> <IUPAC_TRADITIONAL_NAME>
+2,4,6-triaminoquinazoline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H9N5/c9-4-1-2-6-5(3-4)7(10)13-8(11)12-6/h1-3H,9H2,(H4,10,11,12,13)
+
+> <INCHI_KEY>
+InChIKey=LJBWEZVYRBKOCI-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=CC=C2N=C(N)N=C(N)C2=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+18.65
+
+> <JCHEM_BASIC_PKA>
+7.43
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-0.27
+
+> <JCHEM_LOGP>
+0.21
+
+> <ALOGPS_LOGS>
+-1.5
+
+> <JCHEM_POLARIZABILITY>
+17.77
+
+> <JCHEM_POLAR_SURFACE_AREA>
+103.84
+
+> <JCHEM_REFRACTIVITY>
+53.16
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.51e+00 g/l __ 
+
+$$$$

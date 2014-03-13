@@ -1,0 +1,95 @@
+
+  Mrv0541 02241214192D          
+
+  6  5  0  0  0  0            999 V2000
+    0.3168   -0.2467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0313   -0.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7457   -0.2467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4602   -0.6592    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0313   -1.4842    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3977   -0.6592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB06782
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Dimercaprol
+
+> <SYNONYMS>
+
+
+> <BRANDS>
+Bal In Oil Injection; Dimercaprol
+
+> <CHEMICAL_FORMULA>
+C3H8OS2
+
+> <MOLECULAR_WEIGHT>
+124.225
+
+> <EXACT_MASS>
+124.001656258
+
+> <IUPAC_NAME>
+2,3-disulfanylpropan-1-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+dimercaprol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H8OS2/c4-1-3(6)2-5/h3-6H,1-2H2
+
+> <INCHI_KEY>
+InChIKey=WQABCVAJNWAXTE-UHFFFAOYSA-N
+
+> <SMILES>
+OCC(S)CS
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+9.58
+
+> <JCHEM_BASIC_PKA>
+-2.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.58
+
+> <JCHEM_LOGP>
+0.21
+
+> <ALOGPS_LOGS>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+12.88
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+32.91
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.76e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,115 @@
+
+  Mrv0541 02231217542D          
+
+ 19 18  0  0  1  0            999 V2000
+    5.4730    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1875    3.5724    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.1875    2.7474    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9020    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6164    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6164    2.7474    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3309    3.9849    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0454    3.5724    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    9.0454    2.7474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7599    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4743    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4743    2.7474    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1888    3.9849    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9033    3.5724    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   11.9033    2.7474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6177    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3322    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0467    3.9849    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3322    2.7474    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  6  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  1  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  1  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04773
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+METHYL (3R)-3-{[(3R)-3-{[(3R)-3-HYDROXYBUTANOYL]OXY}BUTANOYL]OXY}BUTANOATE
+
+> <CHEMICAL_FORMULA>
+C12H20O7
+
+> <MOLECULAR_WEIGHT>
+276.283
+
+> <EXACT_MASS>
+276.120902994
+
+> <IUPAC_NAME>
+(3R)-3-{[(3R)-3-{[(3R)-3-hydroxybutanoyl]oxy}butanoyl]oxy}butanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(3R)-3-{[(3R)-3-{[(3R)-3-hydroxybutanoyl]oxy}butanoyl]oxy}butanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H20O7/c1-7(13)4-11(16)19-9(3)6-12(17)18-8(2)5-10(14)15/h7-9,13H,4-6H2,1-3H3,(H,14,15)/t7-,8-,9-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=CWLWBMWELZSMPG-IWSPIJDZSA-N
+
+> <SMILES>
+C[C@@H](O)CC(=O)O[C@H](C)CC(=O)O[C@H](C)CC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+3.91
+
+> <JCHEM_BASIC_PKA>
+-2.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.42
+
+> <JCHEM_LOGP>
+0.17
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+27.63
+
+> <JCHEM_POLAR_SURFACE_AREA>
+110.13
+
+> <JCHEM_REFRACTIVITY>
+63.41
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <ALOGPS_SOLUBILITY>
+1.05e+01 g/l __ 
+
+$$$$

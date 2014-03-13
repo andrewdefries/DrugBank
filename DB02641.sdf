@@ -1,0 +1,95 @@
+
+  Mrv0541 02231216212D          
+
+  9  8  0  0  0  0            999 V2000
+    1.0461    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02641
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Heptanamide
+
+> <CHEMICAL_FORMULA>
+C7H15NO
+
+> <MOLECULAR_WEIGHT>
+129.2001
+
+> <EXACT_MASS>
+129.115364107
+
+> <IUPAC_NAME>
+heptanamide
+
+> <IUPAC_TRADITIONAL_NAME>
+heptanamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H15NO/c1-2-3-4-5-6-7(8)9/h2-6H2,1H3,(H2,8,9)
+
+> <INCHI_KEY>
+InChIKey=AEDIXYWIVPYNBI-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCCC(N)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+17.12
+
+> <JCHEM_BASIC_PKA>
+-0.58
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.81
+
+> <JCHEM_LOGP>
+1.45
+
+> <ALOGPS_LOGS>
+-1.5
+
+> <JCHEM_POLARIZABILITY>
+15.7
+
+> <JCHEM_POLAR_SURFACE_AREA>
+43.09
+
+> <JCHEM_REFRACTIVITY>
+37.5
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+3.79e+00 g/l __ 
+
+$$$$

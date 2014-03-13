@@ -1,0 +1,98 @@
+
+  Mrv0541 02231215462D          
+
+ 10 10  0  0  0  0            999 V2000
+    2.8579    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  4 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01854
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-Bromonicotinamide
+
+> <CHEMICAL_FORMULA>
+C6H5BrN2O
+
+> <MOLECULAR_WEIGHT>
+201.021
+
+> <EXACT_MASS>
+199.958525439
+
+> <IUPAC_NAME>
+5-bromopyridine-3-carboxamide
+
+> <IUPAC_TRADITIONAL_NAME>
+5-bromonicotinamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H5BrN2O/c7-5-1-4(6(8)10)2-9-3-5/h1-3H,(H2,8,10)
+
+> <INCHI_KEY>
+InChIKey=YOQRXZIMSKLRCY-UHFFFAOYSA-N
+
+> <SMILES>
+NC(=O)C1=CN=CC(Br)=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+13.07
+
+> <JCHEM_BASIC_PKA>
+1.97
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.08
+
+> <JCHEM_LOGP>
+0.37
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+15.11
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.98
+
+> <JCHEM_REFRACTIVITY>
+40.6
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.67e+01 g/l __ 
+
+$$$$

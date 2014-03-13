@@ -1,0 +1,89 @@
+
+  Mrv0541 02231216112D          
+
+  6  5  0  0  1  0            999 V2000
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.0625    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  1  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  6  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02418
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(R,R)-2,3-Butanediol
+
+> <CHEMICAL_FORMULA>
+C4H10O2
+
+> <MOLECULAR_WEIGHT>
+90.121
+
+> <EXACT_MASS>
+90.068079564
+
+> <IUPAC_NAME>
+(2R,3S)-butane-2,3-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+(R,R)-2,3-butanediol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H10O2/c1-3(5)4(2)6/h3-6H,1-2H3/t3-,4+
+
+> <INCHI_KEY>
+InChIKey=OWBTYPJTUOEWEK-ZXZARUISSA-N
+
+> <SMILES>
+C[C@@H](O)[C@H](C)O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+14.22
+
+> <JCHEM_BASIC_PKA>
+-3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.59
+
+> <JCHEM_LOGP>
+-0.38
+
+> <ALOGPS_LOGS>
+0.83
+
+> <JCHEM_POLARIZABILITY>
+9.83
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+23.39
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.03e+02 g/l __ 
+
+$$$$

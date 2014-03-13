@@ -1,0 +1,93 @@
+
+  Mrv0541 02231216002D          
+
+  9  9  0  0  0  0            999 V2000
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  2  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02163
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,5-Xylidine
+
+> <CHEMICAL_FORMULA>
+C8H11N
+
+> <MOLECULAR_WEIGHT>
+121.1796
+
+> <EXACT_MASS>
+121.089149357
+
+> <IUPAC_NAME>
+2,5-dimethylaniline
+
+> <IUPAC_TRADITIONAL_NAME>
+2,5-xylidine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11N/c1-6-3-4-7(2)8(9)5-6/h3-5H,9H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=VOWZNBNDMFLQGM-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=CC=C(C)C(N)=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+4.65
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.79
+
+> <JCHEM_LOGP>
+2.17
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+14.46
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+40.84
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.07e+00 g/l __ 
+
+$$$$

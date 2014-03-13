@@ -1,0 +1,116 @@
+1011
+  Mrv0541 02231215102D          
+
+ 17 18  0  0  0  0            999 V2000
+    1.7606    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    2.4751    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0  0  0  0
+  2 11  1  0  0  0  0
+  2 15  2  0  0  0  0
+  3 14  1  0  0  0  0
+  3 17  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01011
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Metyrapone
+
+> <SYNONYMS>
+
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C14H14N2O
+
+> <MOLECULAR_WEIGHT>
+226.2738
+
+> <EXACT_MASS>
+226.11061308
+
+> <IUPAC_NAME>
+2-methyl-1,2-bis(pyridin-3-yl)propan-1-one
+
+> <IUPAC_TRADITIONAL_NAME>
+metyrapone
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H14N2O/c1-14(2,12-6-4-8-16-10-12)13(17)11-5-3-7-15-9-11/h3-10H,1-2H3
+
+> <INCHI_KEY>
+InChIKey=FJLBFSROUSIWMA-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)(C(=O)C1=CN=CC=C1)C1=CN=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+4.87
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.09
+
+> <JCHEM_LOGP>
+2.03
+
+> <ALOGPS_LOGS>
+-2.7
+
+> <JCHEM_POLARIZABILITY>
+23.98
+
+> <JCHEM_POLAR_SURFACE_AREA>
+42.85
+
+> <JCHEM_REFRACTIVITY>
+65.94
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+4.27e-01 g/l __ 
+
+$$$$

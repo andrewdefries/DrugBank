@@ -1,0 +1,105 @@
+4MU
+  Mrv0541 02241213122D          
+
+ 13 14  0  0  0  0            999 V2000
+   -0.7173   -0.8540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4317   -0.4415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4317    0.3835    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4262    0.3835    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4262   -0.4415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7117   -0.8540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1406    0.7960    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7117    0.7960    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7117   -1.6790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0028   -0.4415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0028    0.3835    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7173    0.7960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1462    0.7960    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3 12  2  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07118
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+7-hydroxy-4-methyl-2H-chromen-2-one
+
+> <CHEMICAL_FORMULA>
+C10H8O3
+
+> <MOLECULAR_WEIGHT>
+176.1687
+
+> <EXACT_MASS>
+176.047344122
+
+> <IUPAC_NAME>
+7-hydroxy-4-methyl-2H-chromen-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+4-methylumbelliferone
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H8O3/c1-6-4-10(12)13-9-5-7(11)2-3-8(6)9/h2-5,11H,1H3
+
+> <INCHI_KEY>
+InChIKey=HSHNITRMYYLLCV-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=CC(=O)OC2=C1C=CC(O)=C2
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+7.8
+
+> <JCHEM_BASIC_PKA>
+-7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.19
+
+> <JCHEM_LOGP>
+1.78
+
+> <ALOGPS_LOGS>
+-1.9
+
+> <JCHEM_POLARIZABILITY>
+17.42
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+47.81
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.99e+00 g/l __ 
+
+$$$$

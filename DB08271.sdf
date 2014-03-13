@@ -1,0 +1,120 @@
+NGH
+  Mrv0541 02241213592D          
+
+ 21 21  0  0  0  0            999 V2000
+    0.1931   -1.7069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2194   -2.4214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0445   -2.4214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4570   -1.7069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0445   -0.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2194   -0.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4570   -3.1359    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2821   -3.1359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1931   -0.2778    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9077   -0.6904    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5213    0.1347    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6056    0.4367    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1931    1.1512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4307    0.4367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8432    1.1512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6683    1.1512    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0808    1.8657    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4307    1.8657    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6319    1.1512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0445    0.4367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0445    1.8657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08271
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-ISOBUTYL-N-[4-METHOXYPHENYLSULFONYL]GLYCYL HYDROXAMIC ACID
+
+> <CHEMICAL_FORMULA>
+C13H20N2O5S
+
+> <MOLECULAR_WEIGHT>
+316.373
+
+> <EXACT_MASS>
+316.10929245
+
+> <IUPAC_NAME>
+N-hydroxy-2-[N-(2-methylpropyl)(4-methoxybenzene)sulfonamido]acetamide
+
+> <IUPAC_TRADITIONAL_NAME>
+N-hydroxy-2-[N-(2-methylpropyl)(4-methoxybenzene)sulfonamido]acetamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H20N2O5S/c1-10(2)8-15(9-13(16)14-17)21(18,19)12-6-4-11(20-3)5-7-12/h4-7,10,17H,8-9H2,1-3H3,(H,14,16)
+
+> <INCHI_KEY>
+InChIKey=JIRXORZYIXSWOB-UHFFFAOYSA-N
+
+> <SMILES>
+COC1=CC=C(C=C1)S(=O)(=O)N(CC(C)C)CC(=O)NO
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+8.74
+
+> <JCHEM_BASIC_PKA>
+-4.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.76
+
+> <JCHEM_LOGP>
+0.78
+
+> <ALOGPS_LOGS>
+-2.7
+
+> <JCHEM_POLARIZABILITY>
+31.46
+
+> <JCHEM_POLAR_SURFACE_AREA>
+95.94
+
+> <JCHEM_REFRACTIVITY>
+77.89
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+5.69e-01 g/l __ 
+
+$$$$

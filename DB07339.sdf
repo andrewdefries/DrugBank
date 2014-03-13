@@ -1,0 +1,107 @@
+AD1
+  Mrv0541 02241213222D          
+
+ 14 15  0  0  0  0            999 V2000
+   -1.4651    0.0059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9802   -0.6615    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2351   -1.4461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1955   -0.4066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5189   -0.8191    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2334   -0.4066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9479   -0.8191    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2334    0.4184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9479    0.8309    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5189    0.8309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1955    0.4184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9802    0.6734    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.2351    1.4580    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5569    0.7647    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+ 10  8  1  0  0  0  0
+ 11 10  2  0  0  0  0
+ 12 11  1  0  0  0  0
+ 12 14  1  6  0  0  0
+ 12 13  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07339
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(3S)-3-hydroxy-1-methyl-2,3-dihydro-1H-indole-5,6-dione
+
+> <CHEMICAL_FORMULA>
+C9H9NO3
+
+> <MOLECULAR_WEIGHT>
+179.1727
+
+> <EXACT_MASS>
+179.058243159
+
+> <IUPAC_NAME>
+(3S)-3-hydroxy-1-methyl-2,3,5,6-tetrahydro-1H-indole-5,6-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+(3S)-3-hydroxy-1-methyl-2,3-dihydroindole-5,6-dione
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H9NO3/c1-10-4-9(13)5-2-7(11)8(12)3-6(5)10/h2-3,9,13H,4H2,1H3/t9-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=RPHLQSHHTJORHI-SECBINFHSA-N
+
+> <SMILES>
+[H][C@@]1(O)CN(C)C2=CC(=O)C(=O)C=C12
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+14.09
+
+> <JCHEM_BASIC_PKA>
+3.88
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.08
+
+> <JCHEM_LOGP>
+-0.31
+
+> <ALOGPS_LOGS>
+-0.42
+
+> <JCHEM_POLARIZABILITY>
+17.39
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.61
+
+> <JCHEM_REFRACTIVITY>
+48.56
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+6.80e+01 g/l __ 
+
+$$$$

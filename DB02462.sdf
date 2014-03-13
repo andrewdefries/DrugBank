@@ -1,0 +1,112 @@
+FC1
+  Mrv0541 02231216132D          
+
+ 18 19  0  0  0  0            999 V2000
+   -0.2195   -0.1357    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3629    1.1018    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0774   -0.1357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3629   -1.3732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9340    1.1018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6485   -0.1357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9340    0.2768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3629    0.2768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6485   -0.9607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6485    1.5143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3528    0.2768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6384   -0.9607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6384   -0.1357    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4949    0.2768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0774   -0.9607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6485    2.3393    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2094   -0.1357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9239    0.2768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  8  2  0  0  0  0
+  3 15  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 15  2  0  0  0  0
+  5  7  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+ 10 16  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02462
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Thiocoumarin
+
+> <CHEMICAL_FORMULA>
+C14H17NO2S
+
+> <MOLECULAR_WEIGHT>
+263.355
+
+> <EXACT_MASS>
+263.097999483
+
+> <IUPAC_NAME>
+4-[3-(dimethylamino)propoxy]-2H-thiochromen-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+thiocoumarin
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H17NO2S/c1-15(2)8-5-9-17-12-10-14(16)18-13-7-4-3-6-11(12)13/h3-4,6-7,10H,5,8-9H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=DIOZFKOOIBATNZ-UHFFFAOYSA-N
+
+> <SMILES>
+CN(C)CCCOC1=CC(=O)SC2=CC=CC=C12
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+9.46
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.71
+
+> <JCHEM_LOGP>
+1.88
+
+> <ALOGPS_LOGS>
+-3
+
+> <JCHEM_POLARIZABILITY>
+28.9
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.54
+
+> <JCHEM_REFRACTIVITY>
+77.52
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+2.95e-01 g/l __ 
+
+$$$$

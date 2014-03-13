@@ -1,0 +1,93 @@
+
+  Mrv0541 02231215592D          
+
+  8  7  0  0  0  0            999 V2000
+   -0.1914    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.9520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02143
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Isopropyl-N'-Hydroxyguanidine
+
+> <CHEMICAL_FORMULA>
+C4H11N3O
+
+> <MOLECULAR_WEIGHT>
+117.1496
+
+> <EXACT_MASS>
+117.090211989
+
+> <IUPAC_NAME>
+1-hydroxy-3-(propan-2-yl)guanidine
+
+> <IUPAC_TRADITIONAL_NAME>
+1-hydroxy-3-isopropylguanidine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H11N3O/c1-3(2)6-4(5)7-8/h3,8H,1-2H3,(H3,5,6,7)
+
+> <INCHI_KEY>
+InChIKey=OITVEDMMUMUWTL-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)NC(=N)NO
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+14.82
+
+> <JCHEM_BASIC_PKA>
+10.77
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-0.48
+
+> <JCHEM_LOGP>
+-0.12
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+12.28
+
+> <JCHEM_POLAR_SURFACE_AREA>
+68.14
+
+> <JCHEM_REFRACTIVITY>
+52.06
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.64e+00 g/l __ 
+
+$$$$

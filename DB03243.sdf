@@ -1,0 +1,93 @@
+
+  Mrv0541 02231216482D          
+
+  9  9  0  0  0  0            999 V2000
+    1.4289   -1.6500    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  3  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03243
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Fluorobenzylamine
+
+> <CHEMICAL_FORMULA>
+C7H9FN
+
+> <MOLECULAR_WEIGHT>
+126.1515
+
+> <EXACT_MASS>
+126.071902498
+
+> <IUPAC_NAME>
+(4-fluorophenyl)methanaminium
+
+> <IUPAC_TRADITIONAL_NAME>
+4-fluorobenzylamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8FN/c8-7-3-1-6(5-9)2-4-7/h1-4H,5,9H2/p+1
+
+> <INCHI_KEY>
+InChIKey=IIFVWLUQBAIPMJ-UHFFFAOYSA-O
+
+> <SMILES>
+[NH3+]CC1=CC=C(F)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+9.44
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-1.6
+
+> <JCHEM_LOGP>
+1.24
+
+> <ALOGPS_LOGS>
+-2.9
+
+> <JCHEM_POLARIZABILITY>
+12.74
+
+> <JCHEM_POLAR_SURFACE_AREA>
+27.64
+
+> <JCHEM_REFRACTIVITY>
+46.04
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.84e-01 g/l __ 
+
+$$$$

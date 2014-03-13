@@ -1,0 +1,112 @@
+FIP
+  Mrv0541 02241213382D          
+
+ 18 19  0  0  0  0            999 V2000
+   -0.7824   -0.2583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5361    0.0772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0881   -0.5359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7910    0.8619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8687   -1.0788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6756   -1.2503    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8951   -0.3643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5980    1.0334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1500    0.4203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8529    1.8180    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0680    0.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6465   -0.2583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3610    0.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7899    0.1542    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5044    0.5667    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2024   -0.5603    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3774    0.8687    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0755   -0.2583    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  6  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 14 18  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07773
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-FLUOROINDOLE PROPANOL PHOSPHATE
+
+> <CHEMICAL_FORMULA>
+C11H13FNO4P
+
+> <MOLECULAR_WEIGHT>
+273.1974
+
+> <EXACT_MASS>
+273.056622626
+
+> <IUPAC_NAME>
+[3-(5-fluoro-1H-indol-3-yl)propoxy]phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+3-(5-fluoro-1H-indol-3-yl)propoxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H13FNO4P/c12-9-3-4-11-10(6-9)8(7-13-11)2-1-5-17-18(14,15)16/h3-4,6-7,13H,1-2,5H2,(H2,14,15,16)
+
+> <INCHI_KEY>
+InChIKey=YVYGGBFCYXRNKM-UHFFFAOYSA-N
+
+> <SMILES>
+OP(O)(=O)OCCCC1=CNC2=C1C=C(F)C=C2
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+1.27
+
+> <JCHEM_LOGP>
+2.06
+
+> <ALOGPS_LOGS>
+-2.6
+
+> <JCHEM_POLARIZABILITY>
+24.8
+
+> <JCHEM_POLAR_SURFACE_AREA>
+82.55
+
+> <JCHEM_REFRACTIVITY>
+64.41
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+6.11e-01 g/l __ 
+
+$$$$

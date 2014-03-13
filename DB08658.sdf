@@ -1,0 +1,96 @@
+TUN
+  Mrv0541 02241214142D          
+
+ 11 10  0  0  0  0            999 V2000
+   -2.6431    0.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8181    0.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4056   -0.5711    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5806   -0.5711    0.0000 P   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.5806   -1.3961    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2444   -0.5711    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6569   -1.2855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4819   -1.2855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6569    0.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4819    0.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5806    0.2539    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  1  0  0  0
+  4 11  1  6  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08658
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+ETHYL HYDROGEN DIETHYLAMIDOPHOSPHATE
+
+> <CHEMICAL_FORMULA>
+C6H16NO3P
+
+> <MOLECULAR_WEIGHT>
+181.1699
+
+> <EXACT_MASS>
+181.086779895
+
+> <IUPAC_NAME>
+(diethylamino)(ethoxy)phosphinic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+diethylamino(ethoxy)phosphinic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H16NO3P/c1-4-7(5-2)11(8,9)10-6-3/h4-6H2,1-3H3,(H,8,9)
+
+> <INCHI_KEY>
+InChIKey=DUNFIZRDIMDMIH-UHFFFAOYSA-N
+
+> <SMILES>
+CCO[P@](O)(=O)N(CC)CC
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+3.02
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.28
+
+> <JCHEM_LOGP>
+0.3
+
+> <ALOGPS_LOGS>
+-0.59
+
+> <JCHEM_POLARIZABILITY>
+17.93
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.77
+
+> <JCHEM_REFRACTIVITY>
+44.71
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+4.64e+01 g/l __ 
+
+$$$$

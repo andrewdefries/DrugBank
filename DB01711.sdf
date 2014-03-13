@@ -1,0 +1,104 @@
+
+  Mrv0541 02231215402D          
+
+ 13 13  0  0  0  0            999 V2000
+    2.1434    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+  3 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01711
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,3,4,5,6-Pentafluorobenzyl Alcohol
+
+> <CHEMICAL_FORMULA>
+C7H3F5O
+
+> <MOLECULAR_WEIGHT>
+198.0901
+
+> <EXACT_MASS>
+198.010405743
+
+> <IUPAC_NAME>
+(pentafluorophenyl)methanol
+
+> <IUPAC_TRADITIONAL_NAME>
+(pentafluorophenyl)methanol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H3F5O/c8-3-2(1-13)4(9)6(11)7(12)5(3)10/h13H,1H2
+
+> <INCHI_KEY>
+InChIKey=PGJYYCIOYBZTPU-UHFFFAOYSA-N
+
+> <SMILES>
+OCC1=C(F)C(F)=C(F)C(F)=C1F
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+13.68
+
+> <JCHEM_BASIC_PKA>
+-3.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.52
+
+> <JCHEM_LOGP>
+1.92
+
+> <ALOGPS_LOGS>
+-2.6
+
+> <JCHEM_POLARIZABILITY>
+12.41
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+33.96
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.81e-01 g/l __ 
+
+$$$$

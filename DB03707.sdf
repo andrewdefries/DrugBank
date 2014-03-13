@@ -1,0 +1,99 @@
+PTU
+  Mrv0541 02231217072D          
+
+ 12 12  0  0  0  0            999 V2000
+   -0.3797    1.0752    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3348    0.6627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0493    1.0752    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3348   -0.1623    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3797   -0.5748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3797   -1.3998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0942   -1.8123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8086   -1.3998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8086   -0.5748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0942   -0.1623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7637    0.6627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4782    1.0752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03707
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+S-Ethyl-N-Phenyl-Isothiourea
+
+> <CHEMICAL_FORMULA>
+C9H12N2S
+
+> <MOLECULAR_WEIGHT>
+180.27
+
+> <EXACT_MASS>
+180.072119084
+
+> <IUPAC_NAME>
+(E)-N'-phenyl(ethylsulfanyl)methanimidamide
+
+> <IUPAC_TRADITIONAL_NAME>
+(E)-N'-phenylethylsulfanylmethanimidamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H12N2S/c1-2-12-9(10)11-8-6-4-3-5-7-8/h3-7H,2H2,1H3,(H2,10,11)
+
+> <INCHI_KEY>
+InChIKey=LAXNJIWNBHHMDO-UHFFFAOYSA-N
+
+> <SMILES>
+CCS\C(N)=N\C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+6.41
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.19
+
+> <JCHEM_LOGP>
+2.72
+
+> <ALOGPS_LOGS>
+-2.6
+
+> <JCHEM_POLARIZABILITY>
+20.21
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.38
+
+> <JCHEM_REFRACTIVITY>
+56.05
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+4.01e-01 g/l __ 
+
+$$$$

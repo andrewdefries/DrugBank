@@ -1,0 +1,112 @@
+629
+  Mrv0541 02231214492D          
+
+ 14 14  0  0  0  0            999 V2000
+    4.5079   -0.9529    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.9529    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    0.2846    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.1096    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079    2.3471    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2223    1.1096    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.9529    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -1.3654    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.3654    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -2.1904    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.1904    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -2.6029    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.1279    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079    1.5221    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 13  2  3  0  0  0
+  4 14  2  0  0  0  0
+  5 14  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00629
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Guanabenz
+
+> <SYNONYMS>
+Guanabenz; Guanabenzo; Guanabenzum
+
+> <SALTS>
+Guanabenz Acetate
+
+> <BRANDS>
+Lisapres; Wytens; Wytensin
+
+> <CHEMICAL_FORMULA>
+C8H8Cl2N4
+
+> <MOLECULAR_WEIGHT>
+231.082
+
+> <EXACT_MASS>
+230.01260169
+
+> <IUPAC_NAME>
+2-{[(2,6-dichlorophenyl)methylidene]amino}guanidine
+
+> <IUPAC_TRADITIONAL_NAME>
+2-{[(2,6-dichlorophenyl)methylidene]amino}guanidine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8Cl2N4/c9-6-2-1-3-7(10)5(6)4-13-14-8(11)12/h1-4H,(H4,11,12,14)/b13-4+
+
+> <INCHI_KEY>
+InChIKey=WDZVGELJXXEGPV-YIXHJXPBSA-N
+
+> <SMILES>
+NC(N)=NN=CC1=C(Cl)C=CC=C1Cl
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_BASIC_PKA>
+6.82
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.25
+
+> <JCHEM_LOGP>
+1.71
+
+> <ALOGPS_LOGS>
+-3.4
+
+> <JCHEM_POLARIZABILITY>
+21.58
+
+> <JCHEM_POLAR_SURFACE_AREA>
+76.76
+
+> <JCHEM_REFRACTIVITY>
+58.15
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+8.89e-02 g/l __ 
+
+$$$$

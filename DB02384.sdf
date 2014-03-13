@@ -1,0 +1,104 @@
+
+  Mrv0541 02231216102D          
+
+ 13 13  0  0  0  0            999 V2000
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    3.7125    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.1434    3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02384
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(E)-2-Fluoro-P-Hydroxycinnamate
+
+> <CHEMICAL_FORMULA>
+C9H6FO3
+
+> <MOLECULAR_WEIGHT>
+181.1405
+
+> <EXACT_MASS>
+181.030097263
+
+> <IUPAC_NAME>
+(2Z)-2-fluoro-3-(4-hydroxyphenyl)prop-2-enoate
+
+> <IUPAC_TRADITIONAL_NAME>
+(2Z)-2-fluoro-3-(4-hydroxyphenyl)prop-2-enoate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H7FO3/c10-8(9(12)13)5-6-1-3-7(11)4-2-6/h1-5,11H,(H,12,13)/p-1/b8-5-
+
+> <INCHI_KEY>
+InChIKey=SBIZDOWXYPNTOJ-YVMONPNESA-M
+
+> <SMILES>
+OC1=CC=C(\C=C(/F)C([O-])=O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+2.97
+
+> <JCHEM_BASIC_PKA>
+-6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+2.18
+
+> <JCHEM_LOGP>
+1.76
+
+> <ALOGPS_LOGS>
+-2.4
+
+> <JCHEM_POLARIZABILITY>
+16.06
+
+> <JCHEM_POLAR_SURFACE_AREA>
+60.36
+
+> <JCHEM_REFRACTIVITY>
+56.08
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+8.58e-01 g/l __ 
+
+$$$$

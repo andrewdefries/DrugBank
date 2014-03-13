@@ -1,0 +1,99 @@
+
+  Mrv0541 02231217112D          
+
+ 11 10  0  0  1  0            999 V2000
+    1.7605    1.0164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8875    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6184    2.6664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03790
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+S-Dioxymethionine
+
+> <CHEMICAL_FORMULA>
+C5H11NO4S
+
+> <MOLECULAR_WEIGHT>
+181.21
+
+> <EXACT_MASS>
+181.040878535
+
+> <IUPAC_NAME>
+(2R)-2-amino-4-methanesulfonylbutanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+S-dioxymethionine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11NO4S/c1-11(9,10)3-2-4(6)5(7)8/h4H,2-3,6H2,1H3,(H,7,8)/t4-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=UCUNFLYVYCGDHP-SCSAIBSYSA-N
+
+> <SMILES>
+CS(=O)(=O)CC[C@@H](N)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+1.55
+
+> <JCHEM_BASIC_PKA>
+8.69
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-3.2
+
+> <JCHEM_LOGP>
+-4.5
+
+> <ALOGPS_LOGS>
+-0.62
+
+> <JCHEM_POLARIZABILITY>
+16.75
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.46
+
+> <JCHEM_REFRACTIVITY>
+39.1
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+4.39e+01 g/l __ 
+
+$$$$

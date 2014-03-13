@@ -1,0 +1,111 @@
+DBE
+  Mrv0541 02241213332D          
+
+ 16 17  0  0  0  0            999 V2000
+   18.7277   30.1741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0132   29.7616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7277   28.5241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4422   28.9366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4422   29.7616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0132   28.9366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5843   28.9366    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2987   28.5241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2987   27.6991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5843   27.2866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5843   26.4616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2987   26.0491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0132   26.4616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0132   27.2866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1566   30.1741    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2987   25.2241    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  1  2  0  0  0  0
+  2  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  3  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  3  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8  6  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 14  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 10  2  0  0  0  0
+ 12 11  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 12  2  0  0  0  0
+ 14 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07635
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+bis(4-hydroxyphenyl)methanone
+
+> <CHEMICAL_FORMULA>
+C13H10O3
+
+> <MOLECULAR_WEIGHT>
+214.2167
+
+> <EXACT_MASS>
+214.062994186
+
+> <IUPAC_NAME>
+4-[(4-hydroxyphenyl)carbonyl]phenol
+
+> <IUPAC_TRADITIONAL_NAME>
+4-[(4-hydroxyphenyl)carbonyl]phenol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H10O3/c14-11-5-1-9(2-6-11)13(16)10-3-7-12(15)8-4-10/h1-8,14-15H
+
+> <INCHI_KEY>
+InChIKey=RXNYJUSEXLAVNQ-UHFFFAOYSA-N
+
+> <SMILES>
+OC1=CC=C(C=C1)C(=O)C1=CC=C(O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+7.55
+
+> <JCHEM_BASIC_PKA>
+-6.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.77
+
+> <JCHEM_LOGP>
+2.83
+
+> <ALOGPS_LOGS>
+-3
+
+> <JCHEM_POLARIZABILITY>
+22.24
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+60.6
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.90e-01 g/l __ 
+
+$$$$

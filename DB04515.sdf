@@ -1,0 +1,102 @@
+
+  Mrv0541 02231217442D          
+
+ 12 12  0  0  1  0            999 V2000
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+  9 11  1  0  0  0  0
+  3 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04515
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-Deoxy-2-O-Methyl-Alpha-L-Galactopyranose
+
+> <CHEMICAL_FORMULA>
+C7H14O5
+
+> <MOLECULAR_WEIGHT>
+178.1831
+
+> <EXACT_MASS>
+178.084123558
+
+> <IUPAC_NAME>
+(2S,3R,4R,5R,6S)-3-methoxy-6-methyloxane-2,4,5-triol
+
+> <IUPAC_TRADITIONAL_NAME>
+2-O-methyl fucose
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H14O5/c1-3-4(8)5(9)6(11-2)7(10)12-3/h3-10H,1-2H3/t3-,4-,5+,6+,7-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=YLAMTMNJXPWCQN-TYDWOXHJSA-N
+
+> <SMILES>
+CO[C@H]1[C@@H](O)O[C@@H](C)[C@H](O)[C@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+11.33
+
+> <JCHEM_BASIC_PKA>
+-3.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.6
+
+> <JCHEM_LOGP>
+-1.2
+
+> <ALOGPS_LOGS>
+0.61
+
+> <JCHEM_POLARIZABILITY>
+17.16
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.15
+
+> <JCHEM_REFRACTIVITY>
+39.13
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.23e+02 g/l __ 
+
+$$$$

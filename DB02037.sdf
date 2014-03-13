@@ -1,0 +1,98 @@
+
+  Mrv0541 02231215552D          
+
+ 10 10  0  0  0  0            999 V2000
+    2.1434   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  2 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02037
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,4-Diamino-4,6-Dihydroxypyrimidine
+
+> <CHEMICAL_FORMULA>
+C4H6N4O2
+
+> <MOLECULAR_WEIGHT>
+142.116
+
+> <EXACT_MASS>
+142.049075456
+
+> <IUPAC_NAME>
+diaminopyrimidine-4,6-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+diaminopyrimidine-4,6-diol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6N4O2/c5-1-2(9)7-4(6)8-3(1)10/h5H2,(H4,6,7,8,9,10)
+
+> <INCHI_KEY>
+InChIKey=HWSJQFCTYLBBOF-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=NC(O)=C(N)C(O)=N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+12.91
+
+> <JCHEM_BASIC_PKA>
+0.41
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.2
+
+> <JCHEM_LOGP>
+-0.35
+
+> <ALOGPS_LOGS>
+-0.58
+
+> <JCHEM_POLARIZABILITY>
+12.33
+
+> <JCHEM_POLAR_SURFACE_AREA>
+118.28
+
+> <JCHEM_REFRACTIVITY>
+36.66
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.78e+01 g/l __ 
+
+$$$$

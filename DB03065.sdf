@@ -1,0 +1,106 @@
+7I2
+  Mrv0541 02231216402D          
+
+ 15 16  0  0  0  0            999 V2000
+   -0.6063   -0.5783    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0912    0.0891    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6063    0.7566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8928    0.9141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6073    0.5016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6073   -0.3234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8928   -0.7359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1783   -0.3234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1783    0.5016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8928   -1.5609    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.6073   -1.9734    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1783   -1.9734    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.9162    0.0891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3287   -0.6253    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3287    0.8036    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03065
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+7-Nitroindazole-2-Carboxamidine
+
+> <CHEMICAL_FORMULA>
+C8H7N5O2
+
+> <MOLECULAR_WEIGHT>
+205.1735
+
+> <EXACT_MASS>
+205.059974493
+
+> <IUPAC_NAME>
+7-nitro-2H-indazole-2-carboximidamide
+
+> <IUPAC_TRADITIONAL_NAME>
+7-nitroindazole-2-carboximidamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H7N5O2/c9-8(10)12-4-5-2-1-3-6(13(14)15)7(5)11-12/h1-4H,(H3,9,10)
+
+> <INCHI_KEY>
+InChIKey=GFYAZUABYOOPCN-UHFFFAOYSA-N
+
+> <SMILES>
+NC(=N)N1C=C2C=CC=C(C2=N1)[N+]([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_BASIC_PKA>
+8.66
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+0.63
+
+> <JCHEM_LOGP>
+0.71
+
+> <ALOGPS_LOGS>
+-2.5
+
+> <JCHEM_POLARIZABILITY>
+18.83
+
+> <JCHEM_POLAR_SURFACE_AREA>
+113.51
+
+> <JCHEM_REFRACTIVITY>
+74.3
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.22e-01 g/l __ 
+
+$$$$

@@ -1,0 +1,76 @@
+
+  Mrv0541 02231216132D          
+
+  4  3  0  0  0  0            999 V2000
+    1.2375    0.7145    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 Sb   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02453
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Trihydroxyantimonite(Iii)
+
+> <CHEMICAL_FORMULA>
+H3O3Sb
+
+> <MOLECULAR_WEIGHT>
+172.78
+
+> <EXACT_MASS>
+171.912037006
+
+> <IUPAC_NAME>
+stiborous acid
+
+> <IUPAC_TRADITIONAL_NAME>
+trihydroxyantimonite(iii)
+
+> <INCHI_IDENTIFIER>
+InChI=1S/3H2O.Sb/h3*1H2;/q;;;+3/p-3
+
+> <INCHI_KEY>
+InChIKey=SZOADBKOANDULT-UHFFFAOYSA-K
+
+> <SMILES>
+O[Sb](O)O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+18.37
+
+> <JCHEM_BASIC_PKA>
+-0.85
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_LOGP>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+5.76
+
+> <JCHEM_POLAR_SURFACE_AREA>
+60.69
+
+> <JCHEM_REFRACTIVITY>
+7.69
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0 __ 
+
+$$$$

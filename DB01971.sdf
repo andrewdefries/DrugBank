@@ -1,0 +1,101 @@
+
+  Mrv0541 05041208332D          
+
+ 10 10  0  0  0  0            999 V2000
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4991    0.6674    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4991   -0.6674    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9840    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  2  2  0  0  0  0
+  3  9  1  0  0  0  0
+  1  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  5  1  0  0  0  0
+ 10  8  2  0  0  0  0
+ 10  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01971
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+trans-urocanic acid
+
+> <SYNONYMS>
+(E)-3-(1H-imidazol-4-yl)-2-propenoic acid
+
+> <CHEMICAL_FORMULA>
+C6H6N2O2
+
+> <MOLECULAR_WEIGHT>
+138.124
+
+> <EXACT_MASS>
+138.042927446
+
+> <IUPAC_NAME>
+(2E)-3-(1H-imidazol-4-yl)prop-2-enoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+trans-urocanic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6N2O2/c9-6(10)2-1-5-3-7-4-8-5/h1-4H,(H,7,8)(H,9,10)/b2-1+
+
+> <INCHI_KEY>
+InChIKey=LOIYMIARKYCTBW-OWOJBTEDSA-N
+
+> <SMILES>
+OC(=O)\C=C\C1=CNC=N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+3.85
+
+> <JCHEM_BASIC_PKA>
+6.13
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.22
+
+> <JCHEM_LOGP>
+-1
+
+> <ALOGPS_LOGS>
+-0.51
+
+> <JCHEM_POLARIZABILITY>
+13.1
+
+> <JCHEM_POLAR_SURFACE_AREA>
+65.98
+
+> <JCHEM_REFRACTIVITY>
+35.57
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+4.25e+01 g/l __ 
+
+$$$$

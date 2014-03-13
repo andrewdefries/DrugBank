@@ -1,0 +1,113 @@
+201
+  Mrv0541 02231214312D          
+
+ 14 15  0  0  0  0            999 V2000
+    3.0791    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5741    0.6639    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5741   -0.6639    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0556    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8305    1.4482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2 10  2  0  0  0  0
+  3  8  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00201
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Caffeine
+
+> <SYNONYMS>
+1-methyltheobromine; 1,3,7-trimethylpurine-2,6-dione; 1,3,7-trimethylxanthine; 7-methyltheophylline; Anhydrous caffeine; Cafeína; Caféine; Coffein; Guaranine; Koffein; Mateína; Methyltheobromine; Theine
+
+> <SALTS>
+Caffeine citrate
+
+> <BRANDS>
+Cafcit; Caffedrine; Dexitac; Durvitan; Enerjets; No-Doz; Pep-Back; Quick Pep; Vivarin; Wake-Up
+
+> <CHEMICAL_FORMULA>
+C8H10N4O2
+
+> <MOLECULAR_WEIGHT>
+194.1906
+
+> <EXACT_MASS>
+194.080375584
+
+> <IUPAC_NAME>
+1,3,7-trimethyl-2,3,6,7-tetrahydro-1H-purine-2,6-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+caffeine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H10N4O2/c1-10-4-9-6-5(10)7(13)12(3)8(14)11(6)2/h4H,1-3H3
+
+> <INCHI_KEY>
+InChIKey=RYYVLZVUVIJVGH-UHFFFAOYSA-N
+
+> <SMILES>
+CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-0.92
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.24
+
+> <JCHEM_LOGP>
+-0.55
+
+> <ALOGPS_LOGS>
+-1.2
+
+> <JCHEM_POLARIZABILITY>
+18.95
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.44
+
+> <JCHEM_REFRACTIVITY>
+49.83
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.10e+01 g/l __ 
+
+$$$$

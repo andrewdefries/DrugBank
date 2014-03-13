@@ -1,0 +1,96 @@
+P4G
+  Mrv0541 02241214022D          
+
+ 11 10  0  0  0  0            999 V2000
+   -3.5722    0.2913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8577   -0.1212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1433    0.2913    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4288   -0.1212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.2913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.1212    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.2913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4288   -0.1212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1433    0.2913    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8577   -0.1212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5722    0.2913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08357
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-ETHOXY-2-(2-ETHOXYETHOXY)ETHANE
+
+> <CHEMICAL_FORMULA>
+C8H18O3
+
+> <MOLECULAR_WEIGHT>
+162.2267
+
+> <EXACT_MASS>
+162.125594442
+
+> <IUPAC_NAME>
+1-ethoxy-2-(2-ethoxyethoxy)ethane
+
+> <IUPAC_TRADITIONAL_NAME>
+1-ethoxy-2-(2-ethoxyethoxy)ethane
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H18O3/c1-3-9-5-7-11-8-6-10-4-2/h3-8H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=RRQYJINTUHWNHW-UHFFFAOYSA-N
+
+> <SMILES>
+CCOCCOCCOCC
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-3.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.64
+
+> <JCHEM_LOGP>
+0.74
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+19.75
+
+> <JCHEM_POLAR_SURFACE_AREA>
+27.69
+
+> <JCHEM_REFRACTIVITY>
+44.6
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <ALOGPS_SOLUBILITY>
+1.14e+01 g/l __ 
+
+$$$$

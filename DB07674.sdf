@@ -1,0 +1,92 @@
+DPJ
+  Mrv0541 02241213342D          
+
+  9  8  0  0  0  0            999 V2000
+   -0.4047    0.9141    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0078    0.1996    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4203   -0.5149    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7068   -0.2129    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4213    0.1996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1358   -0.2129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7223    0.6121    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4368    0.1996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1514    0.6121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07674
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+O,O-DIETHYL HYDROGEN THIOPHOSPHATE
+
+> <CHEMICAL_FORMULA>
+C4H11O3PS
+
+> <MOLECULAR_WEIGHT>
+170.167
+
+> <EXACT_MASS>
+170.01665142
+
+> <IUPAC_NAME>
+diethoxy(sulfanylidene)phosphinous acid
+
+> <IUPAC_TRADITIONAL_NAME>
+diethoxy(sulfanylidene)phosphinous acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H11O3PS/c1-3-6-8(5,9)7-4-2/h3-4H2,1-2H3,(H,5,9)
+
+> <INCHI_KEY>
+InChIKey=PKUWKAXTAVNIJR-UHFFFAOYSA-N
+
+> <SMILES>
+CCOP(O)(=S)OCC
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+2.86
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.22
+
+> <JCHEM_LOGP>
+1.34
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+15.88
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.69
+
+> <JCHEM_REFRACTIVITY>
+41.1
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+6.06e+00 g/l __ 
+
+$$$$

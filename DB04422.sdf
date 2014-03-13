@@ -1,0 +1,93 @@
+
+  Mrv0541 02231217402D          
+
+  8  7  0  0  1  0            999 V2000
+    1.9520    1.9520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1914    0.7145    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04422
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Amino-4-Mercapto-Butyric Acid
+
+> <CHEMICAL_FORMULA>
+C4H9NO2S
+
+> <MOLECULAR_WEIGHT>
+135.185
+
+> <EXACT_MASS>
+135.035399227
+
+> <IUPAC_NAME>
+(2S)-2-amino-4-sulfanylbutanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+L-homocysteine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H9NO2S/c5-3(1-2-8)4(6)7/h3,8H,1-2,5H2,(H,6,7)/t3-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=FFFHZYDWPBMWHY-VKHMYHEASA-N
+
+> <SMILES>
+N[C@@H](CCS)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+2.46
+
+> <JCHEM_BASIC_PKA>
+9.41
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.3
+
+> <JCHEM_LOGP>
+-2.6
+
+> <ALOGPS_LOGS>
+-0.96
+
+> <JCHEM_POLARIZABILITY>
+13.54
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+32.93
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.48e+01 g/l __ 
+
+$$$$

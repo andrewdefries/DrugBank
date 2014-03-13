@@ -1,0 +1,94 @@
+
+  Mrv0541 02231216402D          
+
+ 13 12  0  0  1  0            999 V2000
+    1.7605   -1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750   -1.4289    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8875   -2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039   -1.4289    0.0000 P   0  0  2  0  0  0  0  0  0  0  0  0
+    3.4914   -2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3164   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184   -1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329   -1.4289    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7454   -2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9204   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  6  5  1  6  0  0  0
+  6  7  1  1  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03075
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(Diphosphono)Aminophosphonic Acid
+
+> <CHEMICAL_FORMULA>
+H6NO9P3
+
+> <MOLECULAR_WEIGHT>
+256.9702
+
+> <EXACT_MASS>
+256.925540331
+
+> <IUPAC_NAME>
+{[hydroxy(phosphonoamino)phosphoryl]oxy}phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[hydroxy(phosphonoamino)phosphoryl]oxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/H6NO9P3/c2-11(3,4)1-12(5,6)10-13(7,8)9/h(H2,7,8,9)(H4,1,2,3,4,5,6)
+
+> <INCHI_KEY>
+InChIKey=PELPUMGXMYVGSQ-UHFFFAOYSA-N
+
+> <SMILES>
+OP(O)(=O)N[P@](O)(=O)OP(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_ACIDIC_PKA>
+0.68
+
+> <JCHEM_BASIC_PKA>
+-8.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-5
+
+> <JCHEM_LOGP>
+-2.6
+
+> <JCHEM_POLARIZABILITY>
+15.09
+
+> <JCHEM_POLAR_SURFACE_AREA>
+173.62
+
+> <JCHEM_REFRACTIVITY>
+38.35
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4 __ 
+
+$$$$

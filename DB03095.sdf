@@ -1,0 +1,81 @@
+
+  Mrv0541 02231216412D          
+
+  5  4  0  0  0  0            999 V2000
+     0.825    -0.825     0.000 C   0  0  0  0  0  0  0  0  0  0  0  0
+     0.825     0.000     0.000 N   0  3  0  0  0  0  0  0  0  0  0  0
+     0.825     0.825     0.000 C   0  0  0  0  0  0  0  0  0  0  0  0
+     1.650     0.000     0.000 C   0  0  0  0  0  0  0  0  0  0  0  0
+     0.000     0.000     0.000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03095
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tetramethylammonium Ion
+
+> <CHEMICAL_FORMULA>
+C4H12N
+
+> <MOLECULAR_WEIGHT>
+74.1448
+
+> <EXACT_MASS>
+74.096974389
+
+> <IUPAC_NAME>
+tetramethylazanium
+
+> <IUPAC_TRADITIONAL_NAME>
+tetramethylammonium ion
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H12N/c1-5(2,3)4/h1-4H3/q+1
+
+> <INCHI_KEY>
+InChIKey=QEMXHQIAXOOASZ-UHFFFAOYSA-N
+
+> <SMILES>
+C[N+](C)(C)C
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-4.1
+
+> <JCHEM_LOGP>
+-4
+
+> <ALOGPS_LOGS>
+-2.9
+
+> <JCHEM_POLARIZABILITY>
+9.75
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+35.9
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.33e-01 g/l __ 
+
+$$$$

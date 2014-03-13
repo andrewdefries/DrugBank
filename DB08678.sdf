@@ -1,0 +1,104 @@
+UA5
+  Mrv0541 02241214152D          
+
+ 13 13  0  0  0  0            999 V2000
+    3.5652   -0.5878    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8507   -0.1753    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2632    0.5392    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4382   -0.8898    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1363    0.2372    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4218   -0.1753    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7073    0.2372    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0072   -0.1753    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0072   -1.0003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7216   -1.4128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7216   -2.2378    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7073   -1.4128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4218   -1.0003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08678
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(4-ETHYLPHENYL)SULFAMIC ACID
+
+> <CHEMICAL_FORMULA>
+C8H11NO3S
+
+> <MOLECULAR_WEIGHT>
+201.243
+
+> <EXACT_MASS>
+201.045963913
+
+> <IUPAC_NAME>
+N-(4-ethylphenyl)sulfamic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+N-(4-ethylphenyl)sulfamic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11NO3S/c1-2-7-3-5-8(6-4-7)9-13(10,11)12/h3-6,9H,2H2,1H3,(H,10,11,12)
+
+> <INCHI_KEY>
+InChIKey=HXARYYGNSVTEFC-UHFFFAOYSA-N
+
+> <SMILES>
+CCC1=CC=C(NS(O)(=O)=O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+-0.95
+
+> <JCHEM_BASIC_PKA>
+-9.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.59
+
+> <JCHEM_LOGP>
+1.42
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+19.85
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.4
+
+> <JCHEM_REFRACTIVITY>
+49.62
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.30e+00 g/l __ 
+
+$$$$

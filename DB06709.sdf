@@ -1,0 +1,99 @@
+
+  Mrv0541 02241212482D          
+
+ 11 10  0  0  0  0            999 V2000
+    3.9039    0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.0164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8875    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB06709
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Methacholine
+
+> <BRANDS>
+Provocholine
+
+> <CHEMICAL_FORMULA>
+C8H18NO2
+
+> <MOLECULAR_WEIGHT>
+160.234
+
+> <EXACT_MASS>
+160.133753825
+
+> <IUPAC_NAME>
+[2-(acetyloxy)propyl]trimethylazanium
+
+> <IUPAC_TRADITIONAL_NAME>
+methacholine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H18NO2/c1-7(11-8(2)10)6-9(3,4)5/h7H,6H2,1-5H3/q+1
+
+> <INCHI_KEY>
+InChIKey=NZWOPGCLSHLLPA-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C[N+](C)(C)C)OC(C)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-2.7
+
+> <JCHEM_LOGP>
+-3.8
+
+> <ALOGPS_LOGS>
+-3.5
+
+> <JCHEM_POLARIZABILITY>
+18.43
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.3
+
+> <JCHEM_REFRACTIVITY>
+55.76
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+6.78e-02 g/l __ 
+
+$$$$

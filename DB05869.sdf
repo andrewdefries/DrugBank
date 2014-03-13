@@ -1,0 +1,93 @@
+
+  Mrv0541 02231218142D          
+
+  8  7  0  0  0  0            999 V2000
+    3.0788    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7932   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5076    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3643   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7932   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5076    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2219   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB05869
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+CTI-01
+
+> <CHEMICAL_FORMULA>
+C5H8O3
+
+> <MOLECULAR_WEIGHT>
+116.1152
+
+> <EXACT_MASS>
+116.047344122
+
+> <IUPAC_NAME>
+ethyl 2-oxopropanoate
+
+> <IUPAC_TRADITIONAL_NAME>
+ethyl 2-oxopropanoate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H8O3/c1-3-8-5(7)4(2)6/h3H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=XXRCUYVCPSWGCC-UHFFFAOYSA-N
+
+> <SMILES>
+CCOC(=O)C(C)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+16.9
+
+> <JCHEM_BASIC_PKA>
+-7.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.24
+
+> <JCHEM_LOGP>
+0.8
+
+> <ALOGPS_LOGS>
+-0.57
+
+> <JCHEM_POLARIZABILITY>
+11.39
+
+> <JCHEM_POLAR_SURFACE_AREA>
+43.37
+
+> <JCHEM_REFRACTIVITY>
+27.51
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+3.13e+01 g/l __ 
+
+$$$$

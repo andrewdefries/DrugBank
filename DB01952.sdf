@@ -1,0 +1,95 @@
+
+  Mrv0541 02231215512D          
+
+ 12 14  0  0  0  0            999 V2000
+    0.7478   -1.0488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8341   -0.2284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6410   -0.0568    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0535    0.6576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8785    0.6576    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2910   -0.0568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0980   -0.2284    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1842   -1.0488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4306   -1.3844    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8785   -0.7713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0535   -0.7713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5015   -1.3844    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  6  7  4  0  0  0  0
+  7  8  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+  6 10  4  0  0  0  0
+ 10 11  4  0  0  0  0
+  3 11  4  0  0  0  0
+ 11 12  4  0  0  0  0
+  1 12  4  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01952
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,N6-Ethenoadenine
+
+> <CHEMICAL_FORMULA>
+C7H4N5
+
+> <MOLECULAR_WEIGHT>
+158.1402
+
+> <EXACT_MASS>
+158.046670153
+
+> <IUPAC_NAME>
+imidazo[2,1-f]purine
+
+> <IUPAC_TRADITIONAL_NAME>
+1,N6-ethenoadenine
+
+> <SMILES>
+c1cn2cnc3ncnc3c2n1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+4.65
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.11
+
+> <JCHEM_LOGP>
+-0.61
+
+> <ALOGPS_LOGS>
+-0.84
+
+> <JCHEM_POLARIZABILITY>
+14.66
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.97
+
+> <JCHEM_REFRACTIVITY>
+43.73
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.32e+01 g/l __ 
+
+$$$$

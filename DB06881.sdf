@@ -1,0 +1,103 @@
+1AE
+  Mrv0541 02241213032D          
+
+ 13 12  0  0  0  0            999 V2000
+    3.6284    2.6541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8034    2.6541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3909    1.9396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5659    1.9396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1534    2.6541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1534    1.2251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5659    0.5106    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3284    1.2251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0841    0.5106    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3284   -0.2038    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7409   -0.9183    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3860   -0.6163    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0429    0.2087    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+  6  8  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB06881
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(1Z)-2-HYDROXY-3-OXOHEX-1-EN-1-YL DIHYDROGEN PHOSPHATE
+
+> <CHEMICAL_FORMULA>
+C6H11O6P
+
+> <MOLECULAR_WEIGHT>
+210.1217
+
+> <EXACT_MASS>
+210.029324596
+
+> <IUPAC_NAME>
+{[(1Z)-2-hydroxy-3-oxohex-1-en-1-yl]oxy}phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[(1Z)-2-hydroxy-3-oxohex-1-en-1-yl]oxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H11O6P/c1-2-3-5(7)6(8)4-12-13(9,10)11/h4,8H,2-3H2,1H3,(H2,9,10,11)/b6-4-
+
+> <INCHI_KEY>
+InChIKey=HEBDCWKDNSCZMW-XQRVVYSFSA-N
+
+> <SMILES>
+CCCC(=O)C(\O)=C\OP(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.36
+
+> <JCHEM_BASIC_PKA>
+-4.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-0.29
+
+> <JCHEM_LOGP>
+0.24
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+17.6
+
+> <JCHEM_POLAR_SURFACE_AREA>
+104.06
+
+> <JCHEM_REFRACTIVITY>
+44.89
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+8.11e+00 g/l __ 
+
+$$$$

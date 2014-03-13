@@ -1,0 +1,103 @@
+MSR
+  Mrv0541 02241213562D          
+
+ 12 13  0  0  0  0            999 V2000
+    0.1926   -0.1646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1926    0.6604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9071    1.0729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9071    1.8979    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6215    0.6604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6215   -0.1646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9071   -0.5771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9071   -1.4021    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5745   -1.8870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3196   -2.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4946   -2.6716    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2396   -1.8870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08214
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-(1H-IMIDAZOL-1-YL)PHENOL
+
+> <CHEMICAL_FORMULA>
+C9H8N2O
+
+> <MOLECULAR_WEIGHT>
+160.1726
+
+> <EXACT_MASS>
+160.063662888
+
+> <IUPAC_NAME>
+4-(1H-imidazol-1-yl)phenol
+
+> <IUPAC_TRADITIONAL_NAME>
+4-(imidazol-1-yl)phenol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H8N2O/c12-9-3-1-8(2-4-9)11-6-5-10-7-11/h1-7,12H
+
+> <INCHI_KEY>
+InChIKey=CYKCUAPYWQDIKR-UHFFFAOYSA-N
+
+> <SMILES>
+OC1=CC=C(C=C1)N1C=CN=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+10.96
+
+> <JCHEM_BASIC_PKA>
+6.43
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.87
+
+> <JCHEM_LOGP>
+0.98
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+16.41
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.05
+
+> <JCHEM_REFRACTIVITY>
+55.99
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.41e+00 g/l __ 
+
+$$$$

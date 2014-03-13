@@ -1,0 +1,98 @@
+
+  Mrv0541 02231217062D          
+
+ 10 10  0  0  0  0            999 V2000
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  4 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03669
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Fluorophenethyl Alcohol
+
+> <CHEMICAL_FORMULA>
+C8H9FO
+
+> <MOLECULAR_WEIGHT>
+140.1549
+
+> <EXACT_MASS>
+140.063743115
+
+> <IUPAC_NAME>
+2-(4-fluorophenyl)ethan-1-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+4-fluorophenethyl alcohol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H9FO/c9-8-3-1-7(2-4-8)5-6-10/h1-4,10H,5-6H2
+
+> <INCHI_KEY>
+InChIKey=MWUVGXCUHWKQJE-UHFFFAOYSA-N
+
+> <SMILES>
+OCCC1=CC=C(F)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+15.89
+
+> <JCHEM_BASIC_PKA>
+-2.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.62
+
+> <JCHEM_LOGP>
+1.64
+
+> <ALOGPS_LOGS>
+-1.7
+
+> <JCHEM_POLARIZABILITY>
+13.98
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+37.85
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+3.10e+00 g/l __ 
+
+$$$$

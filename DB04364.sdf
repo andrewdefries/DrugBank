@@ -1,0 +1,89 @@
+
+  Mrv0541 02231217382D          
+
+  6  5  0  0  1  0            999 V2000
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0625    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  6  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04364
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+R,3-Hydroxybutan-2-One
+
+> <CHEMICAL_FORMULA>
+C4H8O2
+
+> <MOLECULAR_WEIGHT>
+88.1051
+
+> <EXACT_MASS>
+88.0524295
+
+> <IUPAC_NAME>
+(3S)-3-hydroxybutan-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+S,3-hydroxybutan-2-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8O2/c1-3(5)4(2)6/h3,5H,1-2H3/t3-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=ROWKJAVDOGWPAT-VKHMYHEASA-N
+
+> <SMILES>
+C[C@H](O)C(C)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+13.72
+
+> <JCHEM_BASIC_PKA>
+-3.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.66
+
+> <JCHEM_LOGP>
+-0.14
+
+> <ALOGPS_LOGS>
+0.73
+
+> <JCHEM_POLARIZABILITY>
+9.06
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+22.39
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.73e+02 g/l __ 
+
+$$$$

@@ -1,0 +1,94 @@
+
+  Mrv0541 02231217432D          
+
+  9 10  0  0  1  0            999 V2000
+    1.1270   -1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3020   -1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  1  3  1  0  0  0  0
+  3  4  1  6  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  4  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04499
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+R-Styrene Oxide
+
+> <CHEMICAL_FORMULA>
+C8H8O
+
+> <MOLECULAR_WEIGHT>
+120.1485
+
+> <EXACT_MASS>
+120.057514878
+
+> <IUPAC_NAME>
+(2R)-2-phenyloxirane
+
+> <IUPAC_TRADITIONAL_NAME>
+R-styrene oxide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8O/c1-2-4-7(5-3-1)8-6-9-8/h1-5,8H,6H2/t8-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=AWMVMTVKBNGEAK-QMMMGPOBSA-N
+
+> <SMILES>
+C1O[C@@H]1C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-4.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.72
+
+> <JCHEM_LOGP>
+1.74
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+12.94
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.53
+
+> <JCHEM_REFRACTIVITY>
+35.33
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.26e+00 g/l __ 
+
+$$$$

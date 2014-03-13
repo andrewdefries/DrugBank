@@ -1,0 +1,109 @@
+
+  Mrv0541 02231216312D          
+
+ 16 15  0  0  1  0            999 V2000
+   -0.4125    5.0013    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.2868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    4.2868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    3.5724    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8250    2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    3.5724    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.4750    4.2868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3000    4.2868    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3000    2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5375    2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3000    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  6  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  4  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  1  1  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02878
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-(2-Aminoethyl)-4-(Aminomethyl)Heptanedioic Acid
+
+> <CHEMICAL_FORMULA>
+C10H20N2O4
+
+> <MOLECULAR_WEIGHT>
+232.2768
+
+> <EXACT_MASS>
+232.142307138
+
+> <IUPAC_NAME>
+(3S,4S)-3-(2-aminoethyl)-4-(aminomethyl)heptanedioic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(3S,4S)-3-(2-aminoethyl)-4-(aminomethyl)heptanedioic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H20N2O4/c11-4-3-7(5-10(15)16)8(6-12)1-2-9(13)14/h7-8H,1-6,11-12H2,(H,13,14)(H,15,16)/t7-,8+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=QMRGRIXXWLVLTR-JGVFFNPUSA-N
+
+> <SMILES>
+NCC[C@@H](CC(O)=O)[C@@H](CN)CCC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+3.92
+
+> <JCHEM_BASIC_PKA>
+10.51
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-4
+
+> <JCHEM_LOGP>
+-5.6
+
+> <ALOGPS_LOGS>
+-1.9
+
+> <JCHEM_POLARIZABILITY>
+24.22
+
+> <JCHEM_POLAR_SURFACE_AREA>
+126.64
+
+> <JCHEM_REFRACTIVITY>
+58.13
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <ALOGPS_SOLUBILITY>
+3.23e+00 g/l __ 
+
+$$$$

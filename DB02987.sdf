@@ -1,0 +1,99 @@
+
+  Mrv0541 02231216362D          
+
+ 11 10  0  0  1  0            999 V2000
+    4.6184    2.6664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0461    1.4289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    2.6664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  2  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02987
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Cysteine-S-Acetamide
+
+> <CHEMICAL_FORMULA>
+C5H10N2O3S
+
+> <MOLECULAR_WEIGHT>
+178.21
+
+> <EXACT_MASS>
+178.041212886
+
+> <IUPAC_NAME>
+(2R)-2-amino-3-[(carbamoylmethyl)sulfanyl]propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+cysteine-S-acetamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H10N2O3S/c6-3(5(9)10)1-11-2-4(7)8/h3H,1-2,6H2,(H2,7,8)(H,9,10)/t3-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=VFKYKPOTSJWPIU-VKHMYHEASA-N
+
+> <SMILES>
+N[C@@H](CSCC(N)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+2.07
+
+> <JCHEM_BASIC_PKA>
+8.83
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-3
+
+> <JCHEM_LOGP>
+-4
+
+> <ALOGPS_LOGS>
+-0.92
+
+> <JCHEM_POLARIZABILITY>
+17.1
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.41
+
+> <JCHEM_REFRACTIVITY>
+40.93
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+2.15e+01 g/l __ 
+
+$$$$

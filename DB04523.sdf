@@ -1,0 +1,114 @@
+TCO
+  Mrv0541 02231217442D          
+
+ 18 18  0  0  0  0            999 V2000
+    0.2985   -0.1147    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4160    0.2978    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.4160    1.1228    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2985    1.5353    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1304   -0.9397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8449   -1.3522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5594   -0.9397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5594   -0.1147    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8449    0.2978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1304   -0.1147    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0130    0.2978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0130    1.1228    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7275   -0.1147    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1564    0.7103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4419    0.2978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8544   -0.4167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0294    1.0123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0897    0.5897    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 18  1  6  0  0  0
+  3  4  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04523
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tert-Butyl(1s)-1-Cyclohexyl-2-Oxoethylcarbamate
+
+> <CHEMICAL_FORMULA>
+C13H23NO3
+
+> <MOLECULAR_WEIGHT>
+241.3266
+
+> <EXACT_MASS>
+241.167793607
+
+> <IUPAC_NAME>
+tert-butyl N-[(1S)-1-cyclohexyl-2-oxoethyl]carbamate
+
+> <IUPAC_TRADITIONAL_NAME>
+tert-butyl N-[(1S)-1-cyclohexyl-2-oxoethyl]carbamate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H23NO3/c1-13(2,3)17-12(16)14-11(9-15)10-7-5-4-6-8-10/h9-11H,4-8H2,1-3H3,(H,14,16)/t11-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=BDSGOSWEKUGHOV-LLVKDONJSA-N
+
+> <SMILES>
+[H][C@@](NC(=O)OC(C)(C)C)(C=O)C1CCCCC1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+13.95
+
+> <JCHEM_BASIC_PKA>
+-7.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.72
+
+> <JCHEM_LOGP>
+2.51
+
+> <ALOGPS_LOGS>
+-2.9
+
+> <JCHEM_POLARIZABILITY>
+26.93
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.4
+
+> <JCHEM_REFRACTIVITY>
+65.44
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+3.36e-01 g/l __ 
+
+$$$$

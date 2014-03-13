@@ -1,0 +1,102 @@
+
+  Mrv0541 02231216502D          
+
+ 12 12  0  0  1  0            999 V2000
+    2.1434    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  1  0  0  0
+  4  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+  9 11  1  0  0  0  0
+  2 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03291
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Deoxy-4-Amino-Beta-D-Glucose
+
+> <CHEMICAL_FORMULA>
+C6H13NO5
+
+> <MOLECULAR_WEIGHT>
+179.1711
+
+> <EXACT_MASS>
+179.079372531
+
+> <IUPAC_NAME>
+(2R,3R,4S,5S,6S)-5-amino-6-(hydroxymethyl)oxane-2,3,4-triol
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R,3R,4S,5S,6S)-5-amino-6-(hydroxymethyl)oxane-2,3,4-triol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13NO5/c7-3-2(1-8)12-6(11)5(10)4(3)9/h2-6,8-11H,1,7H2/t2-,3-,4+,5-,6-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=BXZVZSSSRTUQJP-VFUOTHLCSA-N
+
+> <SMILES>
+N[C@@H]1[C@@H](CO)O[C@@H](O)[C@H](O)[C@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+11.32
+
+> <JCHEM_BASIC_PKA>
+8.18
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-2.7
+
+> <JCHEM_LOGP>
+-3
+
+> <ALOGPS_LOGS>
+0.48
+
+> <JCHEM_POLARIZABILITY>
+16.91
+
+> <JCHEM_POLAR_SURFACE_AREA>
+116.17
+
+> <JCHEM_REFRACTIVITY>
+37.58
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.37e+02 g/l __ 
+
+$$$$

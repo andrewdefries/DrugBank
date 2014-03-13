@@ -1,0 +1,117 @@
+
+  Mrv0541 02231217512D          
+
+ 18 18  0  0  1  0            999 V2000
+    2.8579    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  6  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  1  0  0  0
+  7  5  1  6  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  6  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  6  0  0  0
+ 12 14  1  0  0  0  0
+  7 14  1  0  0  0  0
+ 14 15  1  1  0  0  0
+  9 16  1  6  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04694
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,6-anhydro-3-deoxy-3-fluoronononic acid
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C9H15FO8
+
+> <MOLECULAR_WEIGHT>
+270.209
+
+> <EXACT_MASS>
+270.075095661
+
+> <IUPAC_NAME>
+(2R,3R,4R,5R,6S)-3-fluoro-4,5-dihydroxy-6-[(1R,2R)-1,2,3-trihydroxypropyl]oxane-2-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R,3R,4R,5R,6S)-3-fluoro-4,5-dihydroxy-6-[(1R,2R)-1,2,3-trihydroxypropyl]oxane-2-carboxylic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H15FO8/c10-3-5(14)6(15)8(4(13)2(12)1-11)18-7(3)9(16)17/h2-8,11-15H,1H2,(H,16,17)/t2-,3-,4-,5+,6-,7+,8+/m1/s1
+
+> <INCHI_KEY>
+InChIKey=LYONSLFAVFDWPW-KVCYNOHXSA-N
+
+> <SMILES>
+OC[C@@H](O)[C@@H](O)[C@@H]1O[C@@H]([C@H](F)[C@H](O)[C@H]1O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_ACIDIC_PKA>
+3.57
+
+> <JCHEM_BASIC_PKA>
+-3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-2
+
+> <JCHEM_LOGP>
+-3.2
+
+> <ALOGPS_LOGS>
+-0.26
+
+> <JCHEM_POLARIZABILITY>
+22.6
+
+> <JCHEM_POLAR_SURFACE_AREA>
+147.68
+
+> <JCHEM_REFRACTIVITY>
+50.96
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.48e+02 g/l __ 
+
+$$$$

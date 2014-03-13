@@ -1,0 +1,89 @@
+
+  Mrv0541 02231216162D          
+
+  6  5  0  0  0  0            999 V2000
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02531
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Isobutyric Acid
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C4H8O2
+
+> <MOLECULAR_WEIGHT>
+88.1051
+
+> <EXACT_MASS>
+88.0524295
+
+> <IUPAC_NAME>
+2-methylpropanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+isobutyric acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8O2/c1-3(2)4(5)6/h3H,1-2H3,(H,5,6)
+
+> <INCHI_KEY>
+InChIKey=KQNPFQTWMSNSAP-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.87
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.78
+
+> <JCHEM_LOGP>
+1.02
+
+> <ALOGPS_LOGS>
+0.35
+
+> <JCHEM_POLARIZABILITY>
+9.12
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+21.85
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.97e+02 g/l __ 
+
+$$$$

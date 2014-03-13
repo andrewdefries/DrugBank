@@ -1,0 +1,102 @@
+1099
+  Mrv0541 02231215142D          
+
+  9  9  0  0  0  0            999 V2000
+    2.0930    1.0808    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.5693    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.5693    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.5693    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.6683    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.0808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  7  2  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01099
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Flucytosine
+
+> <SYNONYMS>
+5-FC; 5-Fluorocystosine; 5-Fluorocytosine
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C4H4FN3O
+
+> <MOLECULAR_WEIGHT>
+129.0925
+
+> <EXACT_MASS>
+129.03383997
+
+> <IUPAC_NAME>
+6-amino-5-fluoro-1,2-dihydropyrimidin-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+flucytosine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H4FN3O/c5-2-1-7-4(9)8-3(2)6/h1H,(H3,6,7,8,9)
+
+> <INCHI_KEY>
+InChIKey=XRECTZIEBJDKEO-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=C(F)C=NC(=O)N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+8.16
+
+> <JCHEM_BASIC_PKA>
+1.06
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.24
+
+> <JCHEM_LOGP>
+-0.95
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+9.97
+
+> <JCHEM_POLAR_SURFACE_AREA>
+67.48
+
+> <JCHEM_REFRACTIVITY>
+38.22
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.92e+00 g/l __ 
+
+$$$$

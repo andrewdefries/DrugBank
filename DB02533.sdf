@@ -1,0 +1,84 @@
+
+  Mrv0541 02231216162D          
+
+  5  4  0  0  0  0            999 V2000
+    0.8250    1.4289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02533
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Aminoguanidine
+
+> <CHEMICAL_FORMULA>
+CH6N4
+
+> <MOLECULAR_WEIGHT>
+74.0851
+
+> <EXACT_MASS>
+74.059246212
+
+> <IUPAC_NAME>
+1-aminoguanidine
+
+> <IUPAC_TRADITIONAL_NAME>
+aminoguanidine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/CH6N4/c2-1(3)5-4/h4H2,(H4,2,3,5)
+
+> <INCHI_KEY>
+InChIKey=HAMNKKUPIHEESI-UHFFFAOYSA-N
+
+> <SMILES>
+NNC(N)=N
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_BASIC_PKA>
+12.01
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-1.8
+
+> <JCHEM_LOGP>
+-1.5
+
+> <ALOGPS_LOGS>
+-0.95
+
+> <JCHEM_POLARIZABILITY>
+6.88
+
+> <JCHEM_POLAR_SURFACE_AREA>
+87.92
+
+> <JCHEM_REFRACTIVITY>
+40.84
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+8.36e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,108 @@
+1367
+  Mrv0541 02231215242D          
+
+ 13 14  0  0  1  0            999 V2000
+    4.1159    0.0242    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597   -0.7600    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.3412   -1.4239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597   -2.0878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.0114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.8364    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.5989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.2489    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9232    0.1944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.0114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.8364    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1795    0.9786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4359    1.7627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 13  3  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01367
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Rasagiline
+
+> <SYNONYMS>
+
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C12H13N
+
+> <MOLECULAR_WEIGHT>
+171.2383
+
+> <EXACT_MASS>
+171.104799421
+
+> <IUPAC_NAME>
+(1R)-N-(prop-2-yn-1-yl)-2,3-dihydro-1H-inden-1-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+rasagiline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H13N/c1-2-9-13-12-8-7-10-5-3-4-6-11(10)12/h1,3-6,12-13H,7-9H2/t12-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=RUOKEQAAGRXIBM-GFCCVEGCSA-N
+
+> <SMILES>
+C#CCN[C@@H]1CCC2=CC=CC=C12
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+8.69
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.26
+
+> <JCHEM_LOGP>
+2.3
+
+> <ALOGPS_LOGS>
+-3.8
+
+> <JCHEM_POLARIZABILITY>
+20.25
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+54.47
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.49e-02 g/l __ 
+
+$$$$

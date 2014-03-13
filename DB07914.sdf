@@ -1,0 +1,110 @@
+HPX
+  Mrv0541 02241213442D          
+
+ 16 16  0  0  0  0            999 V2000
+    1.8611   -1.0803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8611   -1.9053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1466   -2.3178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4321   -1.9053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4321   -1.0803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1466   -0.6678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2823   -0.6678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9968   -1.0803    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2823    0.1572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9968    0.5697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9968    1.3947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7113    1.8072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7113    2.6322    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4257    1.3947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4257    0.5697    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1402    1.8072    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07914
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2Z,4E)-2-HYDROXY-6-OXO-6-PHENYLHEXA-2,4-DIENOIC ACID
+
+> <CHEMICAL_FORMULA>
+C12H10O4
+
+> <MOLECULAR_WEIGHT>
+218.2054
+
+> <EXACT_MASS>
+218.057908808
+
+> <IUPAC_NAME>
+(2E,4E)-2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2E,4E)-2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H10O4/c13-10(9-5-2-1-3-6-9)7-4-8-11(14)12(15)16/h1-8,14H,(H,15,16)/b7-4+,11-8+
+
+> <INCHI_KEY>
+InChIKey=RDRDHXDYMGUCKE-VCABWLAWSA-N
+
+> <SMILES>
+OC(=O)C(\O)=C/C=C/C(=O)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+3.48
+
+> <JCHEM_BASIC_PKA>
+-6.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.63
+
+> <JCHEM_LOGP>
+1.72
+
+> <ALOGPS_LOGS>
+-2.8
+
+> <JCHEM_POLARIZABILITY>
+21.7
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+60.71
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+3.59e-01 g/l __ 
+
+$$$$

@@ -1,0 +1,104 @@
+
+  Mrv0541 05041208382D          
+
+ 11 12  0  0  0  0            999 V2000
+   -0.4152    0.4905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2993    0.9030    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0137    0.4905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7282    0.9030    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0137   -0.3345    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2993   -0.7470    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2993   -1.5720    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4152   -0.3345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1998   -0.5894    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6848    0.0780    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1998    0.7455    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  2  0  0  0  0
+  1 11  1  0  0  0  0
+  3  2  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  6  5  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  6  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01667
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+8-azaguanine
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C4H4N6O
+
+> <MOLECULAR_WEIGHT>
+152.1142
+
+> <EXACT_MASS>
+152.04465878
+
+> <IUPAC_NAME>
+5-amino-1H-[1,2,3]triazolo[4,5-d]pyrimidin-7-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+5-amino-1H-[1,2,3]triazolo[4,5-d]pyrimidin-7-ol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H4N6O/c5-4-6-2-1(3(11)7-4)8-10-9-2/h(H4,5,6,7,8,9,10,11)
+
+> <INCHI_KEY>
+InChIKey=LPXQRXLUHJKZIE-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=NC2=C(NN=N2)C(O)=N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+7.89
+
+> <JCHEM_BASIC_PKA>
+0.05
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.87
+
+> <JCHEM_LOGP>
+-0.16
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+12.62
+
+> <JCHEM_POLAR_SURFACE_AREA>
+113.6
+
+> <JCHEM_REFRACTIVITY>
+39.24
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.66e+00 g/l __ 
+
+$$$$

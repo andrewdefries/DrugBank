@@ -1,0 +1,122 @@
+738
+  Mrv0541 02241213172D          
+
+ 21 23  0  0  0  0            999 V2000
+   -1.9785   -1.5652    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3910   -0.8508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2160   -0.8508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6285   -0.1363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2160    0.5782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3910    0.5782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9785   -0.1363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1535   -0.1363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7410    0.5782    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7410   -0.8508    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0840   -0.8508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5689   -0.1833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3140    0.6013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0590    1.3859    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5689   -1.5182    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3535   -1.2633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0680   -1.6758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7825   -1.2633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7825   -0.4383    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0680   -0.0258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3535   -0.4383    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  2  3  2  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6  5  1  0  0  0  0
+  7  2  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  8  2  0  0  0  0
+ 10  8  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 12 11  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  3  0  0  0  0
+ 15 11  1  0  0  0  0
+ 16 21  2  0  0  0  0
+ 16 15  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 18 17  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07217
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-(3-cyano-4,5,6,7-tetrahydro-1-benzothien-2-yl)-2-fluorobenzamide
+
+> <CHEMICAL_FORMULA>
+C16H13FN2OS
+
+> <MOLECULAR_WEIGHT>
+300.351
+
+> <EXACT_MASS>
+300.073261943
+
+> <IUPAC_NAME>
+N-(3-cyano-4,5,6,7-tetrahydro-1-benzothiophen-2-yl)-2-fluorobenzamide
+
+> <IUPAC_TRADITIONAL_NAME>
+N-(3-cyano-4,5,6,7-tetrahydro-1-benzothiophen-2-yl)-2-fluorobenzamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H13FN2OS/c17-13-7-3-1-6-11(13)15(20)19-16-12(9-18)10-5-2-4-8-14(10)21-16/h1,3,6-7H,2,4-5,8H2,(H,19,20)
+
+> <INCHI_KEY>
+InChIKey=YVYPYORTKAIUGJ-UHFFFAOYSA-N
+
+> <SMILES>
+FC1=CC=CC=C1C(=O)NC1=C(C#N)C2=C(CCCC2)S1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+7.76
+
+> <JCHEM_BASIC_PKA>
+-5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.85
+
+> <JCHEM_LOGP>
+4.6
+
+> <ALOGPS_LOGS>
+-5
+
+> <JCHEM_POLARIZABILITY>
+30.86
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.89
+
+> <JCHEM_REFRACTIVITY>
+81.22
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+3.09e-03 g/l __ 
+
+$$$$

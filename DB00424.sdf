@@ -1,0 +1,131 @@
+
+  Mrv0541 04191212122D          
+
+ 21 23  0  0  1  0            999 V2000
+   -0.7145    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0738   -1.3395    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8782   -1.1559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2362   -0.4127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8783    0.3307    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.0740    0.5143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.7353   -0.6293    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0208   -0.2168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 19  1  1  6  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  5  1  6  0  0  0
+  2  4  2  0  0  0  0
+  6  5  1  0  0  0  0
+  8  7  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 14 13  1  0  0  0  0
+ 15 13  1  0  0  0  0
+ 13 20  1  1  0  0  0
+ 19 14  1  0  0  0  0
+ 16 15  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 18 17  1  0  0  0  0
+ 17 20  1  1  0  0  0
+ 18 19  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00424
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Hyoscyamine
+
+> <SYNONYMS>
+(−)-atropine; (−)-hyoscyamine; (S)-(−)-hyoscyamine; (S)-atropine; Daturine; Duboisine; L-Hyoscyamine; L-Tropine Tropate
+
+> <SALTS>
+Hyoscyamine sulfate
+
+> <BRANDS>
+Anaspaz; Atropen; Buwecon; Cystospaz; Donnamar; Egazil; Gastrosed; Levbid; Levsin; Levsinex; NuLev; Symax
+
+> <CHEMICAL_FORMULA>
+C17H23NO3
+
+> <MOLECULAR_WEIGHT>
+289.3694
+
+> <EXACT_MASS>
+289.167793607
+
+> <IUPAC_NAME>
+(1R,3S,5S)-8-methyl-8-azabicyclo[3.2.1]octan-3-yl (2S)-3-hydroxy-2-phenylpropanoate
+
+> <IUPAC_TRADITIONAL_NAME>
+hyoscyamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H23NO3/c1-18-13-7-8-14(18)10-15(9-13)21-17(20)16(11-19)12-5-3-2-4-6-12/h2-6,13-16,19H,7-11H2,1H3/t13-,14+,15+,16-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=RKUNBYITZUJHSG-FXUDXRNXSA-N
+
+> <SMILES>
+CN1[C@H]2CC[C@@H]1C[C@@H](C2)OC(=O)[C@H](CO)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+15.15
+
+> <JCHEM_BASIC_PKA>
+9.39
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.19
+
+> <JCHEM_LOGP>
+1.57
+
+> <ALOGPS_LOGS>
+-2.1
+
+> <JCHEM_POLARIZABILITY>
+31.74
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.77
+
+> <JCHEM_REFRACTIVITY>
+80.82
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+2.52e+00 g/l __ 
+
+$$$$

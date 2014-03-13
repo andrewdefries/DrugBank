@@ -1,0 +1,121 @@
+HBQ
+  Mrv0541 02241213422D          
+
+ 21 22  0  0  0  0            999 V2000
+   -2.5692    1.0497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5692    0.2247    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.1402    0.2247    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1402    1.0497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4257    1.4622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2887    1.0497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2887    0.2247    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4257   -0.1878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2836   -0.1878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2836   -1.0128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8547   -1.0128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1402   -2.2503    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4257   -2.6628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8547   -2.6628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0032   -0.1878    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8547   -0.1878    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8547    1.4622    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2836    1.4622    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1402   -1.4253    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5692   -1.4253    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0748    0.5167    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  2  0  0  0  0
+  1 17  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  9  1  1  0  0  0
+  2 16  1  0  0  0  0
+  2 21  1  6  0  0  0
+  3  4  1  0  0  0  0
+  3 16  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4 17  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 15  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 20  2  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07884
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+ISOPROPYL (2S)-2-ETHYL-7-FLUORO-3-OXO-3,4-DIHYDROQUINOXALINE-1(2H)-CARBOXYLATE
+
+> <CHEMICAL_FORMULA>
+C14H17FN2O3
+
+> <MOLECULAR_WEIGHT>
+280.2948
+
+> <EXACT_MASS>
+280.122320625
+
+> <IUPAC_NAME>
+propan-2-yl (2S)-2-ethyl-7-fluoro-3-oxo-1,2,3,4-tetrahydroquinoxaline-1-carboxylate
+
+> <IUPAC_TRADITIONAL_NAME>
+isopropyl (2S)-2-ethyl-7-fluoro-3-oxo-2,4-dihydroquinoxaline-1-carboxylate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H17FN2O3/c1-4-11-13(18)16-10-6-5-9(15)7-12(10)17(11)14(19)20-8(2)3/h5-8,11H,4H2,1-3H3,(H,16,18)/t11-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=KELNNWMENBUHNS-NSHDSACASA-N
+
+> <SMILES>
+[H][C@@]1(CC)N(C(=O)OC(C)C)C2=CC(F)=CC=C2NC1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+12.28
+
+> <JCHEM_BASIC_PKA>
+-3.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.97
+
+> <JCHEM_LOGP>
+2.64
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+27.61
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.64
+
+> <JCHEM_REFRACTIVITY>
+72.37
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.62e+00 g/l __ 
+
+$$$$

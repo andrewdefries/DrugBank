@@ -1,0 +1,128 @@
+176
+  Mrv0541 02231214292D          
+
+ 22 22  0  0  0  0            999 V2000
+    3.4115    3.0938    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0615    3.0938    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    3.9188    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799   -3.0938    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.6188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -3.0938    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    3.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799   -3.9188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6 11  2  3  0  0  0
+  7 22  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 20 22  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00176
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Fluvoxamine
+
+> <SYNONYMS>
+Fluvoxamina; Fluvoxaminum
+
+> <SALTS>
+Fluvoxamine maleate
+
+> <BRANDS>
+Dumirox; Faverin; Fevarin; Floxyfral; Luvox; Maveral
+
+> <CHEMICAL_FORMULA>
+C15H21F3N2O2
+
+> <MOLECULAR_WEIGHT>
+318.3346
+
+> <EXACT_MASS>
+318.155512541
+
+> <IUPAC_NAME>
+(2-aminoethoxy)({5-methoxy-1-[4-(trifluoromethyl)phenyl]pentylidene})amine
+
+> <IUPAC_TRADITIONAL_NAME>
+(2-aminoethoxy)({5-methoxy-1-[4-(trifluoromethyl)phenyl]pentylidene})amine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H21F3N2O2/c1-21-10-3-2-4-14(20-22-11-9-19)12-5-7-13(8-6-12)15(16,17)18/h5-8H,2-4,9-11,19H2,1H3/b20-14+
+
+> <INCHI_KEY>
+InChIKey=CJOFXWAVKWHTFT-XSFVSMFZSA-N
+
+> <SMILES>
+COCCCCC(=NOCCN)C1=CC=C(C=C1)C(F)(F)F
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+9.16
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.89
+
+> <JCHEM_LOGP>
+2.8
+
+> <ALOGPS_LOGS>
+-4.6
+
+> <JCHEM_POLARIZABILITY>
+32.44
+
+> <JCHEM_POLAR_SURFACE_AREA>
+56.84
+
+> <JCHEM_REFRACTIVITY>
+79.2
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <ALOGPS_SOLUBILITY>
+7.34e-03 g/l __ 
+
+$$$$

@@ -1,0 +1,73 @@
+
+  Mrv0541 02231216522D          
+
+  4  3  0  0  0  0            999 V2000
+    1.2375    0.7145    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 Mo   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03328
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+dioxothiomolybdenum(VI) ion
+
+> <CHEMICAL_FORMULA>
+HMoO2S
+
+> <MOLECULAR_WEIGHT>
+161.01
+
+> <EXACT_MASS>
+162.875132812
+
+> <IUPAC_NAME>
+molybdenumoylthiol
+
+> <IUPAC_TRADITIONAL_NAME>
+molybdenumoylthiol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/Mo.2O.H2S/h;;;1H2/q+1;;;/p-1
+
+> <INCHI_KEY>
+InChIKey=BDSRWPHSAKXXRG-UHFFFAOYSA-M
+
+> <SMILES>
+S[Mo](=O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+8.65
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_LOGP>
+-0.3
+
+> <JCHEM_POLARIZABILITY>
+7.48
+
+> <JCHEM_POLAR_SURFACE_AREA>
+34.14
+
+> <JCHEM_REFRACTIVITY>
+9.44
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0 __ 
+
+$$$$

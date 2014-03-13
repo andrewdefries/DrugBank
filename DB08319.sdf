@@ -1,0 +1,111 @@
+OBP
+  Mrv0541 02241214012D          
+
+ 16 17  0  0  0  0            999 V2000
+    1.1816    0.2110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4671   -0.2015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4671   -1.0265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1816   -1.4390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8961   -1.0265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8961   -0.2015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2473    0.2110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9618   -0.2015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6763    0.2110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6763    1.0360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9618    1.4485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2473    1.0360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4671    1.4485    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2473   -1.4390    0.0000 S   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.9618   -1.0265    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2473   -2.2640    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08319
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2'-HYDROXY-1,1'-BIPHENYL-2-SULFINIC ACID
+
+> <CHEMICAL_FORMULA>
+C12H10O3S
+
+> <MOLECULAR_WEIGHT>
+234.271
+
+> <EXACT_MASS>
+234.035064876
+
+> <IUPAC_NAME>
+(R)-2-(2-hydroxyphenyl)benzene-1-sulfinic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(R)-2-(2-hydroxyphenyl)benzenesulfinic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H10O3S/c13-11-7-3-1-5-9(11)10-6-2-4-8-12(10)16(14)15/h1-8,13H,(H,14,15)
+
+> <INCHI_KEY>
+InChIKey=HPKSNFTYZHYEKV-UHFFFAOYSA-N
+
+> <SMILES>
+OC1=CC=CC=C1C1=CC=CC=C1[S@@](O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+0.88
+
+> <JCHEM_BASIC_PKA>
+-5.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+2.1
+
+> <JCHEM_LOGP>
+2.28
+
+> <ALOGPS_LOGS>
+-1.9
+
+> <JCHEM_POLARIZABILITY>
+23.08
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+64.32
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+3.02e+00 g/l __ 
+
+$$$$

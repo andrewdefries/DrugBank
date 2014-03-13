@@ -1,0 +1,107 @@
+
+  Mrv0541 02231216272D          
+
+ 15 14  0  0  1  0            999 V2000
+    2.9980    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.7125    1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.1414    1.3184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    0.9059    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.8559    3.3809    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.5704    1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.2849    3.3809    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  1  0  0  0
+  2  4  1  0  0  0  0
+  5  4  1  1  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  1  6  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  6  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  6  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02787
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Acetylmannosaminitol
+
+> <CHEMICAL_FORMULA>
+C8H19NO6
+
+> <MOLECULAR_WEIGHT>
+225.2396
+
+> <EXACT_MASS>
+225.121237345
+
+> <IUPAC_NAME>
+(2R,3R,4S,5R)-5-{[(1S)-1-hydroxyethyl]amino}hexane-1,2,3,4,6-pentol
+
+> <IUPAC_TRADITIONAL_NAME>
+N-acetylmannosaminitol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H19NO6/c1-4(12)9-5(2-10)7(14)8(15)6(13)3-11/h4-15H,2-3H2,1H3/t4-,5+,6+,7-,8-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=OUBSZQOZVSSBQR-SHGPDSBTSA-N
+
+> <SMILES>
+C[C@H](O)N[C@H](CO)[C@H](O)[C@@H](O)[C@H](O)CO
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+7
+
+> <JCHEM_ACIDIC_PKA>
+12.78
+
+> <JCHEM_BASIC_PKA>
+7.75
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-2.2
+
+> <JCHEM_LOGP>
+-3.8
+
+> <ALOGPS_LOGS>
+-0.18
+
+> <JCHEM_POLARIZABILITY>
+22.14
+
+> <JCHEM_POLAR_SURFACE_AREA>
+133.41
+
+> <JCHEM_REFRACTIVITY>
+50.78
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+1.48e+02 g/l __ 
+
+$$$$

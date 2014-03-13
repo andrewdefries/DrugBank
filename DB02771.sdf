@@ -1,0 +1,95 @@
+
+  Mrv0541 02231216272D          
+
+ 12 11  0  0  0  0            999 V2000
+    3.5211    2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2355    3.2704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9500    2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6645    3.2704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3789    2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0934    3.2704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8079    2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5224    3.2704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2368    2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9513    3.2704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6658    2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3802    3.2704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02771
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Dodecane
+
+> <CHEMICAL_FORMULA>
+C12H26
+
+> <MOLECULAR_WEIGHT>
+170.3348
+
+> <EXACT_MASS>
+170.203450832
+
+> <IUPAC_NAME>
+dodecane
+
+> <IUPAC_TRADITIONAL_NAME>
+dodecane
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H26/c1-3-5-7-9-11-12-10-8-6-4-2/h3-12H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=SNRUBQQJIBEYMU-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCCCCCCCC
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+6.42
+
+> <JCHEM_LOGP>
+5.8
+
+> <ALOGPS_LOGS>
+-6
+
+> <JCHEM_POLARIZABILITY>
+24.83
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+57.01
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <ALOGPS_SOLUBILITY>
+1.76e-04 g/l __ 
+
+$$$$

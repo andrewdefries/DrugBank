@@ -1,0 +1,94 @@
+
+  Mrv0541 02231216022D          
+
+ 12 13  0  0  0  0            999 V2000
+    2.5645    2.4750    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.2789    2.0625    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.9934    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798   -0.2549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2949    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798    1.0799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  6  7  4  0  0  0  0
+  7  8  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  4  0  0  0  0
+ 11 12  4  0  0  0  0
+  4 12  4  0  0  0  0
+  8 12  4  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02207
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+7-Nitroindazole
+
+> <CHEMICAL_FORMULA>
+C7H4N3O2
+
+> <MOLECULAR_WEIGHT>
+162.1256
+
+> <EXACT_MASS>
+162.030351387
+
+> <IUPAC_NAME>
+7-nitroindazole
+
+> <IUPAC_TRADITIONAL_NAME>
+7-nitroindazole
+
+> <SMILES>
+[O-][N+](=O)c1cccc2cnnc12
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+0.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.71
+
+> <JCHEM_LOGP>
+0.76
+
+> <ALOGPS_LOGS>
+-1.5
+
+> <JCHEM_POLARIZABILITY>
+14.03
+
+> <JCHEM_POLAR_SURFACE_AREA>
+71.6
+
+> <JCHEM_REFRACTIVITY>
+42.82
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.24e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,88 @@
+
+  Mrv0541 02231215582D          
+
+  7  6  0  0  1  0            999 V2000
+    1.2375    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02107
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Leucine - Reduced Carbonyl
+
+> <CHEMICAL_FORMULA>
+C6H15N
+
+> <MOLECULAR_WEIGHT>
+101.19
+
+> <EXACT_MASS>
+101.120449485
+
+> <IUPAC_NAME>
+(2R)-4-methylpentan-2-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R)-4-methylpentan-2-amine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H15N/c1-5(2)4-6(3)7/h5-6H,4,7H2,1-3H3/t6-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=UNBMPKNTYKDYCG-ZCFIWIBFSA-N
+
+> <SMILES>
+CC(C)C[C@@H](C)N
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+10.42
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.59
+
+> <JCHEM_LOGP>
+1.4
+
+> <ALOGPS_LOGS>
+-1
+
+> <JCHEM_POLARIZABILITY>
+13.34
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+32.76
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+9.83e+00 g/l __ 
+
+$$$$

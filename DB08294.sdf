@@ -1,0 +1,106 @@
+NPA
+  Mrv0541 02241214002D          
+
+ 14 14  0  0  0  0            999 V2000
+    0.3880    0.4084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3880   -0.4166    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3265   -0.8291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0410   -0.4166    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0410    0.4084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3265    0.8209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1025    0.8209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8169    0.4084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3265   -1.6541    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.0410   -2.0666    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.3880   -2.0666    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7554   -0.8291    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5314    0.8209    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8169   -0.4166    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8 13  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08294
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(4-HYDROXY-3-NITROPHENYL)ACETIC ACID
+
+> <CHEMICAL_FORMULA>
+C8H7NO5
+
+> <MOLECULAR_WEIGHT>
+197.1449
+
+> <EXACT_MASS>
+197.032422339
+
+> <IUPAC_NAME>
+2-(4-hydroxy-3-nitrophenyl)acetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(4-hydroxy-3-nitrophenyl)acetic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H7NO5/c10-7-2-1-5(4-8(11)12)3-6(7)9(13)14/h1-3,10H,4H2,(H,11,12)
+
+> <INCHI_KEY>
+InChIKey=QBHBHOSRLDPIHG-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)CC1=CC(=C(O)C=C1)[N+]([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.86
+
+> <JCHEM_BASIC_PKA>
+-6.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+2.01
+
+> <JCHEM_LOGP>
+1.25
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+17.11
+
+> <JCHEM_POLAR_SURFACE_AREA>
+103.35
+
+> <JCHEM_REFRACTIVITY>
+46.67
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.86e+00 g/l __ 
+
+$$$$

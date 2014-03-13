@@ -1,0 +1,106 @@
+PHI
+  Mrv0541 02231217052D          
+
+ 14 14  0  0  0  0            999 V2000
+   -0.0677    1.1907    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6467    0.7782    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6467   -0.0468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0677   -0.4593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0677   -1.2843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7822   -0.0468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7822   -1.6968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4967   -0.4593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4967   -1.2843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2112   -1.6968    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3612    1.1907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3612    2.0157    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0757    0.7782    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1410    0.4863    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 14  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03660
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Iodo-Phenylalanine
+
+> <CHEMICAL_FORMULA>
+C9H10INO2
+
+> <MOLECULAR_WEIGHT>
+291.0857
+
+> <EXACT_MASS>
+290.975621989
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-(4-iodophenyl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+iodo-phenylalanine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10INO2/c10-7-3-1-6(2-4-7)5-8(11)9(12)13/h1-4,8H,5,11H2,(H,12,13)/t8-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=PZNQZSRPDOEBMS-QMMMGPOBSA-N
+
+> <SMILES>
+[H][C@](N)(CC1=CC=C(I)C=C1)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+1.27
+
+> <JCHEM_BASIC_PKA>
+9.44
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.2
+
+> <JCHEM_LOGP>
+-0.26
+
+> <ALOGPS_LOGS>
+-3
+
+> <JCHEM_POLARIZABILITY>
+22.87
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+58.48
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.74e-01 g/l __ 
+
+$$$$

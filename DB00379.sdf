@@ -1,0 +1,110 @@
+379
+  Mrv0541 02231214382D          
+
+ 13 13  0  0  1  0            999 V2000
+    3.0791    0.1568    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.8068    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.3943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.0808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.0808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.8068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.3183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 10  2  0  0  0  0
+  7 13  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00379
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Mexiletine
+
+> <SYNONYMS>
+Mexiletina; Mexiletinum
+
+> <SALTS>
+Mexiletine Hydrochloride
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C11H17NO
+
+> <MOLECULAR_WEIGHT>
+179.2588
+
+> <EXACT_MASS>
+179.131014171
+
+> <IUPAC_NAME>
+2-(2-aminopropoxy)-1,3-dimethylbenzene
+
+> <IUPAC_TRADITIONAL_NAME>
+mexiletine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H17NO/c1-8-5-4-6-9(2)11(8)13-7-10(3)12/h4-6,10H,7,12H2,1-3H3
+
+> <INCHI_KEY>
+InChIKey=VLPIATFUUWWMKC-UHFFFAOYSA-N
+
+> <SMILES>
+CC(N)COC1=C(C)C=CC=C1C
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+9.52
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.17
+
+> <JCHEM_LOGP>
+2.46
+
+> <ALOGPS_LOGS>
+-2.5
+
+> <JCHEM_POLARIZABILITY>
+21.17
+
+> <JCHEM_POLAR_SURFACE_AREA>
+35.25
+
+> <JCHEM_REFRACTIVITY>
+54.97
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+5.38e-01 g/l __ 
+
+$$$$

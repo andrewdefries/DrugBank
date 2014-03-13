@@ -1,0 +1,109 @@
+1055
+  Mrv0541 02231215122D          
+
+ 14 14  0  0  1  0            999 V2000
+    2.0930    2.2193    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -1.9058    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    2.2193    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.7308    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.2558    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.5693    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.9818    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.2365   -0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.8068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.4933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.4933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 14  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  8  6  1  6  0  0  0
+  7  8  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01055
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Mimosine
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C8H10N2O4
+
+> <MOLECULAR_WEIGHT>
+198.176
+
+> <EXACT_MASS>
+198.064056818
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-(3-hydroxy-4-oxo-1,4-dihydropyridin-1-yl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+mimosine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H10N2O4/c9-5(8(13)14)3-10-2-1-6(11)7(12)4-10/h1-2,4-5,12H,3,9H2,(H,13,14)/t5-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=WZNJWVWKTVETCG-YFKPBYRVSA-N
+
+> <SMILES>
+N[C@@H](CN1C=CC(=O)C(O)=C1)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.94
+
+> <JCHEM_BASIC_PKA>
+8.88
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.4
+
+> <JCHEM_LOGP>
+-3
+
+> <ALOGPS_LOGS>
+-1.2
+
+> <JCHEM_POLARIZABILITY>
+18.2
+
+> <JCHEM_POLAR_SURFACE_AREA>
+103.86
+
+> <JCHEM_REFRACTIVITY>
+48.66
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.31e+01 g/l __ 
+
+$$$$

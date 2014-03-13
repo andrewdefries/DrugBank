@@ -1,0 +1,110 @@
+545
+  Mrv0541 02231214452D          
+
+ 13 13  0  0  0  0            999 V2000
+    3.0791    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.4438    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.4438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00545
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Pyridostigmine
+
+> <SYNONYMS>
+Bromure de Pyridostigmine; Bromuro de piridostigmina; Pyridostigmin bromid; Pyridostigmini Bromidum
+
+> <SALTS>
+Pyridostigmine Bromide
+
+> <BRANDS>
+Amiasten; Amygra; Antilon; Astinon; Kalymin; Kalymin forte; Kalymin N; Kalymin retard; Meshanon60; Mestinon; Mestinon retard; Mestinon-SR; Myestin; Pyridostigmine Bromide; Pyrimine; Regonol
+
+> <CHEMICAL_FORMULA>
+C9H13N2O2
+
+> <MOLECULAR_WEIGHT>
+181.2117
+
+> <EXACT_MASS>
+181.09770267
+
+> <IUPAC_NAME>
+3-[(dimethylcarbamoyl)oxy]-1-methylpyridin-1-ium
+
+> <IUPAC_TRADITIONAL_NAME>
+pyridostigmine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13N2O2/c1-10(2)9(12)13-8-5-4-6-11(3)7-8/h4-7H,1-3H3/q+1
+
+> <INCHI_KEY>
+InChIKey=RVOLLAQWKVFTGE-UHFFFAOYSA-N
+
+> <SMILES>
+CN(C)C(=O)OC1=C[N+](C)=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+19.53
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-3.1
+
+> <JCHEM_LOGP>
+-3.5
+
+> <ALOGPS_LOGS>
+-2.3
+
+> <JCHEM_POLARIZABILITY>
+19.38
+
+> <JCHEM_POLAR_SURFACE_AREA>
+33.42
+
+> <JCHEM_REFRACTIVITY>
+49.66
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.04e+00 g/l __ 
+
+$$$$

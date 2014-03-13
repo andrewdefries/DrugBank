@@ -1,0 +1,104 @@
+
+  Mrv0541 02231217442D          
+
+ 13 13  0  0  0  0            999 V2000
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  5 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04528
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,4-Dinitrophenol
+
+> <CHEMICAL_FORMULA>
+C6H4N2O5
+
+> <MOLECULAR_WEIGHT>
+184.1064
+
+> <EXACT_MASS>
+184.012021248
+
+> <IUPAC_NAME>
+2,4-dinitrophenol
+
+> <IUPAC_TRADITIONAL_NAME>
+2,4-dinitrophenol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H4N2O5/c9-6-2-1-4(7(10)11)3-5(6)8(12)13/h1-3,9H
+
+> <INCHI_KEY>
+InChIKey=UFBJCMHMOXMLKC-UHFFFAOYSA-N
+
+> <SMILES>
+OC1=CC=C(C=C1[N+]([O-])=O)[N+]([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.04
+
+> <JCHEM_BASIC_PKA>
+-7.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.89
+
+> <JCHEM_LOGP>
+1.55
+
+> <ALOGPS_LOGS>
+-2.7
+
+> <JCHEM_POLARIZABILITY>
+14.48
+
+> <JCHEM_POLAR_SURFACE_AREA>
+111.87
+
+> <JCHEM_REFRACTIVITY>
+42.69
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+3.76e-01 g/l __ 
+
+$$$$

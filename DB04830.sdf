@@ -1,0 +1,105 @@
+4830
+  Mrv0541 02231217572D          
+
+ 11 10  0  0  0  0            999 V2000
+    4.2365    0.3630    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.6005    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    1.6005    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    1.6005    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.3630    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.8745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -2.1120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 10  2  0  0  0  0
+  2 10  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04830
+
+> <DRUG_GROUPS>
+withdrawn
+
+> <GENERIC_NAME>
+Buformin
+
+> <SYNONYMS>
+1-Butylbiguanide; Buformina; Buformine; Buforminum
+
+> <SALTS>
+Buformin Hydrochloride
+
+> <BRANDS>
+Adebit; Biforon; Silubin
+
+> <CHEMICAL_FORMULA>
+C6H15N5
+
+> <MOLECULAR_WEIGHT>
+157.2168
+
+> <EXACT_MASS>
+157.132745505
+
+> <IUPAC_NAME>
+(E)-2-butyl-1-(diaminomethylidene)guanidine
+
+> <IUPAC_TRADITIONAL_NAME>
+buformin
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H15N5/c1-2-3-4-10-6(9)11-5(7)8/h2-4H2,1H3,(H6,7,8,9,10,11)
+
+> <INCHI_KEY>
+InChIKey=XSEUMFJMFFMCIU-UHFFFAOYSA-N
+
+> <SMILES>
+CCCC\N=C(/N)N=C(N)N
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_BASIC_PKA>
+11.52
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <ALOGPS_LOGP>
+-0.46
+
+> <JCHEM_LOGP>
+-0.35
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+17.67
+
+> <JCHEM_POLAR_SURFACE_AREA>
+102.78
+
+> <JCHEM_REFRACTIVITY>
+44.64
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.41e+00 g/l __ 
+
+$$$$

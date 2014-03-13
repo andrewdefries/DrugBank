@@ -1,0 +1,99 @@
+
+  Mrv0541 02231217382D          
+
+ 11 10  0  0  0  0            999 V2000
+    4.3164    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4914    2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.0164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    2.2539    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  2  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04377
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Hydroxy-3-Methyl-Glutaric Acid
+
+> <CHEMICAL_FORMULA>
+C6H10O5
+
+> <MOLECULAR_WEIGHT>
+162.1406
+
+> <EXACT_MASS>
+162.05282343
+
+> <IUPAC_NAME>
+3-hydroxy-3-methylpentanedioic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+meglutol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10O5/c1-6(11,2-4(7)8)3-5(9)10/h11H,2-3H2,1H3,(H,7,8)(H,9,10)
+
+> <INCHI_KEY>
+InChIKey=NPOAOTPXWNWTSH-UHFFFAOYSA-N
+
+> <SMILES>
+CC(O)(CC(O)=O)CC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+3.68
+
+> <JCHEM_BASIC_PKA>
+-3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-0.88
+
+> <JCHEM_LOGP>
+-0.75
+
+> <ALOGPS_LOGS>
+0.23
+
+> <JCHEM_POLARIZABILITY>
+14.55
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.83
+
+> <JCHEM_REFRACTIVITY>
+34.14
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+2.75e+02 g/l __ 
+
+$$$$

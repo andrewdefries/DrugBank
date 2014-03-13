@@ -1,0 +1,108 @@
+1077
+  Mrv0541 02231215132D          
+
+ 11 10  0  0  0  0            999 V2000
+    4.0031    0.4125    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5741   -0.4125    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8760    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7175    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4156   -0.3020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1615    0.3020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8596   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8598    1.2250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9866   -1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2885    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7010   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  9  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01077
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Etidronic acid
+
+> <SYNONYMS>
+1-hydroxyethane 1,1-diphosphonic acid; Acetodiphosphonic acid; Acide etidronique; Acido etidronico; Acidum etidronicum; EHDP; Etidronate; Etidronsäure; HEDP; Hydroxyethanediphosphonic acid; Oxyethylidenediphosphonic acid
+
+> <SALTS>
+Etidronate disodium
+
+> <BRANDS>
+Didronel
+
+> <CHEMICAL_FORMULA>
+C2H8O7P2
+
+> <MOLECULAR_WEIGHT>
+206.0282
+
+> <EXACT_MASS>
+205.974525634
+
+> <IUPAC_NAME>
+(1-hydroxy-1-phosphonoethyl)phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+1-hydroxy-1-phosphonoethylphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H8O7P2/c1-2(3,10(4,5)6)11(7,8)9/h3H,1H3,(H2,4,5,6)(H2,7,8,9)
+
+> <INCHI_KEY>
+InChIKey=DBVJJBKOTRCVKF-UHFFFAOYSA-N
+
+> <SMILES>
+CC(O)(P(O)(O)=O)P(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+0.7
+
+> <JCHEM_BASIC_PKA>
+-5.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-0.77
+
+> <JCHEM_LOGP>
+-2.3
+
+> <ALOGPS_LOGS>
+-1.2
+
+> <JCHEM_POLARIZABILITY>
+13.97
+
+> <JCHEM_POLAR_SURFACE_AREA>
+135.29
+
+> <JCHEM_REFRACTIVITY>
+34.51
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.15e+01 g/l __ 
+
+$$$$

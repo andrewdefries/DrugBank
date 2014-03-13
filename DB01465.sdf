@@ -1,0 +1,103 @@
+1465
+  Mrv0541 02231215302D          
+
+ 14 14  0  0  1  0            999 V2000
+    2.3645    0.0784    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -1.5717    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.1409    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.5717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -2.3967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01465
+
+> <DRUG_GROUPS>
+experimental; illicit
+
+> <GENERIC_NAME>
+2,5-Dimethoxyamphetamine
+
+> <CHEMICAL_FORMULA>
+C11H17NO2
+
+> <MOLECULAR_WEIGHT>
+195.2582
+
+> <EXACT_MASS>
+195.125928793
+
+> <IUPAC_NAME>
+1-(2,5-dimethoxyphenyl)propan-2-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+2,5-dimethoxyamphetamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H17NO2/c1-8(12)6-9-7-10(13-2)4-5-11(9)14-3/h4-5,7-8H,6,12H2,1-3H3
+
+> <INCHI_KEY>
+InChIKey=LATVFYDIBMDBSY-UHFFFAOYSA-N
+
+> <SMILES>
+COC1=CC(CC(C)N)=C(OC)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+9.91
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.52
+
+> <JCHEM_LOGP>
+1.49
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+22
+
+> <JCHEM_POLAR_SURFACE_AREA>
+44.48
+
+> <JCHEM_REFRACTIVITY>
+56.63
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.25e+00 g/l __ 
+
+$$$$

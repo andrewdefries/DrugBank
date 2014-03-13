@@ -1,0 +1,102 @@
+1DB
+  Mrv0541 02241213032D          
+
+ 14 13  0  0  0  0            999 V2000
+   -3.2026    0.5634    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4881    0.1509    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9006   -0.5636    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0756    0.8654    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7737   -0.2616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0592    0.1509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3447   -0.2616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3698    0.1509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0842   -0.2616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7987    0.1509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5132   -0.2616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2276    0.1509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9421   -0.2616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6566    0.1509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB06893
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-DECANE-SULFONIC-ACID
+
+> <CHEMICAL_FORMULA>
+C10H22O3S
+
+> <MOLECULAR_WEIGHT>
+222.345
+
+> <EXACT_MASS>
+222.12896526
+
+> <IUPAC_NAME>
+decane-1-sulfonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+decane-1-sulfonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H22O3S/c1-2-3-4-5-6-7-8-9-10-14(11,12)13/h2-10H2,1H3,(H,11,12,13)
+
+> <INCHI_KEY>
+InChIKey=KVGOXGQSTGQXDD-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCCCCCCS(O)(=O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+-0.59
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.6
+
+> <JCHEM_LOGP>
+3.18
+
+> <ALOGPS_LOGS>
+-3.5
+
+> <JCHEM_POLARIZABILITY>
+26
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.37
+
+> <JCHEM_REFRACTIVITY>
+58.13
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <ALOGPS_SOLUBILITY>
+7.27e-02 g/l __ 
+
+$$$$

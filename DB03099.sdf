@@ -1,0 +1,102 @@
+
+  Mrv0541 02231216412D          
+
+ 12 12  0  0  0  0            999 V2000
+    2.1434    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  2  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  3 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03099
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-Amino 6-Nitro Uracil
+
+> <CHEMICAL_FORMULA>
+C4H4N4O4
+
+> <MOLECULAR_WEIGHT>
+172.099
+
+> <EXACT_MASS>
+172.023254636
+
+> <IUPAC_NAME>
+5-amino-6-nitro-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+5-amino 6-nitro uracil
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H4N4O4/c5-1-2(8(11)12)6-4(10)7-3(1)9/h5H2,(H2,6,7,9,10)
+
+> <INCHI_KEY>
+InChIKey=CLOSWQFGCBFNCK-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=C(NC(=O)NC1=O)[N+]([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+6.07
+
+> <JCHEM_BASIC_PKA>
+-4.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-1.1
+
+> <JCHEM_LOGP>
+-1.6
+
+> <ALOGPS_LOGS>
+-1.9
+
+> <JCHEM_POLARIZABILITY>
+13.01
+
+> <JCHEM_POLAR_SURFACE_AREA>
+130.04
+
+> <JCHEM_REFRACTIVITY>
+34.58
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.97e+00 g/l __ 
+
+$$$$

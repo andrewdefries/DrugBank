@@ -1,0 +1,107 @@
+
+  Mrv0541 02231215522D          
+
+ 15 14  0  0  1  0            999 V2000
+    2.2836    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9980    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9980    3.3809    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    1.3184    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    3.3809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    3.7934    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    3.7934    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  5  4  1  6  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+  5 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01985
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Alpha-L-Acetyl-Arginine
+
+> <CHEMICAL_FORMULA>
+C8H16N4O3
+
+> <MOLECULAR_WEIGHT>
+216.2376
+
+> <EXACT_MASS>
+216.122240398
+
+> <IUPAC_NAME>
+(2S)-5-carbamimidamido-2-acetamidopentanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+N-α-L-acetyl-arginine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H16N4O3/c1-5(13)12-6(7(14)15)3-2-4-11-8(9)10/h6H,2-4H2,1H3,(H,12,13)(H,14,15)(H4,9,10,11)/t6-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=SNEIUMQYRCDYCH-LURJTMIESA-N
+
+> <SMILES>
+CC(=O)N[C@@H](CCCNC(N)=N)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+3.68
+
+> <JCHEM_BASIC_PKA>
+12.24
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.7
+
+> <JCHEM_LOGP>
+-3.3
+
+> <ALOGPS_LOGS>
+-2.5
+
+> <JCHEM_POLARIZABILITY>
+22.04
+
+> <JCHEM_POLAR_SURFACE_AREA>
+128.3
+
+> <JCHEM_REFRACTIVITY>
+63.37
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+7.67e-01 g/l __ 
+
+$$$$

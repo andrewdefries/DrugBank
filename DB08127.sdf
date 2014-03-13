@@ -1,0 +1,102 @@
+LSR
+  Mrv0541 02241213532D          
+
+ 15 15  0  0  0  0            999 V2000
+    2.6083    1.1294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8938    0.7169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1793    1.1294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1793    1.9544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4649    0.7169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4649   -0.1081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2496   -0.5206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2496   -1.3456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4649   -1.7581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9641   -1.7581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6785   -1.3456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6785   -0.5206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9641   -0.1081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5768    0.6203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3514    0.6203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08127
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,3,3-trimethyl-2-[(1E,3E)-3-methylpenta-1,3-dien-1-yl]cyclohexene
+
+> <CHEMICAL_FORMULA>
+C15H24
+
+> <MOLECULAR_WEIGHT>
+204.3511
+
+> <EXACT_MASS>
+204.187800768
+
+> <IUPAC_NAME>
+1,3,3-trimethyl-2-[(1E,3E)-3-methylpenta-1,3-dien-1-yl]cyclohex-1-ene
+
+> <IUPAC_TRADITIONAL_NAME>
+1,3,3-trimethyl-2-[(1E,3E)-3-methylpenta-1,3-dien-1-yl]cyclohex-1-ene
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H24/c1-6-12(2)9-10-14-13(3)8-7-11-15(14,4)5/h6,9-10H,7-8,11H2,1-5H3/b10-9+,12-6+
+
+> <INCHI_KEY>
+InChIKey=KUEVAPFABUUVHS-AYCKBHPDSA-N
+
+> <SMILES>
+C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+6.25
+
+> <JCHEM_LOGP>
+4.68
+
+> <ALOGPS_LOGS>
+-3.9
+
+> <JCHEM_POLARIZABILITY>
+26.78
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+71.23
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.67e-02 g/l __ 
+
+$$$$

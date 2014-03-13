@@ -1,0 +1,107 @@
+PSK
+  Mrv0541 02241214052D          
+
+ 15 14  0  0  0  0            999 V2000
+   -1.5833   -0.4241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8689   -0.0116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1543   -0.4241    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.1543   -1.2492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5602   -0.0116    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5602    0.8135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2747   -0.4241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2747   -1.2492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9892   -0.0116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7038   -0.4241    0.0000 P   0  0  1  0  0  0  0  0  0  0  0  0
+    3.4183   -0.0116    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7038   -1.2492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6600   -0.7162    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0545    0.2804    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7038    0.3045    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  1  0  0  0
+  3  5  1  0  0  0  0
+  3 13  1  6  0  0  0
+  5  6  1  1  0  0  0
+  5  7  1  0  0  0  0
+  5 14  1  6  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  6  0  0  0
+ 10 15  1  6  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08431
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+[(3R,4S)-4-HYDROXY-3-METHYL-2-OXOHEXYL]PHOSPHONIC ACID
+
+> <CHEMICAL_FORMULA>
+C7H15O4P
+
+> <MOLECULAR_WEIGHT>
+194.1654
+
+> <EXACT_MASS>
+194.07079548
+
+> <IUPAC_NAME>
+[(3R,4S)-4-hydroxy-3-methyl-2-oxohexyl]phosphinic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(3R,4S)-4-hydroxy-3-methyl-2-oxohexylphosphinic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H15O4P/c1-3-6(8)5(2)7(9)4-12(10)11/h5-6,8,12H,3-4H2,1-2H3,(H,10,11)/t5-,6+/m1/s1
+
+> <INCHI_KEY>
+InChIKey=UXHVQAJQXZWLAW-RITPCOANSA-N
+
+> <SMILES>
+[H][C@](C)(C(=O)C[P@]([H])(O)=O)[C@@]([H])(O)CC
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.09
+
+> <JCHEM_BASIC_PKA>
+-2.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.34
+
+> <JCHEM_LOGP>
+-0.13
+
+> <ALOGPS_LOGS>
+-0.68
+
+> <JCHEM_POLARIZABILITY>
+18.54
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+45.26
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+4.05e+01 g/l __ 
+
+$$$$

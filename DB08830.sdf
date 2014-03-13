@@ -1,0 +1,109 @@
+
+  Mrv0541 07241309122D          
+
+ 14 14  0  0  0  0            999 V2000
+   -1.3848    0.8786    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0522    0.3936    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7973   -0.3909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9723   -0.3909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7174    0.3936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0522    1.2186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2272    1.2186    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0522    2.0436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5598   -1.1054    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1076    0.3936    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2098   -1.1054    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2272    2.0436    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0522    2.8686    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8772    2.0436    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  1  0  0  0
+  3  4  1  1  0  0  0
+  4  5  1  1  0  0  0
+  2  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5 10  2  0  0  0  0
+  3 11  2  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08830
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Dehydroascorbic Acid
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C6H6O6
+
+> <MOLECULAR_WEIGHT>
+174.1082
+
+> <EXACT_MASS>
+174.016437924
+
+> <IUPAC_NAME>
+(5R)-5-(1,2-dihydroxyethyl)oxolane-2,3,4-trione
+
+> <IUPAC_TRADITIONAL_NAME>
+(5R)-5-(1,2-dihydroxyethyl)oxolane-2,3,4-trione
+
+> <INCHI_IDENTIFIER>
+InChI=1/C6H6O6/c7-1-2(8)5-3(9)4(10)6(11)12-5/h2,5,7-8H,1H2/t2?,5-/s2
+
+> <INCHI_KEY>
+InChIKey=SBJKKFFYIZUCET-IDJHHGDLNA-N
+
+> <SMILES>
+[H]C([H])(O)C(O)[C@H]1OC(=O)C(=O)C1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+1.56
+
+> <JCHEM_BASIC_PKA>
+-3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-1.2
+
+> <JCHEM_LOGP>
+-0.67
+
+> <ALOGPS_LOGS>
+0.04
+
+> <JCHEM_POLARIZABILITY>
+14.12
+
+> <JCHEM_POLAR_SURFACE_AREA>
+100.9
+
+> <JCHEM_REFRACTIVITY>
+33.55
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.90e+02 g/l __ 
+
+$$$$

@@ -1,0 +1,134 @@
+333
+  Mrv0541 02231214362D          
+
+ 23 24  0  0  1  0            999 V2000
+    5.8950    0.7144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4253   -0.2482    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6575    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8325    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0572    0.2822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6575    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6575   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4825    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9140    1.0946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8950   -0.7144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9430    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3720   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3720    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9430   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5685   -1.0605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7200   -0.7144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9430    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3720   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3720    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9430   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6575    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6575   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2 15  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 11  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7 12  2  0  0  0  0
+  7 14  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 20  2  0  0  0  0
+ 14 21  2  0  0  0  0
+ 18 22  2  0  0  0  0
+ 19 23  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00333
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Methadone
+
+> <SYNONYMS>
+(+/-)-Methadone; (±)-methadone; 6-Dimethylamino-4,4-diphenyl-3-heptanone; dl-Methadone
+
+> <SALTS>
+Methadone Hydrochloride
+
+> <BRANDS>
+Adolan; Depridol; Dolophine; Heptadon; Heptanon; Ketalgin; Mephenon; Physeptone
+
+> <CHEMICAL_FORMULA>
+C21H27NO
+
+> <MOLECULAR_WEIGHT>
+309.4452
+
+> <EXACT_MASS>
+309.209264491
+
+> <IUPAC_NAME>
+6-(dimethylamino)-4,4-diphenylheptan-3-one
+
+> <IUPAC_TRADITIONAL_NAME>
+methadone
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H27NO/c1-5-20(23)21(16-17(2)22(3)4,18-12-8-6-9-13-18)19-14-10-7-11-15-19/h6-15,17H,5,16H2,1-4H3
+
+> <INCHI_KEY>
+InChIKey=USSIQXCVUWKGNF-UHFFFAOYSA-N
+
+> <SMILES>
+CCC(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+18.78
+
+> <JCHEM_BASIC_PKA>
+9.12
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+4.14
+
+> <JCHEM_LOGP>
+5.01
+
+> <ALOGPS_LOGS>
+-4.7
+
+> <JCHEM_POLARIZABILITY>
+36.29
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.31
+
+> <JCHEM_REFRACTIVITY>
+97.27
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+5.90e-03 g/l __ 
+
+$$$$

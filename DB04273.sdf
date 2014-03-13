@@ -1,0 +1,102 @@
+LY1
+  Mrv0541 02231217342D          
+
+ 13 14  0  0  0  0            999 V2000
+    0.4514    0.9330    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2557    0.7494    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6137    0.0061    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2557   -0.7372    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4514   -0.9208    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1936   -0.4064    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9081   -0.8189    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6225   -0.4064    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6225    0.4186    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9081    0.8311    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1936    0.4186    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3370    0.8311    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9081    1.6561    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04273
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+8,9-Dichloro-2,3,4,5-Tetrahydro-1h-Benzo[C]Azepine
+
+> <CHEMICAL_FORMULA>
+C10H11Cl2N
+
+> <MOLECULAR_WEIGHT>
+216.107
+
+> <EXACT_MASS>
+215.026854771
+
+> <IUPAC_NAME>
+8,9-dichloro-2,3,4,5-tetrahydro-1H-2-benzazepine
+
+> <IUPAC_TRADITIONAL_NAME>
+8,9-dichloro-2,3,4,5-tetrahydro-1H-2-benzazepine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11Cl2N/c11-9-4-3-7-2-1-5-13-6-8(7)10(9)12/h3-4,13H,1-2,5-6H2
+
+> <INCHI_KEY>
+InChIKey=IADAQXMUWITWNG-UHFFFAOYSA-N
+
+> <SMILES>
+ClC1=CC=C2CCCNCC2=C1Cl
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+8.84
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+3.02
+
+> <JCHEM_LOGP>
+3.22
+
+> <ALOGPS_LOGS>
+-3.6
+
+> <JCHEM_POLARIZABILITY>
+21.69
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+56.83
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.15e-02 g/l __ 
+
+$$$$

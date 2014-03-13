@@ -1,0 +1,104 @@
+1539
+  Mrv0541 02231215332D          
+
+ 14 15  0  0  0  0            999 V2000
+    2.8876    0.4678    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.1823    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.2467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -0.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -0.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.4842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.4842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    1.1823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7126    0.4678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -1.8967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8876    1.8967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251    1.1823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7126    1.8967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.4678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2 14  3  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01539
+
+> <DRUG_GROUPS>
+experimental; illicit
+
+> <GENERIC_NAME>
+1-Piperidinocyclohexanecarbonitrile
+
+> <CHEMICAL_FORMULA>
+C12H20N2
+
+> <MOLECULAR_WEIGHT>
+192.3006
+
+> <EXACT_MASS>
+192.16264865
+
+> <IUPAC_NAME>
+1-(piperidin-1-yl)cyclohexane-1-carbonitrile
+
+> <IUPAC_TRADITIONAL_NAME>
+1-(piperidin-1-yl)cyclohexane-1-carbonitrile
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H20N2/c13-11-12(7-3-1-4-8-12)14-9-5-2-6-10-14/h1-10H2
+
+> <INCHI_KEY>
+InChIKey=WWSAYKJWUZJLRT-UHFFFAOYSA-N
+
+> <SMILES>
+N#CC1(CCCCC1)N1CCCCC1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+6.98
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.73
+
+> <JCHEM_LOGP>
+2.6
+
+> <ALOGPS_LOGS>
+-2.6
+
+> <JCHEM_POLARIZABILITY>
+22.81
+
+> <JCHEM_POLAR_SURFACE_AREA>
+27.03
+
+> <JCHEM_REFRACTIVITY>
+58.25
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.22e-01 g/l __ 
+
+$$$$

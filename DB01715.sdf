@@ -1,0 +1,103 @@
+
+  Mrv0541 02231215402D          
+
+ 13 12  0  0  1  0            999 V2000
+    2.2836    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9980    2.5559    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.9980    3.3809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.7125    1.3184    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  6  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01715
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+7,8-Diamino-Nonanoic Acid
+
+> <CHEMICAL_FORMULA>
+C9H20N2O2
+
+> <MOLECULAR_WEIGHT>
+188.2673
+
+> <EXACT_MASS>
+188.152477894
+
+> <IUPAC_NAME>
+(7R,8S)-7,8-diaminononanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+7,8-diamino-nonanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H20N2O2/c1-7(10)8(11)5-3-2-4-6-9(12)13/h7-8H,2-6,10-11H2,1H3,(H,12,13)/t7-,8+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=KCEGBPIYGIWCDH-JGVFFNPUSA-N
+
+> <SMILES>
+C[C@H](N)[C@H](N)CCCCCC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+4.73
+
+> <JCHEM_BASIC_PKA>
+9.97
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-2.1
+
+> <JCHEM_LOGP>
+-1.9
+
+> <ALOGPS_LOGS>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+21.85
+
+> <JCHEM_POLAR_SURFACE_AREA>
+89.34
+
+> <JCHEM_REFRACTIVITY>
+51.3
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+4.94e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,115 @@
+634
+  Mrv0541 02231214502D          
+
+ 14 14  0  0  0  0            999 V2000
+    2.4751    0.7466    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.7466    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    0.7466    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    1.5717    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    1.5717    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -2.5534    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -1.7284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.9842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    2.8092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1  7  1  0  0  0  0
+  4 13  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00634
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Sulfacetamide
+
+> <SYNONYMS>
+Sulfacetamid; Sulfacetamida; Sulfacétamide; Sulfacetamidum
+
+> <SALTS>
+Sulfacetamide sodium
+
+> <BRANDS>
+Acetopt; Albucid; Anginamide; Antebor; Apisulfa; Blef-10; Bleph; Cetamide; Cetazin; Klaron; Oftasul; Optal; Ovace; Riacetamid; Sulfacil; Sulphacalyre; Unisulf
+
+> <CHEMICAL_FORMULA>
+C8H10N2O3S
+
+> <MOLECULAR_WEIGHT>
+214.242
+
+> <EXACT_MASS>
+214.041212886
+
+> <IUPAC_NAME>
+N-[(4-aminobenzene)sulfonyl]acetamide
+
+> <IUPAC_TRADITIONAL_NAME>
+N-(4-aminobenzenesulfonyl)acetamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H10N2O3S/c1-6(11)10-14(12,13)8-4-2-7(9)3-5-8/h2-5H,9H2,1H3,(H,10,11)
+
+> <INCHI_KEY>
+InChIKey=SKIVFJLNDNKQPD-UHFFFAOYSA-N
+
+> <SMILES>
+CC(=O)NS(=O)(=O)C1=CC=C(N)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+4.3
+
+> <JCHEM_BASIC_PKA>
+2.14
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.15
+
+> <JCHEM_LOGP>
+-0.26
+
+> <ALOGPS_LOGS>
+-1.7
+
+> <JCHEM_POLARIZABILITY>
+20.49
+
+> <JCHEM_POLAR_SURFACE_AREA>
+89.26
+
+> <JCHEM_REFRACTIVITY>
+52.48
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.21e+00 g/l __ 
+
+$$$$

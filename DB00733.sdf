@@ -1,0 +1,107 @@
+
+  Mrv0541 04191212142D          
+
+ 10 10  0  0  0  0            999 V2000
+   -0.7500    1.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4645    0.7250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4645   -0.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0355    0.7250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -0.5125    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0355   -0.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6789   -0.5125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3934   -0.1000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1079   -0.5125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  7  2  0  0  0  0
+  7  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00733
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Pralidoxime
+
+> <SYNONYMS>
+2-PAM; Pralidoxim; Pralidoxima; Pralidoxime; Pralidoximum
+
+> <SALTS>
+Pralidoxime Chloride
+
+> <BRANDS>
+Contrathion; Nispam; Pamcl; Pampara; Pamu; Pralidoxime Chloride; Protopam; Protopam Chloride
+
+> <CHEMICAL_FORMULA>
+C7H9N2O
+
+> <MOLECULAR_WEIGHT>
+137.1592
+
+> <EXACT_MASS>
+137.07148792
+
+> <IUPAC_NAME>
+2-[(1E)-(hydroxyimino)methyl]-1-methylpyridin-1-ium
+
+> <IUPAC_TRADITIONAL_NAME>
+pralidoxime
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8N2O/c1-9-5-3-2-4-7(9)6-8-10/h2-6H,1H3/p+1
+
+> <INCHI_KEY>
+InChIKey=JBKPUQTUERUYQE-UHFFFAOYSA-O
+
+> <SMILES>
+C[N+]1=C(\C=N\O)C=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+5.78
+
+> <JCHEM_BASIC_PKA>
+-1.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-3
+
+> <JCHEM_LOGP>
+-3.3
+
+> <ALOGPS_LOGS>
+-3.1
+
+> <JCHEM_POLARIZABILITY>
+14.44
+
+> <JCHEM_POLAR_SURFACE_AREA>
+36.47
+
+> <JCHEM_REFRACTIVITY>
+40.33
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.49e-01 g/l __ 
+
+$$$$

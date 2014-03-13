@@ -1,0 +1,104 @@
+
+  Mrv0541 02231215522D          
+
+ 13 13  0  0  1  0            999 V2000
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  6  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  2  9  1  0  0  0  0
+  9 10  1  1  0  0  0
+  4 11  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01982
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+D-Mannuronic Acid
+
+> <CHEMICAL_FORMULA>
+C6H10O7
+
+> <MOLECULAR_WEIGHT>
+194.1394
+
+> <EXACT_MASS>
+194.042652674
+
+> <IUPAC_NAME>
+(2R,3R,4R,5R,6R)-3,4,5,6-tetrahydroxyoxane-2-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R,3R,4R,5R,6R)-3,4,5,6-tetrahydroxyoxane-2-carboxylic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10O7/c7-1-2(8)4(5(10)11)13-6(12)3(1)9/h1-4,6-9,12H,(H,10,11)/t1-,2-,3-,4-,6-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=AEMOLEFTQBMNLQ-YBSDWZGDSA-N
+
+> <SMILES>
+O[C@@H]1O[C@H]([C@H](O)[C@@H](O)[C@H]1O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+3.21
+
+> <JCHEM_BASIC_PKA>
+-3.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-2.3
+
+> <JCHEM_LOGP>
+-2.6
+
+> <ALOGPS_LOGS>
+0.18
+
+> <JCHEM_POLARIZABILITY>
+16.11
+
+> <JCHEM_POLAR_SURFACE_AREA>
+127.45
+
+> <JCHEM_REFRACTIVITY>
+35.79
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.95e+02 g/l __ 
+
+$$$$

@@ -1,0 +1,103 @@
+
+  Mrv0541 02231216462D          
+
+ 11 11  0  0  1  0            999 V2000
+    2.1434    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  6  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  1  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  6  0  0  0
+  8 10  1  0  0  0  0
+  3 10  1  0  0  0  0
+ 10 11  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03206
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-Deoxynojirimycin
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C6H13NO4
+
+> <MOLECULAR_WEIGHT>
+163.1717
+
+> <EXACT_MASS>
+163.084457909
+
+> <IUPAC_NAME>
+(2S,3S,4S,5R)-2-(hydroxymethyl)piperidine-3,4,5-triol
+
+> <IUPAC_TRADITIONAL_NAME>
+1-deoxynojirimycin
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13NO4/c8-2-3-5(10)6(11)4(9)1-7-3/h3-11H,1-2H2/t3-,4+,5-,6-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=LXBIFEVIBLOUGU-FSIIMWSLSA-N
+
+> <SMILES>
+OC[C@@H]1NC[C@@H](O)[C@H](O)[C@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+12.91
+
+> <JCHEM_BASIC_PKA>
+8.06
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-2.2
+
+> <JCHEM_LOGP>
+-2.9
+
+> <ALOGPS_LOGS>
+0.5
+
+> <JCHEM_POLARIZABILITY>
+15.86
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.95
+
+> <JCHEM_REFRACTIVITY>
+36.57
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.11e+02 g/l __ 
+
+$$$$

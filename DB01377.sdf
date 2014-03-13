@@ -1,0 +1,69 @@
+1377
+  Mrv0541 02231215242D          
+
+  2  1  0  0  0  0            999 V2000
+     2.475     0.000     0.000 Mg   0  0  0  0  0  0  0  0  0  0  0  0
+     1.650     0.000     0.000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01377
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Magnesium oxide
+
+> <CHEMICAL_FORMULA>
+MgO
+
+> <MOLECULAR_WEIGHT>
+40.304
+
+> <EXACT_MASS>
+39.97995652
+
+> <IUPAC_NAME>
+oxomagnesium
+
+> <IUPAC_TRADITIONAL_NAME>
+magnesium oxide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/Mg.O
+
+> <INCHI_KEY>
+InChIKey=CPLXHLVBOLITMK-UHFFFAOYSA-N
+
+> <SMILES>
+O=[Mg]
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+13.09
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_LOGP>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+2.88
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+1.44
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0 __ 
+
+$$$$

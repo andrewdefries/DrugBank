@@ -1,0 +1,133 @@
+729
+  Mrv0541 02231214572D          
+
+ 27 28  0  0  0  0            999 V2000
+    2.0077    8.1586    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7222    8.5711    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2932    7.7461    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.4202    7.4441    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5952    8.8731    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5864    1.1575    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.8720    1.5700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3009    1.5700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8720    2.3950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3009    2.3950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5864    2.8075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1739    0.4430    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9989    0.4430    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5864    3.6326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3009    4.0451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8720    4.0451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3009    4.8701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1575    3.6326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0154    3.6326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8720    4.8701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0154    5.2826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4430    4.0451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7299    4.0451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1575    5.2826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7299    4.8701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4430    4.8701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4367    8.1586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  2  0  0  0  0
+  2 27  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 18 22  1  0  0  0  0
+ 19 23  2  0  0  0  0
+ 20 24  2  0  0  0  0
+ 21 25  2  0  0  0  0
+ 22 26  2  0  0  0  0
+ 23 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00729
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Diphemanil Methylsulfate
+
+> <SYNONYMS>
+Diphemanil methylsulfat; Diphemanili metilsulfas ; Métilsulfate de Diphémanil; Metilsulfato de difemanilo; Vagophemanil
+
+> <BRANDS>
+Prantal
+
+> <CHEMICAL_FORMULA>
+C21H27NO4S
+
+> <MOLECULAR_WEIGHT>
+389.508
+
+> <EXACT_MASS>
+389.166079047
+
+> <IUPAC_NAME>
+4-(diphenylmethylidene)-1,1-dimethylpiperidin-1-ium methyl sulfate
+
+> <IUPAC_TRADITIONAL_NAME>
+4-(diphenylmethylidene)-1,1-dimethylpiperidin-1-ium methyl sulfate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H24N.CH4O4S/c1-21(2)15-13-19(14-16-21)20(17-9-5-3-6-10-17)18-11-7-4-8-12-18;1-5-6(2,3)4/h3-12H,13-16H2,1-2H3;1H3,(H,2,3,4)/q+1;/p-1
+
+> <INCHI_KEY>
+InChIKey=BREMLQBSKCSNNH-UHFFFAOYSA-M
+
+> <SMILES>
+COS([O-])(=O)=O.C[N+]1(C)CCC(CC1)=C(C1=CC=CC=C1)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.12
+
+> <JCHEM_LOGP>
+-0.15
+
+> <ALOGPS_LOGS>
+-6.3
+
+> <JCHEM_POLARIZABILITY>
+33.56
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+111.69
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.04e-04 g/l __ 
+
+$$$$

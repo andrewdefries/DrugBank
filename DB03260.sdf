@@ -1,0 +1,90 @@
+
+  Mrv0541 02231216492D          
+
+  8  7  0  0  0  0            999 V2000
+    1.0461    1.4289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03260
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,6-Diaminohexane
+
+> <CHEMICAL_FORMULA>
+C6H16N2
+
+> <MOLECULAR_WEIGHT>
+116.2046
+
+> <EXACT_MASS>
+116.131348522
+
+> <IUPAC_NAME>
+hexane-1,6-diamine
+
+> <IUPAC_TRADITIONAL_NAME>
+1,6-diaminohexane
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H16N2/c7-5-3-1-2-4-6-8/h1-8H2
+
+> <INCHI_KEY>
+InChIKey=NAQMVNRVTILPCV-UHFFFAOYSA-N
+
+> <SMILES>
+NCCCCCCN
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_BASIC_PKA>
+10.51
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <ALOGPS_LOGP>
+0.27
+
+> <JCHEM_LOGP>
+0.044
+
+> <ALOGPS_LOGS>
+-0.7
+
+> <JCHEM_POLARIZABILITY>
+15.18
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.04
+
+> <JCHEM_REFRACTIVITY>
+36.58
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+2.34e+01 g/l __ 
+
+$$$$

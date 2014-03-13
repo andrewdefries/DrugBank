@@ -1,0 +1,89 @@
+
+  Mrv0541 02231215432D          
+
+  6  5  0  0  1  0            999 V2000
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0625    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  6  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01786
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+D-Alanine
+
+> <CHEMICAL_FORMULA>
+C3H7NO2
+
+> <MOLECULAR_WEIGHT>
+89.0932
+
+> <EXACT_MASS>
+89.047678473
+
+> <IUPAC_NAME>
+(2S)-2-aminopropanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+L-alanine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H7NO2/c1-2(4)3(5)6/h2H,4H2,1H3,(H,5,6)/t2-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=QNAYBMKLOCPYGJ-REOHCLBHSA-N
+
+> <SMILES>
+C[C@H](N)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.47
+
+> <JCHEM_BASIC_PKA>
+9.48
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-3
+
+> <JCHEM_LOGP>
+-2.8
+
+> <ALOGPS_LOGS>
+0.7
+
+> <JCHEM_POLARIZABILITY>
+8.48
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+20.5
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.47e+02 g/l __ 
+
+$$$$

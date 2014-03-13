@@ -1,0 +1,99 @@
+
+  Mrv0541 02231216322D          
+
+ 12 12  0  0  0  0            999 V2000
+    0.7145   -2.0625    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5395   -1.2375    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1105   -1.2375    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  5 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02885
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Imino-5-Methidyl-2-Trifluoromethylpyrimidine
+
+> <CHEMICAL_FORMULA>
+C6H4F3N3
+
+> <MOLECULAR_WEIGHT>
+175.1113
+
+> <EXACT_MASS>
+175.035731758
+
+> <IUPAC_NAME>
+5-methylidene-2-(trifluoromethyl)-4,5-dihydropyrimidin-4-imine
+
+> <IUPAC_TRADITIONAL_NAME>
+5-methylidene-2-(trifluoromethyl)pyrimidin-4-imine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H4F3N3/c1-3-2-11-5(6(7,8)9)12-4(3)10/h2,10H,1H2
+
+> <INCHI_KEY>
+InChIKey=YKFRUALXTUDSBW-UHFFFAOYSA-N
+
+> <SMILES>
+FC(F)(F)C1=NC(=N)C(=C)C=N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+3.43
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.56
+
+> <JCHEM_LOGP>
+0.56
+
+> <ALOGPS_LOGS>
+-3.9
+
+> <JCHEM_POLARIZABILITY>
+12.63
+
+> <JCHEM_POLAR_SURFACE_AREA>
+48.57
+
+> <JCHEM_REFRACTIVITY>
+46.52
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.45e-02 g/l __ 
+
+$$$$

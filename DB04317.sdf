@@ -1,0 +1,98 @@
+
+  Mrv0541 02231217362D          
+
+ 12 11  0  0  0  0            999 V2000
+    0.8250    1.4289    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.7145    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.7145    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8875   -0.7145    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -1.5395    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.1105    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.7145    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -0.7145    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+  4 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04317
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3,3-Dichloro-2-Phosphonomethyl-Acrylic Acid
+
+> <CHEMICAL_FORMULA>
+C4H5Cl2O5P
+
+> <MOLECULAR_WEIGHT>
+234.959
+
+> <EXACT_MASS>
+233.925165196
+
+> <IUPAC_NAME>
+3,3-dichloro-2-(phosphonomethyl)prop-2-enoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+3,3-dichloro-2-(phosphonomethyl)prop-2-enoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H5Cl2O5P/c5-3(6)2(4(7)8)1-12(9,10)11/h1H2,(H,7,8)(H2,9,10,11)
+
+> <INCHI_KEY>
+InChIKey=IBGSKYLUHGAGLB-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)C(CP(O)(O)=O)=C(Cl)Cl
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.72
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-0.53
+
+> <JCHEM_LOGP>
+-0.21
+
+> <ALOGPS_LOGS>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+16.73
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.83
+
+> <JCHEM_REFRACTIVITY>
+52.86
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+5.36e+00 g/l __ 
+
+$$$$

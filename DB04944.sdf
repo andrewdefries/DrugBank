@@ -1,0 +1,121 @@
+
+  Mrv0541 02231218022D          
+
+ 18 19  0  0  1  0            999 V2000
+    4.1496   -1.2476    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0301   -0.9926    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5847   -2.6996    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2001   -2.6134    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2001    1.9132    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4822    0.0624    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0697    1.3320    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9343    0.2924    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0441    2.7530    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8147   -1.2476    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.4822   -0.7626    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.0697   -2.0322    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.8947   -2.0322    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.3796   -2.6996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1496    0.5473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8147    0.5473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8947    1.3320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3796    1.9994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 13  1  0  0  0  0
+ 10  2  1  1  0  0  0
+ 12  3  1  1  0  0  0
+  4 14  1  0  0  0  0
+  5 18  2  0  0  0  0
+ 11  6  1  6  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 16  2  0  0  0  0
+  7 17  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  6  0  0  0
+ 15 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04944
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Acadesine
+
+> <SYNONYMS>
+
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C9H14N4O5
+
+> <MOLECULAR_WEIGHT>
+258.2313
+
+> <EXACT_MASS>
+258.096419578
+
+> <IUPAC_NAME>
+5-amino-1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1H-imidazole-4-carboxamide
+
+> <IUPAC_TRADITIONAL_NAME>
+acadesine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H14N4O5/c10-7-4(8(11)17)12-2-13(7)9-6(16)5(15)3(1-14)18-9/h2-3,5-6,9,14-16H,1,10H2,(H2,11,17)/t3-,5-,6-,9-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=RTRQQBHATOEIAF-UUOKFMHZSA-N
+
+> <SMILES>
+NC(=O)C1=C(N)N(C=N1)[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+12.45
+
+> <JCHEM_BASIC_PKA>
+4.82
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.8
+
+> <JCHEM_LOGP>
+-2.6
+
+> <ALOGPS_LOGS>
+-1
+
+> <JCHEM_POLARIZABILITY>
+24.23
+
+> <JCHEM_POLAR_SURFACE_AREA>
+156.85
+
+> <JCHEM_REFRACTIVITY>
+58.27
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.50e+01 g/l __ 
+
+$$$$

@@ -1,0 +1,104 @@
+RSA
+  Mrv0541 02231217152D          
+
+ 14 15  0  0  0  0            999 V2000
+   -1.7057    2.5749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4507    1.7903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1958    1.0057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3888    0.8341    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1339    0.0495    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6188   -0.6179    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1339   -1.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6507   -1.0304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6507   -0.2054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3652    0.2071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3652   -1.4429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0797   -1.0304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0797   -0.2054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7106    0.1408    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  4  1  6  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 14  1  1  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03894
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Propargyl-1(S)-Aminoindan
+
+> <CHEMICAL_FORMULA>
+C12H13N
+
+> <MOLECULAR_WEIGHT>
+171.2383
+
+> <EXACT_MASS>
+171.104799421
+
+> <IUPAC_NAME>
+(1S)-N-(prop-2-yn-1-yl)-2,3-dihydro-1H-inden-1-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+(1S)-N-(prop-2-yn-1-yl)-2,3-dihydro-1H-inden-1-amine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H13N/c1-2-9-13-12-8-7-10-5-3-4-6-11(10)12/h1,3-6,12-13H,7-9H2/t12-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=RUOKEQAAGRXIBM-LBPRGKRZSA-N
+
+> <SMILES>
+[H][C@@]1(CCC2=C1C=CC=C2)NCC#C
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+8.69
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.26
+
+> <JCHEM_LOGP>
+2.3
+
+> <ALOGPS_LOGS>
+-3.8
+
+> <JCHEM_POLARIZABILITY>
+20.14
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+54.47
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.49e-02 g/l __ 
+
+$$$$

@@ -1,0 +1,85 @@
+
+  Mrv0541 02231216212D          
+
+  4  3  0  0  0  0            999 V2000
+    2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02646
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Nitrosoethane
+
+> <CHEMICAL_FORMULA>
+C2H5NO
+
+> <MOLECULAR_WEIGHT>
+59.0672
+
+> <EXACT_MASS>
+59.037113787
+
+> <IUPAC_NAME>
+nitrosoethane
+
+> <IUPAC_TRADITIONAL_NAME>
+nitrosoethane
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H5NO/c1-2-3-4/h2H2,1H3
+
+> <INCHI_KEY>
+InChIKey=IFYCAQIXDKZDTB-UHFFFAOYSA-N
+
+> <SMILES>
+CCN=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+17.84
+
+> <JCHEM_BASIC_PKA>
+-1.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.5
+
+> <JCHEM_LOGP>
+0.32
+
+> <ALOGPS_LOGS>
+-0.14
+
+> <JCHEM_POLARIZABILITY>
+5.82
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.43
+
+> <JCHEM_REFRACTIVITY>
+14.59
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.33e+01 g/l __ 
+
+$$$$

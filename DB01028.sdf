@@ -1,0 +1,96 @@
+1028
+  Mrv0541 02231215112D          
+
+  8  7  0  0  0  0            999 V2000
+    4.5080   -0.2615    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.9760    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6665    0.4529    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4916   -0.9760    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.6740    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.2615    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.1510    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.2615    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01028
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Methoxyflurane
+
+> <SYNONYMS>
+Methoxyfluranum; Metoxiflurano
+
+> <BRANDS>
+Penthrane
+
+> <CHEMICAL_FORMULA>
+C3H4Cl2F2O
+
+> <MOLECULAR_WEIGHT>
+164.966
+
+> <EXACT_MASS>
+163.960726574
+
+> <IUPAC_NAME>
+2,2-dichloro-1,1-difluoro-1-methoxyethane
+
+> <IUPAC_TRADITIONAL_NAME>
+methoxyflurane
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H4Cl2F2O/c1-8-3(6,7)2(4)5/h2H,1H3
+
+> <INCHI_KEY>
+InChIKey=RFKMCNOHBTXSMU-UHFFFAOYSA-N
+
+> <SMILES>
+COC(F)(F)C(Cl)Cl
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-4.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.01
+
+> <JCHEM_LOGP>
+2.31
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+11.46
+
+> <JCHEM_POLAR_SURFACE_AREA>
+9.23
+
+> <JCHEM_REFRACTIVITY>
+27.97
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+6.46e+00 g/l __ 
+
+$$$$

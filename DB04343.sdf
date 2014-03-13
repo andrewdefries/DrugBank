@@ -1,0 +1,87 @@
+
+  Mrv0541 02231217372D          
+
+  5  4  0  0  0  0            999 V2000
+    2.0625   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04343
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Glyoxalate, Glyoxylate
+
+> <CHEMICAL_FORMULA>
+C2H2O3
+
+> <MOLECULAR_WEIGHT>
+74.0355
+
+> <EXACT_MASS>
+74.00039393
+
+> <IUPAC_NAME>
+2-oxoacetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+glyoxalate, glyoxylate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H2O3/c3-1-2(4)5/h1H,(H,4,5)
+
+> <INCHI_KEY>
+InChIKey=HHLFWLYXYJOTON-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)C=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+2.61
+
+> <JCHEM_BASIC_PKA>
+-9.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.59
+
+> <JCHEM_LOGP>
+-0.13
+
+> <ALOGPS_LOGS>
+0.48
+
+> <JCHEM_POLARIZABILITY>
+5.35
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.37
+
+> <JCHEM_REFRACTIVITY>
+13.5
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.24e+02 g/l __ 
+
+$$$$

@@ -1,0 +1,115 @@
+150
+  Mrv0541 02231214282D          
+
+ 15 16  0  0  1  0            999 V2000
+    5.9868    1.6183    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6286    2.0622    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597   -1.6183    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4742    0.0498    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597   -0.2904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1159    0.4938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.5418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9232    0.6639    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.0791   -1.3668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3412   -0.9543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.1293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.7793    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1795    1.4482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.5418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.3668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  8  4  1  1  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00150
+
+> <DRUG_GROUPS>
+approved; nutraceutical
+
+> <GENERIC_NAME>
+L-Tryptophan
+
+> <SYNONYMS>
+(S)-alpha-Amino-beta-(3-indolyl)-propionic acid; (S)-Tryptophan; (S)-α-amino-1H-indole-3-propanoic acid; L-(-)-Tryptophan; L-(−)-tryptophan; L-β-3-indolylalanine; Trp; Tryptophan
+
+> <BRANDS>
+Alti-Tryptophan
+
+> <CHEMICAL_FORMULA>
+C11H12N2O2
+
+> <MOLECULAR_WEIGHT>
+204.2252
+
+> <EXACT_MASS>
+204.089877638
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-(1H-indol-3-yl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+L-tryptophan
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H12N2O2/c12-9(11(14)15)5-7-6-13-10-4-2-1-3-8(7)10/h1-4,6,9,13H,5,12H2,(H,14,15)/t9-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
+
+> <SMILES>
+N[C@@H](CC1=CNC2=CC=CC=C12)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+2.54
+
+> <JCHEM_BASIC_PKA>
+9.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.1
+
+> <JCHEM_LOGP>
+-1.1
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+21.05
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.11
+
+> <JCHEM_REFRACTIVITY>
+56.2
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.36e+00 g/l __ 
+
+$$$$

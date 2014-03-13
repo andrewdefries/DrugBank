@@ -1,0 +1,115 @@
+NPS
+  Mrv0541 02241214002D          
+
+ 18 19  0  0  0  0            999 V2000
+    5.1682   -1.0643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4538   -0.6518    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1682   -1.8893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7406   -2.3018    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.8827   -2.3018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5972   -1.8893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5972   -1.0643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8827   -0.6518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3116   -2.3018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0261   -1.8893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4551   -1.8893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3116   -0.6518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0261   -1.0643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4538    0.1732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4551   -3.5393    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0261   -3.5393    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7406   -3.1268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7406   -1.7179    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  1  1  0  0  0  0
+  4 11  1  6  0  0  0
+  4 10  1  0  0  0  0
+  4 18  1  1  0  0  0
+  5  3  2  0  0  0  0
+  6  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  1  2  0  0  0  0
+  9  6  2  0  0  0  0
+ 10  9  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 12  7  2  0  0  0  0
+ 13 12  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 16  2  0  0  0  0
+ 17  4  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08298
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2S)-2-(6-methoxynaphthalen-2-yl)propanoic acid
+
+> <CHEMICAL_FORMULA>
+C14H14O3
+
+> <MOLECULAR_WEIGHT>
+230.2592
+
+> <EXACT_MASS>
+230.094294314
+
+> <IUPAC_NAME>
+(2S)-2-(6-methoxynaphthalen-2-yl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+naproxen
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H14O3/c1-9(14(15)16)10-3-4-12-8-13(17-2)6-5-11(12)7-10/h3-9H,1-2H3,(H,15,16)/t9-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=CMWTZPSULFXXJA-VIFPVBQESA-N
+
+> <SMILES>
+[H][C@@](C)(C(O)=O)C1=CC=C2C=C(OC)C=CC2=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.19
+
+> <JCHEM_BASIC_PKA>
+-4.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+3.29
+
+> <JCHEM_LOGP>
+2.99
+
+> <ALOGPS_LOGS>
+-3.6
+
+> <JCHEM_POLARIZABILITY>
+24.64
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+64.85
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+5.11e-02 g/l __ 
+
+$$$$

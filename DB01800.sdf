@@ -1,0 +1,108 @@
+CSN
+  Mrv0541 02231215442D          
+
+ 15 15  0  0  0  0            999 V2000
+    1.0272   -1.1053    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0272   -0.2803    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0272   -1.9303    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8522   -1.1053    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2022   -1.1053    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4018   -1.1053    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1163    2.6072    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3127    2.6072    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.3127    0.9572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4018    2.1947    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.1163    0.1322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3127    0.1322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1163    0.9572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4018   -0.2803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4018    1.3697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2 12  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01800
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N,4-Dihydroxy-N-Oxo-3-(Sulfooxy)Benzenaminium
+
+> <CHEMICAL_FORMULA>
+C6H5NO7S
+
+> <MOLECULAR_WEIGHT>
+235.171
+
+> <EXACT_MASS>
+234.978672209
+
+> <IUPAC_NAME>
+(2-hydroxy-5-nitrophenyl)oxidanesulfonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2-hydroxy-5-nitrophenyl)oxidanesulfonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H5NO7S/c8-5-2-1-4(7(9)10)3-6(5)14-15(11,12)13/h1-3,8H,(H,11,12,13)
+
+> <INCHI_KEY>
+InChIKey=XMCCOOONGGUOLA-UHFFFAOYSA-N
+
+> <SMILES>
+OC1=CC=C(C=C1OS(O)(=O)=O)[N+]([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+-3
+
+> <JCHEM_BASIC_PKA>
+-5.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.63
+
+> <JCHEM_LOGP>
+1.48
+
+> <ALOGPS_LOGS>
+-2.3
+
+> <JCHEM_POLARIZABILITY>
+18.16
+
+> <JCHEM_POLAR_SURFACE_AREA>
+129.65
+
+> <JCHEM_REFRACTIVITY>
+47.34
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.14e+00 g/l __ 
+
+$$$$

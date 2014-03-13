@@ -1,0 +1,106 @@
+
+  Mrv0541 02231217142D          
+
+ 14 14  0  0  1  0            999 V2000
+    2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  5  4  1  6  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  1  0  0  0
+  9 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  1  6  0  0  0
+ 11 13  1  0  0  0  0
+  5 13  1  0  0  0  0
+ 13 14  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03861
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2r,3r,4s,5r)-2-Acetamido-3,4-Dihydroxy-5-Hydroxymethyl-Piperidinium
+
+> <CHEMICAL_FORMULA>
+C8H16N2O4
+
+> <MOLECULAR_WEIGHT>
+204.2236
+
+> <EXACT_MASS>
+204.11100701
+
+> <IUPAC_NAME>
+N-[(2S,3S,4S,5S)-3,4-dihydroxy-5-(hydroxymethyl)piperidin-2-yl]acetamide
+
+> <IUPAC_TRADITIONAL_NAME>
+N-[(2S,3S,4S,5S)-3,4-dihydroxy-5-(hydroxymethyl)piperidin-2-yl]acetamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H16N2O4/c1-4(12)10-8-7(14)6(13)5(3-11)2-9-8/h5-9,11,13-14H,2-3H2,1H3,(H,10,12)/t5-,6-,7+,8-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=IWVRQJNSUOIUFV-HSNKUXOKSA-N
+
+> <SMILES>
+CC(=O)N[C@@H]1NC[C@@H](CO)[C@H](O)[C@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+12.39
+
+> <JCHEM_BASIC_PKA>
+7.25
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-1.7
+
+> <JCHEM_LOGP>
+-2.9
+
+> <ALOGPS_LOGS>
+-0.56
+
+> <JCHEM_POLARIZABILITY>
+20.65
+
+> <JCHEM_POLAR_SURFACE_AREA>
+101.82
+
+> <JCHEM_REFRACTIVITY>
+47.63
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+5.61e+01 g/l __ 
+
+$$$$

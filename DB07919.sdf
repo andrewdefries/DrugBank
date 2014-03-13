@@ -1,0 +1,112 @@
+HRM
+  Mrv0541 02241213442D          
+
+ 16 18  0  0  0  0            999 V2000
+    2.0116   -1.1543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7566   -0.3697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3087    0.2434    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0537    1.0280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2467    1.1995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6947    0.5864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9497   -0.1982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2822   -0.6831    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3852   -0.1982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1922   -0.3697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1303    0.5864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6823    1.1995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4893    1.0280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7442    0.2434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5512    0.0719    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8061   -0.7128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07919
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+7-METHOXY-1-METHYL-9H-BETA-CARBOLINE
+
+> <CHEMICAL_FORMULA>
+C13H12N2O
+
+> <MOLECULAR_WEIGHT>
+212.2472
+
+> <EXACT_MASS>
+212.094963016
+
+> <IUPAC_NAME>
+7-methoxy-1-methyl-9H-pyrido[3,4-b]indole
+
+> <IUPAC_TRADITIONAL_NAME>
+harmine hydrochloride
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H12N2O/c1-8-13-11(5-6-14-8)10-4-3-9(16-2)7-12(10)15-13/h3-7,15H,1-2H3
+
+> <INCHI_KEY>
+InChIKey=BXNJHAXVSOCGBA-UHFFFAOYSA-N
+
+> <SMILES>
+COC1=CC=C2C(NC3=C2C=CN=C3C)=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+13.54
+
+> <JCHEM_BASIC_PKA>
+6.15
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.05
+
+> <JCHEM_LOGP>
+1.85
+
+> <ALOGPS_LOGS>
+-3.5
+
+> <JCHEM_POLARIZABILITY>
+23.45
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.91
+
+> <JCHEM_REFRACTIVITY>
+62.37
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.13e-02 g/l __ 
+
+$$$$

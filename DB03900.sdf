@@ -1,0 +1,87 @@
+
+  Mrv0541 02231217162D          
+
+  5  4  0  0  0  0            999 V2000
+     0.825    -0.825     0.000 C   0  0  0  0  0  0  0  0  0  0  0  0
+     0.825     0.000     0.000 C   0  0  0  0  0  0  0  0  0  0  0  0
+     0.825     0.825     0.000 C   0  0  0  0  0  0  0  0  0  0  0  0
+     1.650     0.000     0.000 C   0  0  0  0  0  0  0  0  0  0  0  0
+     0.000     0.000     0.000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03900
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Methyl-2-Propanol
+
+> <CHEMICAL_FORMULA>
+C4H10O
+
+> <MOLECULAR_WEIGHT>
+74.1216
+
+> <EXACT_MASS>
+74.073164942
+
+> <IUPAC_NAME>
+2-methylpropan-2-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+2-methyl-2-propanol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H10O/c1-4(2,3)5/h5H,1-3H3
+
+> <INCHI_KEY>
+InChIKey=DKGAVHZHDRPRBM-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)(C)O
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+18.09
+
+> <JCHEM_BASIC_PKA>
+-1.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.7
+
+> <JCHEM_LOGP>
+0.54
+
+> <ALOGPS_LOGS>
+0.32
+
+> <JCHEM_POLARIZABILITY>
+8.94
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+22.07
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.54e+02 g/l __ 
+
+$$$$

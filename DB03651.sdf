@@ -1,0 +1,110 @@
+
+  Mrv0541 02231217052D          
+
+ 16 16  0  0  0  0            999 V2000
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  5 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+  3 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03651
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,4,6-Trinitrophenol
+
+> <CHEMICAL_FORMULA>
+C6H3N3O7
+
+> <MOLECULAR_WEIGHT>
+229.1039
+
+> <EXACT_MASS>
+228.997099465
+
+> <IUPAC_NAME>
+2,4,6-trinitrophenol
+
+> <IUPAC_TRADITIONAL_NAME>
+2,4,6-trinitrophenol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H3N3O7/c10-6-4(8(13)14)1-3(7(11)12)2-5(6)9(15)16/h1-2,10H
+
+> <INCHI_KEY>
+InChIKey=OXNIZHLAWKMVMX-UHFFFAOYSA-N
+
+> <SMILES>
+OC1=C(C=C(C=C1[N+]([O-])=O)[N+]([O-])=O)[N+]([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+1.35
+
+> <JCHEM_BASIC_PKA>
+-8.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.83
+
+> <JCHEM_LOGP>
+1.49
+
+> <ALOGPS_LOGS>
+-3.1
+
+> <JCHEM_POLARIZABILITY>
+16.81
+
+> <JCHEM_POLAR_SURFACE_AREA>
+157.69
+
+> <JCHEM_REFRACTIVITY>
+50.01
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.94e-01 g/l __ 
+
+$$$$

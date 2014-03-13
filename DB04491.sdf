@@ -1,0 +1,94 @@
+
+  Mrv0541 02231217432D          
+
+ 10  9  0  0  0  0            999 V2000
+    1.7605    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04491
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Diisopropylphosphono Group
+
+> <CHEMICAL_FORMULA>
+C6H15O3P
+
+> <MOLECULAR_WEIGHT>
+166.1553
+
+> <EXACT_MASS>
+166.075880858
+
+> <IUPAC_NAME>
+bis(propan-2-yl) phosphonate
+
+> <IUPAC_TRADITIONAL_NAME>
+diisopropyl phosphonate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H15O3P/c1-5(2)8-10(7)9-6(3)4/h5-6,10H,1-4H3
+
+> <INCHI_KEY>
+InChIKey=BLKXLEPPVDUHBY-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)OP(=O)OC(C)C
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-7.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.93
+
+> <JCHEM_LOGP>
+1.52
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+16.67
+
+> <JCHEM_POLAR_SURFACE_AREA>
+35.53
+
+> <JCHEM_REFRACTIVITY>
+39.87
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+7.09e+00 g/l __ 
+
+$$$$

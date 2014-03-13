@@ -1,0 +1,115 @@
+OPA
+  Mrv0541 02231216412D          
+
+ 18 19  0  0  0  0            999 V2000
+    2.2933   -0.5895    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5789   -1.0020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8644   -0.5895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8644    0.2355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5789    0.6480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2933    0.2355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0798   -0.8445    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4051   -0.1770    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0798    0.4904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1752    1.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9821    1.4466    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3769    1.8881    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2301   -0.1770    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6426   -0.8915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4676   -0.8915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8801   -1.6060    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8801   -0.1770    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2301   -1.6060    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03102
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(Oxalyl-Amino)-4,7-Dihydro-5h-Thieno[2,3-C]Pyran-3-Carboxylic Acid
+
+> <CHEMICAL_FORMULA>
+C10H9NO6S
+
+> <MOLECULAR_WEIGHT>
+271.247
+
+> <EXACT_MASS>
+271.015057715
+
+> <IUPAC_NAME>
+2-(carboxyformamido)-4H,5H,7H-thieno[2,3-c]pyran-3-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+2-(carboxyformamido)-4H,5H,7H-thieno[2,3-c]pyran-3-carboxylic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H9NO6S/c12-7(10(15)16)11-8-6(9(13)14)4-1-2-17-3-5(4)18-8/h1-3H2,(H,11,12)(H,13,14)(H,15,16)
+
+> <INCHI_KEY>
+InChIKey=SNNOZMNTPOIDSI-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)C(=O)NC1=C(C(O)=O)C2=C(COCC2)S1
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.84
+
+> <JCHEM_BASIC_PKA>
+-4.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+0.22
+
+> <JCHEM_LOGP>
+1.47
+
+> <ALOGPS_LOGS>
+-3.2
+
+> <JCHEM_POLARIZABILITY>
+24.55
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.93
+
+> <JCHEM_REFRACTIVITY>
+60.9
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.84e-01 g/l __ 
+
+$$$$

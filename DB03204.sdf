@@ -1,0 +1,95 @@
+
+  Mrv0541 02231216462D          
+
+ 10 10  0  0  0  0            999 V2000
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  2 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03204
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-(Aminomethyl)-2-Methylpyrimidin-4-Amine
+
+> <CHEMICAL_FORMULA>
+C6H10N4
+
+> <MOLECULAR_WEIGHT>
+138.1704
+
+> <EXACT_MASS>
+138.09054634
+
+> <IUPAC_NAME>
+5-(aminomethyl)-2-methylpyrimidin-4-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+5-(aminomethyl)-2-methylpyrimidin-4-amine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10N4/c1-4-9-3-5(2-7)6(8)10-4/h3H,2,7H2,1H3,(H2,8,9,10)
+
+> <INCHI_KEY>
+InChIKey=OZOHTVFCSKFMLL-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=NC=C(CN)C(N)=N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_BASIC_PKA>
+8.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-0.75
+
+> <JCHEM_LOGP>
+-0.47
+
+> <ALOGPS_LOGS>
+-0.85
+
+> <JCHEM_POLARIZABILITY>
+14.61
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.82
+
+> <JCHEM_REFRACTIVITY>
+40.83
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.95e+01 g/l __ 
+
+$$$$

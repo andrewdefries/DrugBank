@@ -1,0 +1,107 @@
+2C2
+  Mrv0541 02241213062D          
+
+ 14 15  0  0  0  0            999 V2000
+    0.6443    1.5196    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1140    0.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6984    1.0309    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3962    0.1124    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.4163   -0.0309    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1107    0.5249    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8251    0.1124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8251   -0.7126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1107   -1.1251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3962   -0.7126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5396    0.5249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2541    0.1124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2541   -0.7126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5396   -1.1251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  4  2  1  1  0  0  0
+  4  5  1  6  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 11  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 14  2  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB06952
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2S)-2-HYDROXY-2H-CHROMENE-2-CARBOXYLIC ACID
+
+> <CHEMICAL_FORMULA>
+C10H8O4
+
+> <MOLECULAR_WEIGHT>
+192.1681
+
+> <EXACT_MASS>
+192.042258744
+
+> <IUPAC_NAME>
+(2S)-2-hydroxy-2H-chromene-2-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S)-2-hydroxychromene-2-carboxylic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H8O4/c11-9(12)10(13)6-5-7-3-1-2-4-8(7)14-10/h1-6,13H,(H,11,12)/t10-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=LGYIZQLNYONEFJ-JTQLQIEISA-N
+
+> <SMILES>
+OC(=O)[C@@]1(O)OC2=CC=CC=C2C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.85
+
+> <JCHEM_BASIC_PKA>
+-5.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.92
+
+> <JCHEM_LOGP>
+1.83
+
+> <ALOGPS_LOGS>
+-1.3
+
+> <JCHEM_POLARIZABILITY>
+18.05
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.76
+
+> <JCHEM_REFRACTIVITY>
+48.77
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.80e+00 g/l __ 
+
+$$$$

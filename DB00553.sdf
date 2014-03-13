@@ -1,0 +1,115 @@
+553
+  Mrv0541 02231214462D          
+
+ 16 18  0  0  0  0            999 V2000
+    6.0575    0.0595    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1104    0.2492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5623    1.0455    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.2405    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2769   -1.0170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2769   -0.1920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8479   -1.0170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8479   -0.1920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5623    0.2205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5623   -1.4295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0575   -1.2684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1104   -1.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5390   -0.6045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3629   -1.0341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3629   -0.1748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2769    1.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4 15  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00553
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Methoxsalen
+
+> <SYNONYMS>
+Ammoidin; Methoxsalen; Méthoxsalène; Xanthotoxin
+
+> <BRANDS>
+Deltasoralen; Meladinine; Oxsoralen; Uvadex
+
+> <CHEMICAL_FORMULA>
+C12H8O4
+
+> <MOLECULAR_WEIGHT>
+216.1895
+
+> <EXACT_MASS>
+216.042258744
+
+> <IUPAC_NAME>
+9-methoxy-2H-furo[3,2-g]chromen-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+methoxsalen
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H8O4/c1-14-12-10-8(4-5-15-10)6-7-2-3-9(13)16-11(7)12/h2-6H,1H3
+
+> <INCHI_KEY>
+InChIKey=QXKHYNVANLEOEG-UHFFFAOYSA-N
+
+> <SMILES>
+COC1=C2OC(=O)C=CC2=CC2=C1OC=C2
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-3.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.1
+
+> <JCHEM_LOGP>
+1.78
+
+> <ALOGPS_LOGS>
+-3.1
+
+> <JCHEM_POLARIZABILITY>
+20.98
+
+> <JCHEM_POLAR_SURFACE_AREA>
+48.67
+
+> <JCHEM_REFRACTIVITY>
+56.85
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.64e-01 g/l __ 
+
+$$$$

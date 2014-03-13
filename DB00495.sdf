@@ -1,0 +1,123 @@
+495
+  Mrv0541 02231214432D          
+
+ 19 20  0  0  1  0            999 V2000
+    4.8558   -1.0026    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9063   -2.3685    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7595    0.3073    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1884    2.7823    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1884    0.3073    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2909   -2.4547    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4739    1.5448    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4705   -2.3685    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.2822    0.0000 N   0  5  0  0  0  0  0  0  0  0  0  0
+    3.7759   -1.7873    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.1884   -0.5177    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.5210   -1.0026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6009   -1.7873    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.0858   -2.4547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9029    0.7198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4739    0.7198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9029    1.5448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1884    1.9573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6174    1.9573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 16  2  0  0  0  0
+  4 18  2  0  0  0  0
+ 11  5  1  6  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  8  2  0  0  0  0
+ 10  6  1  1  0  0  0
+  7 16  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  6  0  0  0
+ 15 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00495
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Zidovudine
+
+> <SYNONYMS>
+Azidothymidine; AZT; ZDV
+
+> <BRANDS>
+Retrovir
+
+> <CHEMICAL_FORMULA>
+C10H13N5O4
+
+> <MOLECULAR_WEIGHT>
+267.2413
+
+> <EXACT_MASS>
+267.096753929
+
+> <IUPAC_NAME>
+1-[(2R,4S,5S)-4-azido-5-(hydroxymethyl)oxolan-2-yl]-5-methyl-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+zidovudine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H13N5O4/c1-5-3-15(10(18)12-9(5)17)8-2-6(13-14-11)7(4-16)19-8/h3,6-8,16H,2,4H2,1H3,(H,12,17,18)/t6-,7+,8+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=HBOMLICNUCNMMY-XLPZGREQSA-N
+
+> <SMILES>
+CC1=CN([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)C(=O)NC1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.96
+
+> <JCHEM_BASIC_PKA>
+-3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.1
+
+> <JCHEM_LOGP>
+-0.3
+
+> <ALOGPS_LOGS>
+-1.2
+
+> <JCHEM_POLARIZABILITY>
+24.93
+
+> <JCHEM_POLAR_SURFACE_AREA>
+108.3
+
+> <JCHEM_REFRACTIVITY>
+61.7
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.63e+01 g/l __ 
+
+$$$$

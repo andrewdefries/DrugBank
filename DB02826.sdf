@@ -1,0 +1,91 @@
+
+  Mrv0541 02231216292D          
+
+ 10  9  0  0  0  0            999 V2000
+    2.2836    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9980    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02826
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Decane
+
+> <CHEMICAL_FORMULA>
+C10H22
+
+> <MOLECULAR_WEIGHT>
+142.2817
+
+> <EXACT_MASS>
+142.172150704
+
+> <IUPAC_NAME>
+decane
+
+> <IUPAC_TRADITIONAL_NAME>
+decane
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H22/c1-3-5-7-9-10-8-6-4-2/h3-10H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=DIOQZVSQGTUSAI-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCCCCCC
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+5.87
+
+> <JCHEM_LOGP>
+4.91
+
+> <ALOGPS_LOGS>
+-5.3
+
+> <JCHEM_POLARIZABILITY>
+20.61
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+47.81
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+7.10e-04 g/l __ 
+
+$$$$

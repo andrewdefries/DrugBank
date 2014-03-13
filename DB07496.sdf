@@ -1,0 +1,111 @@
+BSU
+  Mrv0541 02241213282D          
+
+ 16 17  0  0  0  0            999 V2000
+   -0.9845   -0.2601    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2701    0.1524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2701    0.9774    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4444   -0.2601    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9845   -1.0851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2701   -1.4976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2701   -2.3226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9845   -2.7351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6990   -2.3226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6990   -1.4976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4444    1.3899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4444    2.2149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1589    2.6274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8733    2.2149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8733    1.3899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1589    0.9774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07496
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,3-DIPHENYLUREA
+
+> <CHEMICAL_FORMULA>
+C13H12N2O
+
+> <MOLECULAR_WEIGHT>
+212.2472
+
+> <EXACT_MASS>
+212.094963016
+
+> <IUPAC_NAME>
+1,3-diphenylurea
+
+> <IUPAC_TRADITIONAL_NAME>
+diphenylurea
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H12N2O/c16-13(14-11-7-3-1-4-8-11)15-12-9-5-2-6-10-12/h1-10H,(H2,14,15,16)
+
+> <INCHI_KEY>
+InChIKey=GWEHVDNNLFDJLR-UHFFFAOYSA-N
+
+> <SMILES>
+O=C(NC1=CC=CC=C1)NC1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+11.53
+
+> <JCHEM_BASIC_PKA>
+-4.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.1
+
+> <JCHEM_LOGP>
+3.12
+
+> <ALOGPS_LOGS>
+-3.4
+
+> <JCHEM_POLARIZABILITY>
+21.91
+
+> <JCHEM_POLAR_SURFACE_AREA>
+41.13
+
+> <JCHEM_REFRACTIVITY>
+66.05
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+9.12e-02 g/l __ 
+
+$$$$

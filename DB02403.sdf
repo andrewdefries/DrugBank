@@ -1,0 +1,94 @@
+
+  Mrv0541 02231216112D          
+
+  8  8  0  0  0  0            999 V2000
+    2.1434    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02403
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Fluoroaniline
+
+> <CHEMICAL_FORMULA>
+C6H6FN
+
+> <MOLECULAR_WEIGHT>
+111.1169
+
+> <EXACT_MASS>
+111.048427402
+
+> <IUPAC_NAME>
+2-fluoroaniline
+
+> <IUPAC_TRADITIONAL_NAME>
+2-fluoroaniline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6FN/c7-5-3-1-2-4-6(5)8/h1-4H,8H2
+
+> <INCHI_KEY>
+InChIKey=FTZQXOJYPFINKJ-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=CC=CC=C1F
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+19.26
+
+> <JCHEM_BASIC_PKA>
+2.43
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.26
+
+> <JCHEM_LOGP>
+1.29
+
+> <ALOGPS_LOGS>
+-0.94
+
+> <JCHEM_POLARIZABILITY>
+10.38
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+30.97
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.27e+01 g/l __ 
+
+$$$$

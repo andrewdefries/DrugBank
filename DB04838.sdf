@@ -1,0 +1,125 @@
+4838
+  Mrv0541 02231217572D          
+
+ 20 21  0  0  1  0            999 V2000
+    3.5220    0.6740    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.5635    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.1510    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    2.3241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655    1.9116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655    1.0865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.9116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.0865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.6740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3634    3.0385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5384    3.0385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799    0.6740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.5635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.3885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -1.8010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.8010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -2.6260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.6260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -3.0385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04838
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Cyclandelate
+
+> <SYNONYMS>
+3,3,5-Trimethylcyclohexyl mandelate; 3,5,5-Trimethylcyclohexyl amygdalate; Ciclandelato; Cyclandelatum
+
+> <BRANDS>
+Cyclergine; Cyclospasmol
+
+> <CHEMICAL_FORMULA>
+C17H24O3
+
+> <MOLECULAR_WEIGHT>
+276.3707
+
+> <EXACT_MASS>
+276.172544634
+
+> <IUPAC_NAME>
+3,3,5-trimethylcyclohexyl 2-hydroxy-2-phenylacetate
+
+> <IUPAC_TRADITIONAL_NAME>
+cyclandelate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H24O3/c1-12-9-14(11-17(2,3)10-12)20-16(19)15(18)13-7-5-4-6-8-13/h4-8,12,14-15,18H,9-11H2,1-3H3
+
+> <INCHI_KEY>
+InChIKey=WZHCOOQXZCIUNC-UHFFFAOYSA-N
+
+> <SMILES>
+CC1CC(CC(C)(C)C1)OC(=O)C(O)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+11.99
+
+> <JCHEM_BASIC_PKA>
+-4.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.79
+
+> <JCHEM_LOGP>
+3.72
+
+> <ALOGPS_LOGS>
+-3.4
+
+> <JCHEM_POLARIZABILITY>
+30.95
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+78.06
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+9.97e-02 g/l __ 
+
+$$$$

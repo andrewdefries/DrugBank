@@ -1,0 +1,121 @@
+
+  Mrv0541 02231217292D          
+
+ 21 22  0  0  1  0            999 V2000
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  1  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  7  9  1  0  0  0  0
+  2  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+ 11 10  1  6  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 16 17  1  1  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  1  6  0  0  0
+ 18 20  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 20 21  1  6  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04164
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,4-Deoxy-4-((5-Hydroxymethyl-2,3,4-Trihydroxycyclohex-5-Enyl)Amino)Fructose
+
+> <CHEMICAL_FORMULA>
+C13H23NO7
+
+> <MOLECULAR_WEIGHT>
+305.3242
+
+> <EXACT_MASS>
+305.147452095
+
+> <IUPAC_NAME>
+(1R,2S,3R,6R)-6-{[(2R,3R,4S,5S)-4,5-dihydroxy-2-methyloxan-3-yl]amino}-4-(hydroxymethyl)cyclohex-4-ene-1,2,3-triol
+
+> <IUPAC_TRADITIONAL_NAME>
+(1R,2S,3R,6R)-6-{[(2R,3R,4S,5S)-4,5-dihydroxy-2-methyloxan-3-yl]amino}-4-(hydroxymethyl)cyclohex-4-ene-1,2,3-triol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H23NO7/c1-5-9(12(19)8(16)4-21-5)14-7-2-6(3-15)10(17)13(20)11(7)18/h2,5,7-20H,3-4H2,1H3/t5-,7-,8+,9+,10-,11-,12-,13+/m1/s1
+
+> <INCHI_KEY>
+InChIKey=LTAGIBUDYBSPEG-HCDBHUNCSA-N
+
+> <SMILES>
+C[C@H]1OC[C@H](O)[C@@H](O)[C@H]1N[C@@H]1C=C(CO)[C@@H](O)[C@H](O)[C@@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+7
+
+> <JCHEM_ACIDIC_PKA>
+12.65
+
+> <JCHEM_BASIC_PKA>
+7.04
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-2.1
+
+> <JCHEM_LOGP>
+-3.7
+
+> <ALOGPS_LOGS>
+-0.27
+
+> <JCHEM_POLARIZABILITY>
+29.99
+
+> <JCHEM_POLAR_SURFACE_AREA>
+142.64
+
+> <JCHEM_REFRACTIVITY>
+71.75
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.64e+02 g/l __ 
+
+$$$$

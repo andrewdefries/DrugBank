@@ -1,0 +1,115 @@
+7014
+  Mrv0541 02241213002D          
+
+ 17 20  0  0  1  0            999 V2000
+    6.5638   -0.4613    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6588   -0.1278    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4195    0.9662    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6244    0.2012    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.4811    0.3264    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.2743   -0.6262    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.0029    1.7445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8402   -0.7833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9426    0.6117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1408    0.8215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1578   -1.4428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3121   -0.8083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8843   -0.4115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8971    0.4919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3900   -1.7445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9833   -0.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7489   -1.2252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  6  0  0  0
+  1  8  1  0  0  0  0
+  1 12  1  0  0  0  0
+  6  2  1  6  0  0  0
+  2  9  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  6  0  0  0
+  3  9  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  1  0  0  0
+  4  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB06727
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Sparteine
+
+> <SYNONYMS>
+lupinidine
+
+> <CHEMICAL_FORMULA>
+C15H26N2
+
+> <MOLECULAR_WEIGHT>
+234.3803
+
+> <EXACT_MASS>
+234.209598842
+
+> <IUPAC_NAME>
+(1S,2S,9S,10S)-7,15-diazatetracyclo[7.7.1.0^{2,7}.0^{10,15}]heptadecane
+
+> <IUPAC_TRADITIONAL_NAME>
+(1S,2S,9S,10S)-7,15-diazatetracyclo[7.7.1.0^{2,7}.0^{10,15}]heptadecane
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H26N2/c1-3-7-16-11-13-9-12(14(16)5-1)10-17-8-4-2-6-15(13)17/h12-15H,1-11H2/t12-,13-,14-,15-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=SLRCCWJSBJZJBV-AJNGGQMLSA-N
+
+> <SMILES>
+C1CCN2C[C@@H]3C[C@@H](CN4CCCC[C@@H]34)[C@@H]2C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+9.46
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <ALOGPS_LOGP>
+2.98
+
+> <JCHEM_LOGP>
+2.03
+
+> <ALOGPS_LOGS>
+-2.4
+
+> <JCHEM_POLARIZABILITY>
+28.4
+
+> <JCHEM_POLAR_SURFACE_AREA>
+6.48
+
+> <JCHEM_REFRACTIVITY>
+71.82
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+9.31e-01 g/l __ 
+
+$$$$

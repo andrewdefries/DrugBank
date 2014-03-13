@@ -1,0 +1,117 @@
+TF5
+  Mrv0541 02241214122D          
+
+ 19 20  0  0  0  0            999 V2000
+    0.8549    1.4291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8549   -2.6959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5694   -2.2834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1405    0.1916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8549   -0.2209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7128   -1.0459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9984   -1.4584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2839   -1.0459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2839   -0.2209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5694   -1.4584    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7128   -0.2209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5740   -0.2209    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8549   -1.0459    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1405    1.0166    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5740    1.4291    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5694    1.0166    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5694    0.1916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9984    0.1916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8549   -3.5209    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  2  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4 14  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 17  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 18  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 11 18  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08611
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-[(2',3',4'-TRIFLUOROBIPHENYL-2-YL)OXY]ETHANOL
+
+> <CHEMICAL_FORMULA>
+C14H11F3O2
+
+> <MOLECULAR_WEIGHT>
+268.2311
+
+> <EXACT_MASS>
+268.071114211
+
+> <IUPAC_NAME>
+2-[2-(2,3,4-trifluorophenyl)phenoxy]ethan-1-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+2-[2-(2,3,4-trifluorophenyl)phenoxy]ethanol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H11F3O2/c15-11-6-5-10(13(16)14(11)17)9-3-1-2-4-12(9)19-8-7-18/h1-6,18H,7-8H2
+
+> <INCHI_KEY>
+InChIKey=AGXPXFPIOHNDAN-UHFFFAOYSA-N
+
+> <SMILES>
+OCCOC1=C(C=CC=C1)C1=C(F)C(F)=C(F)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+15.1
+
+> <JCHEM_BASIC_PKA>
+-2.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.04
+
+> <JCHEM_LOGP>
+3.2
+
+> <ALOGPS_LOGS>
+-4
+
+> <JCHEM_POLARIZABILITY>
+23.76
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.46
+
+> <JCHEM_REFRACTIVITY>
+64.6
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+2.97e-02 g/l __ 
+
+$$$$

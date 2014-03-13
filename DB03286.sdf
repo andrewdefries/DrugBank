@@ -1,0 +1,112 @@
+
+  Mrv0541 02231216502D          
+
+ 17 17  0  0  1  0            999 V2000
+   -0.6283    1.7262    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1842    1.8695    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.4663    2.6447    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2448    1.8695    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9626    2.6447    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.6804    3.4200    0.0000 N   0  5  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  4  2  1  6  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  1  0  0  0
+  7  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+ 11 13  1  0  0  0  0
+  4 13  1  0  0  0  0
+ 13 14  1  6  0  0  0
+  4 15  1  1  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03286
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+C-(1-Azido-Alpha-D-Glucopyranosyl) Formamide
+
+> <CHEMICAL_FORMULA>
+C7H14N4O6
+
+> <MOLECULAR_WEIGHT>
+250.2093
+
+> <EXACT_MASS>
+250.0913342
+
+> <IUPAC_NAME>
+(2R,3S,4R,5R,6S)-2-[(S)-amino(hydroxy)methyl]-2-azido-6-(hydroxymethyl)oxane-3,4,5-triol
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R,3S,4R,5R,6S)-2-[(S)-amino(hydroxy)methyl]-2-azido-6-(hydroxymethyl)oxane-3,4,5-triol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H14N4O6/c8-6(16)7(10-11-9)5(15)4(14)3(13)2(1-12)17-7/h2-6,12-16H,1,8H2/t2-,3-,4+,5-,6-,7+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=LAKOUYZWWLMCSL-IEMWZLDZSA-N
+
+> <SMILES>
+N[C@@H](O)[C@@]1(O[C@@H](CO)[C@H](O)[C@@H](O)[C@@H]1O)N=[N+]=[N-]
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_ACIDIC_PKA>
+11.92
+
+> <JCHEM_BASIC_PKA>
+7.51
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-1.4
+
+> <JCHEM_LOGP>
+-4.7
+
+> <ALOGPS_LOGS>
+-0.66
+
+> <JCHEM_POLARIZABILITY>
+21.61
+
+> <JCHEM_POLAR_SURFACE_AREA>
+165.83
+
+> <JCHEM_REFRACTIVITY>
+51.3
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+5.46e+01 g/l __ 
+
+$$$$

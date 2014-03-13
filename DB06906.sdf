@@ -1,0 +1,104 @@
+204
+  Mrv0541 02241213042D          
+
+ 13 13  0  0  0  0            999 V2000
+    1.4823    1.9205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4823    1.0955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7678    0.6830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7678   -0.1420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4823   -0.5545    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0534   -0.5545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0534   -1.3795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6611   -1.7920    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3756   -1.3795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0900   -1.7920    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3756   -0.5545    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6611   -0.1420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6611    0.6830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 12  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB06906
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-AMINO-4-HYDROXYPYRIMIDINE-5-CARBOXYLIC ACID ETHYL ESTER
+
+> <CHEMICAL_FORMULA>
+C7H9N3O3
+
+> <MOLECULAR_WEIGHT>
+183.1647
+
+> <EXACT_MASS>
+183.064391169
+
+> <IUPAC_NAME>
+ethyl 2-amino-4-hydroxypyrimidine-5-carboxylate
+
+> <IUPAC_TRADITIONAL_NAME>
+ethyl 2-amino-4-hydroxypyrimidine-5-carboxylate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H9N3O3/c1-2-13-6(12)4-3-9-7(8)10-5(4)11/h3H,2H2,1H3,(H3,8,9,10,11)
+
+> <INCHI_KEY>
+InChIKey=HRRHGLKNOJHIGY-UHFFFAOYSA-N
+
+> <SMILES>
+CCOC(=O)C1=C(O)N=C(N)N=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+12.6
+
+> <JCHEM_BASIC_PKA>
+0.91
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.38
+
+> <JCHEM_LOGP>
+1.2
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+17.32
+
+> <JCHEM_POLAR_SURFACE_AREA>
+98.33
+
+> <JCHEM_REFRACTIVITY>
+46.44
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.62e+01 g/l __ 
+
+$$$$

@@ -1,0 +1,99 @@
+
+  Mrv0541 02231216332D          
+
+ 11 10  0  0  0  0            999 V2000
+     1.650    -0.825     0.000 O   0  0  0  0  0  0  0  0  0  0  0  0
+     0.825    -0.825     0.000 C   0  0  0  0  0  0  0  0  0  0  0  0
+     0.000    -0.825     0.000 O   0  0  0  0  0  0  0  0  0  0  0  0
+     0.825    -1.650     0.000 C   0  0  0  0  0  0  0  0  0  0  0  0
+     0.825    -2.475     0.000 F   0  0  0  0  0  0  0  0  0  0  0  0
+     1.650    -1.650     0.000 F   0  0  0  0  0  0  0  0  0  0  0  0
+     0.000    -1.650     0.000 F   0  0  0  0  0  0  0  0  0  0  0  0
+     0.825     0.000     0.000 C   0  0  0  0  0  0  0  0  0  0  0  0
+     0.825     0.825     0.000 F   0  0  0  0  0  0  0  0  0  0  0  0
+     1.650     0.000     0.000 F   0  0  0  0  0  0  0  0  0  0  0  0
+     0.000     0.000     0.000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02922
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Hexafluoroacetone Hydrate
+
+> <CHEMICAL_FORMULA>
+C3H2F6O2
+
+> <MOLECULAR_WEIGHT>
+184.0372
+
+> <EXACT_MASS>
+183.995898538
+
+> <IUPAC_NAME>
+hexafluoropropane-2,2-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+hexafluoroacetone hydrate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H2F6O2/c4-2(5,6)1(10,11)3(7,8)9/h10-11H
+
+> <INCHI_KEY>
+InChIKey=AKVXSYUWYXOLMY-UHFFFAOYSA-N
+
+> <SMILES>
+OC(O)(C(F)(F)F)C(F)(F)F
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+4.99
+
+> <JCHEM_BASIC_PKA>
+-7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.85
+
+> <JCHEM_LOGP>
+1.26
+
+> <ALOGPS_LOGS>
+-2.4
+
+> <JCHEM_POLARIZABILITY>
+8.45
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+20.3
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+6.69e-01 g/l __ 
+
+$$$$

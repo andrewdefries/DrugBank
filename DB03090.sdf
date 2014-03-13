@@ -1,0 +1,104 @@
+
+  Mrv0541 02231216412D          
+
+ 13 13  0  0  1  0            999 V2000
+   -2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  3  1  6  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  6 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03090
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Ethylaminobenzylmethylcarbonyl Group
+
+> <CHEMICAL_FORMULA>
+C11H15NO
+
+> <MOLECULAR_WEIGHT>
+177.2429
+
+> <EXACT_MASS>
+177.115364107
+
+> <IUPAC_NAME>
+(2R)-2-(ethylamino)-3-phenylpropanal
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R)-2-(ethylamino)-3-phenylpropanal
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H15NO/c1-2-12-11(9-13)8-10-6-4-3-5-7-10/h3-7,9,11-12H,2,8H2,1H3/t11-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=VZZLSNMWFMAXGJ-LLVKDONJSA-N
+
+> <SMILES>
+CCN[C@H](CC1=CC=CC=C1)C=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+16.96
+
+> <JCHEM_BASIC_PKA>
+8.32
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.78
+
+> <JCHEM_LOGP>
+1.71
+
+> <ALOGPS_LOGS>
+-2.5
+
+> <JCHEM_POLARIZABILITY>
+20.26
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.1
+
+> <JCHEM_REFRACTIVITY>
+53.71
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+5.81e-01 g/l __ 
+
+$$$$

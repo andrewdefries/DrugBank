@@ -1,0 +1,94 @@
+
+  Mrv0541 02231218072D          
+
+ 13  9  0  0  0  0            999 V2000
+    3.5872    0.4125    0.0000 Ga   0  1  0  0  0  0  0  0  0  0  0  0
+    1.4290    1.2375    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.2375    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    4.5079    3.7125    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    3.0790    3.7125    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.4290    4.1250    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.1250    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.7144    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    2.4750    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    2.8875    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    0.8250    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    3.7934    3.3000    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    0.7144    3.7125    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+  2 11  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB05260
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Gallium nitrate
+
+> <BRANDS>
+Ganite
+
+> <CHEMICAL_FORMULA>
+GaN3O9
+
+> <MOLECULAR_WEIGHT>
+255.738
+
+> <EXACT_MASS>
+254.889034525
+
+> <IUPAC_NAME>
+gallium(3+) ion tris(nitrooxidane)
+
+> <IUPAC_TRADITIONAL_NAME>
+gallium(3+) ion tris(nitrooxidane)
+
+> <INCHI_IDENTIFIER>
+InChI=1S/Ga.3NO3/c;3*2-1(3)4/q+3;3*-1
+
+> <INCHI_KEY>
+InChIKey=CHPZKNULDCNCBW-UHFFFAOYSA-N
+
+> <SMILES>
+[Ga+3].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+-1.4
+
+> <JCHEM_BASIC_PKA>
+-6.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_LOGP>
+0.028
+
+> <JCHEM_POLARIZABILITY>
+3.24
+
+> <JCHEM_POLAR_SURFACE_AREA>
+68.88
+
+> <JCHEM_REFRACTIVITY>
+9.85
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0 __ 
+
+$$$$

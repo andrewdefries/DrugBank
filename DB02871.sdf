@@ -1,0 +1,97 @@
+SSB
+  Mrv0541 02231216312D          
+
+ 11 11  0  0  0  0            999 V2000
+    0.9542    1.4318    0.0000 S   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6993    0.6472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1257    0.6472    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3807    1.4318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2868    1.9167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7388    1.6867    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6107   -0.0203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2751   -0.7740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7600   -1.4414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4245   -2.1951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1394    0.1269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  1  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  1  0  0  0
+  3 11  1  6  0  0  0
+  4  5  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02871
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Butylthiolane 1-Oxide
+
+> <CHEMICAL_FORMULA>
+C8H16OS
+
+> <MOLECULAR_WEIGHT>
+160.277
+
+> <EXACT_MASS>
+160.092185824
+
+> <IUPAC_NAME>
+(1R,3S)-3-butyl-1$l^{4}-thiolan-1-one
+
+> <IUPAC_TRADITIONAL_NAME>
+(1R,3S)-3-butyl-1$l^{4}-thiolan-1-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H16OS/c1-2-3-4-8-5-6-10(9)7-8/h8H,2-7H2,1H3/t8-,10+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=QVVQIIIFHZDBDL-WCBMZHEXSA-N
+
+> <SMILES>
+[H][C@]1(CCCC)CC[S@@](=O)C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-6.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.04
+
+> <JCHEM_LOGP>
+1
+
+> <ALOGPS_LOGS>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+18.87
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+46.49
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+4.03e+00 g/l __ 
+
+$$$$

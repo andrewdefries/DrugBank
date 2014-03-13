@@ -1,0 +1,95 @@
+
+  Mrv0541 02231216142D          
+
+  9  8  0  0  0  0            999 V2000
+    1.9520    1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1914    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.1105    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02490
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(Diaminomethyl-Methyl-Amino)-Acetic Acid
+
+> <CHEMICAL_FORMULA>
+C4H11N3O2
+
+> <MOLECULAR_WEIGHT>
+133.149
+
+> <EXACT_MASS>
+133.085126611
+
+> <IUPAC_NAME>
+2-[(diaminomethyl)(methyl)amino]acetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[(diaminomethyl)(methyl)amino]acetic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H11N3O2/c1-7(4(5)6)2-3(8)9/h4H,2,5-6H2,1H3,(H,8,9)
+
+> <INCHI_KEY>
+InChIKey=YNHURFGTTODJOO-UHFFFAOYSA-N
+
+> <SMILES>
+CN(CC(O)=O)C(N)N
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+4.74
+
+> <JCHEM_BASIC_PKA>
+6.76
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-3.8
+
+> <JCHEM_LOGP>
+-3.2
+
+> <ALOGPS_LOGS>
+0.49
+
+> <JCHEM_POLARIZABILITY>
+12.93
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.58
+
+> <JCHEM_REFRACTIVITY>
+32.21
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+4.12e+02 g/l __ 
+
+$$$$

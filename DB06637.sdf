@@ -1,0 +1,95 @@
+ 
+  Mrv0541 04241314542D          
+ 
+  7  7  0  0  0  0            999 V2000
+   12.7287  -10.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7287  -11.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4448  -11.7284    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1568  -11.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1568  -10.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4448  -10.0785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4460   -9.2536    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  1  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB06637
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Dalfampridine 
+
+> <SYNONYMS>
+4-Aminopyridine; 4-AP; EL-970; Fampridine; Fampridine-SR
+
+> <BRANDS>
+Ampyra ; Fampyra 
+
+> <CHEMICAL_FORMULA>
+C5H6N2
+
+> <MOLECULAR_WEIGHT>
+94.1145
+
+> <EXACT_MASS>
+94.053098202
+
+> <IUPAC_NAME>
+pyridin-4-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+4 aminopyridine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H6N2/c6-5-1-3-7-4-2-5/h1-4H,(H2,6,7)
+
+> <INCHI_KEY>
+InChIKey=NUKYPUAOHBNCPY-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=CC=NC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+8.95
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+0.08
+
+> <JCHEM_LOGP>
+-0.073
+
+> <ALOGPS_LOGS>
+0.46
+
+> <JCHEM_POLARIZABILITY>
+9.62
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.91
+
+> <JCHEM_REFRACTIVITY>
+28.6
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.71e+02 g/l __ 
+
+$$$$

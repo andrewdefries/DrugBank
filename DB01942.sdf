@@ -1,0 +1,83 @@
+
+  Mrv0541 02231215502D          
+
+  3  2  0  0  0  0            999 V2000
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520   -1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01942
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Formic Acid
+
+> <SYNONYMS>
+Aminic acid; Formylic acid; Hydrogen carboxylic acid
+
+> <CHEMICAL_FORMULA>
+CH2O2
+
+> <MOLECULAR_WEIGHT>
+46.0254
+
+> <EXACT_MASS>
+46.005479308
+
+> <IUPAC_NAME>
+formic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+formic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/CH2O2/c2-1-3/h1H,(H,2,3)
+
+> <INCHI_KEY>
+InChIKey=BDAGIHXWWSANSR-UHFFFAOYSA-N
+
+> <SMILES>
+OC=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.27
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.47
+
+> <JCHEM_LOGP>
+-0.27
+
+> <ALOGPS_LOGS>
+1.02
+
+> <JCHEM_POLARIZABILITY>
+3.37
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+8.15
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+4.77e+02 g/l __ 
+
+$$$$

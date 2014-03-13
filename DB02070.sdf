@@ -1,0 +1,108 @@
+
+  Mrv0541 02231215562D          
+
+ 15 15  0  0  1  0            999 V2000
+   -0.7145    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  6 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02070
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+L-2-Amino-4-[2-Aminophenyl]-4-Oxobutanoic Acid
+
+> <CHEMICAL_FORMULA>
+C10H12N2O3
+
+> <MOLECULAR_WEIGHT>
+208.2139
+
+> <EXACT_MASS>
+208.08479226
+
+> <IUPAC_NAME>
+(2S)-2-amino-4-(2-aminophenyl)-4-oxobutanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+L-kynurenine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12N2O3/c11-7-4-2-1-3-6(7)9(13)5-8(12)10(14)15/h1-4,8H,5,11-12H2,(H,14,15)/t8-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=YGPSJZOEDVAXAB-QMMMGPOBSA-N
+
+> <SMILES>
+N[C@@H](CC(=O)C1=CC=CC=C1N)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.19
+
+> <JCHEM_BASIC_PKA>
+8.96
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.9
+
+> <JCHEM_LOGP>
+-1.9
+
+> <ALOGPS_LOGS>
+-2.1
+
+> <JCHEM_POLARIZABILITY>
+20.59
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.41
+
+> <JCHEM_REFRACTIVITY>
+55.05
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.67e+00 g/l __ 
+
+$$$$

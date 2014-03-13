@@ -1,0 +1,97 @@
+
+  Mrv0541 02231216552D          
+
+ 10  9  0  0  1  0            999 V2000
+    4.6184    2.6664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0461    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03412
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-Hydroxy-L-Norleucine
+
+> <CHEMICAL_FORMULA>
+C6H13NO3
+
+> <MOLECULAR_WEIGHT>
+147.1723
+
+> <EXACT_MASS>
+147.089543287
+
+> <IUPAC_NAME>
+(2S)-2-amino-6-hydroxyhexanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+6-hydroxy-D-norleucine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13NO3/c7-5(6(9)10)3-1-2-4-8/h5,8H,1-4,7H2,(H,9,10)/t5-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=OLUWXTFAPJJWPL-YFKPBYRVSA-N
+
+> <SMILES>
+N[C@@H](CCCCO)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+2.46
+
+> <JCHEM_BASIC_PKA>
+9.53
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.9
+
+> <JCHEM_LOGP>
+-2.9
+
+> <ALOGPS_LOGS>
+-0.16
+
+> <JCHEM_POLARIZABILITY>
+15.55
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55
+
+> <JCHEM_REFRACTIVITY>
+36.15
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+1.01e+02 g/l __ 
+
+$$$$

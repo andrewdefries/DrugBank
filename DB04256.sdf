@@ -1,0 +1,108 @@
+
+  Mrv0541 02231217332D          
+
+ 15 15  0  0  1  0            999 V2000
+    1.5395   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.1105   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  1  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  7 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04256
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-(1-Amino-1-Carboxy-Ethyl)-Benzoic Acid
+
+> <CHEMICAL_FORMULA>
+C10H11NO4
+
+> <MOLECULAR_WEIGHT>
+209.1986
+
+> <EXACT_MASS>
+209.068807845
+
+> <IUPAC_NAME>
+4-[(1R)-1-amino-1-carboxyethyl]benzoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+4-[(1R)-1-amino-1-carboxyethyl]benzoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11NO4/c1-10(11,9(14)15)7-4-2-6(3-5-7)8(12)13/h2-5H,11H2,1H3,(H,12,13)(H,14,15)/t10-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=DNCAZYRLRMTVSF-SNVBAGLBSA-N
+
+> <SMILES>
+C[C@](N)(C(O)=O)C1=CC=C(C=C1)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.46
+
+> <JCHEM_BASIC_PKA>
+9.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-2.2
+
+> <JCHEM_LOGP>
+-1.4
+
+> <ALOGPS_LOGS>
+-2.1
+
+> <JCHEM_POLARIZABILITY>
+20.29
+
+> <JCHEM_POLAR_SURFACE_AREA>
+100.62
+
+> <JCHEM_REFRACTIVITY>
+52.33
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.77e+00 g/l __ 
+
+$$$$

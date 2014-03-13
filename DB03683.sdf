@@ -1,0 +1,105 @@
+STN
+  Mrv0541 02231217062D          
+
+ 14 13  0  0  0  0            999 V2000
+   -2.0614   -0.4590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3470   -0.0465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7965   -0.4590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0820   -0.0465    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6325   -0.4590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3470    0.7785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0820    0.7785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2254   -0.4590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5109    0.7785    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5109   -0.0465    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9399   -0.0465    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6325    1.1910    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7965    1.1910    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0820   -0.6304    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  6  0  0  0
+  4 14  1  6  0  0  0
+  7 12  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03683
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-{[Formyl(Hydroxy)Amino]Methyl}-4-Methylpentanoic Acid
+
+> <CHEMICAL_FORMULA>
+C8H15NO4
+
+> <MOLECULAR_WEIGHT>
+189.209
+
+> <EXACT_MASS>
+189.100107973
+
+> <IUPAC_NAME>
+(2R)-2-[(N-hydroxyformamido)methyl]-4-methylpentanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R)-2-[(N-hydroxyformamido)methyl]-4-methylpentanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H15NO4/c1-6(2)3-7(8(11)12)4-9(13)5-10/h5-7,13H,3-4H2,1-2H3,(H,11,12)/t7-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=LFMOJNDZFCHHPV-SSDOTTSWSA-N
+
+> <SMILES>
+[H][C@@](CC(C)C)(CN(O)C=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+4.39
+
+> <JCHEM_BASIC_PKA>
+-5.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.15
+
+> <JCHEM_LOGP>
+0.58
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+18.93
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.84
+
+> <JCHEM_REFRACTIVITY>
+45.75
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+1.55e+01 g/l __ 
+
+$$$$

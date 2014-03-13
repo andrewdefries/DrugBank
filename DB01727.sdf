@@ -1,0 +1,103 @@
+
+  Mrv0541 02231215412D          
+
+ 13 12  0  0  1  0            999 V2000
+    4.6184    2.6664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    0.1914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    0.1914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  3  8  1  1  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  2 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01727
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Isocitric Acid
+
+> <CHEMICAL_FORMULA>
+C6H8O7
+
+> <MOLECULAR_WEIGHT>
+192.1235
+
+> <EXACT_MASS>
+192.02700261
+
+> <IUPAC_NAME>
+(1S,2S)-1-hydroxypropane-1,2,3-tricarboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+isocitric acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H8O7/c7-3(8)1-2(5(10)11)4(9)6(12)13/h2,4,9H,1H2,(H,7,8)(H,10,11)(H,12,13)/t2-,4-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=ODBLHEXUDAPZAU-OKKQSCSOSA-N
+
+> <SMILES>
+O[C@@H]([C@H](CC(O)=O)C(O)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+3.07
+
+> <JCHEM_BASIC_PKA>
+-4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <ALOGPS_LOGP>
+-0.35
+
+> <JCHEM_LOGP>
+-1.4
+
+> <ALOGPS_LOGS>
+-0.56
+
+> <JCHEM_POLARIZABILITY>
+15.58
+
+> <JCHEM_POLAR_SURFACE_AREA>
+132.13
+
+> <JCHEM_REFRACTIVITY>
+35.72
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+5.25e+01 g/l __ 
+
+$$$$

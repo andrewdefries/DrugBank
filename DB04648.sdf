@@ -1,0 +1,100 @@
+
+  Mrv0541 02231217492D          
+
+ 10  9  0  0  1  0            999 V2000
+    2.9980    2.5559    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.2849    3.3809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04648
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+S-propylamine-L-cysteine
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C6H16N2OS
+
+> <MOLECULAR_WEIGHT>
+164.269
+
+> <EXACT_MASS>
+164.098333834
+
+> <IUPAC_NAME>
+(2R)-2-amino-3-[(3-aminopropyl)sulfanyl]propan-1-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+S-propylamine-L-cysteine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H16N2OS/c7-2-1-3-10-5-6(8)4-9/h6,9H,1-5,7-8H2/t6-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=RYOVYWMBACBGOD-ZCFIWIBFSA-N
+
+> <SMILES>
+NCCCSC[C@H](N)CO
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+15.1
+
+> <JCHEM_BASIC_PKA>
+10.25
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <ALOGPS_LOGP>
+-1.2
+
+> <JCHEM_LOGP>
+-1.3
+
+> <ALOGPS_LOGS>
+-0.72
+
+> <JCHEM_POLARIZABILITY>
+19.22
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.27
+
+> <JCHEM_REFRACTIVITY>
+45.87
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+3.11e+01 g/l __ 
+
+$$$$

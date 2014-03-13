@@ -1,0 +1,90 @@
+
+  Mrv0541 02231216282D          
+
+  8  7  0  0  0  0            999 V2000
+    1.7605    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02811
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Diethylphosphono Group
+
+> <CHEMICAL_FORMULA>
+C4H11O3P
+
+> <MOLECULAR_WEIGHT>
+138.1021
+
+> <EXACT_MASS>
+138.04458073
+
+> <IUPAC_NAME>
+diethyl phosphonate
+
+> <IUPAC_TRADITIONAL_NAME>
+diethylphosphono group
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H11O3P/c1-3-6-8(5)7-4-2/h8H,3-4H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=MJUJXFBTEFXVKU-UHFFFAOYSA-N
+
+> <SMILES>
+CCOP(=O)OCC
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-7.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.02
+
+> <JCHEM_LOGP>
+0.69
+
+> <ALOGPS_LOGS>
+-0.34
+
+> <JCHEM_POLARIZABILITY>
+13.1
+
+> <JCHEM_POLAR_SURFACE_AREA>
+35.53
+
+> <JCHEM_REFRACTIVITY>
+31.03
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+6.38e+01 g/l __ 
+
+$$$$

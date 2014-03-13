@@ -1,0 +1,89 @@
+
+  Mrv0541 02231215512D          
+
+  6  5  0  0  0  0            999 V2000
+   -0.1914    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01955
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,4-Butanediol
+
+> <CHEMICAL_FORMULA>
+C4H10O2
+
+> <MOLECULAR_WEIGHT>
+90.121
+
+> <EXACT_MASS>
+90.068079564
+
+> <IUPAC_NAME>
+butane-1,4-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+1,4-butanediol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H10O2/c5-3-1-2-4-6/h5-6H,1-4H2
+
+> <INCHI_KEY>
+InChIKey=WERYXYBDKMZEQL-UHFFFAOYSA-N
+
+> <SMILES>
+OCCCCO
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+15.67
+
+> <JCHEM_BASIC_PKA>
+-2.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.63
+
+> <JCHEM_LOGP>
+-0.63
+
+> <ALOGPS_LOGS>
+0.87
+
+> <JCHEM_POLARIZABILITY>
+10.16
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+24.06
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+6.75e+02 g/l __ 
+
+$$$$

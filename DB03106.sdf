@@ -1,0 +1,102 @@
+
+  Mrv0541 02231216412D          
+
+ 12 12  0  0  0  0            999 V2000
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  6  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  1  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  1  0  0  0
+  9 11  1  0  0  0  0
+  2 11  1  0  0  0  0
+ 11 12  1  6  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03106
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Myo-Inositol
+
+> <CHEMICAL_FORMULA>
+C6H12O6
+
+> <MOLECULAR_WEIGHT>
+180.1559
+
+> <EXACT_MASS>
+180.063388116
+
+> <IUPAC_NAME>
+(1r,2r,3r,4r,5r,6r)-cyclohexane-1,2,3,4,5,6-hexol
+
+> <IUPAC_TRADITIONAL_NAME>
+myo-inositol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O6/c7-1-2(8)4(10)6(12)5(11)3(1)9/h1-12H/t1-,2-,3+,4+,5-,6-
+
+> <INCHI_KEY>
+InChIKey=CDAISMWEOUEBRE-CDRYSYESSA-N
+
+> <SMILES>
+O[C@H]1[C@H](O)[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_ACIDIC_PKA>
+12.29
+
+> <JCHEM_BASIC_PKA>
+-3.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.6
+
+> <JCHEM_LOGP>
+-3.8
+
+> <ALOGPS_LOGS>
+0.43
+
+> <JCHEM_POLARIZABILITY>
+16.13
+
+> <JCHEM_POLAR_SURFACE_AREA>
+121.38
+
+> <JCHEM_REFRACTIVITY>
+35.77
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+4.85e+02 g/l __ 
+
+$$$$

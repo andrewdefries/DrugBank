@@ -1,0 +1,114 @@
+397
+  Mrv0541 02241213092D          
+
+ 17 19  0  0  0  0            999 V2000
+    2.5142   -0.4999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7998   -0.9124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0853   -0.4999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0853    0.3251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7998    0.7376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5142    0.3251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3007   -0.7548    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1843   -0.0874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3007    0.5801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0093   -0.0874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4218   -0.8018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2468   -0.8018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6593   -0.0874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2468    0.6271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4218    0.6271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2287    0.7376    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4843   -0.0874    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 16  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07032
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(4-HYDROXY-PHENYL)BENZOFURAN-5-OL
+
+> <CHEMICAL_FORMULA>
+C14H10O3
+
+> <MOLECULAR_WEIGHT>
+226.2274
+
+> <EXACT_MASS>
+226.062994186
+
+> <IUPAC_NAME>
+2-(4-hydroxyphenyl)-1-benzofuran-5-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+2-(4-hydroxyphenyl)-1-benzofuran-5-ol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H10O3/c15-11-3-1-9(2-4-11)14-8-10-7-12(16)5-6-13(10)17-14/h1-8,15-16H
+
+> <INCHI_KEY>
+InChIKey=SNNNDCMXZYWCCI-UHFFFAOYSA-N
+
+> <SMILES>
+OC1=CC=C(C=C1)C1=CC2=C(O1)C=CC(O)=C2
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.13
+
+> <JCHEM_BASIC_PKA>
+-3.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.19
+
+> <JCHEM_LOGP>
+3.09
+
+> <ALOGPS_LOGS>
+-3.3
+
+> <JCHEM_POLARIZABILITY>
+24.14
+
+> <JCHEM_POLAR_SURFACE_AREA>
+53.6
+
+> <JCHEM_REFRACTIVITY>
+63.87
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.12e-01 g/l __ 
+
+$$$$

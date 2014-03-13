@@ -1,0 +1,93 @@
+
+  Mrv0541 02231216412D          
+
+  9  9  0  0  0  0            999 V2000
+    0.0000    3.3000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  4  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03096
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Aminoethylmorpholine
+
+> <CHEMICAL_FORMULA>
+C6H14N2O
+
+> <MOLECULAR_WEIGHT>
+130.1882
+
+> <EXACT_MASS>
+130.11061308
+
+> <IUPAC_NAME>
+2-(morpholin-4-yl)ethan-1-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+N-aminoethylmorpholine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H14N2O/c7-1-2-8-3-5-9-6-4-8/h1-7H2
+
+> <INCHI_KEY>
+InChIKey=RWIVICVCHVMHMU-UHFFFAOYSA-N
+
+> <SMILES>
+NCCN1CCOCC1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+9.37
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-0.99
+
+> <JCHEM_LOGP>
+-0.83
+
+> <ALOGPS_LOGS>
+0.88
+
+> <JCHEM_POLARIZABILITY>
+14.86
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.49
+
+> <JCHEM_REFRACTIVITY>
+37.01
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+9.84e+02 g/l __ 
+
+$$$$

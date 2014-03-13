@@ -1,0 +1,98 @@
+T2M
+  Mrv0541 02241214122D          
+
+ 12 11  0  0  0  0            999 V2000
+    1.7345   -0.5402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7345    0.2848    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0200    0.6974    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3054    0.2848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3054   -0.5402    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4090    0.6974    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1236    0.2848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8381   -0.1277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7111   -0.4297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5361    0.9993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4491    0.6974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1635    1.1099    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+ 11 12  3  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08594
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+TERT-BUTYL 2-CYANO-2-METHYLHYDRAZINECARBOXYLATE
+
+> <CHEMICAL_FORMULA>
+C7H13N3O2
+
+> <MOLECULAR_WEIGHT>
+171.197
+
+> <EXACT_MASS>
+171.100776675
+
+> <IUPAC_NAME>
+N'-cyano-N'-methyl(tert-butoxy)carbohydrazide
+
+> <IUPAC_TRADITIONAL_NAME>
+N'-cyano-N'-methyltert-butoxycarbohydrazide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H13N3O2/c1-7(2,3)12-6(11)9-10(4)5-8/h1-4H3,(H,9,11)
+
+> <INCHI_KEY>
+InChIKey=SWELYBAPJHIOQT-UHFFFAOYSA-N
+
+> <SMILES>
+CN(NC(=O)OC(C)(C)C)C#N
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+9.76
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.46
+
+> <JCHEM_LOGP>
+0.49
+
+> <ALOGPS_LOGS>
+-1.3
+
+> <JCHEM_POLARIZABILITY>
+17.61
+
+> <JCHEM_POLAR_SURFACE_AREA>
+65.36
+
+> <JCHEM_REFRACTIVITY>
+43.95
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+8.91e+00 g/l __ 
+
+$$$$

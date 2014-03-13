@@ -1,0 +1,109 @@
+HXD
+  Mrv0541 02241213442D          
+
+ 16 15  0  0  0  0            999 V2000
+   -2.6479   -0.1109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9333    0.3016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3624    0.3016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2188   -0.1109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5043    0.3016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2102   -0.1109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9248    0.3016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6393   -0.1109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3538    0.3016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0683   -0.1109    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.0683   -0.9360    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7829    0.3016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4973   -0.1109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2119    0.3016    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4973   -0.9360    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5626   -0.4028    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  6  0  0  0
+ 10 12  1  0  0  0  0
+ 10 16  1  1  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07930
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(3R)-3-HYDROXYDODECANOIC ACID
+
+> <CHEMICAL_FORMULA>
+C12H24O3
+
+> <MOLECULAR_WEIGHT>
+216.3172
+
+> <EXACT_MASS>
+216.172544634
+
+> <IUPAC_NAME>
+(3R)-3-hydroxydodecanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(R)-β-OH lauric aci
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H24O3/c1-2-3-4-5-6-7-8-9-11(13)10-12(14)15/h11,13H,2-10H2,1H3,(H,14,15)/t11-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=MUCMKTPAZLSKTL-LLVKDONJSA-N
+
+> <SMILES>
+[H][C@@](O)(CCCCCCCCC)CC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+4.67
+
+> <JCHEM_BASIC_PKA>
+-2.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+3.63
+
+> <JCHEM_LOGP>
+3.25
+
+> <ALOGPS_LOGS>
+-2.8
+
+> <JCHEM_POLARIZABILITY>
+26.59
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+60.2
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <ALOGPS_SOLUBILITY>
+3.45e-01 g/l __ 
+
+$$$$

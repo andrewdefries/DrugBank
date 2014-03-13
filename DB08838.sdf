@@ -1,0 +1,98 @@
+
+  Mrv0541 07081319552D          
+
+  9  8  0  0  0  0            999 V2000
+   -5.4214    2.3571    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7070    1.9446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9925    2.3571    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2780    1.9446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5635    2.3571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8491    1.9446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1346    2.3571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4201    1.9446    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7070    1.1196    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  2  9  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08838
+
+> <DRUG_GROUPS>
+experimental; investigational
+
+> <GENERIC_NAME>
+Agmatine
+
+> <SYNONYMS>
+
+
+> <SALTS>
+Agmatine sulfate
+
+> <CHEMICAL_FORMULA>
+C5H14N4
+
+> <MOLECULAR_WEIGHT>
+130.1915
+
+> <EXACT_MASS>
+130.121846468
+
+> <IUPAC_NAME>
+1-(4-aminobutyl)guanidine
+
+> <IUPAC_TRADITIONAL_NAME>
+agmatine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H14N4/c6-3-1-2-4-9-5(7)8/h1-4,6H2,(H4,7,8,9)
+
+> <INCHI_KEY>
+InChIKey=QYPPJABKJHAVHS-UHFFFAOYSA-N
+
+> <SMILES>
+NCCCCNC(N)=N
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_BASIC_PKA>
+12.61
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <ALOGPS_LOGP>
+-1
+
+> <JCHEM_LOGP>
+-1.2
+
+> <ALOGPS_LOGS>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+15.12
+
+> <JCHEM_POLAR_SURFACE_AREA>
+87.92
+
+> <JCHEM_REFRACTIVITY>
+48.09
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+3.61e+00 g/l __ 
+
+$$$$

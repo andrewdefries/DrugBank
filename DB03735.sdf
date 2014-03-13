@@ -1,0 +1,116 @@
+
+  Mrv0541 02231217092D          
+
+ 18 20  0  0  1  0            999 V2000
+    3.2789    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798    1.0799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2949    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798   -0.2549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5249   -1.0396    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.0098   -1.7070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5249   -2.3744    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7798   -3.1591    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7403   -2.1195    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0728   -2.6044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1591   -3.4249    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7403   -1.2945    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  6 10  1  0  0  0  0
+ 11 10  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  1  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  6  0  0  0
+ 16 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 11 18  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03735
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+9-(2-Deoxy-Beta-D-Ribofuranosyl)-6-Methylpurine
+
+> <CHEMICAL_FORMULA>
+C11H14N4O3
+
+> <MOLECULAR_WEIGHT>
+250.2539
+
+> <EXACT_MASS>
+250.106590334
+
+> <IUPAC_NAME>
+(2S,3R,5R)-2-(hydroxymethyl)-5-(6-methyl-9H-purin-9-yl)oxolan-3-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S,3R,5R)-2-(hydroxymethyl)-5-(6-methylpurin-9-yl)oxolan-3-ol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H14N4O3/c1-6-10-11(13-4-12-6)15(5-14-10)9-2-7(17)8(3-16)18-9/h4-5,7-9,16-17H,2-3H2,1H3/t7-,8+,9-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=SJXRKKYXNZWKDB-HRDYMLBCSA-N
+
+> <SMILES>
+CC1=NC=NC2=C1N=CN2[C@H]1C[C@@H](O)[C@H](CO)O1
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+13.89
+
+> <JCHEM_BASIC_PKA>
+4.24
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.61
+
+> <JCHEM_LOGP>
+-0.82
+
+> <ALOGPS_LOGS>
+-1.5
+
+> <JCHEM_POLARIZABILITY>
+24.62
+
+> <JCHEM_POLAR_SURFACE_AREA>
+93.29
+
+> <JCHEM_REFRACTIVITY>
+61.26
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+7.78e+00 g/l __ 
+
+$$$$

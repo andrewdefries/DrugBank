@@ -1,0 +1,114 @@
+
+  Mrv0541 02231216542D          
+
+ 18 18  0  0  1  0            999 V2000
+    2.8579    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3184    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9684    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.3480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  6  5  1  1  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  1  0  0  0
+  9 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  1  6  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  1  0  0  0
+ 13 15  1  0  0  0  0
+  6 15  1  0  0  0  0
+ 15 16  1  6  0  0  0
+  3 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03392
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(3,4,5-Trihydroxy-6-Hydroxymethyl-Tetrahydro-Pyran-2-Yl)-Phosphoramidic Acid Dimethyl Ester
+
+> <CHEMICAL_FORMULA>
+C8H18NO8P
+
+> <MOLECULAR_WEIGHT>
+287.2042
+
+> <EXACT_MASS>
+287.077003069
+
+> <IUPAC_NAME>
+(2S,3S,4R,5R,6S)-2-[(dimethoxyphosphoryl)amino]-6-(hydroxymethyl)oxane-3,4,5-triol
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S,3S,4R,5R,6S)-2-[(dimethoxyphosphoryl)amino]-6-(hydroxymethyl)oxane-3,4,5-triol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H18NO8P/c1-15-18(14,16-2)9-8-7(13)6(12)5(11)4(3-10)17-8/h4-8,10-13H,3H2,1-2H3,(H,9,14)/t4-,5-,6+,7-,8-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=LJBUJRWZZYUNKX-RLMOJYMMSA-N
+
+> <SMILES>
+COP(=O)(N[C@H]1O[C@@H](CO)[C@H](O)[C@@H](O)[C@@H]1O)OC
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+12.33
+
+> <JCHEM_BASIC_PKA>
+-3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.3
+
+> <JCHEM_LOGP>
+-3
+
+> <ALOGPS_LOGS>
+-0.95
+
+> <JCHEM_POLARIZABILITY>
+25.13
+
+> <JCHEM_POLAR_SURFACE_AREA>
+137.71
+
+> <JCHEM_REFRACTIVITY>
+57.71
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+3.26e+01 g/l __ 
+
+$$$$

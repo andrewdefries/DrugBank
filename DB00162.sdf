@@ -1,0 +1,129 @@
+
+  Mrv0541 09031312482D          
+
+ 21 21  0  0  0  0            999 V2000
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1447    0.8249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4303    0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    0.8249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.8249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8592    0.4124    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    1.6499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    1.6499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    1.5394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    1.5394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 20  1  0  0  0  0
+  1 21  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  2  2  0  0  0  0
+ 19  3  1  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  8  7  1  0  0  0  0
+ 16  7  1  0  0  0  0
+  9  8  2  0  0  0  0
+ 10  9  1  0  0  0  0
+ 17  9  1  0  0  0  0
+ 11 10  2  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 12  2  0  0  0  0
+ 14 13  1  0  0  0  0
+ 18 13  1  0  0  0  0
+ 15 14  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00162
+
+> <DRUG_GROUPS>
+approved; nutraceutical
+
+> <GENERIC_NAME>
+Vitamin A
+
+> <SYNONYMS>
+all-trans-retinol; all-trans-retinyl alcohol; all-trans-vitamin A alcohol; Retinol; Vitamin A1
+
+> <SALTS>
+Vitamin A palmitate
+
+> <BRANDS>
+Alphalin; Chocola A
+
+> <CHEMICAL_FORMULA>
+C20H30O
+
+> <MOLECULAR_WEIGHT>
+286.4516
+
+> <EXACT_MASS>
+286.229665582
+
+> <IUPAC_NAME>
+(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohex-1-en-1-yl)nona-2,4,6,8-tetraen-1-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+α-sol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H30O/c1-16(8-6-9-17(2)13-15-21)11-12-19-18(3)10-7-14-20(19,4)5/h6,8-9,11-13,21H,7,10,14-15H2,1-5H3/b9-6+,12-11+,16-8+,17-13+
+
+> <INCHI_KEY>
+InChIKey=FPIPGXGPPPQFEQ-OVSJKPMPSA-N
+
+> <SMILES>
+C\C(=C/CO)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+16.44
+
+> <JCHEM_BASIC_PKA>
+-2.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+6.38
+
+> <JCHEM_LOGP>
+4.69
+
+> <ALOGPS_LOGS>
+-4.6
+
+> <JCHEM_POLARIZABILITY>
+36.43
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+97.92
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+7.58e-03 g/l __ 
+
+$$$$

@@ -1,0 +1,87 @@
+
+  Mrv0541 02231217052D          
+
+  5  4  0  0  0  0            999 V2000
+    2.4750   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03659
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Butylamine
+
+> <SYNONYMS>
+1-aminobutane; 1-butanamine; n-butylamine
+
+> <CHEMICAL_FORMULA>
+C4H11N
+
+> <MOLECULAR_WEIGHT>
+73.1368
+
+> <EXACT_MASS>
+73.089149357
+
+> <IUPAC_NAME>
+butan-1-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+butylamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H11N/c1-2-3-4-5/h2-5H2,1H3
+
+> <INCHI_KEY>
+InChIKey=HQABUPZFAYXKJW-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCN
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+10.21
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+0.85
+
+> <JCHEM_LOGP>
+0.7
+
+> <ALOGPS_LOGS>
+0.04
+
+> <JCHEM_POLARIZABILITY>
+9.66
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+23.79
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+8.07e+01 g/l __ 
+
+$$$$

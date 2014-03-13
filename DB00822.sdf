@@ -1,0 +1,109 @@
+822
+  Mrv0541 02231215022D          
+
+ 16 15  0  0  0  0            999 V2000
+    5.2219    0.2063    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5076   -0.2063    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9365   -1.0312    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7932    1.0312    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6509    0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0788   -0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6509    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3652   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0788   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3643    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3652    1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0797    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3643   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9365   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7932    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 15  2  0  0  0  0
+  4 16  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00822
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Disulfiram
+
+> <SYNONYMS>
+1,1'-dithiobis(N,N-diethylthioformamide); N,N,N',N'-tetraethylthiuram disulfide; Tetraethylthioperoxydicarbonic Diamide; Tetraethylthiuram Disulfide; Tetraethylthiuram Disulphide
+
+> <BRANDS>
+Antabus; Antabuse
+
+> <CHEMICAL_FORMULA>
+C10H20N2S4
+
+> <MOLECULAR_WEIGHT>
+296.539
+
+> <EXACT_MASS>
+296.05093141
+
+> <IUPAC_NAME>
+N,N-diethyl[(diethylcarbamothioyl)disulfanyl]carbothioamide
+
+> <IUPAC_TRADITIONAL_NAME>
+N,N-diethyl(diethylcarbamothioyl)disulfanylcarbothioamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H20N2S4/c1-5-11(6-2)9(13)15-16-10(14)12(7-3)8-4/h5-8H2,1-4H3
+
+> <INCHI_KEY>
+InChIKey=AUZONCFQVSMFAP-UHFFFAOYSA-N
+
+> <SMILES>
+CCN(CC)C(=S)SSC(=S)N(CC)CC
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.88
+
+> <JCHEM_LOGP>
+4.16
+
+> <ALOGPS_LOGS>
+-4.4
+
+> <JCHEM_POLARIZABILITY>
+31.6
+
+> <JCHEM_POLAR_SURFACE_AREA>
+6.48
+
+> <JCHEM_REFRACTIVITY>
+88.24
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+1.26e-02 g/l __ 
+
+$$$$

@@ -1,0 +1,103 @@
+BBS
+  Mrv0541 02241213262D          
+
+ 14 14  0  0  0  0            999 V2000
+   -0.0386    1.9390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0386    1.1140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8636    1.1140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7864    1.1140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6759   -0.1235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6759   -0.9485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0386   -1.3610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7531   -0.9485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7531   -0.1235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0386    0.2890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0386   -2.1860    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0386   -3.0110    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8636   -2.1860    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7864   -2.1860    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07440
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-TERT-BUTYLBENZENESULFONIC ACID
+
+> <CHEMICAL_FORMULA>
+C10H14O3S
+
+> <MOLECULAR_WEIGHT>
+214.281
+
+> <EXACT_MASS>
+214.066365004
+
+> <IUPAC_NAME>
+4-tert-butylbenzene-1-sulfonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+4-tert-butylbenzenesulfonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14O3S/c1-10(2,3)8-4-6-9(7-5-8)14(11,12)13/h4-7H,1-3H3,(H,11,12,13)
+
+> <INCHI_KEY>
+InChIKey=LZQMCUIWYRQLOG-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)(C)C1=CC=C(C=C1)S(O)(=O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+-1.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1
+
+> <JCHEM_LOGP>
+2.7
+
+> <ALOGPS_LOGS>
+-2.9
+
+> <JCHEM_POLARIZABILITY>
+22.21
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.37
+
+> <JCHEM_REFRACTIVITY>
+55.35
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.60e-01 g/l __ 
+
+$$$$

@@ -1,0 +1,116 @@
+
+  Mrv0541 02231216322D          
+
+ 18 20  0  0  1  0            999 V2000
+    4.0668    2.3479    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.1104    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -0.1271    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -0.5396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -1.3646    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5908   -1.8495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3358   -2.6341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5108   -2.6341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0259   -3.3015    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2559   -1.8495    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    0.8555    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    2.1904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    2.3479    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  6  1  1  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+  7 12  1  0  0  0  0
+  4 13  4  0  0  0  0
+ 13 14  4  0  0  0  0
+ 14 15  4  0  0  0  0
+ 15 16  4  0  0  0  0
+ 16 17  4  0  0  0  0
+ 13 17  4  0  0  0  0
+ 17 18  4  0  0  0  0
+  2 18  4  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02898
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-{[(2-Amino-9h-Purin-6-Yl)Oxy]Methyl}-2-Pyrrolidinone
+
+> <CHEMICAL_FORMULA>
+C10H11N6O2
+
+> <MOLECULAR_WEIGHT>
+247.2333
+
+> <EXACT_MASS>
+247.094348626
+
+> <IUPAC_NAME>
+(5R)-5-{[(2-aminopurin-6-yl)oxy]methyl}pyrrolidin-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+(5R)-5-{[(2-aminopurin-6-yl)oxy]methyl}pyrrolidin-2-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11N6O2/c11-10-15-8-7(12-4-13-8)9(16-10)18-3-5-1-2-6(17)14-5/h4-5H,1-3H2,(H,14,17)(H2,11,13,15)/t5-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=ZSKHIYHEECHGIB-RXMQYKEDSA-N
+
+> <SMILES>
+Nc1nc(OC[C@H]2CCC(=O)N2)c2ncnc2n1
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+13.41
+
+> <JCHEM_BASIC_PKA>
+0.44
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.29
+
+> <JCHEM_LOGP>
+-0.52
+
+> <ALOGPS_LOGS>
+-2.6
+
+> <JCHEM_POLARIZABILITY>
+23.64
+
+> <JCHEM_POLAR_SURFACE_AREA>
+115.91
+
+> <JCHEM_REFRACTIVITY>
+63.7
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+6.68e-01 g/l __ 
+
+$$$$

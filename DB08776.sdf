@@ -1,0 +1,109 @@
+ZYQ
+  Mrv0541 02241214192D          
+
+ 15 16  0  0  0  0            999 V2000
+   -3.0861   -0.9061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2611   -0.9061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8486   -1.6206    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8486   -0.1917    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0236   -0.1917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5386    0.4758    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2460    0.2208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8910    0.7352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6953    0.5516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0533   -0.1917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6953   -0.9350    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8910   -1.1185    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7074   -1.9229    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2460   -0.6042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5386   -0.8591    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 15  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08776
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-(4-OXO-5,6,7,8-TETRAHYDRO-4H-[1,3]THIAZOLO[5,4-C]AZEPIN-2-YL)ACETAMIDE
+
+> <CHEMICAL_FORMULA>
+C9H11N3O2S
+
+> <MOLECULAR_WEIGHT>
+225.268
+
+> <EXACT_MASS>
+225.057197301
+
+> <IUPAC_NAME>
+N-{4-oxo-4H,5H,6H,7H,8H-[1,3]thiazolo[5,4-c]azepin-2-yl}acetamide
+
+> <IUPAC_TRADITIONAL_NAME>
+N-{4-oxo-5H,6H,7H,8H-[1,3]thiazolo[5,4-c]azepin-2-yl}acetamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11N3O2S/c1-5(13)11-9-12-6-3-2-4-10-8(14)7(6)15-9/h2-4H2,1H3,(H,10,14)(H,11,12,13)
+
+> <INCHI_KEY>
+InChIKey=OYHOEDBNAJPFKK-UHFFFAOYSA-N
+
+> <SMILES>
+CC(=O)NC1=NC2=C(S1)C(=O)NCCC2
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+10.69
+
+> <JCHEM_BASIC_PKA>
+-1.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.11
+
+> <JCHEM_LOGP>
+0.12
+
+> <ALOGPS_LOGS>
+-3
+
+> <JCHEM_POLARIZABILITY>
+22.56
+
+> <JCHEM_POLAR_SURFACE_AREA>
+71.09
+
+> <JCHEM_REFRACTIVITY>
+56.85
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.41e-01 g/l __ 
+
+$$$$

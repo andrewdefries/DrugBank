@@ -1,0 +1,106 @@
+RMA
+  Mrv0541 02231216032D          
+
+ 15 16  0  0  0  0            999 V2000
+   -1.7541    2.5480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4991    1.7634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2442    0.9787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4372    0.8072    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1148    1.4203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1823    0.0226    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6672   -0.6449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1823   -1.3123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6023   -1.0574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6023   -0.2324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3168    0.1801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3168   -1.4699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0313   -1.0574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0313   -0.2324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7590    0.1139    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  4  1  1  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 15  1  6  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02211
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Methyl-N-Propargyl-1(R)-Aminoindan
+
+> <CHEMICAL_FORMULA>
+C13H15N
+
+> <MOLECULAR_WEIGHT>
+185.2649
+
+> <EXACT_MASS>
+185.120449485
+
+> <IUPAC_NAME>
+(1R)-N-methyl-N-(prop-2-yn-1-yl)-2,3-dihydro-1H-inden-1-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+(1R)-N-methyl-N-(prop-2-yn-1-yl)-2,3-dihydro-1H-inden-1-amine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H15N/c1-3-10-14(2)13-9-8-11-6-4-5-7-12(11)13/h1,4-7,13H,8-10H2,2H3/t13-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=CSVGVHNFFZWQJU-CYBMUJFWSA-N
+
+> <SMILES>
+[H][C@]1(CCC2=C1C=CC=C2)N(C)CC#C
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+8.54
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.59
+
+> <JCHEM_LOGP>
+2.69
+
+> <ALOGPS_LOGS>
+-3.7
+
+> <JCHEM_POLARIZABILITY>
+21.69
+
+> <JCHEM_POLAR_SURFACE_AREA>
+3.24
+
+> <JCHEM_REFRACTIVITY>
+59.76
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+3.65e-02 g/l __ 
+
+$$$$

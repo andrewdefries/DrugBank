@@ -1,0 +1,86 @@
+
+  Mrv0541 02231215562D          
+
+  6  5  0  0  0  0            999 V2000
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02074
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Butenoic Acid
+
+> <CHEMICAL_FORMULA>
+C4H6O2
+
+> <MOLECULAR_WEIGHT>
+86.0892
+
+> <EXACT_MASS>
+86.036779436
+
+> <IUPAC_NAME>
+(2E)-but-2-enoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+butenoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6O2/c1-2-3-4(5)6/h2-3H,1H3,(H,5,6)/b3-2+
+
+> <INCHI_KEY>
+InChIKey=LDHQCZJRKDOVOX-NSCUHMNNSA-N
+
+> <SMILES>
+C\C=C\C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.94
+
+> <JCHEM_LOGP>
+0.92
+
+> <ALOGPS_LOGS>
+0.07
+
+> <JCHEM_POLARIZABILITY>
+8.44
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+22.96
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.01e+02 g/l __ 
+
+$$$$

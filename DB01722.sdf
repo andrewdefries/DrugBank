@@ -1,0 +1,88 @@
+
+  Mrv0541 02231215402D          
+
+  8  8  0  0  0  0            999 V2000
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  3  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01722
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Ethylbenzene
+
+> <CHEMICAL_FORMULA>
+C8H10
+
+> <MOLECULAR_WEIGHT>
+106.165
+
+> <EXACT_MASS>
+106.07825032
+
+> <IUPAC_NAME>
+ethylbenzene
+
+> <IUPAC_TRADITIONAL_NAME>
+ethylbenzene
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H10/c1-2-8-6-4-3-5-7-8/h3-7H,2H2,1H3
+
+> <INCHI_KEY>
+InChIKey=YNQLUTRBYVCPMQ-UHFFFAOYSA-N
+
+> <SMILES>
+CCC1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.27
+
+> <JCHEM_LOGP>
+2.93
+
+> <ALOGPS_LOGS>
+-2.9
+
+> <JCHEM_POLARIZABILITY>
+12.89
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+35.7
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.36e-01 g/l __ 
+
+$$$$

@@ -1,0 +1,104 @@
+
+  Mrv0541 02231216272D          
+
+ 13 13  0  0  1  0            999 V2000
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.1842    1.8695    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2448    1.8695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9626    2.6447    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0572    1.7262    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  6  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  2  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+  4 11  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02786
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Anhydro-3-Fluoro-Quinic Acid
+
+> <CHEMICAL_FORMULA>
+C7H9FO5
+
+> <MOLECULAR_WEIGHT>
+192.1418
+
+> <EXACT_MASS>
+192.043401603
+
+> <IUPAC_NAME>
+(1S,4R,5S)-3-fluoro-1,4,5-trihydroxycyclohex-2-ene-1-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(1S,4R,5S)-3-fluoro-1,4,5-trihydroxycyclohex-2-ene-1-carboxylic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H9FO5/c8-3-1-7(13,6(11)12)2-4(9)5(3)10/h1,4-5,9-10,13H,2H2,(H,11,12)/t4-,5-,7+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=DGZQZSSRYAJDAX-KZLJYQGOSA-N
+
+> <SMILES>
+O[C@H]1C[C@](O)(C=C(F)[C@@H]1O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+3.39
+
+> <JCHEM_BASIC_PKA>
+-3.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-1.2
+
+> <JCHEM_LOGP>
+-1.8
+
+> <ALOGPS_LOGS>
+-0.24
+
+> <JCHEM_POLARIZABILITY>
+15.43
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.99
+
+> <JCHEM_REFRACTIVITY>
+39.32
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.09e+02 g/l __ 
+
+$$$$

@@ -1,0 +1,113 @@
+
+  Mrv0541 02231216452D          
+
+ 18 17  0  0  1  0            999 V2000
+   10.3125    3.5724    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9000    2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0750    2.8579    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6625    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8375    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4250    1.4289    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.6000    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1875    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3625    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9500    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8375    0.7145    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6625    0.7145    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0750    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3125   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+  6 14  1  6  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03187
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-(Hydroxyethyldithio)-8-(Aminomethylthio)Octanoic Acid
+
+> <CHEMICAL_FORMULA>
+C11H23NO3S3
+
+> <MOLECULAR_WEIGHT>
+313.5
+
+> <EXACT_MASS>
+313.084005677
+
+> <IUPAC_NAME>
+(6R)-8-[(aminomethyl)sulfanyl]-6-[(2-hydroxyethyl)disulfanyl]octanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(6R)-8-[(aminomethyl)sulfanyl]-6-[(2-hydroxyethyl)disulfanyl]octanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H23NO3S3/c12-9-16-7-5-10(18-17-8-6-13)3-1-2-4-11(14)15/h10,13H,1-9,12H2,(H,14,15)/t10-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=BFRWEULQQALYNZ-SNVBAGLBSA-N
+
+> <SMILES>
+NCSCC[C@@H](CCCCC(O)=O)SSCCO
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+4.06
+
+> <JCHEM_BASIC_PKA>
+8.33
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.53
+
+> <JCHEM_LOGP>
+-1.1
+
+> <ALOGPS_LOGS>
+-3.8
+
+> <JCHEM_POLARIZABILITY>
+34.54
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55
+
+> <JCHEM_REFRACTIVITY>
+82.81
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+13
+
+> <ALOGPS_SOLUBILITY>
+5.05e-02 g/l __ 
+
+$$$$

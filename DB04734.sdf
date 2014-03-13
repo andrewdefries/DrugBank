@@ -1,0 +1,95 @@
+
+  Mrv0541 02231217522D          
+
+  9  8  0  0  0  0            999 V2000
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04734
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Citraconic acid
+
+> <SYNONYMS>
+Citraconate; Kyselina mesakonova
+
+> <CHEMICAL_FORMULA>
+C5H6O4
+
+> <MOLECULAR_WEIGHT>
+130.0987
+
+> <EXACT_MASS>
+130.02660868
+
+> <IUPAC_NAME>
+(2Z)-2-methylbut-2-enedioic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+citraconic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H6O4/c1-3(5(8)9)2-4(6)7/h2H,1H3,(H,6,7)(H,8,9)/b3-2-
+
+> <INCHI_KEY>
+InChIKey=HNEGQIOMVPPMNR-IHWYPQMZSA-N
+
+> <SMILES>
+C\C(=C\C(O)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+0.21
+
+> <JCHEM_LOGP>
+0.35
+
+> <ALOGPS_LOGS>
+-0.91
+
+> <JCHEM_POLARIZABILITY>
+11.17
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+28.96
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.59e+01 g/l __ 
+
+$$$$

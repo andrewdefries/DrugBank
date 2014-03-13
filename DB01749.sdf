@@ -1,0 +1,86 @@
+
+  Mrv0541 02231215422D          
+
+  6  5  0  0  0  0            999 V2000
+   -0.1914    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01749
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,2-Dimethoxyethane
+
+> <CHEMICAL_FORMULA>
+C4H10O2
+
+> <MOLECULAR_WEIGHT>
+90.121
+
+> <EXACT_MASS>
+90.068079564
+
+> <IUPAC_NAME>
+1,2-dimethoxyethane
+
+> <IUPAC_TRADITIONAL_NAME>
+1,2-dimethoxyethane
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H10O2/c1-5-3-4-6-2/h3-4H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=XTHFKEDIFFGKHM-UHFFFAOYSA-N
+
+> <SMILES>
+COCCOC
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-3.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.03
+
+> <JCHEM_LOGP>
+0.078
+
+> <ALOGPS_LOGS>
+0.3
+
+> <JCHEM_POLARIZABILITY>
+10.3
+
+> <JCHEM_POLAR_SURFACE_AREA>
+18.46
+
+> <JCHEM_REFRACTIVITY>
+24.06
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.81e+02 g/l __ 
+
+$$$$

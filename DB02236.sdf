@@ -1,0 +1,114 @@
+
+  Mrv0541 02231216042D          
+
+ 18 18  0  0  1  0            999 V2000
+    3.1475    2.7532    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9760    1.9462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1913    1.6913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5783    2.2433    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0198    0.8843    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2352    0.6294    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.9803   -0.1553    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1553   -0.1553    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3297   -0.8227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1501   -0.7365    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6351   -1.4039    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1200   -2.0713    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.3025   -0.9190    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.9676   -1.8888    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0997    0.6294    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.8843    0.8843    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5678    1.1143    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5678    1.9393    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  6  5  1  6  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  1  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+  8 15  1  0  0  0  0
+ 15 16  1  6  0  0  0
+ 15 17  1  0  0  0  0
+  6 17  1  0  0  0  0
+ 17 18  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02236
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Glycinamide Ribonucleotide
+
+> <CHEMICAL_FORMULA>
+C7H13N2O8P
+
+> <MOLECULAR_WEIGHT>
+284.1605
+
+> <EXACT_MASS>
+284.040951914
+
+> <IUPAC_NAME>
+[(2S,3R,4R,5R)-5-(2-aminoacetamido)-3,4-dihydroxyoxolan-2-yl]methyl phosphate
+
+> <IUPAC_TRADITIONAL_NAME>
+[(2S,3R,4R,5R)-5-(2-aminoacetamido)-3,4-dihydroxyoxolan-2-yl]methyl phosphate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H15N2O8P/c8-1-4(10)9-7-6(12)5(11)3(17-7)2-16-18(13,14)15/h3,5-7,11-12H,1-2,8H2,(H,9,10)(H2,13,14,15)/p-2/t3-,5-,6+,7+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=OBQMLSFOUZUIOB-DOAVWBMOSA-L
+
+> <SMILES>
+NCC(=O)N[C@@H]1O[C@@H](COP([O-])([O-])=O)[C@H](O)[C@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+1.23
+
+> <JCHEM_BASIC_PKA>
+8.14
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-2.5
+
+> <JCHEM_LOGP>
+-4.7
+
+> <ALOGPS_LOGS>
+-0.78
+
+> <JCHEM_POLARIZABILITY>
+23.41
+
+> <JCHEM_POLAR_SURFACE_AREA>
+177.23
+
+> <JCHEM_REFRACTIVITY>
+53.05
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+5.33e+01 g/l __ 
+
+$$$$

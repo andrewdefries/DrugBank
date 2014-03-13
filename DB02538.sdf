@@ -1,0 +1,120 @@
+HDU
+  Mrv0541 02231216162D          
+
+ 20 22  0  0  0  0            999 V2000
+   -3.0087   -2.1001    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2017   -1.9285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6497   -2.5416    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9468   -1.1439    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1398   -0.9724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8849   -0.1878    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5878   -1.5855    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2192   -1.4140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4741   -0.6293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0779   -0.0162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1770    0.7684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9617    1.0233    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9617    1.8483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1770    2.1033    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3079    1.4358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1329    1.4358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6761    2.2608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3906    1.8483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3906    1.0233    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6761    0.6108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02538
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-[4-(2-Methylimidazo[1,2-a]Pyridin-3-Yl)-2-Pyrimidinyl]Acetamide
+
+> <CHEMICAL_FORMULA>
+C14H13N5O
+
+> <MOLECULAR_WEIGHT>
+267.2859
+
+> <EXACT_MASS>
+267.112010063
+
+> <IUPAC_NAME>
+N-(4-{2-methylimidazo[1,2-a]pyridin-3-yl}pyrimidin-2-yl)acetamide
+
+> <IUPAC_TRADITIONAL_NAME>
+N-(4-{2-methylimidazo[1,2-a]pyridin-3-yl}pyrimidin-2-yl)acetamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H13N5O/c1-9-13(19-8-4-3-5-12(19)16-9)11-6-7-15-14(18-11)17-10(2)20/h3-8H,1-2H3,(H,15,17,18,20)
+
+> <INCHI_KEY>
+InChIKey=ZCRPPLDDHBLUES-UHFFFAOYSA-N
+
+> <SMILES>
+CC(=O)NC1=NC(=CC=N1)C1=C(C)N=C2C=CC=CN12
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+12.02
+
+> <JCHEM_BASIC_PKA>
+5.39
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.01
+
+> <JCHEM_LOGP>
+0.84
+
+> <ALOGPS_LOGS>
+-3.9
+
+> <JCHEM_POLARIZABILITY>
+28.3
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.18
+
+> <JCHEM_REFRACTIVITY>
+76.64
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+3.71e-02 g/l __ 
+
+$$$$

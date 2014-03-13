@@ -1,0 +1,126 @@
+540
+  Mrv0541 02231214452D          
+
+ 20 22  0  0  0  0            999 V2000
+    2.5991   -1.7284    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4402    2.5532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6154    2.5532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9546    1.9082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1010    1.9082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0279    0.7462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7710    1.1041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2845    1.1041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0279   -0.0786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7715    2.1741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2840    2.1741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3918    0.5102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6639    0.5102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3134   -0.4911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4059    1.5947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498    1.5948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3133   -1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2147    0.7569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8408    0.7569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5991   -2.5532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7 12  2  0  0  0  0
+  8 13  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 16 19  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00540
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Nortriptyline
+
+> <SYNONYMS>
+Demethylamitriptyline; Desmethylamitriptyline
+
+> <SALTS>
+Nortriptyline Hydrochloride
+
+> <BRANDS>
+Allegron; Aventyl; Noritren; Norpress; Nortrilen; Pamelor; Sensoval
+
+> <CHEMICAL_FORMULA>
+C19H21N
+
+> <MOLECULAR_WEIGHT>
+263.3767
+
+> <EXACT_MASS>
+263.167399677
+
+> <IUPAC_NAME>
+methyl({3-[(2E)-tricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3(8),4,6,12,14-hexaen-2-ylidene]propyl})amine
+
+> <IUPAC_TRADITIONAL_NAME>
+nortriptyline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H21N/c1-20-14-6-11-19-17-9-4-2-7-15(17)12-13-16-8-3-5-10-18(16)19/h2-5,7-11,20H,6,12-14H2,1H3
+
+> <INCHI_KEY>
+InChIKey=PHVGLTMQBUFIQQ-UHFFFAOYSA-N
+
+> <SMILES>
+CNCCC=C1C2=CC=CC=C2CCC2=CC=CC=C12
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+10.47
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+4.65
+
+> <JCHEM_LOGP>
+4.43
+
+> <ALOGPS_LOGS>
+-5.5
+
+> <JCHEM_POLARIZABILITY>
+31.87
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+96.21
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+8.74e-04 g/l __ 
+
+$$$$

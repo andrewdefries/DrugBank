@@ -1,0 +1,126 @@
+1069
+  Mrv0541 02231215132D          
+
+ 20 22  0  0  1  0            999 V2000
+    3.6958   -1.9665    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6958   -0.3823    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3819    1.5979    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3819    0.8058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6958    0.4097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0099   -0.7784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3819   -0.7784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0678    0.4097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0099   -1.5704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3819   -1.5704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0678    1.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6958    1.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -0.3549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0899   -0.3549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -1.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0899   -1.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5842   -0.7619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8076   -0.7619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5842   -1.5869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8076   -1.5869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 13  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7 14  2  0  0  0  0
+  9 15  2  0  0  0  0
+ 10 16  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 20  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01069
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Promethazine
+
+> <SYNONYMS>
+(2-dimethylamino-2-methyl)ethyl-N-dibenzoparathiazine; 10-(2-Dimethylaminopropyl)phenothiazine; N,N,α-trimethyl-10H-phenothiazine-10-ethanamine; Proazamine
+
+> <SALTS>
+Promethazine hydrochloride
+
+> <BRANDS>
+Avomine; Fargan; Farganesse; Lergigan; Phenergan; Promethegan; Prothiazine; Receptozine; Romergan; Sominex
+
+> <CHEMICAL_FORMULA>
+C17H20N2S
+
+> <MOLECULAR_WEIGHT>
+284.419
+
+> <EXACT_MASS>
+284.13471934
+
+> <IUPAC_NAME>
+dimethyl[1-(10H-phenothiazin-10-yl)propan-2-yl]amine
+
+> <IUPAC_TRADITIONAL_NAME>
+promethazine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H20N2S/c1-13(18(2)3)12-19-14-8-4-6-10-16(14)20-17-11-7-5-9-15(17)19/h4-11,13H,12H2,1-3H3
+
+> <INCHI_KEY>
+InChIKey=PWWVAXIEGOYWEE-UHFFFAOYSA-N
+
+> <SMILES>
+CC(CN1C2=CC=CC=C2SC2=CC=CC=C12)N(C)C
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+9.05
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+4.52
+
+> <JCHEM_LOGP>
+4.29
+
+> <ALOGPS_LOGS>
+-4.1
+
+> <JCHEM_POLARIZABILITY>
+32.38
+
+> <JCHEM_POLAR_SURFACE_AREA>
+6.48
+
+> <JCHEM_REFRACTIVITY>
+88.5
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.45e-02 g/l __ 
+
+$$$$

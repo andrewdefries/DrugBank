@@ -1,0 +1,83 @@
+
+  Mrv0541 02231216262D          
+
+  6  5  0  0  0  0            999 V2000
+   -0.1914    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02764
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Hexane
+
+> <CHEMICAL_FORMULA>
+C6H14
+
+> <MOLECULAR_WEIGHT>
+86.1754
+
+> <EXACT_MASS>
+86.109550448
+
+> <IUPAC_NAME>
+hexane
+
+> <IUPAC_TRADITIONAL_NAME>
+hexane
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H14/c1-3-5-6-4-2/h3-6H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=VLKZOEOYAKHREP-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCC
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+4.02
+
+> <JCHEM_LOGP>
+3.13
+
+> <ALOGPS_LOGS>
+-3.4
+
+> <JCHEM_POLARIZABILITY>
+12.3
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+29.41
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+3.33e-02 g/l __ 
+
+$$$$

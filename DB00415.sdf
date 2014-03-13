@@ -1,0 +1,139 @@
+415
+  Mrv0541 02231214402D          
+
+ 25 27  0  0  1  0            999 V2000
+    7.6201    0.6772    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4215   -0.9907    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3230   -2.0553    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6819   -1.6138    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4089    0.0020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8354   -0.4027    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4215    1.0103    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2571    2.1794    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8354    0.4223    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    8.1049    0.0098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6201   -0.6576    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.0036    0.4257    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.0036   -0.4061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7724   -0.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7724    0.4947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8750   -1.4423    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6241    0.7983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0420    1.3829    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.2446    1.1711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0295    0.3746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6625    1.7556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2322    0.1627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8651    1.5437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.7473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7335    1.0744    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3 16  1  0  0  0  0
+  4 16  2  0  0  0  0
+  5 17  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 13  1  0  0  0  0
+ 12  7  1  1  0  0  0
+  7 17  1  0  0  0  0
+ 18  8  1  1  0  0  0
+  9 12  1  0  0  0  0
+  9 25  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  1  6  0  0  0
+ 12 13  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 21 23  2  0  0  0  0
+ 22 24  2  0  0  0  0
+ 23 24  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00415
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Ampicillin
+
+> <SYNONYMS>
+ABPC; Aminobenzylpenicillin; AMP; Ampicilina; Ampicillin; Ampicillin Acid; Ampicillin Anhydrous; Ampicilline; Ampicillinum; D-(−)-6-(α-aminophenylacetamido)penicillanic acid; D-(−)-ampicillin
+
+> <SALTS>
+Ampicillin sodium
+
+> <BRANDS>
+Austrapen; Binotal; Omnipen; Penbritin; Principen; Viccillin
+
+> <CHEMICAL_FORMULA>
+C16H19N3O4S
+
+> <MOLECULAR_WEIGHT>
+349.405
+
+> <EXACT_MASS>
+349.109626801
+
+> <IUPAC_NAME>
+(2S,5R,6R)-6-[(2R)-2-amino-2-phenylacetamido]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+ampicillin
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H19N3O4S/c1-16(2)11(15(22)23)19-13(21)10(14(19)24-16)18-12(20)9(17)8-6-4-3-5-7-8/h3-7,9-11,14H,17H2,1-2H3,(H,18,20)(H,22,23)/t9-,10-,11+,14-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=AVKUERGKIZMTKX-NJBDSQKTSA-N
+
+> <SMILES>
+[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)[C@H](N)C1=CC=CC=C1)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+3.24
+
+> <JCHEM_BASIC_PKA>
+7.44
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.88
+
+> <JCHEM_LOGP>
+-2
+
+> <ALOGPS_LOGS>
+-2.8
+
+> <JCHEM_POLARIZABILITY>
+34.54
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.73
+
+> <JCHEM_REFRACTIVITY>
+87.52
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+6.05e-01 g/l __ 
+
+$$$$

@@ -1,0 +1,102 @@
+UDT
+  Mrv0541 02241214152D          
+
+ 14 13  0  0  0  0            999 V2000
+   -2.7046    0.3064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9901   -0.1061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2756    0.3064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5611   -0.1061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1533    0.3064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8678   -0.1061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5823    0.3064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2967   -0.1061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0112    0.3064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7257   -0.1061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4402    0.3064    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1546   -0.1061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8691    0.3064    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1546   -0.9311    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08684
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+O-DECYL HYDROGEN THIOCARBONATE
+
+> <CHEMICAL_FORMULA>
+C11H22O2S
+
+> <MOLECULAR_WEIGHT>
+218.356
+
+> <EXACT_MASS>
+218.134050638
+
+> <IUPAC_NAME>
+decyl sulfanylformate
+
+> <IUPAC_TRADITIONAL_NAME>
+decyl sulfanylformate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H22O2S/c1-2-3-4-5-6-7-8-9-10-13-11(12)14/h2-10H2,1H3,(H,12,14)
+
+> <INCHI_KEY>
+InChIKey=RFWUWWWJCLPVPT-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCCCCCCOC(S)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+5.54
+
+> <JCHEM_LOGP>
+4.9
+
+> <ALOGPS_LOGS>
+-4.7
+
+> <JCHEM_POLARIZABILITY>
+26.88
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.3
+
+> <JCHEM_REFRACTIVITY>
+62.16
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <ALOGPS_SOLUBILITY>
+4.71e-03 g/l __ 
+
+$$$$

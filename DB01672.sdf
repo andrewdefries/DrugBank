@@ -1,0 +1,100 @@
+
+  Mrv0541 02231215382D          
+
+ 11 11  0  0  0  0            999 V2000
+    2.1434    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  4 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01672
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,3-Dihydroxy-Benzoic Acid
+
+> <CHEMICAL_FORMULA>
+C7H6O4
+
+> <MOLECULAR_WEIGHT>
+154.1201
+
+> <EXACT_MASS>
+154.02660868
+
+> <IUPAC_NAME>
+2,3-dihydroxybenzoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+2,3-dihydroxybenzoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H6O4/c8-5-3-1-2-4(6(5)9)7(10)11/h1-3,8-9H,(H,10,11)
+
+> <INCHI_KEY>
+InChIKey=GLDQAMYCGOIJDV-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)C1=CC=CC(O)=C1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+2.56
+
+> <JCHEM_BASIC_PKA>
+-6.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.42
+
+> <JCHEM_LOGP>
+1.67
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+13.7
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.76
+
+> <JCHEM_REFRACTIVITY>
+37.28
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.88e+00 g/l __ 
+
+$$$$

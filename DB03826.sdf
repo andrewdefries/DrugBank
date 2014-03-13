@@ -1,0 +1,98 @@
+
+  Mrv0541 02231217122D          
+
+ 10 10  0  0  0  0            999 V2000
+    2.1434   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  2 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03826
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5,6-Diaminouracil
+
+> <CHEMICAL_FORMULA>
+C4H6N4O2
+
+> <MOLECULAR_WEIGHT>
+142.116
+
+> <EXACT_MASS>
+142.049075456
+
+> <IUPAC_NAME>
+5,6-diamino-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+5,6-diaminouracil
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6N4O2/c5-1-2(6)7-4(10)8-3(1)9/h5H2,(H4,6,7,8,9,10)
+
+> <INCHI_KEY>
+InChIKey=BBTNLADSUVOPPN-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=C(N)C(=O)NC(=O)N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+9.42
+
+> <JCHEM_BASIC_PKA>
+2.52
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.5
+
+> <JCHEM_LOGP>
+-2.2
+
+> <ALOGPS_LOGS>
+-1
+
+> <JCHEM_POLARIZABILITY>
+12.08
+
+> <JCHEM_POLAR_SURFACE_AREA>
+110.24
+
+> <JCHEM_REFRACTIVITY>
+42.53
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.38e+01 g/l __ 
+
+$$$$

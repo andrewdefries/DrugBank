@@ -1,0 +1,106 @@
+SB9
+  Mrv0541 02241214092D          
+
+ 14 14  0  0  0  0            999 V2000
+   -1.2741    0.9384    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5596    0.5259    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5596   -0.2991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2741   -0.7116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9886   -0.2991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9886    0.5259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2741    1.7634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1548   -0.7116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8693   -0.2991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5838   -0.7116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2982   -0.2991    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2982    0.5259    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0127   -0.7116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7272   -0.2991    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08525
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+HYDROXY[3-(6-METHYLPYRIDIN-2-YL)PROPYL]FORMAMIDE
+
+> <CHEMICAL_FORMULA>
+C10H14N2O2
+
+> <MOLECULAR_WEIGHT>
+194.2304
+
+> <EXACT_MASS>
+194.105527702
+
+> <IUPAC_NAME>
+N-hydroxy-N-[3-(6-methylpyridin-2-yl)propyl]formamide
+
+> <IUPAC_TRADITIONAL_NAME>
+N-hydroxy-N-[3-(6-methylpyridin-2-yl)propyl]formamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14N2O2/c1-9-4-2-5-10(11-9)6-3-7-12(14)8-13/h2,4-5,8,14H,3,6-7H2,1H3
+
+> <INCHI_KEY>
+InChIKey=FJYUGRZKJXCRFF-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=NC(CCCN(O)C=O)=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+8.51
+
+> <JCHEM_BASIC_PKA>
+5.28
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.91
+
+> <JCHEM_LOGP>
+0.39
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+20.96
+
+> <JCHEM_POLAR_SURFACE_AREA>
+53.43
+
+> <JCHEM_REFRACTIVITY>
+52.62
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+3.35e+00 g/l __ 
+
+$$$$

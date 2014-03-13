@@ -1,0 +1,102 @@
+
+  Mrv0541 02231217122D          
+
+ 12 12  0  0  0  0            999 V2000
+    0.0000    4.1250    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  7 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03814
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(N-Morpholino)-Ethanesulfonic Acid
+
+> <CHEMICAL_FORMULA>
+C6H13NO4S
+
+> <MOLECULAR_WEIGHT>
+195.237
+
+> <EXACT_MASS>
+195.056528599
+
+> <IUPAC_NAME>
+4-(2-sulfonatoethyl)morpholin-4-ium
+
+> <IUPAC_TRADITIONAL_NAME>
+4-(2-sulfonatoethyl)morpholin-4-ium
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13NO4S/c8-12(9,10)6-3-7-1-4-11-5-2-7/h1-6H2,(H,8,9,10)
+
+> <INCHI_KEY>
+InChIKey=SXGZJKUKBWWHRA-UHFFFAOYSA-N
+
+> <SMILES>
+[O-]S(=O)(=O)CC[NH+]1CCOCC1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+-1.5
+
+> <JCHEM_BASIC_PKA>
+6.51
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.87
+
+> <JCHEM_LOGP>
+-2.5
+
+> <ALOGPS_LOGS>
+-1.7
+
+> <JCHEM_POLARIZABILITY>
+18.67
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.87
+
+> <JCHEM_REFRACTIVITY>
+53.64
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+4.58e+00 g/l __ 
+
+$$$$

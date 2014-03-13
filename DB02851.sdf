@@ -1,0 +1,100 @@
+TCM
+  Mrv0541 02231216302D          
+
+ 12 13  0  0  0  0            999 V2000
+   -0.1647   -0.6259    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.9403   -1.0163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5749   -0.3557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0654    0.0945    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8609   -0.3708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5658   -0.9963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0946    0.9100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6743    1.4969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3922    1.5761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1658   -1.4509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5349   -1.5881    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2421    0.6511    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1 10  1  6  0  0  0
+  2  3  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 12  1  1  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02851
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Thiocamphor
+
+> <CHEMICAL_FORMULA>
+C10H16S
+
+> <MOLECULAR_WEIGHT>
+168.299
+
+> <EXACT_MASS>
+168.097271202
+
+> <IUPAC_NAME>
+(1R,4R)-1,7,7-trimethylbicyclo[2.2.1]heptane-2-thione
+
+> <IUPAC_TRADITIONAL_NAME>
+(1R,4R)-1,7,7-trimethylbicyclo[2.2.1]heptane-2-thione
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H16S/c1-9(2)7-4-5-10(9,3)8(11)6-7/h7H,4-6H2,1-3H3/t7-,10+/m1/s1
+
+> <INCHI_KEY>
+InChIKey=AAADKYXUTOBAGS-XCBNKYQSSA-N
+
+> <SMILES>
+[H][C@@]12CC[C@@](C)(C(=S)C1)C2(C)C
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+19.87
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.78
+
+> <JCHEM_LOGP>
+3.44
+
+> <ALOGPS_LOGS>
+-4.3
+
+> <JCHEM_POLARIZABILITY>
+19.85
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+52.48
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+8.47e-03 g/l __ 
+
+$$$$

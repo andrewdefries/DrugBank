@@ -1,0 +1,95 @@
+
+  Mrv0541 02231215442D          
+
+ 11 12  0  0  0  0            999 V2000
+    2.7845    0.6979    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435    0.8555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6284    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435    2.1904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7845    2.3479    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  6  7  4  0  0  0  0
+  7  8  4  0  0  0  0
+  4  8  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+  2 10  4  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01811
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3h-Indole-5,6-Diol
+
+> <CHEMICAL_FORMULA>
+C8H6NO2
+
+> <MOLECULAR_WEIGHT>
+148.1387
+
+> <EXACT_MASS>
+148.039853441
+
+> <IUPAC_NAME>
+indole-5,6-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+3h-indole-5,6-diol
+
+> <SMILES>
+Oc1cc2ccnc2cc1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+8.49
+
+> <JCHEM_BASIC_PKA>
+6.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.11
+
+> <JCHEM_LOGP>
+1.19
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+14.37
+
+> <JCHEM_POLAR_SURFACE_AREA>
+53.35
+
+> <JCHEM_REFRACTIVITY>
+39.6
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.78e+00 g/l __ 
+
+$$$$

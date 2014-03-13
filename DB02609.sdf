@@ -1,0 +1,103 @@
+
+  Mrv0541 02231216192D          
+
+ 13 12  0  0  1  0            999 V2000
+    4.6184    2.6664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.9039    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.8414    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0461    2.2539    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3480    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1730    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  1  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  2 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02609
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Hydroxy-L-Threonine-5-Monophosphate
+
+> <CHEMICAL_FORMULA>
+C4H10NO7P
+
+> <MOLECULAR_WEIGHT>
+215.0985
+
+> <EXACT_MASS>
+215.019488191
+
+> <IUPAC_NAME>
+(2S,3R)-2-amino-3-hydroxy-4-(phosphonooxy)butanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S,3R)-2-amino-3-hydroxy-4-(phosphonooxy)butanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H10NO7P/c5-3(4(7)8)2(6)1-12-13(9,10)11/h2-3,6H,1,5H2,(H,7,8)(H2,9,10,11)/t2-,3-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=FKHAKIJOKDGEII-HRFVKAFMSA-N
+
+> <SMILES>
+N[C@@H]([C@@H](O)COP(O)(O)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+1.31
+
+> <JCHEM_BASIC_PKA>
+8.93
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-2.4
+
+> <JCHEM_LOGP>
+-3.9
+
+> <ALOGPS_LOGS>
+-0.98
+
+> <JCHEM_POLARIZABILITY>
+16.89
+
+> <JCHEM_POLAR_SURFACE_AREA>
+150.31
+
+> <JCHEM_REFRACTIVITY>
+38.88
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+2.27e+01 g/l __ 
+
+$$$$

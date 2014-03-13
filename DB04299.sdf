@@ -1,0 +1,90 @@
+
+  Mrv0541 02231217352D          
+
+  8  7  0  0  0  0            999 V2000
+    2.0625    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04299
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Maleic Acid
+
+> <CHEMICAL_FORMULA>
+C4H4O4
+
+> <MOLECULAR_WEIGHT>
+116.0722
+
+> <EXACT_MASS>
+116.010958616
+
+> <IUPAC_NAME>
+(2E)-but-2-enedioic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+maleic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H4O4/c5-3(6)1-2-4(7)8/h1-2H,(H,5,6)(H,7,8)/b2-1+
+
+> <INCHI_KEY>
+InChIKey=VZCYOOQTPOCHFL-OWOJBTEDSA-N
+
+> <SMILES>
+OC(=O)\C=C\C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+3.55
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+0.21
+
+> <JCHEM_LOGP>
+-0.041
+
+> <ALOGPS_LOGS>
+-0.68
+
+> <JCHEM_POLARIZABILITY>
+9.35
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+24.61
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.41e+01 g/l __ 
+
+$$$$

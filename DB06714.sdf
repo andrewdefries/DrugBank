@@ -1,0 +1,100 @@
+
+  Mrv0541 02241212492D          
+
+ 11 11  0  0  0  0            999 V2000
+   -0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  4  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB06714
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Propylhexedrine
+
+> <BRANDS>
+Benzedrex; Obesin
+
+> <CHEMICAL_FORMULA>
+C10H21N
+
+> <MOLECULAR_WEIGHT>
+155.2804
+
+> <EXACT_MASS>
+155.167399677
+
+> <IUPAC_NAME>
+(1-cyclohexylpropan-2-yl)(methyl)amine
+
+> <IUPAC_TRADITIONAL_NAME>
+propylhexedrine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H21N/c1-9(11-2)8-10-6-4-3-5-7-10/h9-11H,3-8H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=JCRIVQIOJSSCQD-UHFFFAOYSA-N
+
+> <SMILES>
+CNC(C)CC1CCCCC1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+10.61
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+3.37
+
+> <JCHEM_LOGP>
+2.7
+
+> <ALOGPS_LOGS>
+-3.2
+
+> <JCHEM_POLARIZABILITY>
+20.27
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+49.54
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+9.04e-02 g/l __ 
+
+$$$$

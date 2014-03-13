@@ -1,0 +1,117 @@
+DBT
+  Mrv0541 02241213332D          
+
+ 19 20  0  0  0  0            999 V2000
+   -2.1900    1.3218    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1900    0.4968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4755    0.0843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4755   -0.7407    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7610   -1.1532    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1900   -1.1532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9044   -0.7407    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5175   -1.2927    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1820   -2.0464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3615   -1.9602    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9044    0.0843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6189    0.4968    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7610    0.4968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0466    0.0843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6679    0.4968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3824    0.0843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0969    0.4968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8113    0.0843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5258    0.4968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07636
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-HEPTYL-6-HYDROXY-1,3-BENZOTHIAZOLE-4,7-DIONE
+
+> <CHEMICAL_FORMULA>
+C14H17NO3S
+
+> <MOLECULAR_WEIGHT>
+279.355
+
+> <EXACT_MASS>
+279.092914105
+
+> <IUPAC_NAME>
+5-heptyl-6-hydroxy-4,7-dihydro-1,3-benzothiazole-4,7-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+5-heptyl-6-hydroxy-1,3-benzothiazole-4,7-dione
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H17NO3S/c1-2-3-4-5-6-7-9-11(16)10-14(19-8-15-10)13(18)12(9)17/h8,17H,2-7H2,1H3
+
+> <INCHI_KEY>
+InChIKey=CAPIRLKYURUNFL-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCCCC1=C(O)C(=O)C2=C(N=CS2)C1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+6.93
+
+> <JCHEM_BASIC_PKA>
+-0.81
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+2.83
+
+> <JCHEM_LOGP>
+3.22
+
+> <ALOGPS_LOGS>
+-4.3
+
+> <JCHEM_POLARIZABILITY>
+30.11
+
+> <JCHEM_POLAR_SURFACE_AREA>
+67.26
+
+> <JCHEM_REFRACTIVITY>
+74.73
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+1.48e-02 g/l __ 
+
+$$$$

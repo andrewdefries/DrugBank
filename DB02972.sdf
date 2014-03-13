@@ -1,0 +1,97 @@
+
+  Mrv0541 02231216362D          
+
+ 11 11  0  0  1  0            999 V2000
+   -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  1  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  6 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02972
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-Benzyl-(R)-Propylamine
+
+> <CHEMICAL_FORMULA>
+C10H15N
+
+> <MOLECULAR_WEIGHT>
+149.2328
+
+> <EXACT_MASS>
+149.120449485
+
+> <IUPAC_NAME>
+(2S)-1-phenylbutan-2-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+1-benzyl-(R)-propylamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H15N/c1-2-10(11)8-9-6-4-3-5-7-9/h3-7,10H,2,8,11H2,1H3/t10-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=IOLQWLOHKZENDW-JTQLQIEISA-N
+
+> <SMILES>
+CC[C@H](N)CC1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+10.04
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.3
+
+> <JCHEM_LOGP>
+2.33
+
+> <ALOGPS_LOGS>
+-2.3
+
+> <JCHEM_POLARIZABILITY>
+18.11
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+48.23
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+7.80e-01 g/l __ 
+
+$$$$

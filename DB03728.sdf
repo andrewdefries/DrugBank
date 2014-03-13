@@ -1,0 +1,95 @@
+
+  Mrv0541 02231217082D          
+
+ 10 10  0  0  0  0            999 V2000
+    1.4289   -1.6500    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  4 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03728
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Chlorobenzoic Acid
+
+> <CHEMICAL_FORMULA>
+C7H5ClO2
+
+> <MOLECULAR_WEIGHT>
+156.566
+
+> <EXACT_MASS>
+155.997807111
+
+> <IUPAC_NAME>
+4-chlorobenzoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+4-chlorobenzoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H5ClO2/c8-6-3-1-5(2-4-6)7(9)10/h1-4H,(H,9,10)
+
+> <INCHI_KEY>
+InChIKey=XRHGYUZYPHTUJZ-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)C1=CC=C(Cl)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.07
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+2.22
+
+> <JCHEM_LOGP>
+2.23
+
+> <ALOGPS_LOGS>
+-2.1
+
+> <JCHEM_POLARIZABILITY>
+14.26
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+38.12
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.10e+00 g/l __ 
+
+$$$$

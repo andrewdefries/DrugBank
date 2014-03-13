@@ -1,0 +1,118 @@
+1463
+  Mrv0541 02231215302D          
+
+ 16 18  0  0  1  0            999 V2000
+    2.6602    0.9070    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2984    0.8040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5119    1.6008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8696   -0.0210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4571    0.6934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9042    2.4115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8097    0.1780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0231    0.9748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6561   -0.8177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4467    1.7039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8592   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2394   -1.4011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6499    1.9173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6457   -1.8282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0258   -2.1979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2289   -2.4115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01463
+
+> <DRUG_GROUPS>
+approved; illicit; withdrawn
+
+> <GENERIC_NAME>
+Fencamfamine
+
+> <SYNONYMS>
+Fencamfamine; Fencamfaminum; Fencanfamina
+
+> <SALTS>
+Fencamfamine hydrochloride
+
+> <BRANDS>
+Glucoenergan; Reactivan
+
+> <CHEMICAL_FORMULA>
+C15H21N
+
+> <MOLECULAR_WEIGHT>
+215.3339
+
+> <EXACT_MASS>
+215.167399677
+
+> <IUPAC_NAME>
+N-ethyl-3-phenylbicyclo[2.2.1]heptan-2-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+fencamfamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H21N/c1-2-16-15-13-9-8-12(10-13)14(15)11-6-4-3-5-7-11/h3-7,12-16H,2,8-10H2,1H3
+
+> <INCHI_KEY>
+InChIKey=IKFBPFGUINLYQI-UHFFFAOYSA-N
+
+> <SMILES>
+CCNC1C2CCC(C2)C1C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+10.56
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+3.46
+
+> <JCHEM_LOGP>
+3.21
+
+> <ALOGPS_LOGS>
+-4.9
+
+> <JCHEM_POLARIZABILITY>
+26.13
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+67.64
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.95e-03 g/l __ 
+
+$$$$

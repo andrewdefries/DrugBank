@@ -1,0 +1,108 @@
+IS2
+  Mrv0541 02231217042D          
+
+ 15 15  0  0  0  0            999 V2000
+    1.2541    0.4213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2541   -0.4037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5397   -0.8162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1748   -0.4037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1748    0.4213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5397    0.8338    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8893   -0.8162    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6037   -0.4037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6037    0.4213    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3182   -0.8162    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0327   -1.2287    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9057   -1.5307    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7307   -0.1017    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9686    0.8338    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9686    1.6588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03628
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+ISO24
+
+> <CHEMICAL_FORMULA>
+C9H12NO4P
+
+> <MOLECULAR_WEIGHT>
+229.1696
+
+> <EXACT_MASS>
+229.050394389
+
+> <IUPAC_NAME>
+[(4-ethylphenyl)carbamoyl]phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(4-ethylphenyl)carbamoylphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H12NO4P/c1-2-7-3-5-8(6-4-7)10-9(11)15(12,13)14/h3-6H,2H2,1H3,(H,10,11)(H2,12,13,14)
+
+> <INCHI_KEY>
+InChIKey=KGNSYMGWPCEFDZ-UHFFFAOYSA-N
+
+> <SMILES>
+CCC1=CC=C(NC(=O)P(O)(O)=O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+0.34
+
+> <JCHEM_BASIC_PKA>
+-7.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+0.83
+
+> <JCHEM_LOGP>
+1.58
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+21.52
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.63
+
+> <JCHEM_REFRACTIVITY>
+56.99
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.32e+00 g/l __ 
+
+$$$$

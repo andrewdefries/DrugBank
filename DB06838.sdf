@@ -1,0 +1,103 @@
+0A9
+  Mrv0541 02241213012D          
+
+ 14 14  0  0  0  0            999 V2000
+   -0.6019    0.6923    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6019   -0.1327    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.3164   -0.5452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1125   -0.5452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8270   -0.1327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8270    0.6923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5415   -0.5452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5415    1.1048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2560   -0.1327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2560    0.6923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3164   -1.3702    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7453   -0.5452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0309   -0.1327    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1076    0.1593    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 14  1  6  0  0  0
+  3 11  2  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 13 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB06838
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+methyl L-phenylalaninate
+
+> <CHEMICAL_FORMULA>
+C10H13NO2
+
+> <MOLECULAR_WEIGHT>
+179.2157
+
+> <EXACT_MASS>
+179.094628665
+
+> <IUPAC_NAME>
+methyl (2S)-2-amino-3-phenylpropanoate
+
+> <IUPAC_TRADITIONAL_NAME>
+methyl (2S)-2-amino-3-phenylpropanoate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H13NO2/c1-13-10(12)9(11)7-8-5-3-2-4-6-8/h2-6,9H,7,11H2,1H3/t9-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=VSDUZFOSJDMAFZ-VIFPVBQESA-N
+
+> <SMILES>
+[H][C@](N)(CC1=CC=CC=C1)C(=O)OC
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+6.97
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.8
+
+> <JCHEM_LOGP>
+1.22
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+19.38
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.32
+
+> <JCHEM_REFRACTIVITY>
+49.89
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+3.11e+00 g/l __ 
+
+$$$$

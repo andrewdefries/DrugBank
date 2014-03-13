@@ -1,0 +1,103 @@
+
+  Mrv0541 02231216382D          
+
+ 13 12  0  0  0  0            999 V2000
+    1.4289   -4.7289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -3.9039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.4914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.4914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.6664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.2539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0934   -0.6753    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  5 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03040
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Nitrilotriacetic Acid
+
+> <CHEMICAL_FORMULA>
+C6H9NO6
+
+> <MOLECULAR_WEIGHT>
+191.1388
+
+> <EXACT_MASS>
+191.042987025
+
+> <IUPAC_NAME>
+2-[bis(carboxymethyl)amino]acetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+nitrilotriacetic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H9NO6/c8-4(9)1-7(2-5(10)11)3-6(12)13/h1-3H2,(H,8,9)(H,10,11)(H,12,13)
+
+> <INCHI_KEY>
+InChIKey=MGFYIUFZLHCRTH-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)CN(CC(O)=O)CC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.78
+
+> <JCHEM_BASIC_PKA>
+5.58
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <ALOGPS_LOGP>
+-0.98
+
+> <JCHEM_LOGP>
+-2.1
+
+> <ALOGPS_LOGS>
+-0.78
+
+> <JCHEM_POLARIZABILITY>
+16.12
+
+> <JCHEM_POLAR_SURFACE_AREA>
+115.14
+
+> <JCHEM_REFRACTIVITY>
+38.24
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+3.17e+01 g/l __ 
+
+$$$$

@@ -1,0 +1,97 @@
+
+  Mrv0541 02231216422D          
+
+ 11 11  0  0  0  0            999 V2000
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5395    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1105    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03120
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Para-Toluene Sulfonate
+
+> <CHEMICAL_FORMULA>
+C7H8O3S
+
+> <MOLECULAR_WEIGHT>
+172.202
+
+> <EXACT_MASS>
+172.019414812
+
+> <IUPAC_NAME>
+4-methylbenzene-1-sulfonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+para-toluene sulfonate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8O3S/c1-6-2-4-7(5-3-6)11(8,9)10/h2-5H,1H3,(H,8,9,10)
+
+> <INCHI_KEY>
+InChIKey=JOXIMZWYDAKGHI-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=CC=C(C=C1)S(O)(=O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+-2.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.88
+
+> <JCHEM_LOGP>
+1.67
+
+> <ALOGPS_LOGS>
+-1.9
+
+> <JCHEM_POLARIZABILITY>
+16.55
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.37
+
+> <JCHEM_REFRACTIVITY>
+41.72
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.30e+00 g/l __ 
+
+$$$$

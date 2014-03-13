@@ -1,0 +1,110 @@
+2368
+  Mrv0541 02231214312D          
+
+ 13 13  0  0  0  0            999 V2000
+    3.0790    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  8  2  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00217
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Bethanidine
+
+> <SYNONYMS>
+Betanidine; N,N'-dimethyl-N''-(phenylmethyl)-guanidine
+
+> <SALTS>
+Bethanidine sulfate
+
+> <BRANDS>
+Esbatal
+
+> <CHEMICAL_FORMULA>
+C10H15N3
+
+> <MOLECULAR_WEIGHT>
+177.2462
+
+> <EXACT_MASS>
+177.126597495
+
+> <IUPAC_NAME>
+(E)-3-benzyl-1,2-dimethylguanidine
+
+> <IUPAC_TRADITIONAL_NAME>
+bethanidine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H15N3/c1-11-10(12-2)13-8-9-6-4-3-5-7-9/h3-7H,8H2,1-2H3,(H2,11,12,13)
+
+> <INCHI_KEY>
+InChIKey=NIVZHWNOUVJHKV-UHFFFAOYSA-N
+
+> <SMILES>
+CN\C(NCC1=CC=CC=C1)=N/C
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_BASIC_PKA>
+12.41
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.41
+
+> <JCHEM_LOGP>
+1.27
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+20.43
+
+> <JCHEM_POLAR_SURFACE_AREA>
+36.42
+
+> <JCHEM_REFRACTIVITY>
+54.5
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.58e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,88 @@
+
+  Mrv0541 02231217092D          
+
+  7  6  0  0  0  0            999 V2000
+    1.2375    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03750
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Isovaleric Acid
+
+> <CHEMICAL_FORMULA>
+C5H10O2
+
+> <MOLECULAR_WEIGHT>
+102.1317
+
+> <EXACT_MASS>
+102.068079564
+
+> <IUPAC_NAME>
+3-methylbutanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+isovaleric acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H10O2/c1-4(2)3-5(6)7/h4H,3H2,1-2H3,(H,6,7)
+
+> <INCHI_KEY>
+InChIKey=GWYFCOCPABKNJV-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)CC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+5.01
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.26
+
+> <JCHEM_LOGP>
+1.21
+
+> <ALOGPS_LOGS>
+-0.2
+
+> <JCHEM_POLARIZABILITY>
+10.99
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+26.42
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+6.49e+01 g/l __ 
+
+$$$$

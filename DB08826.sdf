@@ -1,0 +1,104 @@
+
+  Mrv0541 12281214342D          
+
+ 10 10  0  0  0  0            999 V2000
+    5.6100   -2.9150    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8955   -2.5025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8955   -1.6775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3245   -2.5025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3245   -1.6775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6100   -1.2650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6100   -0.4400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0389   -1.2650    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0389   -2.9150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6100   -3.7400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  3  1  0  0  0  0
+  6  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08826
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Deferiprone
+
+> <SYNONYMS>
+
+
+> <BRANDS>
+Ferriprox
+
+> <CHEMICAL_FORMULA>
+C7H9NO2
+
+> <MOLECULAR_WEIGHT>
+139.1519
+
+> <EXACT_MASS>
+139.063328537
+
+> <IUPAC_NAME>
+3-hydroxy-1,2-dimethyl-1,4-dihydropyridin-4-one
+
+> <IUPAC_TRADITIONAL_NAME>
+deferiprone
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H9NO2/c1-5-7(10)6(9)3-4-8(5)2/h3-4,10H,1-2H3
+
+> <INCHI_KEY>
+InChIKey=TZXKOCQBRNJULO-UHFFFAOYSA-N
+
+> <SMILES>
+CN1C=CC(=O)C(O)=C1C
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+11.82
+
+> <JCHEM_BASIC_PKA>
+0.52
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.6
+
+> <JCHEM_LOGP>
+0.61
+
+> <ALOGPS_LOGS>
+0.29
+
+> <JCHEM_POLARIZABILITY>
+14.05
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.54
+
+> <JCHEM_REFRACTIVITY>
+40.7
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.73e+02 g/l __ 
+
+$$$$

@@ -1,0 +1,102 @@
+1506
+  Mrv0541 02231215322D          
+
+ 13 14  0  0  0  0            999 V2000
+    2.1615    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5741    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2885   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8596   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2885   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8596   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5741   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2885    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0031    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2885    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7175    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0031    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7175    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01506
+
+> <DRUG_GROUPS>
+experimental; illicit
+
+> <GENERIC_NAME>
+1-Phenylcyclohexylamine
+
+> <CHEMICAL_FORMULA>
+C12H17N
+
+> <MOLECULAR_WEIGHT>
+175.2701
+
+> <EXACT_MASS>
+175.136099549
+
+> <IUPAC_NAME>
+1-phenylcyclohexan-1-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+1-phenylcyclohexylamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H17N/c13-12(9-5-2-6-10-12)11-7-3-1-4-8-11/h1,3-4,7-8H,2,5-6,9-10,13H2
+
+> <INCHI_KEY>
+InChIKey=RGZGRPPQZUQUCR-UHFFFAOYSA-N
+
+> <SMILES>
+NC1(CCCCC1)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+10.05
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.87
+
+> <JCHEM_LOGP>
+2.82
+
+> <ALOGPS_LOGS>
+-3.5
+
+> <JCHEM_POLARIZABILITY>
+20.69
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+55.44
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.73e-02 g/l __ 
+
+$$$$

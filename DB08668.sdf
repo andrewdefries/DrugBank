@@ -1,0 +1,115 @@
+U14
+  Mrv0541 02241214142D          
+
+ 18 19  0  0  0  0            999 V2000
+   -1.4493    2.8270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4493    2.0020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1638    1.5895    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7348    1.5895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0204    2.0020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6941    1.5895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6941    0.7645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7348    0.7645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0204    0.3520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0204   -0.4730    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6941   -0.8855    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6941   -1.7105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3616   -2.1954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1462   -1.9405    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1066   -2.9801    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0267   -2.1954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2816   -2.9801    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7579   -1.9405    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08668
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-(5-AMINO-3-IMINO-3H-PYRAZOL-4-YLAZO)-BENZOIC ACID
+
+> <CHEMICAL_FORMULA>
+C10H8N6O2
+
+> <MOLECULAR_WEIGHT>
+244.2095
+
+> <EXACT_MASS>
+244.07087353
+
+> <IUPAC_NAME>
+3-[(E)-2-(5-amino-3-imino-3H-pyrazol-4-yl)diazen-1-yl]benzoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+3-[(E)-2-(3-amino-5-iminopyrazol-4-yl)diazen-1-yl]benzoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H8N6O2/c11-8-7(9(12)16-15-8)14-13-6-3-1-2-5(4-6)10(17)18/h1-4,11H,12H2,(H,17,18)/b11-8?,14-13+
+
+> <INCHI_KEY>
+InChIKey=PIUSHRUXZPMNPD-CNLUSAEGSA-N
+
+> <SMILES>
+NC1=C(\N=N\C2=CC=CC(=C2)C(O)=O)C(=N)N=N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+3.99
+
+> <JCHEM_BASIC_PKA>
+4.95
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.44
+
+> <JCHEM_LOGP>
+0.8
+
+> <ALOGPS_LOGS>
+-3.6
+
+> <JCHEM_POLARIZABILITY>
+22.74
+
+> <JCHEM_POLAR_SURFACE_AREA>
+136.61
+
+> <JCHEM_REFRACTIVITY>
+84.78
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+6.61e-02 g/l __ 
+
+$$$$

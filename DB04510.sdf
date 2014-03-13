@@ -1,0 +1,99 @@
+
+  Mrv0541 02231217432D          
+
+ 11 10  0  0  1  0            999 V2000
+    4.6184    2.6664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8875    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  2  0  0  0  0
+  2  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04510
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Phosphoglyceric Acid
+
+> <CHEMICAL_FORMULA>
+C3H7O7P
+
+> <MOLECULAR_WEIGHT>
+186.0572
+
+> <EXACT_MASS>
+185.99293909
+
+> <IUPAC_NAME>
+(2S)-2-hydroxy-3-(phosphonooxy)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+3-phosphoglyceric acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H7O7P/c4-2(3(5)6)1-10-11(7,8)9/h2,4H,1H2,(H,5,6)(H2,7,8,9)/t2-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=OSJPPGNTCRNQQC-REOHCLBHSA-N
+
+> <SMILES>
+O[C@@H](COP(O)(O)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+1.3
+
+> <JCHEM_BASIC_PKA>
+-4.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <ALOGPS_LOGP>
+-2.3
+
+> <JCHEM_LOGP>
+-1.6
+
+> <ALOGPS_LOGS>
+-0.95
+
+> <JCHEM_POLARIZABILITY>
+13.46
+
+> <JCHEM_POLAR_SURFACE_AREA>
+124.29
+
+> <JCHEM_REFRACTIVITY>
+31.26
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+2.10e+01 g/l __ 
+
+$$$$

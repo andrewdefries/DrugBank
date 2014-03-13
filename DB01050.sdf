@@ -1,0 +1,111 @@
+1050
+  Mrv0541 02231215122D          
+
+ 15 15  0  0  1  0            999 V2000
+    3.7934    2.7596    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079    1.5221    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.5221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -3.0154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.9346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.9346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  2 15  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5 10  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 12  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01050
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Ibuprofen
+
+> <SYNONYMS>
+Ibuprophen; P-Isobutylhydratropic Acid; Para-Isobutylhydratropic Acid
+
+> <BRANDS>
+Act-3; Actiprofen; Adex; Adran; Advil; Advil Liqui-Gels; Aktren; Alaxan; Alges-X; Algoflex; Algofren; Alivium; Amersol; Amibufen; Anadin Ibuprofen; Anadin Joint Pain; Anco; Anflagen; Apsifen; Apsifen-F; Arthrofen; Artofen; Betagesic; Betaprofen; Bluton; Bonifen; Brufen; Brufort; Buburone; Bugesic; Buprovil; Burana; Butylenin; Caldolor; Calprofen; Cap-Profen; Children's Advil; Children's Elixsure; Children's Ibuprofen; Children's Motrin; Dalsy; Dismenol; Diverin; Dolgirid; Dolgit; Dolo-Dolgit; Dolo-Spedifen; Dolofort; Doloraz; Dolormin; Dorival; Ebufac; EmuProfen; Epobron; Espidifen; Eve; Femadon; Fenbid; Fenpaed; Finalflex; Galprofen; Haltran; Herron Blue; i-profen	; Ibalgin; Ibu-Attritin; IBU-Ratiopharm; Ibu-Vivimed; Ibuflam; Ibugel; Ibugesic; IbuHEXAL; Ibuleve; Ibum; Ibumax; Ibumetin; Ibumidol; Ibupain; Ibuprocin; Ibuprom; Ibuprosyn; Ibuprox; Ibustar; Ibutid; Ibux; Ibuxin; Inabrin; Inoven; Ipren; Junior Strength Advil; Junior Strength Ibuprofen; Junior Strength Motrin; Kratalgin; Lamidon; Lebrufen; Liptan; Lotem; Medicol; Medipren; Motrin; Mynosedin; Mypaid; Myprodol; Narfen; Naron Ace	; Neobrufen; NeoProfen; Nobfen; Nobgen; Norvectan; Nuprin; Nureflex; Nurofen; Orbifen; Panafen; Pediaprofen; Perifar; Profin; Ranfen; Rapidol; Ratiodolor; Rimafen; Roidenin; Rufen; Salvarina; Seclodin; Solpaflex; Spedifen; Speedpain NANO; Spidifen; Suspren; Tabalon; Tefin; Trendar; Unafen; Upfen; Urem
+
+> <CHEMICAL_FORMULA>
+C13H18O2
+
+> <MOLECULAR_WEIGHT>
+206.2808
+
+> <EXACT_MASS>
+206.13067982
+
+> <IUPAC_NAME>
+2-[4-(2-methylpropyl)phenyl]propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(+-)-ibuprofen
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H18O2/c1-9(2)8-11-4-6-12(7-5-11)10(3)13(14)15/h4-7,9-10H,8H2,1-3H3,(H,14,15)
+
+> <INCHI_KEY>
+InChIKey=HEFNNWSXXWATRW-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)CC1=CC=C(C=C1)C(C)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.85
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+3.5
+
+> <JCHEM_LOGP>
+3.84
+
+> <ALOGPS_LOGS>
+-3.5
+
+> <JCHEM_POLARIZABILITY>
+23.76
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+60.73
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+6.84e-02 g/l __ 
+
+$$$$

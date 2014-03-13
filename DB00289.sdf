@@ -1,0 +1,120 @@
+54841
+  Mrv0541 02231214342D          
+
+ 19 20  0  0  1  0            999 V2000
+    3.0790   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.2063    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.5080   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  1  0  0  0
+  1  7  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 16  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00289
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Atomoxetine
+
+> <SYNONYMS>
+(-)-Tomoxetine; Tomoxetina; Tomoxetine; Tomoxetinum
+
+> <BRANDS>
+Attentin; Strattera; Tomoxetin
+
+> <CHEMICAL_FORMULA>
+C17H21NO
+
+> <MOLECULAR_WEIGHT>
+255.3547
+
+> <EXACT_MASS>
+255.162314299
+
+> <IUPAC_NAME>
+methyl[(3R)-3-(2-methylphenoxy)-3-phenylpropyl]amine
+
+> <IUPAC_TRADITIONAL_NAME>
+atomoxetine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H21NO/c1-14-8-6-7-11-16(14)19-17(12-13-18-2)15-9-4-3-5-10-15/h3-11,17-18H,12-13H2,1-2H3/t17-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=VHGCDTVCOLNTBX-QGZVFWFLSA-N
+
+> <SMILES>
+CNCC[C@@H](OC1=CC=CC=C1C)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+9.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+3.95
+
+> <JCHEM_LOGP>
+3.81
+
+> <ALOGPS_LOGS>
+-4.8
+
+> <JCHEM_POLARIZABILITY>
+29.79
+
+> <JCHEM_POLAR_SURFACE_AREA>
+21.26
+
+> <JCHEM_REFRACTIVITY>
+79.44
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+3.90e-03 g/l __ 
+
+$$$$

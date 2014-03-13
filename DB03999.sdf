@@ -1,0 +1,90 @@
+
+  Mrv0541 02231217202D          
+
+  8  7  0  0  0  0            999 V2000
+   -0.1914   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230   -1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520   -1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.7145    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809   -0.3020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0789   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2539    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03999
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Butylphosphonate
+
+> <CHEMICAL_FORMULA>
+C4H11O3P
+
+> <MOLECULAR_WEIGHT>
+138.1021
+
+> <EXACT_MASS>
+138.04458073
+
+> <IUPAC_NAME>
+butylphosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+butylphosphonate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H11O3P/c1-2-3-4-8(5,6)7/h2-4H2,1H3,(H2,5,6,7)
+
+> <INCHI_KEY>
+InChIKey=UOKRBSXOBUKDGE-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCP(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+1.81
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.32
+
+> <JCHEM_LOGP>
+0.083
+
+> <ALOGPS_LOGS>
+-0.62
+
+> <JCHEM_POLARIZABILITY>
+12.85
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+31.18
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+3.34e+01 g/l __ 
+
+$$$$

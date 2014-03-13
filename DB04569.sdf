@@ -1,0 +1,95 @@
+
+  Mrv0541 02231217462D          
+
+ 10 10  0  0  0  0            999 V2000
+   -0.7145    3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  5 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04569
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Formic Acid Benzyl Ester
+
+> <CHEMICAL_FORMULA>
+C8H8O2
+
+> <MOLECULAR_WEIGHT>
+136.1479
+
+> <EXACT_MASS>
+136.0524295
+
+> <IUPAC_NAME>
+benzyl formate
+
+> <IUPAC_TRADITIONAL_NAME>
+formic acid benzyl ester
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8O2/c9-7-10-6-8-4-2-1-3-5-8/h1-5,7H,6H2
+
+> <INCHI_KEY>
+InChIKey=UYWQUFXKFGHYNT-UHFFFAOYSA-N
+
+> <SMILES>
+O=COCC1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-6.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.72
+
+> <JCHEM_LOGP>
+1.6
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+13.97
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.3
+
+> <JCHEM_REFRACTIVITY>
+37.53
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.20e+00 g/l __ 
+
+$$$$

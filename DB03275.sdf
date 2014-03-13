@@ -1,0 +1,91 @@
+
+  Mrv0541 02231216492D          
+
+  7  6  0  0  1  0            999 V2000
+    2.0625    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    2.1434    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03275
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Amino-3-Mercapto-Propionamide
+
+> <CHEMICAL_FORMULA>
+C3H8N2OS
+
+> <MOLECULAR_WEIGHT>
+120.173
+
+> <EXACT_MASS>
+120.035733578
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-sulfanylpropanamide
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S)-2-amino-3-sulfanylpropanamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H8N2OS/c4-2(1-7)3(5)6/h2,7H,1,4H2,(H2,5,6)/t2-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=YEDNBEGNKOANMB-UWTATZPHSA-N
+
+> <SMILES>
+N[C@H](CS)C(N)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+9.98
+
+> <JCHEM_BASIC_PKA>
+8.08
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-0.77
+
+> <JCHEM_LOGP>
+-1.4
+
+> <ALOGPS_LOGS>
+-0.81
+
+> <JCHEM_POLARIZABILITY>
+11.75
+
+> <JCHEM_POLAR_SURFACE_AREA>
+69.11
+
+> <JCHEM_REFRACTIVITY>
+30.05
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.87e+01 g/l __ 
+
+$$$$

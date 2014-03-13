@@ -1,0 +1,111 @@
+
+  Mrv0541 02231216092D          
+
+ 19 20  0  0  1  0            999 V2000
+    3.2475    0.5823    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5330    0.1698    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.8185    0.5823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8185    1.4073    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5330   -0.6552    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.2004   -1.1401    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9455   -1.9248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4304   -2.5922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0948   -3.3459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5073   -4.0603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9553   -4.6734    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2016   -4.3379    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2879   -3.5174    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1205   -1.9248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6356   -2.5922    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8655   -1.1401    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0809   -0.8852    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4678   -1.4372    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3168   -1.1823    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  2  1  6  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  4  0  0  0  0
+ 11 12  4  0  0  0  0
+ 12 13  4  0  0  0  0
+  9 13  4  0  0  0  0
+  7 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+  5 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02356
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Imidazolmethylene-5-Imidazolone Chromophore
+
+> <CHEMICAL_FORMULA>
+C11H16N5O3
+
+> <MOLECULAR_WEIGHT>
+266.2764
+
+> <EXACT_MASS>
+266.125314403
+
+> <IUPAC_NAME>
+(2R)-2-[(1S)-1-amino-2-hydroxyethyl]-1-(2-hydroxyethyl)-4-(imidazol-4-ylmethyl)-2,5-dihydro-1H-imidazol-5-one
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R)-2-[(1S)-1-amino-2-hydroxyethyl]-3-(2-hydroxyethyl)-5-(imidazol-4-ylmethyl)-2H-imidazol-4-one
+
+> <SMILES>
+N[C@H](CO)[C@@H]1N=C(Cc2cncn2)C(=O)N1CCO
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+13.78
+
+> <JCHEM_BASIC_PKA>
+8.11
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-1.9
+
+> <JCHEM_LOGP>
+-2.1
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+26.19
+
+> <JCHEM_POLAR_SURFACE_AREA>
+124.93
+
+> <JCHEM_REFRACTIVITY>
+66.2
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+4.76e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,96 @@
+
+  Mrv0541 02231217232D          
+
+  9  9  0  0  0  0            999 V2000
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  2  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04052
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3,4-Dimethylphenol
+
+> <CHEMICAL_FORMULA>
+C8H10O
+
+> <MOLECULAR_WEIGHT>
+122.1644
+
+> <EXACT_MASS>
+122.073164942
+
+> <IUPAC_NAME>
+3,4-dimethylphenol
+
+> <IUPAC_TRADITIONAL_NAME>
+3,4-dimethylphenol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H10O/c1-6-3-4-8(9)5-7(6)2/h3-5,9H,1-2H3
+
+> <INCHI_KEY>
+InChIKey=YCOXTKKNXUZSKD-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=CC=C(O)C=C1C
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+10.47
+
+> <JCHEM_BASIC_PKA>
+-5.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.41
+
+> <JCHEM_LOGP>
+2.7
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+13.91
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+38.12
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.45e+00 g/l __ 
+
+$$$$

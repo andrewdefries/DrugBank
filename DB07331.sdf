@@ -1,0 +1,104 @@
+AAN
+  Mrv0541 02241213212D          
+
+ 13 13  0  0  0  0            999 V2000
+    1.7401    0.2630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0256    0.6755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3111    0.2630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3111   -0.5620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4033   -0.9745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1178   -0.5620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8323   -0.9745    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -2.5467   -0.5620    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8323   -1.7995    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.1178    0.2630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4033    0.6755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4546    0.6755    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7401   -0.5620    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 12  2  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07331
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(4-NITROPHENYL)ACETIC ACID
+
+> <CHEMICAL_FORMULA>
+C8H7NO4
+
+> <MOLECULAR_WEIGHT>
+181.1455
+
+> <EXACT_MASS>
+181.037507717
+
+> <IUPAC_NAME>
+2-(4-nitrophenyl)acetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+P-nitrophenylacetic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H7NO4/c10-8(11)5-6-1-3-7(4-2-6)9(12)13/h1-4H,5H2,(H,10,11)
+
+> <INCHI_KEY>
+InChIKey=YBADLXQNJCMBKR-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)CC1=CC=C(C=C1)[N+]([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+3.07
+
+> <JCHEM_BASIC_PKA>
+-9.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.72
+
+> <JCHEM_LOGP>
+1.55
+
+> <ALOGPS_LOGS>
+-2.4
+
+> <JCHEM_POLARIZABILITY>
+16.27
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.12
+
+> <JCHEM_REFRACTIVITY>
+44.69
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+7.91e-01 g/l __ 
+
+$$$$

@@ -1,0 +1,104 @@
+DBA
+  Mrv0541 02241213332D          
+
+ 13 13  0  0  0  0            999 V2000
+    1.3991    1.4671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6846    1.0546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0299   -0.1829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0299   -1.0079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7443   -1.4204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4588   -1.0079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4588   -0.1829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7443    0.2296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6846   -1.4204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7443    1.0546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3991    2.2921    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1135    1.0546    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6846    0.2296    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  2  0  0  0  0
+  1 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07634
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2,6-DIMETHYL-PHENOXY)-ACETIC ACID
+
+> <CHEMICAL_FORMULA>
+C10H12O3
+
+> <MOLECULAR_WEIGHT>
+180.2005
+
+> <EXACT_MASS>
+180.07864425
+
+> <IUPAC_NAME>
+2-(2,6-dimethylphenoxy)acetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+2,6-dimethylphenoxyacetic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12O3/c1-7-4-3-5-8(2)10(7)13-6-9(11)12/h3-5H,6H2,1-2H3,(H,11,12)
+
+> <INCHI_KEY>
+InChIKey=MLBCURLNKYKBEQ-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=CC=CC(C)=C1OCC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.04
+
+> <JCHEM_BASIC_PKA>
+-4.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+2.07
+
+> <JCHEM_LOGP>
+2.32
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+18.84
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+48.69
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.17e+00 g/l __ 
+
+$$$$

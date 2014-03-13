@@ -1,0 +1,108 @@
+
+  Mrv0541 02231216342D          
+
+ 15 15  0  0  1  0            999 V2000
+    1.4289    2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  4 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02928
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Amino-6-Hydroxy-Tyrosine
+
+> <CHEMICAL_FORMULA>
+C9H12N2O4
+
+> <MOLECULAR_WEIGHT>
+212.2026
+
+> <EXACT_MASS>
+212.079706882
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-(5-amino-2,4-dihydroxyphenyl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S)-2-amino-3-(5-amino-2,4-dihydroxyphenyl)propanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H12N2O4/c10-5-1-4(2-6(11)9(14)15)7(12)3-8(5)13/h1,3,6,12-13H,2,10-11H2,(H,14,15)/t6-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=OIXIYIGKZVEKPI-LURJTMIESA-N
+
+> <SMILES>
+N[C@@H](CC1=CC(N)=C(O)C=C1O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+0.99
+
+> <JCHEM_BASIC_PKA>
+9.05
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.6
+
+> <JCHEM_LOGP>
+-2.7
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+20.43
+
+> <JCHEM_POLAR_SURFACE_AREA>
+129.8
+
+> <JCHEM_REFRACTIVITY>
+53.78
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+3.21e+00 g/l __ 
+
+$$$$

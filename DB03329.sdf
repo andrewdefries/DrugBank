@@ -1,0 +1,92 @@
+
+  Mrv0541 02231216522D          
+
+  7  7  0  0  0  0            999 V2000
+    0.7145    2.0625    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03329
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Pyridinethiol
+
+> <CHEMICAL_FORMULA>
+C5H5NS
+
+> <MOLECULAR_WEIGHT>
+111.165
+
+> <EXACT_MASS>
+111.014269855
+
+> <IUPAC_NAME>
+pyridine-2-thiol
+
+> <IUPAC_TRADITIONAL_NAME>
+2-pyridinethiol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H5NS/c7-5-3-1-2-4-6-5/h1-4H,(H,6,7)
+
+> <INCHI_KEY>
+InChIKey=WHMDPDGBKYUEMW-UHFFFAOYSA-N
+
+> <SMILES>
+SC1=CC=CC=N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+7.64
+
+> <JCHEM_BASIC_PKA>
+0.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.24
+
+> <JCHEM_LOGP>
+1.44
+
+> <ALOGPS_LOGS>
+-1.5
+
+> <JCHEM_POLARIZABILITY>
+11.34
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.89
+
+> <JCHEM_REFRACTIVITY>
+32.22
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.37e+00 g/l __ 
+
+$$$$

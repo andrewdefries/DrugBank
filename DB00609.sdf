@@ -1,0 +1,106 @@
+609
+  Mrv0541 02231214482D          
+
+ 11 11  0  0  0  0            999 V2000
+    2.3644    1.6005    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.2870    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.6005    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -0.8745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.3630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.1120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -0.8745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0  0  0  0
+  2  5  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00609
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Ethionamide
+
+> <SYNONYMS>
+2-ethylthioisonicotinamide; Ethinamide; Ethionamidum; Ethioniamide; Ethylisothiamide; Ethyonomide; Etionamid; Etionamida; Etionamide; Etioniamid
+
+> <BRANDS>
+Trecator; Trecator-SC
+
+> <CHEMICAL_FORMULA>
+C8H10N2S
+
+> <MOLECULAR_WEIGHT>
+166.243
+
+> <EXACT_MASS>
+166.05646902
+
+> <IUPAC_NAME>
+2-ethylpyridine-4-carbothioamide
+
+> <IUPAC_TRADITIONAL_NAME>
+ethionamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H10N2S/c1-2-7-5-6(8(9)11)3-4-10-7/h3-5H,2H2,1H3,(H2,9,11)
+
+> <INCHI_KEY>
+InChIKey=AEOCXXJPGCBFJA-UHFFFAOYSA-N
+
+> <SMILES>
+CCC1=NC=CC(=C1)C(N)=S
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+11.89
+
+> <JCHEM_BASIC_PKA>
+5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.88
+
+> <JCHEM_LOGP>
+1.33
+
+> <ALOGPS_LOGS>
+-2.3
+
+> <JCHEM_POLARIZABILITY>
+17.99
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.91
+
+> <JCHEM_REFRACTIVITY>
+50.19
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+8.39e-01 g/l __ 
+
+$$$$

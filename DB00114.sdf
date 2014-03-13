@@ -1,0 +1,116 @@
+114
+  Mrv0541 02231214272D          
+
+ 16 16  0  0  0  0            999 V2000
+    6.3799    0.2063    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7925   -0.5082    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0944    0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9674    0.9207    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.4438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  6 16  2  0  0  0  0
+  8 13  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00114
+
+> <DRUG_GROUPS>
+nutraceutical
+
+> <GENERIC_NAME>
+Pyridoxal Phosphate
+
+> <SYNONYMS>
+Codecarboxylase; PLP; Pyridoxal 5-phosphate; Pyridoxal 5'-phosphate; Pyridoxal P; Pyridoxal-5P; Pyridoxal-P
+
+> <BRANDS>
+Biosechs; Himitan; Vitazechs
+
+> <CHEMICAL_FORMULA>
+C8H10NO6P
+
+> <MOLECULAR_WEIGHT>
+247.1419
+
+> <EXACT_MASS>
+247.024573569
+
+> <IUPAC_NAME>
+[(4-formyl-5-hydroxy-6-methylpyridin-3-yl)methoxy]phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(4-formyl-5-hydroxy-6-methylpyridin-3-yl)methoxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H10NO6P/c1-5-8(11)7(3-10)6(2-9-5)4-15-16(12,13)14/h2-3,11H,4H2,1H3,(H2,12,13,14)
+
+> <INCHI_KEY>
+InChIKey=NGVDGCNFYWLIFO-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=NC=C(COP(O)(O)=O)C(C=O)=C1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.68
+
+> <JCHEM_BASIC_PKA>
+4.11
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-0.55
+
+> <JCHEM_LOGP>
+-2.1
+
+> <ALOGPS_LOGS>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+20.9
+
+> <JCHEM_POLAR_SURFACE_AREA>
+116.95
+
+> <JCHEM_REFRACTIVITY>
+54.75
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+5.70e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,121 @@
+12894
+  Mrv0541 02241214202D          
+
+ 18 19  0  0  0  0            999 V2000
+    2.4751    0.2863    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2758    2.3443    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    0.2863    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.2863    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    1.1113    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9433    1.1883    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -3.0138    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.5387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.5238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0828    2.5158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4953    1.8013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -0.9512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -0.9512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.7763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.7763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -2.1888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4183    3.2695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3158    1.7151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 12  2  0  0  0  0
+  8 13  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08798
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Sulfamoxole
+
+> <SYNONYMS>
+4,5-Dimethyl-2-sulfanilamidooxazole; Oxasulfa; Sulfadimethyloxazole; Sulfamoxol; Sulfamoxolum; Sulphamoxole
+
+> <BRANDS>
+Sulfmidil; Sulfuno
+
+> <CHEMICAL_FORMULA>
+C11H13N3O3S
+
+> <MOLECULAR_WEIGHT>
+267.304
+
+> <EXACT_MASS>
+267.067761987
+
+> <IUPAC_NAME>
+4-amino-N-(dimethyl-1,3-oxazol-2-yl)benzene-1-sulfonamide
+
+> <IUPAC_TRADITIONAL_NAME>
+sulfamoxole
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H13N3O3S/c1-7-8(2)17-11(13-7)14-18(15,16)10-5-3-9(12)4-6-10/h3-6H,12H2,1-2H3,(H,13,14)
+
+> <INCHI_KEY>
+InChIKey=CYFLXLSBHQBMFT-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=C(C)N=C(NS(=O)(=O)C2=CC=C(N)C=C2)O1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+6.81
+
+> <JCHEM_BASIC_PKA>
+1.94
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.04
+
+> <JCHEM_LOGP>
+0.59
+
+> <ALOGPS_LOGS>
+-3
+
+> <JCHEM_POLARIZABILITY>
+27.44
+
+> <JCHEM_POLAR_SURFACE_AREA>
+98.22
+
+> <JCHEM_REFRACTIVITY>
+67.51
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.67e-01 g/l __ 
+
+$$$$

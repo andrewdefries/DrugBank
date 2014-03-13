@@ -1,0 +1,105 @@
+TSR
+  Mrv0541 02241214142D          
+
+ 13 14  0  0  0  0            999 V2000
+   -1.6591    1.9826    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4042    1.1980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9562    0.5849    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5972    1.0264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3423    0.2418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8272   -0.4256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3423   -1.0931    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4423   -0.8381    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4423   -0.0131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1568   -1.2506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8713   -0.8381    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8713   -0.0131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1568    0.3994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08652
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(1H-INDOL-3-YL)ACETAMIDE
+
+> <CHEMICAL_FORMULA>
+C10H10N2O
+
+> <MOLECULAR_WEIGHT>
+174.1992
+
+> <EXACT_MASS>
+174.079312952
+
+> <IUPAC_NAME>
+2-(1H-indol-3-yl)acetamide
+
+> <IUPAC_TRADITIONAL_NAME>
+indole-3-acetamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H10N2O/c11-10(13)5-7-6-12-9-4-2-1-3-8(7)9/h1-4,6,12H,5H2,(H2,11,13)
+
+> <INCHI_KEY>
+InChIKey=ZOAMBXDOGPRZLP-UHFFFAOYSA-N
+
+> <SMILES>
+NC(=O)CC1=CNC2=CC=CC=C12
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+15.94
+
+> <JCHEM_BASIC_PKA>
+-2.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.17
+
+> <JCHEM_LOGP>
+0.9
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+18.23
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.88
+
+> <JCHEM_REFRACTIVITY>
+50.27
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.67e+00 g/l __ 
+
+$$$$

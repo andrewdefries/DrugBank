@@ -1,0 +1,109 @@
+L21
+  Mrv0541 02241213512D          
+
+ 15 16  0  0  0  0            999 V2000
+    0.6472    0.2218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6472    1.0468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0672    1.4593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3617    1.4593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7817   -2.2532    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7817   -1.4282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4962   -1.0157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2808   -1.2706    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4962   -0.1907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2808    0.0642    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7657   -0.6032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7817    1.0468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7817    0.2218    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0672   -0.1907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0672   -1.0157    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 15  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08074
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-(3-methylbut-2-en-1-yl)-3H-purin-6-amine
+
+> <CHEMICAL_FORMULA>
+C10H13N5
+
+> <MOLECULAR_WEIGHT>
+203.2437
+
+> <EXACT_MASS>
+203.117095441
+
+> <IUPAC_NAME>
+3-(3-methylbut-2-en-1-yl)-3H-purin-6-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+3-(3-methylbut-2-en-1-yl)purin-6-amine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H13N5/c1-7(2)3-4-15-6-14-9(11)8-10(15)13-5-12-8/h3,5-6H,4,11H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=BEPGTHDUUROBHM-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)=CCN1C=NC(N)=C2N=CN=C12
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+18.18
+
+> <JCHEM_BASIC_PKA>
+3.93
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.06
+
+> <JCHEM_LOGP>
+1.05
+
+> <ALOGPS_LOGS>
+-2.7
+
+> <JCHEM_POLARIZABILITY>
+21.8
+
+> <JCHEM_POLAR_SURFACE_AREA>
+69.62
+
+> <JCHEM_REFRACTIVITY>
+60.61
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+4.24e-01 g/l __ 
+
+$$$$

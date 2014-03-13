@@ -1,0 +1,100 @@
+SKA
+  Mrv0541 02241214102D          
+
+ 12 13  0  0  0  0            999 V2000
+   -0.1839    1.8361    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1839    1.0111    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.5306    0.5986    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2450    1.0111    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9595    0.5986    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9595   -0.2264    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2450   -0.6389    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.5306   -0.2264    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1839   -0.6389    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8984   -0.2264    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8984    0.5986    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6128    1.0111    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08550
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+7,8-DICHLORO-1,2,3,4-TETRAHYDROISOQUINOLINE
+
+> <CHEMICAL_FORMULA>
+C9H9Cl2N
+
+> <MOLECULAR_WEIGHT>
+202.08
+
+> <EXACT_MASS>
+201.011204707
+
+> <IUPAC_NAME>
+7,8-dichloro-1,2,3,4-tetrahydroisoquinoline
+
+> <IUPAC_TRADITIONAL_NAME>
+7,8-dichloro-1,2,3,4-tetrahydroisoquinoline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H9Cl2N/c10-8-2-1-6-3-4-12-5-7(6)9(8)11/h1-2,12H,3-5H2
+
+> <INCHI_KEY>
+InChIKey=WFPUBEDBBOGGIQ-UHFFFAOYSA-N
+
+> <SMILES>
+ClC1=CC=C2CCNCC2=C1Cl
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+8.35
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.68
+
+> <JCHEM_LOGP>
+2.78
+
+> <ALOGPS_LOGS>
+-3.2
+
+> <JCHEM_POLARIZABILITY>
+19.82
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+52.23
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.39e-01 g/l __ 
+
+$$$$

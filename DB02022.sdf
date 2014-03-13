@@ -1,0 +1,98 @@
+
+  Mrv0541 02231215542D          
+
+ 10 10  0  0  0  0            999 V2000
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  2 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02022
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Amino-5-Hydroxymethyl-2-Methylpyrimidine
+
+> <CHEMICAL_FORMULA>
+C6H9N3O
+
+> <MOLECULAR_WEIGHT>
+139.1552
+
+> <EXACT_MASS>
+139.074561925
+
+> <IUPAC_NAME>
+(4-amino-2-methylpyrimidin-5-yl)methanol
+
+> <IUPAC_TRADITIONAL_NAME>
+toxopyrimidine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H9N3O/c1-4-8-2-5(3-10)6(7)9-4/h2,10H,3H2,1H3,(H2,7,8,9)
+
+> <INCHI_KEY>
+InChIKey=VUTBELPREDJDDH-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=NC=C(CO)C(N)=N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+14.41
+
+> <JCHEM_BASIC_PKA>
+6.17
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.26
+
+> <JCHEM_LOGP>
+-0.36
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+14.2
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.03
+
+> <JCHEM_REFRACTIVITY>
+39.18
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.20e+01 g/l __ 
+
+$$$$

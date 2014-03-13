@@ -1,0 +1,94 @@
+
+  Mrv0541 02231216392D          
+
+  8  8  0  0  0  0            999 V2000
+   -0.3938    1.4191    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2382    0.8888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6507    0.1743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1743    0.1743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8701    1.4191    0.0000 P   0  0  2  0  0  0  0  0  0  0  0  0
+    1.5021    1.9494    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4004    0.7871    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.3398    2.0511    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  6  0  0  0
+  5  7  1  1  0  0  0
+  5  8  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03053
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-Aminocyclopropylphosphonate
+
+> <CHEMICAL_FORMULA>
+C3H7NO3P
+
+> <MOLECULAR_WEIGHT>
+136.0663
+
+> <EXACT_MASS>
+136.016354607
+
+> <IUPAC_NAME>
+hydrogen (1-aminocyclopropyl)phosphonate
+
+> <IUPAC_TRADITIONAL_NAME>
+hydrogen 1-aminocyclopropylphosphonate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H8NO3P/c4-3(1-2-3)8(5,6)7/h1-2,4H2,(H2,5,6,7)/p-1
+
+> <INCHI_KEY>
+InChIKey=WKCJTSHOKDLADL-UHFFFAOYSA-M
+
+> <SMILES>
+NC1(CC1)[P@](O)([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+-0.29
+
+> <JCHEM_BASIC_PKA>
+10.06
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-1.6
+
+> <JCHEM_LOGP>
+-2.3
+
+> <ALOGPS_LOGS>
+-0.45
+
+> <JCHEM_POLARIZABILITY>
+10.87
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.38
+
+> <JCHEM_REFRACTIVITY>
+26.98
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.45e+01 g/l __ 
+
+$$$$

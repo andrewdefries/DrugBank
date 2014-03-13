@@ -1,0 +1,94 @@
+
+  Mrv0541 02231217292D          
+
+  9 10  0  0  0  0            999 V2000
+   -0.1435   -0.0305    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6284   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  1  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  4  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04179
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Benzofuran
+
+> <CHEMICAL_FORMULA>
+C8H6O
+
+> <MOLECULAR_WEIGHT>
+118.1326
+
+> <EXACT_MASS>
+118.041864814
+
+> <IUPAC_NAME>
+1-benzofuran
+
+> <IUPAC_TRADITIONAL_NAME>
+benzofuran
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H6O/c1-2-4-8-7(3-1)5-6-9-8/h1-6H
+
+> <INCHI_KEY>
+InChIKey=IANQTJSKSUMEQM-UHFFFAOYSA-N
+
+> <SMILES>
+O1C=CC2=C1C=CC=C2
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-3.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.75
+
+> <JCHEM_LOGP>
+2.13
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+12.33
+
+> <JCHEM_POLAR_SURFACE_AREA>
+13.14
+
+> <JCHEM_REFRACTIVITY>
+34.9
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+8.15e-01 g/l __ 
+
+$$$$

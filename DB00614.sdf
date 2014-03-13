@@ -1,0 +1,114 @@
+614
+  Mrv0541 02231214492D          
+
+ 16 17  0  0  0  0            999 V2000
+    7.6453   -0.4299    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7154   -0.1723    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3353   -1.0973    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6501    0.6098    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.0917   -0.7493    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5653    0.3549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7806    0.6098    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2632    0.0577    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    7.2328    0.8397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9003    0.3549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8203   -0.4299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3828    0.3127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1675    0.0577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1279    1.0973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0479    0.3127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3028    1.0973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 13  2  3  0  0  0
+  8 15  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00614
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Furazolidone
+
+> <SYNONYMS>
+5-Nitro-N-(2-oxo-3-oxazolidinyl)-2-furanmethanimine; FZL; Nitrofurazolidone; Nitrofurazolidonum
+
+> <BRANDS>
+Dependal-M; Furoxone
+
+> <CHEMICAL_FORMULA>
+C8H7N3O5
+
+> <MOLECULAR_WEIGHT>
+225.1583
+
+> <EXACT_MASS>
+225.038570349
+
+> <IUPAC_NAME>
+3-{[(5-nitrofuran-2-yl)methylidene]amino}-1,3-oxazolidin-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+furazolidone
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H7N3O5/c12-8-10(3-4-15-8)9-5-6-1-2-7(16-6)11(13)14/h1-2,5H,3-4H2/b9-5+
+
+> <INCHI_KEY>
+InChIKey=PLHJDBGFXBMTGZ-WEVVVXLNSA-N
+
+> <SMILES>
+[O-][N+](=O)C1=CC=C(O1)C=NN1CCOC1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-2.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.15
+
+> <JCHEM_LOGP>
+0.87
+
+> <ALOGPS_LOGS>
+-2.8
+
+> <JCHEM_POLARIZABILITY>
+19.74
+
+> <JCHEM_POLAR_SURFACE_AREA>
+100.86
+
+> <JCHEM_REFRACTIVITY>
+51.09
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+3.64e-01 g/l __ 
+
+$$$$

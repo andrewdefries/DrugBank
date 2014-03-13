@@ -1,0 +1,100 @@
+
+  Mrv0541 02231215592D          
+
+ 11 11  0  0  1  0            999 V2000
+    2.1434    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  6  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  2  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02124
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2s,3s)-Trans-2,3-Dihydro-3-Hydroxyanthranilic Acid
+
+> <CHEMICAL_FORMULA>
+C7H9NO3
+
+> <MOLECULAR_WEIGHT>
+155.1513
+
+> <EXACT_MASS>
+155.058243159
+
+> <IUPAC_NAME>
+(5R,6R)-6-amino-5-hydroxycyclohexa-1,3-diene-1-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(5R,6R)-6-amino-5-hydroxycyclohexa-1,3-diene-1-carboxylic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H9NO3/c8-6-4(7(10)11)2-1-3-5(6)9/h1-3,5-6,9H,8H2,(H,10,11)/t5-,6-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=XBTXTLKLSHACSS-PHDIDXHHSA-N
+
+> <SMILES>
+N[C@H]1[C@H](O)C=CC=C1C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+3.77
+
+> <JCHEM_BASIC_PKA>
+9.38
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.4
+
+> <JCHEM_LOGP>
+-3.1
+
+> <ALOGPS_LOGS>
+-0.38
+
+> <JCHEM_POLARIZABILITY>
+14.68
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55
+
+> <JCHEM_REFRACTIVITY>
+40.22
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.54e+01 g/l __ 
+
+$$$$

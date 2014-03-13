@@ -1,0 +1,93 @@
+
+  Mrv0541 02231216482D          
+
+  9  9  0  0  0  0            999 V2000
+    2.1434   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  2  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03238
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3,5-Difluoroaniline
+
+> <CHEMICAL_FORMULA>
+C6H5F2N
+
+> <MOLECULAR_WEIGHT>
+129.1074
+
+> <EXACT_MASS>
+129.039005575
+
+> <IUPAC_NAME>
+3,5-difluoroaniline
+
+> <IUPAC_TRADITIONAL_NAME>
+3,5-difluoroaniline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H5F2N/c7-4-1-5(8)3-6(9)2-4/h1-3H,9H2
+
+> <INCHI_KEY>
+InChIKey=KQOIBXZRCYFZSO-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=CC(F)=CC(F)=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+2.05
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.52
+
+> <JCHEM_LOGP>
+1.43
+
+> <ALOGPS_LOGS>
+-1.2
+
+> <JCHEM_POLARIZABILITY>
+10.5
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+31.19
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+8.24e+00 g/l __ 
+
+$$$$

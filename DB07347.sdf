@@ -1,0 +1,101 @@
+AES
+  Mrv0541 02241213222D          
+
+ 13 13  0  0  0  0            999 V2000
+    1.3137   -0.1335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3137   -0.9585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5992   -1.3710    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5992   -2.1960    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5992   -3.0210    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4242   -2.1960    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2258   -2.1960    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1152   -0.9585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1152   -0.1335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5992    0.2790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5992    1.1040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3137    1.5165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3137    2.3415    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07347
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-(2-AMINOETHYL)BENZENESULFONYL FLUORIDE
+
+> <CHEMICAL_FORMULA>
+C8H10FNO2S
+
+> <MOLECULAR_WEIGHT>
+203.234
+
+> <EXACT_MASS>
+203.041627464
+
+> <IUPAC_NAME>
+4-(2-aminoethyl)benzene-1-sulfonyl fluoride
+
+> <IUPAC_TRADITIONAL_NAME>
+aebsf
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H10FNO2S/c9-13(11,12)8-3-1-7(2-4-8)5-6-10/h1-4H,5-6,10H2
+
+> <INCHI_KEY>
+InChIKey=MGSKVZWGBWPBTF-UHFFFAOYSA-N
+
+> <SMILES>
+NCCC1=CC=C(C=C1)S(F)(=O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+9.28
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.42
+
+> <JCHEM_LOGP>
+1.05
+
+> <ALOGPS_LOGS>
+-2.7
+
+> <JCHEM_POLARIZABILITY>
+19.28
+
+> <JCHEM_POLAR_SURFACE_AREA>
+60.16
+
+> <JCHEM_REFRACTIVITY>
+48.85
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+3.85e-01 g/l __ 
+
+$$$$

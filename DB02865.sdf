@@ -1,0 +1,110 @@
+
+  Mrv0541 02231216312D          
+
+ 16 16  0  0  1  0            999 V2000
+    2.1434    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8414    1.5395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0164    0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  6  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  6  0  0  0
+  7  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  1  1  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+  9 15  1  0  0  0  0
+  2 15  1  0  0  0  0
+ 15 16  1  6  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02865
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Glucosamine 4-Phosphate
+
+> <CHEMICAL_FORMULA>
+C6H14NO8P
+
+> <MOLECULAR_WEIGHT>
+259.151
+
+> <EXACT_MASS>
+259.045702941
+
+> <IUPAC_NAME>
+{[(2R,3S,4R,5R,6R)-5-amino-4,6-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy}phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[(2R,3S,4R,5R,6R)-5-amino-4,6-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H14NO8P/c7-3-4(9)5(15-16(11,12)13)2(1-8)14-6(3)10/h2-6,8-10H,1,7H2,(H2,11,12,13)/t2-,3-,4-,5-,6-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=QWDBGVNDGYUIAC-QZABAPFNSA-N
+
+> <SMILES>
+N[C@H]1[C@H](O)O[C@H](CO)[C@@H](OP(O)(O)=O)[C@@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_ACIDIC_PKA>
+0.93
+
+> <JCHEM_BASIC_PKA>
+8.53
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-2.6
+
+> <JCHEM_LOGP>
+-4.2
+
+> <ALOGPS_LOGS>
+-0.83
+
+> <JCHEM_POLARIZABILITY>
+21.32
+
+> <JCHEM_POLAR_SURFACE_AREA>
+162.7
+
+> <JCHEM_REFRACTIVITY>
+48.45
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+3.86e+01 g/l __ 
+
+$$$$

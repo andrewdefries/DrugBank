@@ -1,0 +1,99 @@
+
+  Mrv0541 02231217002D          
+
+ 10 11  0  0  0  0            999 V2000
+   -0.0404   -0.2549    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7846   -0.2549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2695    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0542    0.1576    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.8388    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3237   -0.2549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1487   -0.2549    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8388   -0.9224    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0542   -0.6674    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2695   -0.9224    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  4  3  1  1  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  9  8  1  1  0  0  0
+  4  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  2 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03533
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Glycoluril
+
+> <CHEMICAL_FORMULA>
+C4H6N4O2
+
+> <MOLECULAR_WEIGHT>
+142.116
+
+> <EXACT_MASS>
+142.049075456
+
+> <IUPAC_NAME>
+(3as,6as)-octahydroimidazo[4,5-d]imidazolidine-2,5-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+glycoluril
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6N4O2/c9-3-5-1-2(7-3)8-4(10)6-1/h1-2H,(H2,5,7,9)(H2,6,8,10)/t1-,2+
+
+> <INCHI_KEY>
+InChIKey=VPVSTMAPERLKKM-XIXRPRMCSA-N
+
+> <SMILES>
+O=C1N[C@@H]2NC(=O)N[C@@H]2N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+11.69
+
+> <JCHEM_BASIC_PKA>
+-3.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.3
+
+> <JCHEM_LOGP>
+-1.7
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+11.82
+
+> <JCHEM_POLAR_SURFACE_AREA>
+82.26
+
+> <JCHEM_REFRACTIVITY>
+29.44
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+6.20e+00 g/l __ 
+
+$$$$

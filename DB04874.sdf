@@ -1,0 +1,87 @@
+
+  Mrv0541 02231217582D          
+
+ 11  7  0  0  0  0            999 V2000
+    4.0507    4.2545    0.0000 Pt   0  2  0  0  0  0  0  0  0  0  0  0
+    3.3362    4.6670    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+    4.7652    4.6670    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+    4.4080    0.4430    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4430    2.4614    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6934    0.8555    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6934    1.6805    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9790    0.4430    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4080    2.0930    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1225    1.6805    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1225    0.8555    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  4  6  1  0  0  0  0
+  4 11  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04874
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Picoplatin
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C6H10Cl2N2Pt
+
+> <MOLECULAR_WEIGHT>
+376.147
+
+> <EXACT_MASS>
+374.986878193
+
+> <IUPAC_NAME>
+platinum(2+) ion 2-methylpyridine amine dichloride
+
+> <IUPAC_TRADITIONAL_NAME>
+platinum(2+) picoline amine dichloride
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H7N.2ClH.H3N.Pt/c1-6-4-2-3-5-7-6;;;;/h2-5H,1H3;2*1H;1H3;/q;;;;+2/p-2
+
+> <INCHI_KEY>
+InChIKey=IIMIOEBMYPRQGU-UHFFFAOYSA-L
+
+> <SMILES>
+N.[Cl-].[Cl-].[Pt++].CC1=CC=CC=N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+5.81
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_LOGP>
+0.89
+
+> <JCHEM_POLARIZABILITY>
+10.39
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.89
+
+> <JCHEM_REFRACTIVITY>
+28.49
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0 __ 
+
+$$$$

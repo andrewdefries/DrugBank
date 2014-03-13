@@ -1,0 +1,106 @@
+
+  Mrv0541 02231215582D          
+
+ 14 14  0  0  0  0            999 V2000
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+  4 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02105
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3,5-Dinitrocatechol
+
+> <CHEMICAL_FORMULA>
+C6H4N2O6
+
+> <MOLECULAR_WEIGHT>
+200.1058
+
+> <EXACT_MASS>
+200.00693587
+
+> <IUPAC_NAME>
+3,5-dinitrobenzene-1,2-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+3,5-dinitrocatechol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H4N2O6/c9-5-2-3(7(11)12)1-4(6(5)10)8(13)14/h1-2,9-10H
+
+> <INCHI_KEY>
+InChIKey=VDCDWNDTNSWDFJ-UHFFFAOYSA-N
+
+> <SMILES>
+OC1=CC(=CC(=C1O)[N+]([O-])=O)[N+]([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+4.38
+
+> <JCHEM_BASIC_PKA>
+-6.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.71
+
+> <JCHEM_LOGP>
+1.25
+
+> <ALOGPS_LOGS>
+-2.5
+
+> <JCHEM_POLARIZABILITY>
+15.39
+
+> <JCHEM_POLAR_SURFACE_AREA>
+132.1
+
+> <JCHEM_REFRACTIVITY>
+44.67
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+6.05e-01 g/l __ 
+
+$$$$

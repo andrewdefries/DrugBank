@@ -1,0 +1,119 @@
+
+  Mrv0541 02231217582D          
+
+ 18 20  0  0  1  0            999 V2000
+    1.5842   -2.6685    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5564   -1.0121    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1469   -1.3842    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7614   -0.2470    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9664    0.5181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3829    1.2964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1117   -1.0744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5455   -1.2316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9047   -0.1217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8218   -0.9095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7274   -0.5759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4434    0.1636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9869    1.9824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6443   -2.0508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4924   -0.7809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9806   -2.5409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2268   -2.2053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3829    2.6685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 13  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04864
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Huperzine A
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C15H18N2O
+
+> <MOLECULAR_WEIGHT>
+242.3162
+
+> <EXACT_MASS>
+242.141913208
+
+> <IUPAC_NAME>
+(13E)-1-amino-13-ethylidene-11-methyl-6-azatricyclo[7.3.1.0^{2,7}]trideca-2(7),3,10-trien-5-one
+
+> <IUPAC_TRADITIONAL_NAME>
+(13E)-1-amino-13-ethylidene-11-methyl-6-azatricyclo[7.3.1.0^{2,7}]trideca-2(7),3,10-trien-5-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H18N2O/c1-3-11-10-6-9(2)8-15(11,16)12-4-5-14(18)17-13(12)7-10/h3-6,10H,7-8,16H2,1-2H3,(H,17,18)/b11-3+
+
+> <INCHI_KEY>
+InChIKey=ZRJBHWIHUMBLCN-QDEBKDIKSA-N
+
+> <SMILES>
+C\C=C1/C2CC3=C(C=CC(=O)N3)C1(N)CC(C)=C2
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+11.11
+
+> <JCHEM_BASIC_PKA>
+9.09
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.78
+
+> <JCHEM_LOGP>
+0.62
+
+> <ALOGPS_LOGS>
+-3.2
+
+> <JCHEM_POLARIZABILITY>
+26.85
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.12
+
+> <JCHEM_REFRACTIVITY>
+75.8
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.66e-01 g/l __ 
+
+$$$$

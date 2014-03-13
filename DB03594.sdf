@@ -1,0 +1,79 @@
+
+  Mrv0541 02231217022D          
+
+  5  5  0  0  0  0            999 V2000
+    1.2352    0.6294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9803   -0.1553    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1553   -0.1553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0997    0.6294    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5678    1.1143    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  1  5  4  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03594
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,2,4-Triazole
+
+> <CHEMICAL_FORMULA>
+C2H2N3
+
+> <MOLECULAR_WEIGHT>
+68.0574
+
+> <EXACT_MASS>
+68.024872079
+
+> <IUPAC_NAME>
+1,2,4-triazole
+
+> <IUPAC_TRADITIONAL_NAME>
+1,2,4-triazole
+
+> <SMILES>
+c1ncnn1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-1.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.8
+
+> <JCHEM_LOGP>
+-0.75
+
+> <ALOGPS_LOGS>
+0.92
+
+> <JCHEM_POLARIZABILITY>
+5.55
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.67
+
+> <JCHEM_REFRACTIVITY>
+19.22
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.69e+02 g/l __ 
+
+$$$$

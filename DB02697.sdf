@@ -1,0 +1,95 @@
+
+  Mrv0541 02231216232D          
+
+  9  8  0  0  1  0            999 V2000
+   -0.1914    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2375   -0.1105    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  6  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02697
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Hydroxyaminovaline
+
+> <CHEMICAL_FORMULA>
+C5H12N2O2
+
+> <MOLECULAR_WEIGHT>
+132.161
+
+> <EXACT_MASS>
+132.089877638
+
+> <IUPAC_NAME>
+(2R)-2-amino-N-hydroxy-3-methylbutanamide
+
+> <IUPAC_TRADITIONAL_NAME>
+hydroxyaminovaline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H12N2O2/c1-3(2)4(6)5(8)7-9/h3-4,9H,6H2,1-2H3,(H,7,8)/t4-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=USSBBYRBOWZYSB-SCSAIBSYSA-N
+
+> <SMILES>
+CC(C)[C@@H](N)C(=O)NO
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+8.93
+
+> <JCHEM_BASIC_PKA>
+7.94
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-0.85
+
+> <JCHEM_LOGP>
+-0.98
+
+> <ALOGPS_LOGS>
+0.13
+
+> <JCHEM_POLARIZABILITY>
+13.51
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.35
+
+> <JCHEM_REFRACTIVITY>
+33.08
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.79e+02 g/l __ 
+
+$$$$

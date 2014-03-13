@@ -1,0 +1,90 @@
+
+  Mrv0541 02231217132D          
+
+  9  9  0  0  0  0            999 V2000
+    2.1434   -0.4125    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  2  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03836
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,3,5-Trichloro-Benzene
+
+> <CHEMICAL_FORMULA>
+C6H3Cl3
+
+> <MOLECULAR_WEIGHT>
+181.447
+
+> <EXACT_MASS>
+179.930033217
+
+> <IUPAC_NAME>
+1,3,5-trichlorobenzene
+
+> <IUPAC_TRADITIONAL_NAME>
+1,3,5-trichloro-benzene
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H3Cl3/c7-4-1-5(8)3-6(9)2-4/h1-3H
+
+> <INCHI_KEY>
+InChIKey=XKEFYDZQGKAQCN-UHFFFAOYSA-N
+
+> <SMILES>
+ClC1=CC(Cl)=CC(Cl)=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+4.08
+
+> <JCHEM_LOGP>
+3.79
+
+> <ALOGPS_LOGS>
+-3.8
+
+> <JCHEM_POLARIZABILITY>
+15.54
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+40.47
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.10e-02 g/l __ 
+
+$$$$

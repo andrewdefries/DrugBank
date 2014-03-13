@@ -1,0 +1,93 @@
+
+  Mrv0541 02231217362D          
+
+  9  9  0  0  0  0            999 V2000
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  2  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04314
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-Methylcytosine
+
+> <CHEMICAL_FORMULA>
+C5H7N3O
+
+> <MOLECULAR_WEIGHT>
+125.1286
+
+> <EXACT_MASS>
+125.058911861
+
+> <IUPAC_NAME>
+4-amino-1-methyl-1,2-dihydropyrimidin-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+1-methylcytosine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H7N3O/c1-8-3-2-4(6)7-5(8)9/h2-3H,1H3,(H2,6,7,9)
+
+> <INCHI_KEY>
+InChIKey=HWPZZUQOWRWFDB-UHFFFAOYSA-N
+
+> <SMILES>
+CN1C=CC(N)=NC1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+3.07
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.4
+
+> <JCHEM_LOGP>
+-1
+
+> <ALOGPS_LOGS>
+-0.63
+
+> <JCHEM_POLARIZABILITY>
+12.02
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.69
+
+> <JCHEM_REFRACTIVITY>
+32.85
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.91e+01 g/l __ 
+
+$$$$

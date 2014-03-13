@@ -1,0 +1,83 @@
+
+  Mrv0541 02231217292D          
+
+  9  8  0  0  0  0            999 V2000
+   -0.6039   -1.6500    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.1105   -1.2375    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230   -1.9520    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.3020   -0.5230    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.8250    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04160
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Diphosphate
+
+> <CHEMICAL_FORMULA>
+O7P2
+
+> <MOLECULAR_WEIGHT>
+173.9433
+
+> <EXACT_MASS>
+173.911925378
+
+> <IUPAC_NAME>
+(phosphonatooxy)phosphonate
+
+> <IUPAC_TRADITIONAL_NAME>
+phosphonatooxyphosphonate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/H4O7P2/c1-8(2,3)7-9(4,5)6/h(H2,1,2,3)(H2,4,5,6)/p-4
+
+> <INCHI_KEY>
+InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-J
+
+> <SMILES>
+[O-]P([O-])(=O)OP([O-])([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+1.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_LOGP>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+9.03
+
+> <JCHEM_POLAR_SURFACE_AREA>
+135.61
+
+> <JCHEM_REFRACTIVITY>
+21.04
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2 __ 
+
+$$$$

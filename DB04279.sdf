@@ -1,0 +1,101 @@
+
+  Mrv0541 02231217342D          
+
+ 12 11  0  0  1  0            999 V2000
+    2.6664   -2.3645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520   -1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -2.3645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520   -1.1270    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5230   -1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.1105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    0.5230    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    0.5230    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809   -1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  6  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  4 10  1  1  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04279
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Isopropylmalic Acid
+
+> <CHEMICAL_FORMULA>
+C7H12O5
+
+> <MOLECULAR_WEIGHT>
+176.1672
+
+> <EXACT_MASS>
+176.068473494
+
+> <IUPAC_NAME>
+(2S,3S)-2-hydroxy-3-(propan-2-yl)butanedioic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+3-isopropylmalic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H12O5/c1-3(2)4(6(9)10)5(8)7(11)12/h3-5,8H,1-2H3,(H,9,10)(H,11,12)/t4-,5-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=RNQHMTFBUSSBJQ-WHFBIAKZSA-N
+
+> <SMILES>
+CC(C)[C@@H]([C@H](O)C(O)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+3.68
+
+> <JCHEM_BASIC_PKA>
+-4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+0.28
+
+> <JCHEM_LOGP>
+0.16
+
+> <ALOGPS_LOGS>
+-0.33
+
+> <JCHEM_POLARIZABILITY>
+16.43
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.83
+
+> <JCHEM_REFRACTIVITY>
+38.6
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+8.33e+01 g/l __ 
+
+$$$$

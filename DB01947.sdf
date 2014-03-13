@@ -1,0 +1,104 @@
+262
+  Mrv0541 02231215502D          
+
+ 13 13  0  0  0  0            999 V2000
+    1.5657    0.0672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5657   -0.7578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8512   -1.1703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1367   -0.7578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1367    0.0672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8512    0.4797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8512    1.3047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5778    0.4797    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2922    0.0672    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0067   -0.3453    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7047    0.7817    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8797   -0.6472    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1367    1.7172    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01947
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+RU78262
+
+> <CHEMICAL_FORMULA>
+C7H7O5P
+
+> <MOLECULAR_WEIGHT>
+202.1012
+
+> <EXACT_MASS>
+202.003109846
+
+> <IUPAC_NAME>
+(2-formylphenoxy)phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+2-formylphenoxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H7O5P/c8-5-6-3-1-2-4-7(6)12-13(9,10)11/h1-5H,(H2,9,10,11)
+
+> <INCHI_KEY>
+InChIKey=BYNSFVCWJXZPOW-UHFFFAOYSA-N
+
+> <SMILES>
+OP(O)(=O)OC1=C(C=O)C=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+1.75
+
+> <JCHEM_BASIC_PKA>
+-7.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+0.04
+
+> <JCHEM_LOGP>
+0.73
+
+> <ALOGPS_LOGS>
+-1.7
+
+> <JCHEM_POLARIZABILITY>
+16.33
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.83
+
+> <JCHEM_REFRACTIVITY>
+45.5
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+4.44e+00 g/l __ 
+
+$$$$

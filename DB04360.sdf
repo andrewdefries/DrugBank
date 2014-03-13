@@ -1,0 +1,103 @@
+
+  Mrv0541 02231217372D          
+
+ 12 13  0  0  0  0            999 V2000
+   -1.8659   -1.4124    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4534   -0.6979    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8659    0.0165    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6284   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435   -0.0305    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  4  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  6 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04360
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Benzo[B]Thiophene-2-Boronic Acid
+
+> <CHEMICAL_FORMULA>
+C8H7BO2S
+
+> <MOLECULAR_WEIGHT>
+178.016
+
+> <EXACT_MASS>
+178.025980624
+
+> <IUPAC_NAME>
+(1-benzothiophen-2-yl)boronic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+1-benzothiophen-2-ylboronic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H7BO2S/c10-9(11)8-5-6-3-1-2-4-7(6)12-8/h1-5,10-11H
+
+> <INCHI_KEY>
+InChIKey=YNCYPMUJDDXIRH-UHFFFAOYSA-N
+
+> <SMILES>
+OB(O)C1=CC2=C(S1)C=CC=C2
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+7.91
+
+> <JCHEM_BASIC_PKA>
+-5.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.84
+
+> <JCHEM_LOGP>
+2.31
+
+> <ALOGPS_LOGS>
+-3
+
+> <JCHEM_POLARIZABILITY>
+18.44
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+43.1
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.94e-01 g/l __ 
+
+$$$$

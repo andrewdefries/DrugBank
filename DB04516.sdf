@@ -1,0 +1,107 @@
+
+  Mrv0541 02231217442D          
+
+ 15 14  0  0  1  0            999 V2000
+    2.2836   -2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9980   -2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270   -2.5559    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.4270   -3.3809    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414   -2.1434    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.1414   -1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559   -2.5559    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.8559   -3.3809    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849   -2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993   -2.1434    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138   -1.7309    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4118   -2.8579    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5868   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  1  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  1  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04516
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Deoxy-Glucitol-6-Phosphate
+
+> <CHEMICAL_FORMULA>
+C6H15O8P
+
+> <MOLECULAR_WEIGHT>
+246.1523
+
+> <EXACT_MASS>
+246.050453968
+
+> <IUPAC_NAME>
+{[(2R,3R,4S)-2,3,4,6-tetrahydroxyhexyl]oxy}phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[(2R,3R,4S)-2,3,4,6-tetrahydroxyhexyl]oxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H15O8P/c7-2-1-4(8)6(10)5(9)3-14-15(11,12)13/h4-10H,1-3H2,(H2,11,12,13)/t4-,5+,6+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=KLPBNGZTTQNYHR-KVQBGUIXSA-N
+
+> <SMILES>
+OCC[C@H](O)[C@@H](O)[C@H](O)COP(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_ACIDIC_PKA>
+1.49
+
+> <JCHEM_BASIC_PKA>
+-2.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-2.1
+
+> <JCHEM_LOGP>
+-3.2
+
+> <ALOGPS_LOGS>
+-0.94
+
+> <JCHEM_POLARIZABILITY>
+20.79
+
+> <JCHEM_POLAR_SURFACE_AREA>
+147.68
+
+> <JCHEM_REFRACTIVITY>
+48.18
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+2.82e+01 g/l __ 
+
+$$$$

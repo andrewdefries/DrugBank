@@ -1,0 +1,94 @@
+1494
+  Mrv0541 02231215312D          
+
+ 15 13  0  0  0  0            999 V2000
+    0.3572    0.3020    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6592    1.4290    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4842    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3009    5.4278    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    2.5864    4.1903    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5007    0.7145    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862    1.9520    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1575    5.0153    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    1.8720    5.4278    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5700    4.3008    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7450    5.7298    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4430    4.6028    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5864    5.0153    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862    1.1270    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.7145    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5 13  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01494
+
+> <DRUG_GROUPS>
+experimental; illicit
+
+> <GENERIC_NAME>
+Chloral betaine
+
+> <CHEMICAL_FORMULA>
+C7H14Cl3NO4
+
+> <MOLECULAR_WEIGHT>
+282.549
+
+> <EXACT_MASS>
+280.998841062
+
+> <IUPAC_NAME>
+2,2,2-trichloroethane-1,1-diol 2-(trimethylazaniumyl)acetate
+
+> <IUPAC_TRADITIONAL_NAME>
+betaine chloral hydrate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11NO2.C2H3Cl3O2/c1-6(2,3)4-5(7)8;3-2(4,5)1(6)7/h4H2,1-3H3;1,6-7H
+
+> <INCHI_KEY>
+InChIKey=ONAOIDNSINNZOA-UHFFFAOYSA-N
+
+> <SMILES>
+OC(O)C(Cl)(Cl)Cl.C[N+](C)(C)CC([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+2.26
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_LOGP>
+-4.5
+
+> <JCHEM_POLARIZABILITY>
+12.11
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.13
+
+> <JCHEM_REFRACTIVITY>
+52.82
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3 __ 
+
+$$$$

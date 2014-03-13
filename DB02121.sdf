@@ -1,0 +1,89 @@
+
+  Mrv0541 02231215582D          
+
+  6  5  0  0  0  0            999 V2000
+    1.2375    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02121
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Butyramide
+
+> <CHEMICAL_FORMULA>
+C4H9NO
+
+> <MOLECULAR_WEIGHT>
+87.1204
+
+> <EXACT_MASS>
+87.068413915
+
+> <IUPAC_NAME>
+butanamide
+
+> <IUPAC_TRADITIONAL_NAME>
+butyramide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H9NO/c1-2-3-4(5)6/h2-3H2,1H3,(H2,5,6)
+
+> <INCHI_KEY>
+InChIKey=DNSISZSEWVHGLH-UHFFFAOYSA-N
+
+> <SMILES>
+CCCC(N)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+16.96
+
+> <JCHEM_BASIC_PKA>
+-0.87
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.13
+
+> <JCHEM_LOGP>
+0.11
+
+> <ALOGPS_LOGS>
+0.39
+
+> <JCHEM_POLARIZABILITY>
+9.61
+
+> <JCHEM_POLAR_SURFACE_AREA>
+43.09
+
+> <JCHEM_REFRACTIVITY>
+23.69
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.16e+02 g/l __ 
+
+$$$$

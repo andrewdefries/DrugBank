@@ -1,0 +1,102 @@
+
+  Mrv0541 02231216242D          
+
+ 14 13  0  0  1  0            999 V2000
+    2.2836   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9980   -1.7309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270   -1.7309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559   -1.7309    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704   -2.1434    0.0000 P   0  0  2  0  0  0  0  0  0  0  0  0
+    6.1579   -2.8579    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9829   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849   -2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993   -2.1434    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138   -1.7309    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4118   -2.8579    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5868   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  6  1  6  0  0  0
+  7  8  1  1  0  0  0
+  7  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02707
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Pentyl Trihydrogen Diphosphate
+
+> <CHEMICAL_FORMULA>
+C5H14O7P2
+
+> <MOLECULAR_WEIGHT>
+248.108
+
+> <EXACT_MASS>
+248.021475826
+
+> <IUPAC_NAME>
+{[hydroxy(pentyloxy)phosphoryl]oxy}phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[hydroxy(pentyloxy)phosphoryl]oxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H14O7P2/c1-2-3-4-5-11-14(9,10)12-13(6,7)8/h2-5H2,1H3,(H,9,10)(H2,6,7,8)
+
+> <INCHI_KEY>
+InChIKey=VFFCVKZHJFIUBM-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCO[P@](O)(=O)OP(O)(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.78
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+0.57
+
+> <JCHEM_LOGP>
+0.7
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+20.13
+
+> <JCHEM_POLAR_SURFACE_AREA>
+113.29
+
+> <JCHEM_REFRACTIVITY>
+48.48
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+9.04e+00 g/l __ 
+
+$$$$

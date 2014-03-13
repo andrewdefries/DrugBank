@@ -1,0 +1,108 @@
+U13
+  Mrv0541 02241214142D          
+
+ 16 17  0  0  0  0            999 V2000
+   -0.3726    3.2285    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3726    2.4035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3419    1.9910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3419    1.1660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3726    0.7535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0871    1.1660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0871    1.9910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3726   -0.0715    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3419   -0.4840    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3419   -1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0093   -1.7940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7939   -1.5390    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7544   -2.5786    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0706   -2.5786    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3256   -1.7940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1102   -1.5390    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08667
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-(4-FLUORO-PHENYLAZO)-5-IMINO-5H-PYRAZOL-3-YLAMINE
+
+> <CHEMICAL_FORMULA>
+C9H7FN6
+
+> <MOLECULAR_WEIGHT>
+218.1905
+
+> <EXACT_MASS>
+218.071622459
+
+> <IUPAC_NAME>
+4-[(E)-2-(4-fluorophenyl)diazen-1-yl]-3-imino-3H-pyrazol-5-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+4-[(E)-2-(4-fluorophenyl)diazen-1-yl]-5-iminopyrazol-3-amine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H7FN6/c10-5-1-3-6(4-2-5)13-14-7-8(11)15-16-9(7)12/h1-4,11H,12H2/b11-8?,14-13+
+
+> <INCHI_KEY>
+InChIKey=HALOLQDLOLYIOW-CNLUSAEGSA-N
+
+> <SMILES>
+NC1=C(\N=N\C2=CC=C(F)C=C2)C(=N)N=N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_BASIC_PKA>
+4.19
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.21
+
+> <JCHEM_LOGP>
+1.28
+
+> <ALOGPS_LOGS>
+-4.1
+
+> <JCHEM_POLARIZABILITY>
+19.84
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.31
+
+> <JCHEM_REFRACTIVITY>
+77.74
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.74e-02 g/l __ 
+
+$$$$

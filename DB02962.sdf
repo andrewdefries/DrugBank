@@ -1,0 +1,94 @@
+
+  Mrv0541 02231216352D          
+
+  9 10  0  0  0  0            999 V2000
+    3.3523    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    0.8555    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    2.1904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  4  0  0  0  0
+  2  3  4  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  6  7  4  0  0  0  0
+  7  8  4  0  0  0  0
+  4  8  4  0  0  0  0
+  8  9  4  0  0  0  0
+  1  9  4  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02962
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Benzimidazole
+
+> <CHEMICAL_FORMULA>
+C7H5N2
+
+> <MOLECULAR_WEIGHT>
+117.128
+
+> <EXACT_MASS>
+117.04527317
+
+> <IUPAC_NAME>
+1,3-benzodiazole
+
+> <IUPAC_TRADITIONAL_NAME>
+benzimidazole
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H5N2/c1-2-4-7-6(3-1)8-5-9-7/h1-5H
+
+> <INCHI_KEY>
+InChIKey=JYZIHLWOWKMNNX-UHFFFAOYSA-N
+
+> <SMILES>
+c1nc2ccccc2n1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+2.05
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.67
+
+> <JCHEM_LOGP>
+1.48
+
+> <ALOGPS_LOGS>
+-0.84
+
+> <JCHEM_POLARIZABILITY>
+11.85
+
+> <JCHEM_POLAR_SURFACE_AREA>
+25.78
+
+> <JCHEM_REFRACTIVITY>
+34.09
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.70e+01 g/l __ 
+
+$$$$

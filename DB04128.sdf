@@ -1,0 +1,118 @@
+
+  Mrv0541 02231217272D          
+
+ 20 20  0  0  1  0            999 V2000
+   -3.5724   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.8875    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -3.3000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4289   -4.1250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -5.3625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  1  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  1  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 11 20  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04128
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-Nitroso-6-Ribityl-Amino-2,4(1h,3h)-Pyrimidinedione
+
+> <CHEMICAL_FORMULA>
+C9H14N4O7
+
+> <MOLECULAR_WEIGHT>
+290.2301
+
+> <EXACT_MASS>
+290.086248822
+
+> <IUPAC_NAME>
+5-nitroso-6-{[(2S,3R,4R)-2,3,4,5-tetrahydroxypentyl]amino}-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+5-nitroso-6-{[(2S,3R,4R)-2,3,4,5-tetrahydroxypentyl]amino}-1,3-dihydropyrimidine-2,4-dione
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H14N4O7/c14-2-4(16)6(17)3(15)1-10-7-5(13-20)8(18)12-9(19)11-7/h3-4,6,14-17H,1-2H2,(H3,10,11,12,18,19)/t3-,4+,6+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=YMWIHKCBRFEJMH-MRKVFDINSA-N
+
+> <SMILES>
+OC[C@@H](O)[C@H](O)[C@@H](O)CNC1=C(N=O)C(=O)NC(=O)N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+7
+
+> <JCHEM_ACIDIC_PKA>
+9.07
+
+> <JCHEM_BASIC_PKA>
+-0.66
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.6
+
+> <JCHEM_LOGP>
+-3.8
+
+> <ALOGPS_LOGS>
+-1.7
+
+> <JCHEM_POLARIZABILITY>
+25.85
+
+> <JCHEM_POLAR_SURFACE_AREA>
+180.58
+
+> <JCHEM_REFRACTIVITY>
+71.41
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+5.52e+00 g/l __ 
+
+$$$$

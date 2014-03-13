@@ -1,0 +1,95 @@
+
+  Mrv0541 02231217112D          
+
+  9  8  0  0  1  0            999 V2000
+    1.5395   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.1105   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1105   -2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6039   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.8250    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03794
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Trifluoroalanine
+
+> <CHEMICAL_FORMULA>
+C3H4F3NO2
+
+> <MOLECULAR_WEIGHT>
+143.0646
+
+> <EXACT_MASS>
+143.019412992
+
+> <IUPAC_NAME>
+(2R)-2-amino-3,3,3-trifluoropropanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+trifluoroalanine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H4F3NO2/c4-3(5,6)1(7)2(8)9/h1H,7H2,(H,8,9)/t1-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=HMJQKIDUCWWIBW-PVQJCKRUSA-N
+
+> <SMILES>
+N[C@H](C(O)=O)C(F)(F)F
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+1.02
+
+> <JCHEM_BASIC_PKA>
+4.73
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-1
+
+> <JCHEM_LOGP>
+-1.7
+
+> <ALOGPS_LOGS>
+-0.91
+
+> <JCHEM_POLARIZABILITY>
+8.84
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+21.2
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.76e+01 g/l __ 
+
+$$$$

@@ -1,0 +1,113 @@
+
+  Mrv0541 02231217102D          
+
+ 18 17  0  0  1  0            999 V2000
+    9.9513    4.0954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9513    3.2704    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    9.2368    2.8579    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5224    3.2704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5224    4.0954    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8079    2.8579    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.8079    2.0329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0934    3.2704    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3789    2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3789    2.0329    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6645    3.2704    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9500    2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2355    2.4454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3625    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5375    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6658    2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3802    3.2704    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6658    2.0329    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  1  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+  2 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03757
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(Tert-Butyloxycarbonyl)-Alanyl-Alanyl-Amine
+
+> <CHEMICAL_FORMULA>
+C11H21N3O4
+
+> <MOLECULAR_WEIGHT>
+259.3021
+
+> <EXACT_MASS>
+259.153206175
+
+> <IUPAC_NAME>
+tert-butyl N-[(1R)-1-{[(1S)-1-carbamoylethyl]carbamoyl}ethyl]carbamate
+
+> <IUPAC_TRADITIONAL_NAME>
+tert-butyl N-[(1R)-1-{[(1S)-1-carbamoylethyl]carbamoyl}ethyl]carbamate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H21N3O4/c1-6(8(12)15)13-9(16)7(2)14-10(17)18-11(3,4)5/h6-7H,1-5H3,(H2,12,15)(H,13,16)(H,14,17)/t6-,7+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=OAXZAMSRJZWMEV-NKWVEPMBSA-N
+
+> <SMILES>
+C[C@H](NC(=O)[C@@H](C)NC(=O)OC(C)(C)C)C(N)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+12.55
+
+> <JCHEM_BASIC_PKA>
+-4.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.49
+
+> <JCHEM_LOGP>
+-0.43
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+26.93
+
+> <JCHEM_POLAR_SURFACE_AREA>
+110.52
+
+> <JCHEM_REFRACTIVITY>
+64.49
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+4.02e+00 g/l __ 
+
+$$$$

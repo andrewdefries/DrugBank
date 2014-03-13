@@ -1,0 +1,102 @@
+
+  Mrv0541 02231216552D          
+
+ 12 12  0  0  1  0            999 V2000
+    2.1434    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  6  0  0  0
+  5  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+  9 11  1  0  0  0  0
+  2 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03414
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-Thio-a/B-D-Mannopyranosylamine
+
+> <CHEMICAL_FORMULA>
+C6H13NO4S
+
+> <MOLECULAR_WEIGHT>
+195.237
+
+> <EXACT_MASS>
+195.056528599
+
+> <IUPAC_NAME>
+(2R,3R,4S,5S,6R)-2-amino-6-(hydroxymethyl)thiane-3,4,5-triol
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R,3R,4S,5S,6R)-2-amino-6-(hydroxymethyl)thiane-3,4,5-triol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13NO4S/c7-6-5(11)4(10)3(9)2(1-8)12-6/h2-6,8-11H,1,7H2/t2-,3-,4+,5-,6-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=FGVRMLQUWLZGLJ-VFUOTHLCSA-N
+
+> <SMILES>
+N[C@@H]1S[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+12.77
+
+> <JCHEM_BASIC_PKA>
+7.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-2.5
+
+> <JCHEM_LOGP>
+-2.7
+
+> <ALOGPS_LOGS>
+0.08
+
+> <JCHEM_POLARIZABILITY>
+18.79
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.94
+
+> <JCHEM_REFRACTIVITY>
+43.93
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.35e+02 g/l __ 
+
+$$$$

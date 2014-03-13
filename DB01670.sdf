@@ -1,0 +1,88 @@
+
+  Mrv0541 02231215382D          
+
+  7  6  0  0  0  0            999 V2000
+   -0.1914    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01670
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Propyl Acetate
+
+> <CHEMICAL_FORMULA>
+C5H10O2
+
+> <MOLECULAR_WEIGHT>
+102.1317
+
+> <EXACT_MASS>
+102.068079564
+
+> <IUPAC_NAME>
+propyl acetate
+
+> <IUPAC_TRADITIONAL_NAME>
+propyl acetate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H10O2/c1-3-4-7-5(2)6/h3-4H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=YKYONYBAUNKHLG-UHFFFAOYSA-N
+
+> <SMILES>
+CCCOC(C)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.28
+
+> <JCHEM_LOGP>
+0.8
+
+> <ALOGPS_LOGS>
+-0.56
+
+> <JCHEM_POLARIZABILITY>
+11.39
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.3
+
+> <JCHEM_REFRACTIVITY>
+26.69
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.82e+01 g/l __ 
+
+$$$$

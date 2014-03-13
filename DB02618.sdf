@@ -1,0 +1,98 @@
+
+  Mrv0541 02231216202D          
+
+ 12 11  0  0  0  0            999 V2000
+    1.0461   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605   -1.0164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750   -1.4289    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.0625   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8875   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184   -1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329   -1.4289    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474   -1.0164    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.7454   -2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9204   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02618
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Ethyl Dimethyl Ammonio Propane Sulfonate
+
+> <CHEMICAL_FORMULA>
+C7H17NO3S
+
+> <MOLECULAR_WEIGHT>
+195.28
+
+> <EXACT_MASS>
+195.092914105
+
+> <IUPAC_NAME>
+3-(ethyldimethylazaniumyl)propane-1-sulfonate
+
+> <IUPAC_TRADITIONAL_NAME>
+3-(ethyldimethylaminio)propane-1-sulfonate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H17NO3S/c1-4-8(2,3)6-5-7-12(9,10)11/h4-7H2,1-3H3
+
+> <INCHI_KEY>
+InChIKey=NNCRHRDBFDCWPA-UHFFFAOYSA-N
+
+> <SMILES>
+CC[N+](C)(C)CCCS([O-])(=O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+-0.87
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.5
+
+> <JCHEM_LOGP>
+-4.5
+
+> <ALOGPS_LOGS>
+-3
+
+> <JCHEM_POLARIZABILITY>
+20.47
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.2
+
+> <JCHEM_REFRACTIVITY>
+59.08
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+2.54e-01 g/l __ 
+
+$$$$

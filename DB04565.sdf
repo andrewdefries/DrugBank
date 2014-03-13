@@ -1,0 +1,114 @@
+
+  Mrv0541 02231217462D          
+
+ 18 18  0  0  0  0            999 V2000
+    3.5724    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  5 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04565
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-(Acetylamino)-3-[(Hydroxyacetyl)Amino]Benzoic Acid
+
+> <CHEMICAL_FORMULA>
+C11H12N2O5
+
+> <MOLECULAR_WEIGHT>
+252.2234
+
+> <EXACT_MASS>
+252.074621504
+
+> <IUPAC_NAME>
+4-acetamido-3-(2-hydroxyacetamido)benzoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+4-acetamido-3-(2-hydroxyacetamido)benzoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H12N2O5/c1-6(15)12-8-3-2-7(11(17)18)4-9(8)13-10(16)5-14/h2-4,14H,5H2,1H3,(H,12,15)(H,13,16)(H,17,18)
+
+> <INCHI_KEY>
+InChIKey=CRHJDPGLFDNPOA-UHFFFAOYSA-N
+
+> <SMILES>
+CC(=O)NC1=CC=C(C=C1NC(=O)CO)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+4.02
+
+> <JCHEM_BASIC_PKA>
+-3.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.38
+
+> <JCHEM_LOGP>
+-0.71
+
+> <ALOGPS_LOGS>
+-2.5
+
+> <JCHEM_POLARIZABILITY>
+24.3
+
+> <JCHEM_POLAR_SURFACE_AREA>
+115.73
+
+> <JCHEM_REFRACTIVITY>
+64.74
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+7.88e-01 g/l __ 
+
+$$$$

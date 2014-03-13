@@ -1,0 +1,103 @@
+
+  Mrv0541 02231216262D          
+
+ 13 15  0  0  0  0            999 V2000
+   -1.5558    0.2567    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8411   -0.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8411   -0.9804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1286   -1.3929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5839   -0.9804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3018   -1.3929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0143   -0.9804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0143   -0.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3018    0.2571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5839   -0.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1286    0.2571    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1714    1.1143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9964    1.1143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  5 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  2 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  9 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02756
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,2,5,6-Tetrahydro-4h-Pyrrolo(3,2,1-Ij)Quinolin-4-One
+
+> <CHEMICAL_FORMULA>
+C11H11NO
+
+> <MOLECULAR_WEIGHT>
+173.2111
+
+> <EXACT_MASS>
+173.084063979
+
+> <IUPAC_NAME>
+1-azatricyclo[6.3.1.0^{4,12}]dodeca-4(12),5,7-trien-11-one
+
+> <IUPAC_TRADITIONAL_NAME>
+pyroquilon
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H11NO/c13-10-5-4-8-2-1-3-9-6-7-12(10)11(8)9/h1-3H,4-7H2
+
+> <INCHI_KEY>
+InChIKey=XRJLAOUDSILTFT-UHFFFAOYSA-N
+
+> <SMILES>
+O=C1CCC2=CC=CC3=C2N1CC3
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-3.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.1
+
+> <JCHEM_LOGP>
+1.42
+
+> <ALOGPS_LOGS>
+-1.2
+
+> <JCHEM_POLARIZABILITY>
+18.79
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.31
+
+> <JCHEM_REFRACTIVITY>
+50.61
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.13e+01 g/l __ 
+
+$$$$

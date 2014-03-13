@@ -1,0 +1,100 @@
+
+  Mrv0541 02231217022D          
+
+ 11 11  0  0  1  0            999 V2000
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  1  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  1  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  6  0  0  0
+  8 10  1  0  0  0  0
+  2 10  1  0  0  0  0
+ 10 11  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03586
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5(R)-5-Fluoro-Beta-D-Xylopyranosyl-Enzyme Intermediate
+
+> <CHEMICAL_FORMULA>
+C5H8FO5
+
+> <MOLECULAR_WEIGHT>
+167.1124
+
+> <EXACT_MASS>
+167.035576571
+
+> <IUPAC_NAME>
+(2S,3S,4S,5R,6S)-6-fluoro-3,4,5-trihydroxyoxan-2-olate
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S,3S,4S,5R,6S)-6-fluoro-3,4,5-trihydroxyoxan-2-olate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H8FO5/c6-4-2(8)1(7)3(9)5(10)11-4/h1-5,7-9H/q-1/t1-,2-,3+,4-,5+/m1/s1
+
+> <INCHI_KEY>
+InChIKey=CSWSGZBYLQUXQI-VQOCEVNASA-N
+
+> <SMILES>
+O[C@H]1[C@H](O)[C@@H]([O-])O[C@@H](F)[C@@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+11.18
+
+> <JCHEM_BASIC_PKA>
+-3.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.5
+
+> <JCHEM_LOGP>
+-1.9
+
+> <ALOGPS_LOGS>
+0.38
+
+> <JCHEM_POLARIZABILITY>
+13.09
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.98
+
+> <JCHEM_REFRACTIVITY>
+40.16
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+4.41e+02 g/l __ 
+
+$$$$

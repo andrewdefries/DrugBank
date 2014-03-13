@@ -1,0 +1,102 @@
+
+  Mrv0541 02231217032D          
+
+ 12 12  0  0  1  0            999 V2000
+    2.1434    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  6  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  6  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+  9 11  1  0  0  0  0
+  3 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03599
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Thio-D-Glucose
+
+> <CHEMICAL_FORMULA>
+C6H12O5S
+
+> <MOLECULAR_WEIGHT>
+196.221
+
+> <EXACT_MASS>
+196.040544184
+
+> <IUPAC_NAME>
+(2S,3S,4S,5R,6S)-6-(hydroxymethyl)-5-sulfanyloxane-2,3,4-triol
+
+> <IUPAC_TRADITIONAL_NAME>
+4-thio-β-D-glucopyranose
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O5S/c7-1-2-5(12)3(8)4(9)6(10)11-2/h2-10,12H,1H2/t2-,3-,4-,5-,6-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=KGSURTOFVLAWDC-RUTHBDMASA-N
+
+> <SMILES>
+OC[C@@H]1O[C@H](O)[C@@H](O)[C@H](O)[C@H]1S
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+9.49
+
+> <JCHEM_BASIC_PKA>
+-3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.4
+
+> <JCHEM_LOGP>
+-2
+
+> <ALOGPS_LOGS>
+-0.57
+
+> <JCHEM_POLARIZABILITY>
+18.28
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.15
+
+> <JCHEM_REFRACTIVITY>
+42.13
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.30e+01 g/l __ 
+
+$$$$

@@ -1,0 +1,116 @@
+
+  Mrv0541 02231217182D          
+
+ 19 19  0  0  1  0            999 V2000
+    2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5559    0.3020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7309   -1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  5  4  1  1  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  6  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  2  0  0  0  0
+  9 16  1  0  0  0  0
+ 16 17  1  6  0  0  0
+ 16 18  1  0  0  0  0
+  5 18  1  0  0  0  0
+ 18 19  1  6  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03951
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+16g
+
+> <CHEMICAL_FORMULA>
+C8H16NO9P
+
+> <MOLECULAR_WEIGHT>
+301.1877
+
+> <EXACT_MASS>
+301.056267627
+
+> <IUPAC_NAME>
+{[(2R,3R,4R,5R,6R)-5-acetamido-3,4,6-trihydroxyoxan-2-yl]methoxy}phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[(2R,3R,4R,5R,6R)-5-acetamido-3,4,6-trihydroxyoxan-2-yl]methoxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H16NO9P/c1-3(10)9-5-7(12)6(11)4(18-8(5)13)2-17-19(14,15)16/h4-8,11-13H,2H2,1H3,(H,9,10)(H2,14,15,16)/t4-,5-,6+,7-,8-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=BRGMHAYQAZFZDJ-JAJWTYFOSA-N
+
+> <SMILES>
+CC(=O)N[C@H]1[C@H](O)O[C@H](COP(O)(O)=O)[C@H](O)[C@@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_ACIDIC_PKA>
+1.23
+
+> <JCHEM_BASIC_PKA>
+-0.79
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-2
+
+> <JCHEM_LOGP>
+-3.3
+
+> <ALOGPS_LOGS>
+-1.2
+
+> <JCHEM_POLARIZABILITY>
+25.76
+
+> <JCHEM_POLAR_SURFACE_AREA>
+165.78
+
+> <JCHEM_REFRACTIVITY>
+57.9
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.76e+01 g/l __ 
+
+$$$$

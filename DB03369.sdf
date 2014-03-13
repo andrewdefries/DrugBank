@@ -1,0 +1,107 @@
+9AP
+  Mrv0541 02231216532D          
+
+ 15 17  0  0  0  0            999 V2000
+    1.9847    0.3558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5722   -0.3587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7472    1.0702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7472   -0.3587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5722    1.0702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3347    0.3558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3347   -1.0732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4903   -1.0732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7472   -1.7876    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9028   -0.3587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7278   -0.3587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4903    0.3558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1403    0.3558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7278    1.0702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9028    1.0702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03369
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+9-Aminophenanthrene
+
+> <CHEMICAL_FORMULA>
+C14H11N
+
+> <MOLECULAR_WEIGHT>
+193.2438
+
+> <EXACT_MASS>
+193.089149357
+
+> <IUPAC_NAME>
+phenanthren-9-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+9-aminophenanthrene
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H11N/c15-14-9-10-5-1-2-6-11(10)12-7-3-4-8-13(12)14/h1-9H,15H2
+
+> <INCHI_KEY>
+InChIKey=KIHQWOBUUIPWAN-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=CC2=C(C=CC=C2)C2=C1C=CC=C2
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+3.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.65
+
+> <JCHEM_LOGP>
+3.12
+
+> <ALOGPS_LOGS>
+-4.5
+
+> <JCHEM_POLARIZABILITY>
+21.86
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+63.66
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.81e-03 g/l __ 
+
+$$$$

@@ -1,0 +1,153 @@
+[NO NAME]
+  Mrv0541 04241205072D          
+Created with ChemWriter - http://chemwriter.com
+ 34 35  0  0  0  0            999 V2000
+    3.8861    1.4562    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6006    1.8687    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3151    1.4562    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3151    0.6312    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0296    1.8687    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7440    1.4562    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7440    0.6312    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    7.4585    1.8687    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1730    1.4562    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.8752    1.8893    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1969    0.6316    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.9231    0.2400    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.6013    1.4978    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.6253    0.6731    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3397    0.2606    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8861    0.6312    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1716    0.2187    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1716   -0.6063    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8861   -1.0188    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8861   -1.8438    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6006   -2.2563    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3150   -1.8438    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3150   -1.0188    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0295   -2.2563    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7440   -1.8438    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7440   -1.0188    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    7.4585   -2.2563    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1729   -1.8438    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.8874   -0.6063    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1729   -1.0188    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.8874   -2.2563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.6019   -1.8438    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.6019   -1.0188    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3163   -0.6063    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  4  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10  9  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+  1 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 25 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 30 28  2  0  0  0  0
+ 28 31  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 31 32  2  0  0  0  0
+ 32 33  1  0  0  0  0
+ 29 33  2  0  0  0  0
+ 33 34  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00878
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Chlorhexidine
+
+> <SYNONYMS>
+Chlorhexidin; Chlorhexidinum; Cloresidina; Clorhexidina
+
+> <SALTS>
+Chlorhexidine gluconate
+
+> <BRANDS>
+Cida-Stat; Corsodyl; Dyna-Hex; Exidine; Hexadol; Hibiclens; Hibidil; Hibiscrub; Hibistat; Hibitane; Microderm; Oro-Clense; Perichlor; Peridex; Periochip; Periogard Oral Rinse; Pharmaseal Scrub Care; Prevacare R; Rotersept; Sterilon; Tubulicid
+
+> <CHEMICAL_FORMULA>
+C22H30Cl2N10
+
+> <MOLECULAR_WEIGHT>
+505.447
+
+> <EXACT_MASS>
+504.203196424
+
+> <IUPAC_NAME>
+N-(4-chlorophenyl)-1-3-(6-{N-[3-(4-chlorophenyl)carbamimidamidomethanimidoyl]amino}hexyl)carbamimidamidomethanimidamide
+
+> <IUPAC_TRADITIONAL_NAME>
+chlorhexidine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H30Cl2N10/c23-15-5-9-17(10-6-15)31-21(27)33-19(25)29-13-3-1-2-4-14-30-20(26)34-22(28)32-18-11-7-16(24)8-12-18/h5-12H,1-4,13-14H2,(H5,25,27,29,31,33)(H5,26,28,30,32,34)
+
+> <INCHI_KEY>
+InChIKey=GHXZTYHSJHQHIJ-UHFFFAOYSA-N
+
+> <SMILES>
+ClC1=CC=C(NC(=N)NC(=N)NCCCCCCNC(=N)NC(=N)NC2=CC=C(Cl)C=C2)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_DONOR_COUNT>
+10
+
+> <JCHEM_BASIC_PKA>
+10.52
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+4
+
+> <ALOGPS_LOGP>
+2.71
+
+> <JCHEM_LOGP>
+4.51
+
+> <ALOGPS_LOGS>
+-4.3
+
+> <JCHEM_POLARIZABILITY>
+54.6
+
+> <JCHEM_POLAR_SURFACE_AREA>
+167.58
+
+> <JCHEM_REFRACTIVITY>
+181.71
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <ALOGPS_SOLUBILITY>
+2.61e-02 g/l __ 
+
+$$$$

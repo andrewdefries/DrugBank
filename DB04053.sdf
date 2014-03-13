@@ -1,0 +1,71 @@
+
+  Mrv0541 02231217232D          
+
+  3  2  0  0  0  0            999 V2000
+    1.2375   -0.7145    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.9520   -1.1270    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04053
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Hypophosphite
+
+> <CHEMICAL_FORMULA>
+O2P
+
+> <MOLECULAR_WEIGHT>
+62.9726
+
+> <EXACT_MASS>
+62.963590756
+
+> <IUPAC_NAME>
+phosphinate
+
+> <IUPAC_TRADITIONAL_NAME>
+hypophosphite
+
+> <INCHI_IDENTIFIER>
+InChI=1S/HO2P/c1-3-2/h(H,1,2)/p-1
+
+> <INCHI_KEY>
+InChIKey=GQZXNSPRSGFJLY-UHFFFAOYSA-M
+
+> <SMILES>
+[O-]P=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+-4.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_LOGP>
+-0.59
+
+> <JCHEM_POLARIZABILITY>
+3.24
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.13
+
+> <JCHEM_REFRACTIVITY>
+8.09
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0 __ 
+
+$$$$

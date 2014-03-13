@@ -1,0 +1,69 @@
+
+  Mrv0541 02231218082D          
+
+  2  1  0  0  0  0            999 V2000
+     1.650     0.000     0.000 I   0  0  0  0  0  0  0  0  0  0  0  0
+     2.475     0.000     0.000 I   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB05382
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+molecular iodine
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+I2
+
+> <MOLECULAR_WEIGHT>
+253.80894
+
+> <EXACT_MASS>
+253.80893684
+
+> <IUPAC_NAME>
+diiodane
+
+> <IUPAC_TRADITIONAL_NAME>
+iodine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/I2/c1-2
+
+> <INCHI_KEY>
+InChIKey=PNDPGZBMCMUPRI-UHFFFAOYSA-N
+
+> <SMILES>
+II
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_LOGP>
+1.36
+
+> <JCHEM_POLARIZABILITY>
+10.18
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+26.68
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0 __ 
+
+$$$$

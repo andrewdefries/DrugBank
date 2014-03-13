@@ -1,0 +1,96 @@
+
+  Mrv0541 09241312492D          
+
+  8  7  0  0  0  0            999 V2000
+    0.7145    0.9281    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.1031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.3094    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.3094    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1344    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.1031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.9281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.3094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  2  1  0  0  0  0
+  4  2  1  0  0  0  0
+  4  5  1  1  0  0  0
+  6  4  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  6  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00161
+
+> <DRUG_GROUPS>
+approved; nutraceutical
+
+> <GENERIC_NAME>
+L-Valine
+
+> <SYNONYMS>
+(2S)-2-Amino-3-methylbutanoic acid; (S)-Valine; 2-Amino-3-methylbutyric acid; L-(+)-alpha-Aminoisovaleric acid; L-alpha-Amino-beta-methylbutyric acid; Val; Valine
+
+> <CHEMICAL_FORMULA>
+C5H11NO2
+
+> <MOLECULAR_WEIGHT>
+117.1463
+
+> <EXACT_MASS>
+117.078978601
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-methylbutanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+L-valine
+
+> <INCHI_IDENTIFIER>
+InChI=1/C5H11NO2/c1-3(2)4(6)5(7)8/h3-4H,6H2,1-2H3,(H,7,8)/t4-/s2
+
+> <INCHI_KEY>
+InChIKey=KZSNJWFQEVHDMF-SGAVLPGINA-N
+
+> <SMILES>
+CC(C)[C@H](N)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.72
+
+> <JCHEM_BASIC_PKA>
+9.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.3
+
+> <JCHEM_LOGP>
+-2
+
+> <ALOGPS_LOGS>
+0.26
+
+> <JCHEM_POLARIZABILITY>
+12.19
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+29.49
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.14e+02 g/l __ 
+
+$$$$

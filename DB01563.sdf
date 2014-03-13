@@ -1,0 +1,94 @@
+1563
+  Mrv0541 02231215342D          
+
+  7  6  0  0  0  0            999 V2000
+    1.6500   -0.8019    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    0.3251    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770   -1.1039    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.3894    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.8481    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.0231    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.3894    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01563
+
+> <DRUG_GROUPS>
+experimental; illicit
+
+> <GENERIC_NAME>
+Chloral hydrate
+
+> <BRANDS>
+Aquachloral Supprettes; Somnote
+
+> <CHEMICAL_FORMULA>
+C2H3Cl3O2
+
+> <MOLECULAR_WEIGHT>
+165.403
+
+> <EXACT_MASS>
+163.919862461
+
+> <IUPAC_NAME>
+2,2,2-trichloroethane-1,1-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+chloral hydrate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H3Cl3O2/c3-2(4,5)1(6)7/h1,6-7H
+
+> <INCHI_KEY>
+InChIKey=RNFNDJAIBTYOQL-UHFFFAOYSA-N
+
+> <SMILES>
+OC(O)C(Cl)(Cl)Cl
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.51
+
+> <JCHEM_BASIC_PKA>
+-5.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.88
+
+> <JCHEM_LOGP>
+0.69
+
+> <ALOGPS_LOGS>
+-0.58
+
+> <JCHEM_POLARIZABILITY>
+11.88
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+29.25
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.34e+01 g/l __ 
+
+$$$$

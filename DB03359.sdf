@@ -1,0 +1,112 @@
+
+  Mrv0541 02231216532D          
+
+ 17 17  0  0  0  0            999 V2000
+    2.8579   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.5559    0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7309   -1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5395    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1105    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    3.7125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5395    2.8875    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1105    2.8875    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  5 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03359
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+M-(N,N,N-Trimethylammonio)-2,2,2-Trifluoro-1,1-Dihydroxyethylbenzene
+
+> <CHEMICAL_FORMULA>
+C11H15F3NO2
+
+> <MOLECULAR_WEIGHT>
+250.2375
+
+> <EXACT_MASS>
+250.105488344
+
+> <IUPAC_NAME>
+N,N,N-trimethyl-3-(2,2,2-trifluoro-1,1-dihydroxyethyl)anilinium
+
+> <IUPAC_TRADITIONAL_NAME>
+N,N,N-trimethyl-3-(2,2,2-trifluoro-1,1-dihydroxyethyl)anilinium
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H15F3NO2/c1-15(2,3)9-6-4-5-8(7-9)10(16,17)11(12,13)14/h4-7,16-17H,1-3H3/q+1
+
+> <INCHI_KEY>
+InChIKey=KGVDBJQLTHWAJF-UHFFFAOYSA-N
+
+> <SMILES>
+C[N+](C)(C)C1=CC=CC(=C1)C(O)(O)C(F)(F)F
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+7.53
+
+> <JCHEM_BASIC_PKA>
+-5.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-0.62
+
+> <JCHEM_LOGP>
+-1.9
+
+> <ALOGPS_LOGS>
+-4.5
+
+> <JCHEM_POLARIZABILITY>
+22.47
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+69.08
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+8.72e-03 g/l __ 
+
+$$$$

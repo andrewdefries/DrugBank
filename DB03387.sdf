@@ -1,0 +1,97 @@
+
+  Mrv0541 02231216542D          
+
+ 10  9  0  0  0  0            999 V2000
+   -0.1914    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03387
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Hydroxy-N-Isopropyloxamic Acid
+
+> <CHEMICAL_FORMULA>
+C5H9NO4
+
+> <MOLECULAR_WEIGHT>
+147.1293
+
+> <EXACT_MASS>
+147.053157781
+
+> <IUPAC_NAME>
+[hydroxy(propan-2-yl)carbamoyl]formic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[hydroxy(isopropyl)carbamoyl]formic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H9NO4/c1-3(2)6(10)4(7)5(8)9/h3,10H,1-2H3,(H,8,9)
+
+> <INCHI_KEY>
+InChIKey=QVIOSGUKMDGWNN-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)N(O)C(=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.79
+
+> <JCHEM_BASIC_PKA>
+-6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.02
+
+> <JCHEM_LOGP>
+-0.077
+
+> <ALOGPS_LOGS>
+-0.8
+
+> <JCHEM_POLARIZABILITY>
+13.22
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.84
+
+> <JCHEM_REFRACTIVITY>
+32.09
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.35e+01 g/l __ 
+
+$$$$

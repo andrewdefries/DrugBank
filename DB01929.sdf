@@ -1,0 +1,111 @@
+CLZ
+  Mrv0541 02231215502D          
+
+ 16 17  0  0  0  0            999 V2000
+   -1.0186   -0.6016    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7330   -0.1891    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7330    0.6359    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0186    1.0484    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0186   -1.4266    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4475    1.0484    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1248   -0.1891    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4104   -0.6016    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3041   -0.1891    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3041    0.6359    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4104    1.0484    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1248    0.6359    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8393   -0.6016    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4104   -1.4266    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3041   -1.8391    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1248   -1.8391    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4 10  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01929
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-Chloryl-2,4,6-Quinazolinetriamine
+
+> <CHEMICAL_FORMULA>
+C8H8ClN5O2
+
+> <MOLECULAR_WEIGHT>
+241.634
+
+> <EXACT_MASS>
+241.036652232
+
+> <IUPAC_NAME>
+5-chlorylquinazoline-2,4,6-triamine
+
+> <IUPAC_TRADITIONAL_NAME>
+5-chlorylquinazoline-2,4,6-triamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8ClN5O2/c10-3-1-2-4-5(6(3)9(15)16)7(11)14-8(12)13-4/h1-2H,10H2,(H4,11,12,13,14)
+
+> <INCHI_KEY>
+InChIKey=AOIWFGJNGXKHGL-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=C(C2=C(N)N=C(N)N=C2C=C1)[Cl](=O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+17.16
+
+> <JCHEM_BASIC_PKA>
+4.98
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.3
+
+> <JCHEM_LOGP>
+1.19
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+21.34
+
+> <JCHEM_POLAR_SURFACE_AREA>
+137.98
+
+> <JCHEM_REFRACTIVITY>
+60.85
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.37e+00 g/l __ 
+
+$$$$

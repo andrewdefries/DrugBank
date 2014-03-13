@@ -1,0 +1,115 @@
+
+  Mrv0541 02231218072D          
+
+ 17 17  0  0  0  0            999 V2000
+    4.5080   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.4438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 14 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB05291
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+lidocaine patch
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C14H22N2O
+
+> <MOLECULAR_WEIGHT>
+234.3373
+
+> <EXACT_MASS>
+234.173213336
+
+> <IUPAC_NAME>
+2-(diethylamino)-N-(2,6-dimethylphenyl)acetamide
+
+> <IUPAC_TRADITIONAL_NAME>
+lidocaine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H22N2O/c1-5-16(6-2)10-13(17)15-14-11(3)8-7-9-12(14)4/h7-9H,5-6,10H2,1-4H3,(H,15,17)
+
+> <INCHI_KEY>
+InChIKey=NNJVILVZKWQKPM-UHFFFAOYSA-N
+
+> <SMILES>
+CCN(CC)CC(=O)NC1=C(C)C=CC=C1C
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+13.78
+
+> <JCHEM_BASIC_PKA>
+7.75
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.81
+
+> <JCHEM_LOGP>
+2.84
+
+> <ALOGPS_LOGS>
+-2.6
+
+> <JCHEM_POLARIZABILITY>
+27.77
+
+> <JCHEM_POLAR_SURFACE_AREA>
+32.34
+
+> <JCHEM_REFRACTIVITY>
+73.93
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+5.93e-01 g/l __ 
+
+$$$$

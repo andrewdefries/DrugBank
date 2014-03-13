@@ -1,0 +1,96 @@
+
+  Mrv0541 02231217362D          
+
+ 10 11  0  0  0  0            999 V2000
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  4  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  1 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04329
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Isoquinoline
+
+> <CHEMICAL_FORMULA>
+C9H7N
+
+> <MOLECULAR_WEIGHT>
+129.1586
+
+> <EXACT_MASS>
+129.057849229
+
+> <IUPAC_NAME>
+isoquinoline
+
+> <IUPAC_TRADITIONAL_NAME>
+isoquinoline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H7N/c1-2-4-9-7-10-6-5-8(9)3-1/h1-7H
+
+> <INCHI_KEY>
+InChIKey=AWJUIBRHMBBTKR-UHFFFAOYSA-N
+
+> <SMILES>
+C1=CC=C2C=NC=CC2=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+5.26
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.14
+
+> <JCHEM_LOGP>
+1.75
+
+> <ALOGPS_LOGS>
+-1.7
+
+> <JCHEM_POLARIZABILITY>
+13.85
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.89
+
+> <JCHEM_REFRACTIVITY>
+40.35
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.81e+00 g/l __ 
+
+$$$$

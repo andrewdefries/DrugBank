@@ -1,0 +1,107 @@
+
+  Mrv0541 02231216462D          
+
+ 14 15  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  4 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+  2 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03197
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-Hydroxymethylpterin
+
+> <CHEMICAL_FORMULA>
+C7H7N5O2
+
+> <MOLECULAR_WEIGHT>
+193.1628
+
+> <EXACT_MASS>
+193.059974493
+
+> <IUPAC_NAME>
+2-amino-6-(hydroxymethyl)-3,4-dihydropteridin-4-one
+
+> <IUPAC_TRADITIONAL_NAME>
+6-hydroxymethylpterin
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H7N5O2/c8-7-11-5-4(6(14)12-7)10-3(2-13)1-9-5/h1,13H,2H2,(H3,8,9,11,12,14)
+
+> <INCHI_KEY>
+InChIKey=XGWIBNWDLMIPNF-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=NC2=NC=C(CO)N=C2C(=O)N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+9.99
+
+> <JCHEM_BASIC_PKA>
+1.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.1
+
+> <JCHEM_LOGP>
+-1.6
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+17.69
+
+> <JCHEM_POLAR_SURFACE_AREA>
+113.49
+
+> <JCHEM_REFRACTIVITY>
+48.11
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.80e+00 g/l __ 
+
+$$$$

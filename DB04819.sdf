@@ -1,0 +1,113 @@
+4819
+  Mrv0541 02231217562D          
+
+ 19 19  0  0  1  0            999 V2000
+    2.5024    6.7296    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7282    2.0975    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2434    2.9180    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9579    0.8555    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6724    2.9180    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2434    2.0930    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9579    1.6805    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5289    3.3305    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9579    3.3305    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8145    2.9180    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2434    0.4430    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6724    0.4430    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9579    4.1555    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0607    3.2536    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.5087    2.6405    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6724    4.5680    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.9212    1.9260    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3869    3.3305    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3869    4.1555    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2 10  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 18  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 14  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 19  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04819
+
+> <DRUG_GROUPS>
+withdrawn
+
+> <GENERIC_NAME>
+Methapyrilene
+
+> <SYNONYMS>
+2-[[2-(Dimethylamino)ethyl]-2-thenylamino]pyridine; Methypyrilene; N,N-Dimethyl-N'-pyrid-2-yl-N'-2-thenylethylenediamine; Thenylpyramine
+
+> <SALTS>
+Methapyrilene Hydrochloride
+
+> <BRANDS>
+Co-Pyronil; Histadyl; Lullamin
+
+> <CHEMICAL_FORMULA>
+C14H20ClN3S
+
+> <MOLECULAR_WEIGHT>
+297.847
+
+> <EXACT_MASS>
+297.106646052
+
+> <IUPAC_NAME>
+N-[2-(dimethylamino)ethyl]-N-(thiophen-2-ylmethyl)pyridin-2-amine hydrochloride
+
+> <IUPAC_TRADITIONAL_NAME>
+methapyrilene hydrochloride
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H19N3S.ClH/c1-16(2)9-10-17(12-13-6-5-11-18-13)14-7-3-4-8-15-14;/h3-8,11H,9-10,12H2,1-2H3;1H
+
+> <INCHI_KEY>
+InChIKey=BONORRGKLJBGRV-UHFFFAOYSA-N
+
+> <SMILES>
+Cl.CN(C)CCN(CC1=CC=CS1)C1=CC=CC=N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+8.76
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_LOGP>
+3.11
+
+> <JCHEM_POLARIZABILITY>
+29.5
+
+> <JCHEM_POLAR_SURFACE_AREA>
+19.37
+
+> <JCHEM_REFRACTIVITY>
+78.16
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6 __ 
+
+$$$$

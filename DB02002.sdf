@@ -1,0 +1,89 @@
+
+  Mrv0541 02231215532D          
+
+  6  5  0  0  0  0            999 V2000
+    0.8250    1.4289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02002
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Aminoprop-2-Enamide
+
+> <CHEMICAL_FORMULA>
+C3H6N2O
+
+> <MOLECULAR_WEIGHT>
+86.0925
+
+> <EXACT_MASS>
+86.048012824
+
+> <IUPAC_NAME>
+2-aminoprop-2-enamide
+
+> <IUPAC_TRADITIONAL_NAME>
+2-aminoprop-2-enamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H6N2O/c1-2(4)3(5)6/h1,4H2,(H2,5,6)
+
+> <INCHI_KEY>
+InChIKey=IUMRWGYGZHKZKF-UHFFFAOYSA-N
+
+> <SMILES>
+NC(=C)C(N)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+16.27
+
+> <JCHEM_BASIC_PKA>
+3.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.2
+
+> <JCHEM_LOGP>
+-1.4
+
+> <ALOGPS_LOGS>
+0.45
+
+> <JCHEM_POLARIZABILITY>
+8.13
+
+> <JCHEM_POLAR_SURFACE_AREA>
+69.11
+
+> <JCHEM_REFRACTIVITY>
+22.74
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.43e+02 g/l __ 
+
+$$$$

@@ -1,0 +1,106 @@
+
+  Mrv0541 02231217172D          
+
+ 14 14  0  0  0  0            999 V2000
+   -3.5724   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -4.5375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+  8 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03941
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Heptanyl-P-Phenol
+
+> <CHEMICAL_FORMULA>
+C13H20O
+
+> <MOLECULAR_WEIGHT>
+192.2973
+
+> <EXACT_MASS>
+192.151415262
+
+> <IUPAC_NAME>
+4-heptylphenol
+
+> <IUPAC_TRADITIONAL_NAME>
+heptanyl-P-phenol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H20O/c1-2-3-4-5-6-7-12-8-10-13(14)11-9-12/h8-11,14H,2-7H2,1H3
+
+> <INCHI_KEY>
+InChIKey=KNDDEFBFJLKPFE-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCCCC1=CC=C(O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+10.31
+
+> <JCHEM_BASIC_PKA>
+-5.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+5.01
+
+> <JCHEM_LOGP>
+4.85
+
+> <ALOGPS_LOGS>
+-4.2
+
+> <JCHEM_POLARIZABILITY>
+24.33
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+60.69
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+1.14e-02 g/l __ 
+
+$$$$

@@ -1,0 +1,101 @@
+
+  Mrv0541 02231216102D          
+
+ 11 12  0  0  0  0            999 V2000
+    2.7845    0.6979    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    0.6979    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435    0.8555    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6284    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435    2.1904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    3.1729    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701    1.9354    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  6  7  4  0  0  0  0
+  7  8  4  0  0  0  0
+  4  8  4  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+  2 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02377
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Guanine
+
+> <CHEMICAL_FORMULA>
+C5H4N5O
+
+> <MOLECULAR_WEIGHT>
+150.1182
+
+> <EXACT_MASS>
+150.041584775
+
+> <IUPAC_NAME>
+2-aminopurin-6-one
+
+> <IUPAC_TRADITIONAL_NAME>
+guanine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H4N5O/c6-5-9-3-2(4(11)10-5)7-1-8-3/h1H,(H3,6,8,9,10,11)
+
+> <INCHI_KEY>
+InChIKey=IOJBSLDWMHFRAL-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=Nc2ncnc2C(=O)N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+6.91
+
+> <JCHEM_BASIC_PKA>
+-2.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.97
+
+> <JCHEM_LOGP>
+-1.2
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+12.97
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.55
+
+> <JCHEM_REFRACTIVITY>
+37.24
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.53e+00 g/l __ 
+
+$$$$

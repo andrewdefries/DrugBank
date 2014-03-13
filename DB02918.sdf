@@ -1,0 +1,117 @@
+ZAR
+  Mrv0541 02231216332D          
+
+ 19 20  0  0  0  0            999 V2000
+    0.0542    3.7679    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0542    2.9429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7687    2.5304    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7687    1.7054    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0542    1.2929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6602    1.7054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6602    2.5304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0542    0.4679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7687    0.0554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7687   -0.7696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0542   -1.1821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6602   -0.7696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6602    0.0554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6602   -2.4196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0542   -2.0071    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6602   -3.2446    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3747   -2.0071    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4832   -1.1821    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4832   -2.0071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02918
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-(4-Difluoromethoxy-3-Methoxy-Phenyl)-2h-Pyridazin-3-One
+
+> <CHEMICAL_FORMULA>
+C12H10F2N2O3
+
+> <MOLECULAR_WEIGHT>
+268.2162
+
+> <EXACT_MASS>
+268.065948606
+
+> <IUPAC_NAME>
+6-[4-(difluoromethoxy)-3-methoxyphenyl]-2,3-dihydropyridazin-3-one
+
+> <IUPAC_TRADITIONAL_NAME>
+6-[4-(difluoromethoxy)-3-methoxyphenyl]-2H-pyridazin-3-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H10F2N2O3/c1-18-10-6-7(2-4-9(10)19-12(13)14)8-3-5-11(17)16-15-8/h2-6,12H,1H3,(H,16,17)
+
+> <INCHI_KEY>
+InChIKey=HJMQDJPMQIHLPB-UHFFFAOYSA-N
+
+> <SMILES>
+COC1=C(OC(F)F)C=CC(=C1)C1=NNC(=O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+10.34
+
+> <JCHEM_BASIC_PKA>
+-1.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.33
+
+> <JCHEM_LOGP>
+1.97
+
+> <ALOGPS_LOGS>
+-3.4
+
+> <JCHEM_POLARIZABILITY>
+23.95
+
+> <JCHEM_POLAR_SURFACE_AREA>
+59.92
+
+> <JCHEM_REFRACTIVITY>
+63.64
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+9.93e-02 g/l __ 
+
+$$$$

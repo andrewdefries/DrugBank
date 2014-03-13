@@ -1,0 +1,104 @@
+ENO
+  Mrv0541 02241213362D          
+
+ 13 13  0  0  0  0            999 V2000
+   -1.3629    0.7846    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7805   -0.4529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7805   -1.2779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0660   -1.6904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6484   -1.2779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6484   -0.4529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0660   -0.0404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0660   -2.5154    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0660    0.7846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6484    1.1971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6484    2.0221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3629    2.4346    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0660    2.4346    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07718
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-(4-HYDROXY-PHENYL)PYRUVIC ACID
+
+> <CHEMICAL_FORMULA>
+C9H8O4
+
+> <MOLECULAR_WEIGHT>
+180.1574
+
+> <EXACT_MASS>
+180.042258744
+
+> <IUPAC_NAME>
+3-(4-hydroxyphenyl)-2-oxopropanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+3-(4-hydroxyphenyl)-2-oxopropanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H8O4/c10-7-3-1-6(2-4-7)5-8(11)9(12)13/h1-4,10H,5H2,(H,12,13)
+
+> <INCHI_KEY>
+InChIKey=KKADPXVIOXHVKN-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)C(=O)CC1=CC=C(O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.91
+
+> <JCHEM_BASIC_PKA>
+-6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.12
+
+> <JCHEM_LOGP>
+1.6
+
+> <ALOGPS_LOGS>
+-2.1
+
+> <JCHEM_POLARIZABILITY>
+16.78
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+44.69
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.49e+00 g/l __ 
+
+$$$$

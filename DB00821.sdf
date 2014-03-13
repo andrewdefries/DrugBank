@@ -1,0 +1,118 @@
+821
+  Mrv0541 02231215022D          
+
+ 19 21  0  0  1  0            999 V2000
+    1.5842   -1.3784    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9413   -0.2544    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9253   -1.1762    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8588    0.8874    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2548   -0.3315    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4997    0.4218    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4628   -0.3315    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8607   -0.0031    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2180    0.4218    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6348    0.1646    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3039    0.6058    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7974   -0.9531    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6057   -0.7878    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9203   -0.9531    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4137    0.6058    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8767    0.9188    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1119   -0.7878    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.1672   -0.4220    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8570   -0.0031    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3 18  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 14  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 17  2  0  0  0  0
+ 15 19  2  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00821
+
+> <DRUG_GROUPS>
+approved; withdrawn
+
+> <GENERIC_NAME>
+Carprofen
+
+> <SYNONYMS>
+Carprofen; Carprofène; Carprofeno; Carprofenum
+
+> <CHEMICAL_FORMULA>
+C15H12ClNO2
+
+> <MOLECULAR_WEIGHT>
+273.714
+
+> <EXACT_MASS>
+273.05565634
+
+> <IUPAC_NAME>
+2-(6-chloro-9H-carbazol-2-yl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+carprofen
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H12ClNO2/c1-8(15(18)19)9-2-4-11-12-7-10(16)3-5-13(12)17-14(11)6-9/h2-8,17H,1H3,(H,18,19)
+
+> <INCHI_KEY>
+InChIKey=PUXBGTOOZJQSKH-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C(O)=O)C1=CC2=C(C=C1)C1=C(N2)C=CC(Cl)=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+4.42
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+4.09
+
+> <JCHEM_LOGP>
+3.88
+
+> <ALOGPS_LOGS>
+-4.9
+
+> <JCHEM_POLARIZABILITY>
+28.56
+
+> <JCHEM_POLAR_SURFACE_AREA>
+53.09
+
+> <JCHEM_REFRACTIVITY>
+74.16
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+3.79e-03 g/l __ 
+
+$$$$

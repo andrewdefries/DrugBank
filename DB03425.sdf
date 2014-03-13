@@ -1,0 +1,99 @@
+
+  Mrv0541 02231216552D          
+
+ 11 10  0  0  1  0            999 V2000
+    4.6184    2.6664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.1895    2.6664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.8414    0.0000 O   0  3  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  2  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03425
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2s,4r-4-Methylglutamate
+
+> <CHEMICAL_FORMULA>
+C6H12NO4
+
+> <MOLECULAR_WEIGHT>
+162.1638
+
+> <EXACT_MASS>
+162.076632877
+
+> <IUPAC_NAME>
+(2S,4S)-2-amino-4-carboxy-4-methylbutanoic acidium
+
+> <IUPAC_TRADITIONAL_NAME>
+2s,4r-4-methylglutamate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H11NO4/c1-3(5(8)9)2-4(7)6(10)11/h3-4H,2,7H2,1H3,(H,8,9)(H,10,11)/p+1/t3-,4-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=KRKRAOXTGDJWNI-IMJSIDKUSA-O
+
+> <SMILES>
+C[C@@H](C[C@H](N)C([OH2+])=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+2.01
+
+> <JCHEM_BASIC_PKA>
+9.53
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-1.9
+
+> <JCHEM_LOGP>
+-2.7
+
+> <ALOGPS_LOGS>
+-0.93
+
+> <JCHEM_POLARIZABILITY>
+15.38
+
+> <JCHEM_POLAR_SURFACE_AREA>
+93.98
+
+> <JCHEM_REFRACTIVITY>
+48.3
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+2.29e+01 g/l __ 
+
+$$$$

@@ -1,0 +1,107 @@
+12H
+  Mrv0541 02231217072D          
+
+ 15 14  0  0  0  0            999 V2000
+   -3.7259    0.2274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0113   -0.1851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2969    0.2274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5823   -0.1851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8678    0.2274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1533   -0.1851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5612    0.2274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2758   -0.1851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9903    0.2274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7048   -0.1851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4194    0.2274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1339   -0.1851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4404   -0.1851    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8484    0.2274    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1339   -1.0102    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03704
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+12-Hydroxydodecanoic Acid
+
+> <CHEMICAL_FORMULA>
+C12H24O3
+
+> <MOLECULAR_WEIGHT>
+216.3172
+
+> <EXACT_MASS>
+216.172544634
+
+> <IUPAC_NAME>
+12-hydroxydodecanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+12-hydroxydodecanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H24O3/c13-11-9-7-5-3-1-2-4-6-8-10-12(14)15/h13H,1-11H2,(H,14,15)
+
+> <INCHI_KEY>
+InChIKey=ZDHCZVWCTKTBRY-UHFFFAOYSA-N
+
+> <SMILES>
+OCCCCCCCCCCCC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+4.95
+
+> <JCHEM_BASIC_PKA>
+-2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+3.5
+
+> <JCHEM_LOGP>
+3.04
+
+> <ALOGPS_LOGS>
+-3
+
+> <JCHEM_POLARIZABILITY>
+26.85
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+60.61
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+11
+
+> <ALOGPS_SOLUBILITY>
+2.14e-01 g/l __ 
+
+$$$$

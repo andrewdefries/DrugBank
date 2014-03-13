@@ -1,0 +1,118 @@
+
+  Mrv0541 02231216192D          
+
+ 20 20  0  0  1  0            999 V2000
+    4.2868    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  7  6  1  6  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+ 11 13  1  0  0  0  0
+  7 13  1  0  0  0  0
+ 13 14  1  6  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+  9 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02600
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-N-Acetyl-3-(1-Ethylpropyl)-1-Cyclohexene-1-Carboxylic Acid
+
+> <CHEMICAL_FORMULA>
+C14H24N2O4
+
+> <MOLECULAR_WEIGHT>
+284.3514
+
+> <EXACT_MASS>
+284.173607266
+
+> <IUPAC_NAME>
+(3R,4S,5R)-5-amino-4-acetamido-3-(pentan-3-yloxy)cyclohex-1-ene-1-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(3R,4S,5R)-5-amino-4-acetamido-3-(pentan-3-yloxy)cyclohex-1-ene-1-carboxylic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H24N2O4/c1-4-10(5-2)20-12-7-9(14(18)19)6-11(15)13(12)16-8(3)17/h7,10-13H,4-6,15H2,1-3H3,(H,16,17)(H,18,19)/t11-,12-,13+/m1/s1
+
+> <INCHI_KEY>
+InChIKey=NENPYTRHICXVCS-UPJWGTAASA-N
+
+> <SMILES>
+CCC(CC)O[C@@H]1C=C(C[C@@H](N)[C@@H]1NC(C)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+4.38
+
+> <JCHEM_BASIC_PKA>
+9.33
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.3
+
+> <JCHEM_LOGP>
+-1.8
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+30.35
+
+> <JCHEM_POLAR_SURFACE_AREA>
+101.65
+
+> <JCHEM_REFRACTIVITY>
+74.69
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+3.15e+00 g/l __ 
+
+$$$$

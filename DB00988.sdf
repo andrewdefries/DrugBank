@@ -1,0 +1,109 @@
+988
+  Mrv0541 02231215092D          
+
+ 11 11  0  0  0  0            999 V2000
+    3.5220    1.9842    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    1.1592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -1.7284    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.7466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.7466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00988
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Dopamine
+
+> <SYNONYMS>
+Hydroxytyramin
+
+> <SALTS>
+Dopamine Hydrochloride
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C8H11NO2
+
+> <MOLECULAR_WEIGHT>
+153.1784
+
+> <EXACT_MASS>
+153.078978601
+
+> <IUPAC_NAME>
+4-(2-aminoethyl)benzene-1,2-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+dopamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11NO2/c9-4-3-6-1-2-7(10)8(11)5-6/h1-2,5,10-11H,3-4,9H2
+
+> <INCHI_KEY>
+InChIKey=VYFYYTLLBUKUHU-UHFFFAOYSA-N
+
+> <SMILES>
+NCCC1=CC(O)=C(O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+10.01
+
+> <JCHEM_BASIC_PKA>
+9.27
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-0.4
+
+> <JCHEM_LOGP>
+0.03
+
+> <ALOGPS_LOGS>
+-1.3
+
+> <JCHEM_POLARIZABILITY>
+16.21
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.48
+
+> <JCHEM_REFRACTIVITY>
+43.25
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+7.43e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,92 @@
+
+  Mrv0541 02231215572D          
+
+  7  7  0  0  0  0            999 V2000
+   -0.3938    1.4191    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2382    0.8888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6507    0.1743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1743    0.1743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8701    1.4191    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7269    2.2316    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6454    1.1369    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02085
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-Aminocyclopropanecarboxylic Acid
+
+> <CHEMICAL_FORMULA>
+C4H7NO2
+
+> <MOLECULAR_WEIGHT>
+101.1039
+
+> <EXACT_MASS>
+101.047678473
+
+> <IUPAC_NAME>
+1-aminocyclopropane-1-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+1-aminocyclopropane-1-carboxylic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H7NO2/c5-4(1-2-4)3(6)7/h1-2,5H2,(H,6,7)
+
+> <INCHI_KEY>
+InChIKey=PAJPWUMXBYXFCZ-UHFFFAOYSA-N
+
+> <SMILES>
+NC1(CC1)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.2
+
+> <JCHEM_BASIC_PKA>
+9.35
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-3
+
+> <JCHEM_LOGP>
+-2.7
+
+> <ALOGPS_LOGS>
+0.64
+
+> <JCHEM_POLARIZABILITY>
+9.6
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+23.25
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.37e+02 g/l __ 
+
+$$$$

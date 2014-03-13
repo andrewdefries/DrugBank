@@ -1,0 +1,118 @@
+
+  Mrv0541 02231216562D          
+
+ 20 20  0  0  1  0            999 V2000
+   -0.4950   -3.2926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0884   -2.7092    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.6718   -3.2926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4582   -4.0895    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9774   -4.7306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5281   -5.4225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2688   -5.2090    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3120   -4.3852    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4950   -2.1259    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.2814   -1.3290    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8648   -0.7456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6513    0.0513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2346    0.6346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0315    0.4211    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2919   -2.3394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5054   -3.1363    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8752   -1.7560    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6718   -2.1259    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4582   -1.3290    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4686   -2.3394    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  4  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+  2 18  1  6  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03445
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tazobactam Trans-Enamine Intermediate
+
+> <CHEMICAL_FORMULA>
+C10H13N4O5S
+
+> <MOLECULAR_WEIGHT>
+301.299
+
+> <EXACT_MASS>
+301.060665236
+
+> <IUPAC_NAME>
+(1S,2S)-1-carboxy-2-methyl-1-{[(1E)-3-oxoprop-1-en-1-yl]amino}-3-(1H-1,2,3-triazol-1-yl)propane-2-sulfonyl
+
+> <IUPAC_TRADITIONAL_NAME>
+tazobactam intermediate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H13N4O5S/c1-10(20(18)19,7-14-5-4-12-13-14)8(9(16)17)11-3-2-6-15/h2-6,8,11H,7H2,1H3,(H,16,17)/b3-2+/t8-,10-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=JUNWSLGCXPTCAU-QZWDGIGVSA-N
+
+> <SMILES>
+O=C\C=C\N[C@@H](C(O)=O)[C@](C)(CN1C=CN=N1)[S](=O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+3.3
+
+> <JCHEM_BASIC_PKA>
+1.65
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-1
+
+> <JCHEM_LOGP>
+-1.8
+
+> <ALOGPS_LOGS>
+-2.1
+
+> <JCHEM_POLARIZABILITY>
+26.89
+
+> <JCHEM_POLAR_SURFACE_AREA>
+131.25
+
+> <JCHEM_REFRACTIVITY>
+78.63
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <ALOGPS_SOLUBILITY>
+2.14e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,119 @@
+779
+  Mrv0541 02231215002D          
+
+ 17 18  0  0  0  0            999 V2000
+    4.2364    1.8563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.8563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2364   -0.6188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6885   -0.6474    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2364   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2364    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6885    1.0599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4359   -0.2234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4359    0.6359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1488   -0.6386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0  0  0  0
+  2 16  1  0  0  0  0
+  3 16  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 13  2  0  0  0  0
+  6  7  2  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00779
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Nalidixic Acid
+
+> <SYNONYMS>
+Acide nalidixique; Acido nalidixico; Acidum Nalidixicum; Nalidixinsäure
+
+> <BRANDS>
+Adix; Curiemylon; Degram; Delugi; Dixicon; Glanega; Gramazine; Gramoneg; Huei Yi; Lisalenb; Litalon; Nadixin; Nadon; Nagomin; Nal-acid; Nalic; Nalicid; Nalid; Nalidin; Nalidix; Naligram; Nalitomylon; Nalix; Nalixid; Nalixin; Nebactil; Negachine; NegGram; Nevigramon; Unaserus; Wintomylon; Wintorin; Youdix; Zuno-Nathasid
+
+> <CHEMICAL_FORMULA>
+C12H12N2O3
+
+> <MOLECULAR_WEIGHT>
+232.2353
+
+> <EXACT_MASS>
+232.08479226
+
+> <IUPAC_NAME>
+1-ethyl-7-methyl-4-oxo-1,4-dihydro-1,8-naphthyridine-3-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+nalidixic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H12N2O3/c1-3-14-6-9(12(16)17)10(15)8-5-4-7(2)13-11(8)14/h4-6H,3H2,1-2H3,(H,16,17)
+
+> <INCHI_KEY>
+InChIKey=MHWLWQUZZRMNGJ-UHFFFAOYSA-N
+
+> <SMILES>
+CCN1C=C(C(O)=O)C(=O)C2=C1N=C(C)C=C2
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+5.95
+
+> <JCHEM_BASIC_PKA>
+4.68
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.95
+
+> <JCHEM_LOGP>
+1.01
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+23.65
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.5
+
+> <JCHEM_REFRACTIVITY>
+62.82
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.30e+00 g/l __ 
+
+$$$$

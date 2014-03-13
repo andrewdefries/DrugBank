@@ -1,0 +1,97 @@
+
+  Mrv0541 02231217442D          
+
+ 10  9  0  0  0  0            999 V2000
+    2.9980    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04519
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Caprylic acid
+
+> <SYNONYMS>
+n-caprylic acid; n-octanoic acid; n-Octoic acid; n-octylic acid; octanoic acid; octoic acid
+
+> <CHEMICAL_FORMULA>
+C8H16O2
+
+> <MOLECULAR_WEIGHT>
+144.2114
+
+> <EXACT_MASS>
+144.115029756
+
+> <IUPAC_NAME>
+octanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+caprylic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H16O2/c1-2-3-4-5-6-7-8(9)10/h2-7H2,1H3,(H,9,10)
+
+> <INCHI_KEY>
+InChIKey=WWZKQHOCKIZLMA-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCCCC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+5.19
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+2.92
+
+> <JCHEM_LOGP>
+2.7
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+17.4
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+40.28
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+9.07e-01 g/l __ 
+
+$$$$

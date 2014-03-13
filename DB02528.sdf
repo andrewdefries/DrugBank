@@ -1,0 +1,103 @@
+
+  Mrv0541 02231216162D          
+
+ 15 16  0  0  1  0            999 V2000
+   -0.1725   -0.1802    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5420    0.2323    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2564   -0.1802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2564   -1.0052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9239   -1.4901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6689   -2.2748    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8439   -2.2748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5890   -1.4901    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1538   -2.9422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9788   -2.9422    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2338   -3.7268    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5663   -4.2117    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8989   -3.7268    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5420    1.0573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1725    1.4698    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  4  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  4  0  0  0  0
+ 11 12  4  0  0  0  0
+ 12 13  4  0  0  0  0
+  9 13  4  0  0  0  0
+  2 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02528
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tetrazolyl Histidine
+
+> <CHEMICAL_FORMULA>
+C7H8N7O
+
+> <MOLECULAR_WEIGHT>
+206.1847
+
+> <EXACT_MASS>
+206.079032913
+
+> <IUPAC_NAME>
+(2R)-2-amino-3-[1-(1,2,3,4-tetrazol-5-yl)-1H-imidazol-4-yl]propanal
+
+> <IUPAC_TRADITIONAL_NAME>
+tetrazolyl histidine
+
+> <SMILES>
+N[C@H](CC1=CN(C=N1)c1nnnn1)C=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+15.95
+
+> <JCHEM_BASIC_PKA>
+7.45
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-0.99
+
+> <JCHEM_LOGP>
+-2.7
+
+> <ALOGPS_LOGS>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+19.05
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.47
+
+> <JCHEM_REFRACTIVITY>
+65.58
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+4.97e+00 g/l __ 
+
+$$$$

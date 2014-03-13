@@ -1,0 +1,111 @@
+K44
+  Mrv0541 02231217522D          
+
+ 17 19  0  0  0  0            999 V2000
+    3.5391   -0.1802    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2997   -0.9697    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4963   -1.1571    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9751    0.4219    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4948    0.7061    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1717    0.2345    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9323   -0.5550    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1074   -0.5713    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8371    0.2082    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0122    0.1919    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4857    0.8496    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4497   -1.0693    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2272   -0.5976    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2146    1.2114    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3426    0.0072    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8637   -1.5718    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2569   -1.9466    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  7  2  0  0  0  0
+  3 17  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04721
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N1,N2-ETHYLENE-2-METHYLAMINO-4,5,6,7-TETRABROMO-BENZIMIDAZOLE
+
+> <CHEMICAL_FORMULA>
+C10H7Br4N3
+
+> <MOLECULAR_WEIGHT>
+488.799
+
+> <EXACT_MASS>
+484.737347827
+
+> <IUPAC_NAME>
+9,10,11,12-tetrabromo-5-methyl-2,5,7-triazatricyclo[6.4.0.0^{2,6}]dodeca-1(12),6,8,10-tetraene
+
+> <IUPAC_TRADITIONAL_NAME>
+9,10,11,12-tetrabromo-5-methyl-2,5,7-triazatricyclo[6.4.0.0^{2,6}]dodeca-1(12),6,8,10-tetraene
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H7Br4N3/c1-16-2-3-17-9-7(14)5(12)4(11)6(13)8(9)15-10(16)17/h2-3H2,1H3
+
+> <INCHI_KEY>
+InChIKey=QHCZROILDUNGRT-UHFFFAOYSA-N
+
+> <SMILES>
+CN1CCN2C1=NC1=C(Br)C(Br)=C(Br)C(Br)=C21
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+4.79
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+4.45
+
+> <JCHEM_LOGP>
+5.18
+
+> <ALOGPS_LOGS>
+-4
+
+> <JCHEM_POLARIZABILITY>
+32.85
+
+> <JCHEM_POLAR_SURFACE_AREA>
+21.06
+
+> <JCHEM_REFRACTIVITY>
+82.29
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+4.64e-02 g/l __ 
+
+$$$$

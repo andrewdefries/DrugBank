@@ -1,0 +1,125 @@
+
+  Mrv0541 07051318122D          
+
+ 21 20  0  0  0  0            999 V2000
+    3.9188   10.0768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3313    9.3623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9188    8.6478    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.3313    7.9334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1563    7.9334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7396    7.3500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3271    6.6355    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5646    7.3500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0938    8.6478    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6813    7.9334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8563    7.9334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0938    7.2189    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4438    7.2189    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.8563    6.5044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6813    6.5044    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6427    5.7075    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6188    7.2189    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2063    7.9334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6188    8.6478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6187    7.9334    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1563    9.3623    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  3  9  1  1  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 13 17  1  1  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+  2 21  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08835
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Spaglumic Acid
+
+> <SYNONYMS>
+N-(N-Acetyl-l-β-aspartyl)-l-glutamic acid ; NAAG
+
+> <BRANDS>
+Naabak
+
+> <CHEMICAL_FORMULA>
+C11H16N2O8
+
+> <MOLECULAR_WEIGHT>
+304.2533
+
+> <EXACT_MASS>
+304.090665498
+
+> <IUPAC_NAME>
+(2R)-2-[(3S)-3-carboxy-3-acetamidopropanamido]pentanedioic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R)-2-[(3S)-3-carboxy-3-acetamidopropanamido]pentanedioic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1/C11H16N2O8/c1-5(14)12-7(11(20)21)4-8(15)13-6(10(18)19)2-3-9(16)17/h6-7H,2-4H2,1H3,(H,12,14)(H,13,15)(H,16,17)(H,18,19)(H,20,21)/t6-,7+/s2
+
+> <INCHI_KEY>
+InChIKey=GUCKKCMJTSNWCU-JHPDDGAFNA-N
+
+> <SMILES>
+CC(=O)N[C@@H](CC(=O)N[C@H](CCC(O)=O)C(O)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+3.01
+
+> <JCHEM_BASIC_PKA>
+-1.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <ALOGPS_LOGP>
+-1.1
+
+> <JCHEM_LOGP>
+-2.3
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+26.96
+
+> <JCHEM_POLAR_SURFACE_AREA>
+170.1
+
+> <JCHEM_REFRACTIVITY>
+64.06
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <ALOGPS_SOLUBILITY>
+3.22e+00 g/l __ 
+
+$$$$

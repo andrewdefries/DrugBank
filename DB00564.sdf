@@ -1,0 +1,122 @@
+564
+  Mrv0541 02231214462D          
+
+ 18 20  0  0  0  0            999 V2000
+    4.5536   -1.2161    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8677   -0.0280    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1818   -1.2161    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5814    0.3157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1540    0.3157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7576    1.0879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9778    1.0879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2637    1.7072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4717    1.7072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1774   -0.2547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5580   -0.2547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5421    1.3432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1933    1.3432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8677   -0.8200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9676   -0.0177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7678   -0.0177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1512    0.7867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5841    0.7868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 18  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00564
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Carbamazepine
+
+> <SYNONYMS>
+5-Carbamoyl-5H-dibenz(b,f)azepine; Carbamazepin; Carbamazepina; Carbamazépine; Carbamazepinum; CBZ
+
+> <BRANDS>
+Actebral; Anleptic; Biston; Carbamat; Epitol; Equetro; Neurotop; TEGretol; Tégrétol; TEGretol Chewtabs; TEGretol-CR; TEGretol-XR; Teril; Timonil; Versitol; Versizur
+
+> <CHEMICAL_FORMULA>
+C15H12N2O
+
+> <MOLECULAR_WEIGHT>
+236.2686
+
+> <EXACT_MASS>
+236.094963016
+
+> <IUPAC_NAME>
+2-azatricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3(8),4,6,9,12,14-heptaene-2-carboxamide
+
+> <IUPAC_TRADITIONAL_NAME>
+tegretol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H12N2O/c16-15(18)17-13-7-3-1-5-11(13)9-10-12-6-2-4-8-14(12)17/h1-10H,(H2,16,18)
+
+> <INCHI_KEY>
+InChIKey=FFGPTBGBLSHEPO-UHFFFAOYSA-N
+
+> <SMILES>
+NC(=O)N1C2=CC=CC=C2C=CC2=CC=CC=C12
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+15.96
+
+> <JCHEM_BASIC_PKA>
+-3.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.1
+
+> <JCHEM_LOGP>
+2.77
+
+> <ALOGPS_LOGS>
+-3.2
+
+> <JCHEM_POLARIZABILITY>
+25
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.33
+
+> <JCHEM_REFRACTIVITY>
+71.89
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.52e-01 g/l __ 
+
+$$$$

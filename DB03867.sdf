@@ -1,0 +1,110 @@
+
+  Mrv0541 02231217142D          
+
+ 16 16  0  0  1  0            999 V2000
+    2.8579    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  4 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+  2 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03867
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Meta-Nitro-Tyrosine
+
+> <CHEMICAL_FORMULA>
+C9H10N2O5
+
+> <MOLECULAR_WEIGHT>
+226.1861
+
+> <EXACT_MASS>
+226.05897144
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-(4-hydroxy-3-nitrophenyl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+meta-nitro-tyrosine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10N2O5/c10-6(9(13)14)3-5-1-2-8(12)7(4-5)11(15)16/h1-2,4,6,12H,3,10H2,(H,13,14)/t6-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=FBTSQILOGYXGMD-LURJTMIESA-N
+
+> <SMILES>
+N[C@@H](CC1=CC=C(O)C(=C1)[N+]([O-])=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+0.96
+
+> <JCHEM_BASIC_PKA>
+9.48
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-2.1
+
+> <JCHEM_LOGP>
+-1.6
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+20.52
+
+> <JCHEM_POLAR_SURFACE_AREA>
+129.37
+
+> <JCHEM_REFRACTIVITY>
+54.42
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.49e+00 g/l __ 
+
+$$$$

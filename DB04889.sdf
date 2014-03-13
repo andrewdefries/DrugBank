@@ -1,0 +1,106 @@
+
+  Mrv0541 02231218002D          
+
+ 13 15  0  0  1  0            999 V2000
+    2.1615   -1.5225    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4310   -1.1100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4310   -1.9350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1460   -1.5225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6464   -0.8551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6464   -2.1900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4310   -0.2850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1455    0.1275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7166    0.1275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1455    0.9525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7166    0.9525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4310    1.3650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4310    2.1900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04889
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Bicifadine
+
+> <SALTS>
+Bicifadine hydrochloride
+
+> <CHEMICAL_FORMULA>
+C12H15N
+
+> <MOLECULAR_WEIGHT>
+173.2542
+
+> <EXACT_MASS>
+173.120449485
+
+> <IUPAC_NAME>
+1-(4-methylphenyl)-3-azabicyclo[3.1.0]hexane
+
+> <IUPAC_TRADITIONAL_NAME>
+1-(4-methylphenyl)-3-azabicyclo[3.1.0]hexane
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H15N/c1-9-2-4-10(5-3-9)12-6-11(12)7-13-8-12/h2-5,11,13H,6-8H2,1H3
+
+> <INCHI_KEY>
+InChIKey=OFYVIGTWSQPCLF-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=CC=C(C=C1)C12CC1CNC2
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+10.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.93
+
+> <JCHEM_LOGP>
+2.06
+
+> <ALOGPS_LOGS>
+-3
+
+> <JCHEM_POLARIZABILITY>
+20.7
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+54.31
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.72e-01 g/l __ 
+
+$$$$

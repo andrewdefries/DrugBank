@@ -1,0 +1,119 @@
+3162
+  Mrv0541 02231214382D          
+
+ 20 21  0  0  1  0            999 V2000
+    3.3001    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9501   -1.4289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7126   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5376   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7751   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5376   -2.1435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 17  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 19  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5 10  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6 12  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 20  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00366
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Doxylamine
+
+> <SYNONYMS>
+Dossilamina; Doxilminio; Doxylaminum
+
+> <CHEMICAL_FORMULA>
+C17H22N2O
+
+> <MOLECULAR_WEIGHT>
+270.3694
+
+> <EXACT_MASS>
+270.173213336
+
+> <IUPAC_NAME>
+dimethyl({2-[1-phenyl-1-(pyridin-2-yl)ethoxy]ethyl})amine
+
+> <IUPAC_TRADITIONAL_NAME>
+doxylamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H22N2O/c1-17(20-14-13-19(2)3,15-9-5-4-6-10-15)16-11-7-8-12-18-16/h4-12H,13-14H2,1-3H3
+
+> <INCHI_KEY>
+InChIKey=HCFDWZZGGLSKEP-UHFFFAOYSA-N
+
+> <SMILES>
+CN(C)CCOC(C)(C1=CC=CC=C1)C1=CC=CC=N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+8.87
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.9
+
+> <JCHEM_LOGP>
+2.96
+
+> <ALOGPS_LOGS>
+-2.7
+
+> <JCHEM_POLARIZABILITY>
+31.09
+
+> <JCHEM_POLAR_SURFACE_AREA>
+25.36
+
+> <JCHEM_REFRACTIVITY>
+82.24
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+5.41e-01 g/l __ 
+
+$$$$

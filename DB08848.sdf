@@ -1,0 +1,99 @@
+
+  Mrv0541 07211320122D          
+
+  9  9  0  0  0  0            999 V2000
+   -2.3866    3.1232    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1011    2.7107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1011    1.8857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3866    1.4732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6721    1.8857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6721    2.7107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9577    1.4732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2432    1.8857    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9577    0.6482    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08848
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Guvacine
+
+> <SALTS>
+Guvacine hydrochloride 
+
+> <CHEMICAL_FORMULA>
+C6H9NO2
+
+> <MOLECULAR_WEIGHT>
+127.1412
+
+> <EXACT_MASS>
+127.063328537
+
+> <IUPAC_NAME>
+1,2,5,6-tetrahydropyridine-3-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+guvacine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H9NO2/c8-6(9)5-2-1-3-7-4-5/h2,7H,1,3-4H2,(H,8,9)
+
+> <INCHI_KEY>
+InChIKey=QTDZOWFRBNTPQR-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)C1=CCCNC1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+3.76
+
+> <JCHEM_BASIC_PKA>
+9.77
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.2
+
+> <JCHEM_LOGP>
+-2.6
+
+> <ALOGPS_LOGS>
+-0.62
+
+> <JCHEM_POLARIZABILITY>
+12.85
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.33
+
+> <JCHEM_REFRACTIVITY>
+33.8
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.08e+01 g/l __ 
+
+$$$$

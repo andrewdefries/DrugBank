@@ -1,0 +1,116 @@
+L02
+  Mrv0541 02241213502D          
+
+ 18 20  0  0  0  0            999 V2000
+    0.5532    1.0138    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2206    0.5289    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.9657   -0.2557    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.1407   -0.2557    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1142    0.5289    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8989    0.7838    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5119    0.2318    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2966    0.4867    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4681    1.2937    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8550    1.8457    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0704    1.5908    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1151   -1.6768    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4506   -0.9232    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2711   -0.8369    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7560   -1.5044    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4205   -2.2580    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6000   -2.3443    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9054   -2.9255    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08061
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-[3-(4-CHLOROPHENYL)-1H-PYRAZOL-5-YL]PIPERIDINE
+
+> <CHEMICAL_FORMULA>
+C14H16ClN3
+
+> <MOLECULAR_WEIGHT>
+261.75
+
+> <EXACT_MASS>
+261.103275234
+
+> <IUPAC_NAME>
+4-[3-(4-chlorophenyl)-1H-pyrazol-5-yl]piperidine
+
+> <IUPAC_TRADITIONAL_NAME>
+4-[5-(4-chlorophenyl)-2H-pyrazol-3-yl]piperidine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H16ClN3/c15-12-3-1-10(2-4-12)13-9-14(18-17-13)11-5-7-16-8-6-11/h1-4,9,11,16H,5-8H2,(H,17,18)
+
+> <INCHI_KEY>
+InChIKey=GELALLNTKKLQLM-UHFFFAOYSA-N
+
+> <SMILES>
+ClC1=CC=C(C=C1)C1=NNC(=C1)C1CCNCC1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+14.67
+
+> <JCHEM_BASIC_PKA>
+10.09
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+3.16
+
+> <JCHEM_LOGP>
+2.86
+
+> <ALOGPS_LOGS>
+-3.8
+
+> <JCHEM_POLARIZABILITY>
+28.99
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.71
+
+> <JCHEM_REFRACTIVITY>
+74.69
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+4.16e-02 g/l __ 
+
+$$$$

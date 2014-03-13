@@ -1,0 +1,112 @@
+
+  Mrv0541 02231216232D          
+
+ 17 17  0  0  1  0            999 V2000
+   -2.8579   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -3.3000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -3.3000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.5724   -4.5375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -4.5375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434   -5.3625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -4.5375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  6  1  1  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  1  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  1  6  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  1  0  0  0
+ 14 16  1  0  0  0  0
+  7 16  1  0  0  0  0
+ 16 17  1  6  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02695
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+O1-Pentyl-Mannose
+
+> <CHEMICAL_FORMULA>
+C11H22O6
+
+> <MOLECULAR_WEIGHT>
+250.2888
+
+> <EXACT_MASS>
+250.141638436
+
+> <IUPAC_NAME>
+(2S,3R,4R,5S,6S)-2-(hydroxymethyl)-6-(pentyloxy)oxane-3,4,5-triol
+
+> <IUPAC_TRADITIONAL_NAME>
+O1-pentyl-mannose
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H22O6/c1-2-3-4-5-16-11-10(15)9(14)8(13)7(6-12)17-11/h7-15H,2-6H2,1H3/t7-,8-,9+,10-,11-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=RYIWDDCNJPSPRA-HHKYUTTNSA-N
+
+> <SMILES>
+CCCCCO[C@H]1O[C@@H](CO)[C@H](O)[C@@H](O)[C@@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+12.21
+
+> <JCHEM_BASIC_PKA>
+-3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.43
+
+> <JCHEM_LOGP>
+-0.52
+
+> <ALOGPS_LOGS>
+-0.35
+
+> <JCHEM_POLARIZABILITY>
+26.68
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.38
+
+> <JCHEM_REFRACTIVITY>
+59.15
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+1.12e+02 g/l __ 
+
+$$$$

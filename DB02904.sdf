@@ -1,0 +1,93 @@
+
+  Mrv0541 02231216332D          
+
+  8  7  0  0  1  0            999 V2000
+    0.0000   -1.4289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  3  6  1  1  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02904
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Beta-3-Serine
+
+> <CHEMICAL_FORMULA>
+C4H9NO3
+
+> <MOLECULAR_WEIGHT>
+119.1192
+
+> <EXACT_MASS>
+119.058243159
+
+> <IUPAC_NAME>
+(2R)-3-amino-2-(hydroxymethyl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+β-3-serine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H9NO3/c5-1-3(2-6)4(7)8/h3,6H,1-2,5H2,(H,7,8)/t3-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=UHLNJPIGFDWGTP-GSVOUGTGSA-N
+
+> <SMILES>
+NC[C@H](CO)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+3.75
+
+> <JCHEM_BASIC_PKA>
+9.95
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-3.4
+
+> <JCHEM_LOGP>
+-3.9
+
+> <ALOGPS_LOGS>
+0.59
+
+> <JCHEM_POLARIZABILITY>
+11.33
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55
+
+> <JCHEM_REFRACTIVITY>
+27.05
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+4.65e+02 g/l __ 
+
+$$$$

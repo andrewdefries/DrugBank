@@ -1,0 +1,101 @@
+
+  Mrv0541 02231216062D          
+
+ 12 11  0  0  1  0            999 V2000
+    7.2849    3.3809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9980    2.5559    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    1.3184    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  2 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02299
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Arginineamide
+
+> <CHEMICAL_FORMULA>
+C6H16N5O
+
+> <MOLECULAR_WEIGHT>
+174.2241
+
+> <EXACT_MASS>
+174.135485159
+
+> <IUPAC_NAME>
+[amino({[(4S)-4-amino-4-carbamoylbutyl]amino})methylidene]azanium
+
+> <IUPAC_TRADITIONAL_NAME>
+arginineamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H15N5O/c7-4(5(8)12)2-1-3-11-6(9)10/h4H,1-3,7H2,(H2,8,12)(H4,9,10,11)/p+1/t4-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=ULEBESPCVWBNIF-BYPYZUCNSA-O
+
+> <SMILES>
+N[C@@H](CCCNC(N)=[NH2+])C(N)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+16.31
+
+> <JCHEM_BASIC_PKA>
+12.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <ALOGPS_LOGP>
+-0.32
+
+> <JCHEM_LOGP>
+-2.3
+
+> <ALOGPS_LOGS>
+-0.94
+
+> <JCHEM_POLARIZABILITY>
+18.75
+
+> <JCHEM_POLAR_SURFACE_AREA>
+132.75
+
+> <JCHEM_REFRACTIVITY>
+56.55
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+2.41e+01 g/l __ 
+
+$$$$

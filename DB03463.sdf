@@ -1,0 +1,88 @@
+
+  Mrv0541 02231216572D          
+
+  8  8  0  0  0  0            999 V2000
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  2  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03463
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Para-Xylene
+
+> <CHEMICAL_FORMULA>
+C8H10
+
+> <MOLECULAR_WEIGHT>
+106.165
+
+> <EXACT_MASS>
+106.07825032
+
+> <IUPAC_NAME>
+1,4-dimethylbenzene
+
+> <IUPAC_TRADITIONAL_NAME>
+para-xylene
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H10/c1-7-3-5-8(2)6-4-7/h3-6H,1-2H3
+
+> <INCHI_KEY>
+InChIKey=URLKBWYHVLBVBO-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=CC=C(C)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.15
+
+> <JCHEM_LOGP>
+3
+
+> <ALOGPS_LOGS>
+-2.7
+
+> <JCHEM_POLARIZABILITY>
+13.12
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+36.14
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.01e-01 g/l __ 
+
+$$$$

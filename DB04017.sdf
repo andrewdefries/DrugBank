@@ -1,0 +1,109 @@
+MLG
+  Mrv0541 02231217212D          
+
+ 17 17  0  0  0  0            999 V2000
+   -1.9619   -0.9598    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6763   -1.3723    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3908   -0.9598    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1053   -1.3723    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3908   -0.1348    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6763    0.2777    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6763    1.1027    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9619   -0.1348    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2474    0.2777    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.1816    0.2777    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5329   -0.1348    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8960   -0.1348    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6105    0.2777    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6105    1.1027    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3250   -0.1348    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0394    0.2777    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7539    0.6902    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  3  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04017
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Methyl-N-Propargyl-3-(2,4-Dichlorophenoxy)Propylamine
+
+> <CHEMICAL_FORMULA>
+C13H15Cl2NO
+
+> <MOLECULAR_WEIGHT>
+272.17
+
+> <EXACT_MASS>
+271.053069521
+
+> <IUPAC_NAME>
+[3-(2,4-dichlorophenoxy)propyl](methyl)(prop-2-yn-1-yl)amine
+
+> <IUPAC_TRADITIONAL_NAME>
+[3-(2,4-dichlorophenoxy)propyl](methyl)prop-2-yn-1-ylamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H15Cl2NO/c1-3-7-16(2)8-4-9-17-13-6-5-11(14)10-12(13)15/h1,5-6,10H,4,7-9H2,2H3
+
+> <INCHI_KEY>
+InChIKey=BTFHLQRNAMSNLC-UHFFFAOYSA-N
+
+> <SMILES>
+CN(CCCOC1=CC=C(Cl)C=C1Cl)CC#C
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+8.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+3.71
+
+> <JCHEM_LOGP>
+3.33
+
+> <ALOGPS_LOGS>
+-4.3
+
+> <JCHEM_POLARIZABILITY>
+28.35
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.47
+
+> <JCHEM_REFRACTIVITY>
+72.6
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+1.40e-02 g/l __ 
+
+$$$$

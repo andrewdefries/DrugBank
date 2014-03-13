@@ -1,0 +1,118 @@
+5353306
+  Mrv0541 02231216022D          
+
+ 19 21  0  0  0  0            999 V2000
+    7.0381    1.0512    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7316    0.2861    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7316   -1.0418    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.2722    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.0347    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.0347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.7904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2131   -0.3779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.4472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0381   -0.3779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.2029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.0347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.7904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4507    0.3367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4507   -1.0923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.4472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2757    0.3367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2757   -1.0923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6882   -0.3779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4 16  2  0  0  0  0
+  5 16  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02193
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(2-Hydroxy-Phenyl)-1h-Benzoimidazole-5-Carboxamidine
+
+> <CHEMICAL_FORMULA>
+C14H13N4O
+
+> <MOLECULAR_WEIGHT>
+253.2792
+
+> <EXACT_MASS>
+253.108936058
+
+> <IUPAC_NAME>
+{amino[2-(6-oxocyclohexa-2,4-dien-1-ylidene)-2,3-dihydro-1H-1,3-benzodiazol-5-yl]methylidene}azanium
+
+> <IUPAC_TRADITIONAL_NAME>
+{amino[2-(6-oxocyclohexa-2,4-dien-1-ylidene)-1,3-dihydro-1,3-benzodiazol-5-yl]methylidene}azanium
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H12N4O/c15-13(16)8-5-6-10-11(7-8)18-14(17-10)9-3-1-2-4-12(9)19/h1-7,17-18H,(H3,15,16)/p+1/b14-9-
+
+> <INCHI_KEY>
+InChIKey=CDVCRKGBQLPJRQ-ZROIWOOFSA-O
+
+> <SMILES>
+NC(=[NH2+])C1=CC2=C(N\C(N2)=C2/C=CC=CC2=O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+16.66
+
+> <JCHEM_BASIC_PKA>
+12.34
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-0.11
+
+> <JCHEM_LOGP>
+1.08
+
+> <ALOGPS_LOGS>
+-3.5
+
+> <JCHEM_POLARIZABILITY>
+27.37
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.74
+
+> <JCHEM_REFRACTIVITY>
+100.49
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.53e-02 g/l __ 
+
+$$$$

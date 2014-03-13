@@ -1,0 +1,94 @@
+
+  Mrv0541 02231215412D          
+
+  8  8  0  0  0  0            999 V2000
+    2.1434    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01726
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Aminophenol
+
+> <CHEMICAL_FORMULA>
+C6H7NO
+
+> <MOLECULAR_WEIGHT>
+109.1259
+
+> <EXACT_MASS>
+109.052763851
+
+> <IUPAC_NAME>
+2-aminophenol
+
+> <IUPAC_TRADITIONAL_NAME>
+2-aminophenol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H7NO/c7-5-3-1-2-4-6(5)8/h1-4,8H,7H2
+
+> <INCHI_KEY>
+InChIKey=CDAWCLOXVUBKRW-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=CC=CC=C1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+10.35
+
+> <JCHEM_BASIC_PKA>
+4.52
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.35
+
+> <JCHEM_LOGP>
+0.84
+
+> <ALOGPS_LOGS>
+0.02
+
+> <JCHEM_POLARIZABILITY>
+11.15
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.25
+
+> <JCHEM_REFRACTIVITY>
+32.74
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.16e+02 g/l __ 
+
+$$$$

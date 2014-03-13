@@ -1,0 +1,110 @@
+PG6
+  Mrv0541 02231216182D          
+
+ 18 17  0  0  0  0            999 V2000
+   -6.0735   -0.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3590    0.2571    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6444   -0.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9299    0.2571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2153   -0.1554    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5009    0.2571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7863   -0.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0718    0.2571    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3573   -0.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    0.2571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0718   -0.1554    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7863    0.2571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5008   -0.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2153    0.2571    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9299   -0.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6443    0.2571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3589   -0.1554    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0735    0.2571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02580
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-(2-Methoxy-Ethoxy)-2-{2-[2-(2-Methoxy-Ethoxy]-Ethoxy}-Ethane
+
+> <CHEMICAL_FORMULA>
+C12H26O6
+
+> <MOLECULAR_WEIGHT>
+266.3312
+
+> <EXACT_MASS>
+266.172938564
+
+> <IUPAC_NAME>
+2,5,8,11,14,17-hexaoxaoctadecane
+
+> <IUPAC_TRADITIONAL_NAME>
+pentaglyme
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H26O6/c1-13-3-5-15-7-9-17-11-12-18-10-8-16-6-4-14-2/h3-12H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=DMDPGPKXQDIQQG-UHFFFAOYSA-N
+
+> <SMILES>
+COCCOCCOCCOCCOCCOC
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-3.4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.12
+
+> <JCHEM_LOGP>
+-0.11
+
+> <ALOGPS_LOGS>
+-2.1
+
+> <JCHEM_POLARIZABILITY>
+31.57
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.38
+
+> <JCHEM_REFRACTIVITY>
+68.23
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+15
+
+> <ALOGPS_SOLUBILITY>
+2.13e+00 g/l __ 
+
+$$$$

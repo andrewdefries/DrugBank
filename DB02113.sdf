@@ -1,0 +1,99 @@
+5287547
+  Mrv0541 02231215582D          
+
+ 10 11  0  0  0  0            999 V2000
+    3.8597    0.2514    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597   -1.0764    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3412   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4  7  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02113
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-Methylpurine
+
+> <CHEMICAL_FORMULA>
+C6H6N4
+
+> <MOLECULAR_WEIGHT>
+134.1386
+
+> <EXACT_MASS>
+134.059246212
+
+> <IUPAC_NAME>
+6-methyl-7H-purine
+
+> <IUPAC_TRADITIONAL_NAME>
+1H-purine, 6-methyl-
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6N4/c1-4-5-6(9-2-7-4)10-3-8-5/h2-3H,1H3,(H,7,8,9,10)
+
+> <INCHI_KEY>
+InChIKey=SYMHUEFSSMBHJA-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=C2NC=NC2=NC=N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+9.84
+
+> <JCHEM_BASIC_PKA>
+4.55
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.11
+
+> <JCHEM_LOGP>
+-0.21
+
+> <ALOGPS_LOGS>
+-0.66
+
+> <JCHEM_POLARIZABILITY>
+12.98
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.46
+
+> <JCHEM_REFRACTIVITY>
+37.8
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.93e+01 g/l __ 
+
+$$$$

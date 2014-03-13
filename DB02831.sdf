@@ -1,0 +1,75 @@
+
+  Mrv0541 02231216292D          
+
+  5  4  0  0  0  0            999 V2000
+     0.825    -0.825     0.000 O   0  0  0  0  0  0  0  0  0  0  0  0
+     0.825     0.000     0.000 P   0  0  0  0  0  0  0  0  0  0  0  0
+     0.825     0.825     0.000 O   0  0  0  0  0  0  0  0  0  0  0  0
+     1.650     0.000     0.000 O   0  5  0  0  0  0  0  0  0  0  0  0
+     0.000     0.000     0.000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02831
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Dihydrogenphosphate Ion
+
+> <CHEMICAL_FORMULA>
+H2O4P
+
+> <MOLECULAR_WEIGHT>
+96.9872
+
+> <EXACT_MASS>
+96.969070064
+
+> <IUPAC_NAME>
+dihydrogen phosphate
+
+> <IUPAC_TRADITIONAL_NAME>
+dihydrogenphosphate ion
+
+> <INCHI_IDENTIFIER>
+InChI=1S/H3O4P/c1-5(2,3)4/h(H3,1,2,3,4)/p-1
+
+> <INCHI_KEY>
+InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-M
+
+> <SMILES>
+OP(O)([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+1.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_LOGP>
+-1
+
+> <JCHEM_POLARIZABILITY>
+5.53
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.59
+
+> <JCHEM_REFRACTIVITY>
+13.53
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0 __ 
+
+$$$$

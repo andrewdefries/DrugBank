@@ -1,0 +1,100 @@
+[NO NAME]
+  Mrv0541 03301220562D          
+Created with ChemWriter - http://chemwriter.com
+ 11 11  0  0  0  0            999 V2000
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0001    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  3  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03033
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-Methyloxy-4-Sulfone-Benzene
+
+> <CHEMICAL_FORMULA>
+C7H8O3S
+
+> <MOLECULAR_WEIGHT>
+172.202
+
+> <EXACT_MASS>
+172.019414812
+
+> <IUPAC_NAME>
+1-methoxy-4-sulfonylbenzene
+
+> <IUPAC_TRADITIONAL_NAME>
+1-methoxy-4-sulfonylbenzene
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8O3S/c1-10-6-2-4-7(5-3-6)11(8)9/h2-5,11H,1H3
+
+> <INCHI_KEY>
+InChIKey=XUNSZADDFLWFOL-UHFFFAOYSA-N
+
+> <SMILES>
+COC1=CC=C(C=C1)S(=O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+5.26
+
+> <JCHEM_BASIC_PKA>
+-4.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.16
+
+> <JCHEM_LOGP>
+0.94
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+16.44
+
+> <JCHEM_POLAR_SURFACE_AREA>
+43.37
+
+> <JCHEM_REFRACTIVITY>
+41.38
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+9.59e-01 g/l __ 
+
+$$$$

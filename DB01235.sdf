@@ -1,0 +1,112 @@
+1235
+  Mrv0541 02231215202D          
+
+ 14 14  0  0  1  0            999 V2000
+    2.0930   -1.7779    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    2.3472    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.6029    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    2.3472    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.6971    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.1096    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.5220   -0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.9347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4 12  2  0  0  0  0
+  7  5  1  1  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 14  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01235
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+L-DOPA
+
+> <SYNONYMS>
+(−)-3-(3,4-dihydroxyphenyl)-L-alanine; (−)-dopa; 3-Hydroxy-L-tyrosine; Dihydroxy-L-phenylalanine; L-3,4-dihydroxyphenylalanine; L-beta-(3,4-Dihydroxyphenyl)alanine; L-DOPA; β-(3,4-dihydroxyphenyl)alanine
+
+> <BRANDS>
+Dopar
+
+> <CHEMICAL_FORMULA>
+C9H11NO4
+
+> <MOLECULAR_WEIGHT>
+197.1879
+
+> <EXACT_MASS>
+197.068807845
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-(3,4-dihydroxyphenyl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+levodopa
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11NO4/c10-6(9(13)14)3-5-1-2-7(11)8(12)4-5/h1-2,4,6,11-12H,3,10H2,(H,13,14)/t6-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=WTDRDQBEARUVNC-LURJTMIESA-N
+
+> <SMILES>
+N[C@@H](CC1=CC(O)=C(O)C=C1)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+1.65
+
+> <JCHEM_BASIC_PKA>
+9.06
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.3
+
+> <JCHEM_LOGP>
+-1.8
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+18.91
+
+> <JCHEM_POLAR_SURFACE_AREA>
+103.78
+
+> <JCHEM_REFRACTIVITY>
+49.08
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+3.30e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,101 @@
+51-83-2
+  Mrv0541 08151317392D          
+
+ 11  9  0  0  0  0            999 V2000
+    0.4125    0.5716    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.2860    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+   -0.4125    2.0005    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.8735    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.6985    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.1429    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -0.8574    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.5718    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -2.2863    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -1.5718    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9538    0.0000    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00411
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Carbachol
+
+> <SYNONYMS>
+Carbachol chloride; Carbamylcholine; Choline carbamate chloride; Choline chlorine carbamate; Karbachol; Karbamoylcholin chlorid
+
+> <BRANDS>
+Carbastat; Carboptic; Isopto Carbachol; Miostat
+
+> <CHEMICAL_FORMULA>
+C6H15ClN2O2
+
+> <MOLECULAR_WEIGHT>
+182.649
+
+> <EXACT_MASS>
+182.082205441
+
+> <IUPAC_NAME>
+2-(trimethylazaniumyl)ethyl carbamate chloride
+
+> <IUPAC_TRADITIONAL_NAME>
+lentine chloride
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H14N2O2.ClH/c1-8(2,3)4-5-10-6(7)9;/h4-5H2,1-3H3,(H-,7,9);1H
+
+> <INCHI_KEY>
+InChIKey=AIXAANGOTKPUOY-UHFFFAOYSA-N
+
+> <SMILES>
+[Cl-].C[N+](C)(C)CCOC(N)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+15.23
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-3.5
+
+> <JCHEM_LOGP>
+-4.6
+
+> <ALOGPS_LOGS>
+-2.3
+
+> <JCHEM_POLARIZABILITY>
+16.02
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.32
+
+> <JCHEM_REFRACTIVITY>
+50.02
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+9.48e-01 g/l __ 
+
+$$$$

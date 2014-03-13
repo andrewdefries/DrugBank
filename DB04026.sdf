@@ -1,0 +1,99 @@
+
+  Mrv0541 02231217212D          
+
+ 10 11  0  0  1  0            999 V2000
+    0.0771    0.5898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4987   -0.1170    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0579   -0.5558    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7382   -1.2627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1194   -1.6387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6380   -0.9281    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.6074   -0.9281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1223   -1.3558    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.5331   -2.0690    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9845   -0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  6  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  2  1  1  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  1  0  0  0
+  8 10  1  0  0  0  0
+  3 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04026
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Pseudotropine
+
+> <CHEMICAL_FORMULA>
+C8H15NO
+
+> <MOLECULAR_WEIGHT>
+141.2108
+
+> <EXACT_MASS>
+141.115364107
+
+> <IUPAC_NAME>
+(1R,3R,5S)-8-methyl-8-azabicyclo[3.2.1]octan-3-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+pseudotropine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H15NO/c1-9-6-2-3-7(9)5-8(10)4-6/h6-8,10H,2-5H2,1H3/t6-,7+,8+
+
+> <INCHI_KEY>
+InChIKey=CYHOMWAPJJPNMW-JIGDXULJSA-N
+
+> <SMILES>
+CN1[C@H]2CC[C@@H]1C[C@H](O)C2
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+15.16
+
+> <JCHEM_BASIC_PKA>
+9.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+0.86
+
+> <JCHEM_LOGP>
+0.034
+
+> <ALOGPS_LOGS>
+0.66
+
+> <JCHEM_POLARIZABILITY>
+16.04
+
+> <JCHEM_POLAR_SURFACE_AREA>
+23.47
+
+> <JCHEM_REFRACTIVITY>
+40.59
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+6.45e+02 g/l __ 
+
+$$$$

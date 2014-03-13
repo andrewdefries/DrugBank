@@ -1,0 +1,97 @@
+
+  Mrv0541 02231217532D          
+
+ 10  9  0  0  0  0            999 V2000
+    2.9980    2.5559    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04749
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(3-OXO-PROPYLSULFANYLCARBONYL)-ETHANETHIOLATE
+
+> <CHEMICAL_FORMULA>
+C6H10O2S2
+
+> <MOLECULAR_WEIGHT>
+178.272
+
+> <EXACT_MASS>
+178.012220944
+
+> <IUPAC_NAME>
+3-[(3-sulfanylpropanoyl)sulfanyl]propanal
+
+> <IUPAC_TRADITIONAL_NAME>
+3-[(3-sulfanylpropanoyl)sulfanyl]propanal
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10O2S2/c7-3-1-5-10-6(8)2-4-9/h3,9H,1-2,4-5H2
+
+> <INCHI_KEY>
+InChIKey=LHLHVBHXBHTTIV-UHFFFAOYSA-N
+
+> <SMILES>
+SCCC(=O)SCCC=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+10.13
+
+> <JCHEM_BASIC_PKA>
+-6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.64
+
+> <JCHEM_LOGP>
+0.8
+
+> <ALOGPS_LOGS>
+-2.1
+
+> <JCHEM_POLARIZABILITY>
+18.35
+
+> <JCHEM_POLAR_SURFACE_AREA>
+34.14
+
+> <JCHEM_REFRACTIVITY>
+46.05
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+1.29e+00 g/l __ 
+
+$$$$

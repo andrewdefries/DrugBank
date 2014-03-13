@@ -1,0 +1,97 @@
+
+  Mrv0541 02231216132D          
+
+ 10  9  0  0  1  0            999 V2000
+    1.7605    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 S   0  0  2  0  0  0  0  0  0  0  0  0
+    2.4750    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6184    2.6664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  1  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02467
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+S-Oxymethionine
+
+> <CHEMICAL_FORMULA>
+C5H11NO3S
+
+> <MOLECULAR_WEIGHT>
+165.211
+
+> <EXACT_MASS>
+165.045963913
+
+> <IUPAC_NAME>
+(2R)-2-amino-4-[(S)-methanesulfinyl]butanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+methionine sulfoxide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11NO3S/c1-10(9)3-2-4(6)5(7)8/h4H,2-3,6H2,1H3,(H,7,8)/t4-,10+/m1/s1
+
+> <INCHI_KEY>
+InChIKey=QEFRNWWLZKMPFJ-KNODYTOMSA-N
+
+> <SMILES>
+C[S@](=O)CC[C@@H](N)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+1.74
+
+> <JCHEM_BASIC_PKA>
+9.11
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.4
+
+> <JCHEM_LOGP>
+-4.6
+
+> <ALOGPS_LOGS>
+-0.49
+
+> <JCHEM_POLARIZABILITY>
+16.07
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.39
+
+> <JCHEM_REFRACTIVITY>
+39.34
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+5.40e+01 g/l __ 
+
+$$$$

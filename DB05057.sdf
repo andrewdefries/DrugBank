@@ -1,0 +1,111 @@
+
+  Mrv0541 02231218062D          
+
+ 15 15  0  0  1  0            999 V2000
+    2.6896   -3.0314    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5311    0.7131    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.9918    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5311   -0.9369    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2455    2.7757    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9601    1.5382    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1022   -0.9369    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1022   -1.7619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7696   -2.2469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5147   -3.0314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4347   -2.2469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8166   -0.5244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8166    0.3006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5311    1.5382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2455    1.9507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 12  2  0  0  0  0
+  5 15  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB05057
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Erdosteine
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C8H11NO4S2
+
+> <MOLECULAR_WEIGHT>
+249.307
+
+> <EXACT_MASS>
+249.012949225
+
+> <IUPAC_NAME>
+2-({[(2-oxothiolan-3-yl)carbamoyl]methyl}sulfanyl)acetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+erdosteine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11NO4S2/c10-6(3-14-4-7(11)12)9-5-1-2-15-8(5)13/h5H,1-4H2,(H,9,10)(H,11,12)
+
+> <INCHI_KEY>
+InChIKey=QGFORSXNKQLDNO-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)CSCC(=O)NC1CCSC1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+3.79
+
+> <JCHEM_BASIC_PKA>
+-3.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.43
+
+> <JCHEM_LOGP>
+-0.65
+
+> <ALOGPS_LOGS>
+-1.7
+
+> <JCHEM_POLARIZABILITY>
+23.92
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.47
+
+> <JCHEM_REFRACTIVITY>
+57.92
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+4.85e+00 g/l __ 
+
+$$$$

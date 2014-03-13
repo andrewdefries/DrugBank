@@ -1,0 +1,119 @@
+576
+  Mrv0541 02231214472D          
+
+ 17 18  0  0  0  0            999 V2000
+    2.4751    0.6631    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9433    1.5651    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.6631    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    0.6631    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    1.4882    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2758    2.7212    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -2.6369    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0828    2.8927    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.1619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -0.5744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -0.5744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -1.8119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.3994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.3994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.9007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4953    2.1782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3158    2.0920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2 15  1  0  0  0  0
+  2 16  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 16  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00576
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Sulfamethizole
+
+> <SYNONYMS>
+Sulfamethizol; Sulfaméthizol; Sulfamethizole; Sulfamethizolum; Sulfamethylthiadiazole; Sulfametizol
+
+> <BRANDS>
+Lucosil; Rufol; Thiosulfil; Thiosulfil Forte
+
+> <CHEMICAL_FORMULA>
+C9H10N4O2S2
+
+> <MOLECULAR_WEIGHT>
+270.331
+
+> <EXACT_MASS>
+270.024516964
+
+> <IUPAC_NAME>
+4-amino-N-(5-methyl-1,3,4-thiadiazol-2-yl)benzene-1-sulfonamide
+
+> <IUPAC_TRADITIONAL_NAME>
+sulfamethizole
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10N4O2S2/c1-6-11-12-9(16-6)13-17(14,15)8-4-2-7(10)3-5-8/h2-5H,10H2,1H3,(H,12,13)
+
+> <INCHI_KEY>
+InChIKey=VACCAVUAMIDAGB-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=NN=C(NS(=O)(=O)C2=CC=C(N)C=C2)S1
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+6.71
+
+> <JCHEM_BASIC_PKA>
+1.95
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.53
+
+> <JCHEM_LOGP>
+0.21
+
+> <ALOGPS_LOGS>
+-2.6
+
+> <JCHEM_POLARIZABILITY>
+26.26
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.97
+
+> <JCHEM_REFRACTIVITY>
+66.84
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+6.11e-01 g/l __ 
+
+$$$$

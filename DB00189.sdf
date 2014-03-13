@@ -1,0 +1,103 @@
+
+  Mrv0541 04191212102D          
+
+ 10  9  0  0  0  0            999 V2000
+    6.2861   -7.7655    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9920   -7.3579    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.6978   -7.7655    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.4037   -7.3579    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1202   -7.7717    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4035   -6.5294    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3967   -6.6390    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.5693   -6.6390    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5724   -7.3469    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.8054   -5.9213    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  3  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  4  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  7 10  3  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00189
+
+> <DRUG_GROUPS>
+approved; illicit
+
+> <GENERIC_NAME>
+Ethchlorvynol
+
+> <SYNONYMS>
+1-chloro-3-ethyl-1-penten-4-yn-3-ol; 1-Chloro-3-ethyl-pent-1-en-4-yn-3-ol; 3-(beta-chlorovinyl)-1-pentyn-3-ol; 3-(β-chlorovinyl)-1-pentyn-3-ol; ethyl β-chlorovinyl ethynyl carbinol; β-chlorovinyl ethyl ethynyl carbinol
+
+> <BRANDS>
+Placidyl
+
+> <CHEMICAL_FORMULA>
+C7H9ClO
+
+> <MOLECULAR_WEIGHT>
+144.599
+
+> <EXACT_MASS>
+144.034192617
+
+> <IUPAC_NAME>
+1-chloro-3-ethylpent-1-en-4-yn-3-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+ethchlorvynol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H9ClO/c1-3-7(9,4-2)5-6-8/h1,5-6,9H,4H2,2H3/b6-5+
+
+> <INCHI_KEY>
+InChIKey=ZEHYJZXQEQOSON-AATRIKPKSA-N
+
+> <SMILES>
+[H]C(Cl)=CC(O)(CC)C#C
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+12.88
+
+> <JCHEM_BASIC_PKA>
+-3.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.45
+
+> <JCHEM_LOGP>
+1.62
+
+> <ALOGPS_LOGS>
+-3
+
+> <JCHEM_POLARIZABILITY>
+14.77
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+38.64
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.43e-01 g/l __ 
+
+$$$$

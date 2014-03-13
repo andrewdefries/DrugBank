@@ -1,0 +1,100 @@
+566
+  Mrv0541 02231214462D          
+
+ 10  9  0  0  1  0            999 V2000
+    3.5217   -1.0312    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2361    1.0312    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0928   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6650    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8072    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9504   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5217   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2361    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8072    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9504   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6 10  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00566
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Succimer
+
+> <SYNONYMS>
+
+
+> <BRANDS>
+CHEMET
+
+> <CHEMICAL_FORMULA>
+C4H6O4S2
+
+> <MOLECULAR_WEIGHT>
+182.218
+
+> <EXACT_MASS>
+181.97075006
+
+> <IUPAC_NAME>
+2,3-disulfanylbutanedioic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+succimer
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6O4S2/c5-3(6)1(9)2(10)4(7)8/h1-2,9-10H,(H,5,6)(H,7,8)
+
+> <INCHI_KEY>
+InChIKey=ACTRVOBWPAIOHC-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)C(S)C(S)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+3.37
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+0.56
+
+> <JCHEM_LOGP>
+0.26
+
+> <ALOGPS_LOGS>
+-1.9
+
+> <JCHEM_POLARIZABILITY>
+15.47
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+38.47
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.43e+00 g/l __ 
+
+$$$$

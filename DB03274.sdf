@@ -1,0 +1,109 @@
+
+  Mrv0541 02231216492D          
+
+ 15 16  0  0  1  0            999 V2000
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.3819   -1.7224    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270   -2.5070    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3020   -2.5070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0470   -1.7224    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7376   -1.4675    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6119   -3.1745    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4324   -3.0882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9173   -3.7557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5817   -4.5094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0667   -5.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7613   -4.5956    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2763   -3.9282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4559   -4.0144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  1  6  0  0  0
+  4  8  1  6  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+  8 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03274
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2'-5'dideoxyuridine
+
+> <CHEMICAL_FORMULA>
+C9H12N2O4
+
+> <MOLECULAR_WEIGHT>
+212.2026
+
+> <EXACT_MASS>
+212.079706882
+
+> <IUPAC_NAME>
+1-[(2S,4S,5R)-4-hydroxy-5-methyloxolan-2-yl]-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+2'-5'dideoxyuridine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H12N2O4/c1-5-6(12)4-8(15-5)11-3-2-7(13)10-9(11)14/h2-3,5-6,8,12H,4H2,1H3,(H,10,13,14)/t5-,6+,8+/m1/s1
+
+> <INCHI_KEY>
+InChIKey=FDCFKLBIAIKUKB-CHKWXVPMSA-N
+
+> <SMILES>
+C[C@H]1O[C@@H](C[C@@H]1O)N1C=CC(=O)NC1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.71
+
+> <JCHEM_BASIC_PKA>
+-3.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.92
+
+> <JCHEM_LOGP>
+-0.47
+
+> <ALOGPS_LOGS>
+-0.36
+
+> <JCHEM_POLARIZABILITY>
+20.2
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.87
+
+> <JCHEM_REFRACTIVITY>
+49.51
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.36e+01 g/l __ 
+
+$$$$

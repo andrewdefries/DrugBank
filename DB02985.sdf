@@ -1,0 +1,97 @@
+
+  Mrv0541 02231216362D          
+
+ 12 13  0  0  0  0            999 V2000
+    2.7845    0.6979    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    0.6979    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435    0.8555    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6284    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4534    1.5229    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435    2.1904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    3.1729    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701    1.9354    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  4  0  0  0  0
+  8  9  4  0  0  0  0
+  4  9  4  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+  2 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02985
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+8-Iodo-Guanine
+
+> <CHEMICAL_FORMULA>
+C5H3IN5O
+
+> <MOLECULAR_WEIGHT>
+276.0147
+
+> <EXACT_MASS>
+275.938228163
+
+> <IUPAC_NAME>
+2-amino-8-iodopurin-6-one
+
+> <IUPAC_TRADITIONAL_NAME>
+8-iodo-guanine
+
+> <SMILES>
+NC1=Nc2nc(I)nc2C(=O)N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+6.67
+
+> <JCHEM_BASIC_PKA>
+-4.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0.13
+
+> <JCHEM_LOGP>
+-0.11
+
+> <ALOGPS_LOGS>
+-2.3
+
+> <JCHEM_POLARIZABILITY>
+19.09
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.55
+
+> <JCHEM_REFRACTIVITY>
+49.95
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.46e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,98 @@
+
+  Mrv0541 02231216482D          
+
+ 10 10  0  0  1  0            999 V2000
+   -1.8897   -0.2077    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2766    0.3443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4920    0.0894    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.1754    0.5743    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8429    0.0894    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.6275    0.3443    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5879   -0.6952    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.0729   -1.3627    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2371   -0.6952    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7220   -1.3627    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  6  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  6  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  7  9  1  0  0  0  0
+  3  9  1  0  0  0  0
+  9 10  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03246
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Beta-L-Arabinose
+
+> <CHEMICAL_FORMULA>
+C5H10O5
+
+> <MOLECULAR_WEIGHT>
+150.1299
+
+> <EXACT_MASS>
+150.05282343
+
+> <IUPAC_NAME>
+(2S,3R,4R,5S)-5-(hydroxymethyl)oxolane-2,3,4-triol
+
+> <IUPAC_TRADITIONAL_NAME>
+β-L-arabinofuranose
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H10O5/c6-1-2-3(7)4(8)5(9)10-2/h2-9H,1H2/t2-,3-,4+,5-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=HMFHBZSHGGEWLO-KLVWXMOXSA-N
+
+> <SMILES>
+OC[C@@H]1O[C@H](O)[C@H](O)[C@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+11.31
+
+> <JCHEM_BASIC_PKA>
+-3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.6
+
+> <JCHEM_LOGP>
+-2.3
+
+> <ALOGPS_LOGS>
+0.85
+
+> <JCHEM_POLARIZABILITY>
+13.53
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.15
+
+> <JCHEM_REFRACTIVITY>
+29.96
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.07e+03 g/l __ 
+
+$$$$

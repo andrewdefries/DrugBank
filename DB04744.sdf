@@ -1,0 +1,105 @@
+
+  Mrv0541 02231217532D          
+
+ 13 14  0  0  0  0            999 V2000
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+  2 13  1  0  0  0  0
+  8 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04744
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-HYDROXY-1,4-NAPHTHOQUINONE
+
+> <CHEMICAL_FORMULA>
+C10H6O3
+
+> <MOLECULAR_WEIGHT>
+174.1528
+
+> <EXACT_MASS>
+174.031694058
+
+> <IUPAC_NAME>
+4-hydroxy-1,2-dihydronaphthalene-1,2-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+4-hydroxynaphthalene-1,2-dione
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H6O3/c11-8-5-9(12)10(13)7-4-2-1-3-6(7)8/h1-5,11H
+
+> <INCHI_KEY>
+InChIKey=WVCHIGAIXREVNS-UHFFFAOYSA-N
+
+> <SMILES>
+OC1=CC(=O)C(=O)C2=CC=CC=C12
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+6.41
+
+> <JCHEM_BASIC_PKA>
+-6.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.21
+
+> <JCHEM_LOGP>
+1.45
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+16.38
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.37
+
+> <JCHEM_REFRACTIVITY>
+48.06
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.65e+00 g/l __ 
+
+$$$$

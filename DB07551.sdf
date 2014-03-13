@@ -1,0 +1,112 @@
+CEB
+  Mrv0541 02241213302D          
+
+ 17 17  0  0  0  0            999 V2000
+    0.7542    0.6091    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7542   -0.2159    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4686   -0.6284    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0397   -0.6284    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6748   -0.2159    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6748    0.6091    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0397    1.0216    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3892   -0.6284    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3892   -1.4534    0.0000 C    0  0  2  0  0  0  0  0  0  0  0  0
+   -1.3892   -2.2784    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3892   -3.1034    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5642   -1.4534    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1517   -2.1678    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2142   -1.4534    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0397    1.8466    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7542    2.2591    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7542    3.0841    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7 15  1  0  0  0  0
+  9  8  1  1  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 14  1  6  0  0  0
+ 10 11  3  0  0  0  0
+ 12 13  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07551
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-CHLORO-4-ETHYLAMINO-6-(S(-)-2'-CYANO-4-BUTYLAMINO)-1,3,5-TRIAZINE
+
+> <CHEMICAL_FORMULA>
+C10H15ClN6
+
+> <MOLECULAR_WEIGHT>
+254.719
+
+> <EXACT_MASS>
+254.104672217
+
+> <IUPAC_NAME>
+(2S)-2-{[4-chloro-6-(ethylamino)-1,3,5-triazin-2-yl]amino}-2-methylbutanenitrile
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S)-2-{[4-chloro-6-(ethylamino)-1,3,5-triazin-2-yl]amino}-2-methylbutanenitrile
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H15ClN6/c1-4-10(3,6-12)17-9-15-7(11)14-8(16-9)13-5-2/h4-5H2,1-3H3,(H2,13,14,15,16,17)/t10-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=IUCVBFHDSFSEIK-JTQLQIEISA-N
+
+> <SMILES>
+CCNC1=NC(N[C@@](C)(CC)C#N)=NC(Cl)=N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+14.4
+
+> <JCHEM_BASIC_PKA>
+-0.43
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.57
+
+> <JCHEM_LOGP>
+2.48
+
+> <ALOGPS_LOGS>
+-2.9
+
+> <JCHEM_POLARIZABILITY>
+26.02
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.52
+
+> <JCHEM_REFRACTIVITY>
+71.84
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+2.96e-01 g/l __ 
+
+$$$$

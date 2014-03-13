@@ -1,0 +1,117 @@
+HDB
+  Mrv0541 02241213432D          
+
+ 19 20  0  0  0  0            999 V2000
+    0.6419   -0.9613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1786   -1.0476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6635   -0.3801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3279    0.3736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4925    0.4598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9775   -0.2076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1268   -1.6288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8129    1.0410    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9473   -1.5425    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4322   -2.2100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2527   -2.1237    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0967   -2.9636    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6379    1.0410    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5579    1.8256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8928    1.8256    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2254    2.3105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6774    2.0806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2905    1.5285    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3057    1.4127    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  6  0  0  0
+ 15 19  1  1  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07887
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(R)-1-(4-(4-(HYDROXYMETHYL)-1,3,2-DIOXABOROLAN-2-YL)BENZYL)GUANIDINE
+
+> <CHEMICAL_FORMULA>
+C11H16BN3O3
+
+> <MOLECULAR_WEIGHT>
+249.074
+
+> <EXACT_MASS>
+249.128471859
+
+> <IUPAC_NAME>
+1-({4-[(4R)-4-(hydroxymethyl)-1,3,2-dioxaborolan-2-yl]phenyl}methyl)guanidine
+
+> <IUPAC_TRADITIONAL_NAME>
+1-({4-[(4R)-4-(hydroxymethyl)-1,3,2-dioxaborolan-2-yl]phenyl}methyl)guanidine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H16BN3O3/c13-11(14)15-5-8-1-3-9(4-2-8)12-17-7-10(6-16)18-12/h1-4,10,16H,5-7H2,(H4,13,14,15)/t10-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=IIZOWFNBOXPJES-SNVBAGLBSA-N
+
+> <SMILES>
+[H][C@@]1(CO)COB(O1)C1=CC=C(CNC(N)=N)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+14.65
+
+> <JCHEM_BASIC_PKA>
+11.83
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+0
+
+> <JCHEM_LOGP>
+1.59
+
+> <ALOGPS_LOGS>
+-2.7
+
+> <JCHEM_POLARIZABILITY>
+27.36
+
+> <JCHEM_POLAR_SURFACE_AREA>
+100.59
+
+> <JCHEM_REFRACTIVITY>
+72.75
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+5.34e-01 g/l __ 
+
+$$$$

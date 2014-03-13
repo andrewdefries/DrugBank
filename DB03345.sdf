@@ -1,0 +1,88 @@
+
+  Mrv0541 02231216522D          
+
+  4  3  0  0  0  0            999 V2000
+    2.0625   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03345
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Beta-Mercaptoethanol
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C2H6OS
+
+> <MOLECULAR_WEIGHT>
+78.133
+
+> <EXACT_MASS>
+78.013935504
+
+> <IUPAC_NAME>
+2-sulfanylethan-1-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+β-mercaptoethanol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H6OS/c3-1-2-4/h3-4H,1-2H2
+
+> <INCHI_KEY>
+InChIKey=DGVVWUTYPXICAM-UHFFFAOYSA-N
+
+> <SMILES>
+OCCS
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.97
+
+> <JCHEM_BASIC_PKA>
+-2.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.11
+
+> <JCHEM_LOGP>
+-0.11
+
+> <ALOGPS_LOGS>
+-0.43
+
+> <JCHEM_POLARIZABILITY>
+8.19
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+20.74
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.92e+01 g/l __ 
+
+$$$$

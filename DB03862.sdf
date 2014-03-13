@@ -1,0 +1,98 @@
+
+  Mrv0541 02231217142D          
+
+ 10 10  0  0  1  0            999 V2000
+    2.1434    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  3  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03862
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tetrahydrooxazine
+
+> <CHEMICAL_FORMULA>
+C5H11NO4
+
+> <MOLECULAR_WEIGHT>
+149.1451
+
+> <EXACT_MASS>
+149.068807845
+
+> <IUPAC_NAME>
+(4R,5S,6R)-6-(hydroxymethyl)-1,2-oxazinane-4,5-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+tetrahydrooxazine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11NO4/c7-2-4-5(9)3(8)1-6-10-4/h3-9H,1-2H2/t3-,4-,5+/m1/s1
+
+> <INCHI_KEY>
+InChIKey=KHVCOYGKHDJPBZ-WDCZJNDASA-N
+
+> <SMILES>
+OC[C@H]1ONC[C@@H](O)[C@@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+12.94
+
+> <JCHEM_BASIC_PKA>
+4.06
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.9
+
+> <JCHEM_LOGP>
+-2.2
+
+> <ALOGPS_LOGS>
+0.72
+
+> <JCHEM_POLARIZABILITY>
+13.86
+
+> <JCHEM_POLAR_SURFACE_AREA>
+81.95
+
+> <JCHEM_REFRACTIVITY>
+42.58
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.83e+02 g/l __ 
+
+$$$$

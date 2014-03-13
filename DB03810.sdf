@@ -1,0 +1,99 @@
+
+  Mrv0541 02231217122D          
+
+ 11 10  0  0  1  0            999 V2000
+    3.9039    0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6184    2.6664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03810
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(3r)-3-Methyl-L-Glutamic Acid
+
+> <CHEMICAL_FORMULA>
+C6H11NO4
+
+> <MOLECULAR_WEIGHT>
+161.1558
+
+> <EXACT_MASS>
+161.068807845
+
+> <IUPAC_NAME>
+(2R,3S)-2-amino-3-methylpentanedioic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R,3S)-2-amino-3-methylpentanedioic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H11NO4/c1-3(2-4(8)9)5(7)6(10)11/h3,5H,2,7H2,1H3,(H,8,9)(H,10,11)/t3-,5+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=FHJNAFIJPFGZRI-WVZVXSGGSA-N
+
+> <SMILES>
+C[C@@H](CC(O)=O)[C@@H](N)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+2.02
+
+> <JCHEM_BASIC_PKA>
+9.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-3.3
+
+> <JCHEM_LOGP>
+-2.9
+
+> <ALOGPS_LOGS>
+-0.63
+
+> <JCHEM_POLARIZABILITY>
+14.98
+
+> <JCHEM_POLAR_SURFACE_AREA>
+100.62
+
+> <JCHEM_REFRACTIVITY>
+35.76
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+3.81e+01 g/l __ 
+
+$$$$

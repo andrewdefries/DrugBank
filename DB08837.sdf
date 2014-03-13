@@ -1,0 +1,95 @@
+
+  Mrv0541 07291315502D          
+
+  9  8  0  0  0  0            999 V2000
+    0.2652    1.7679    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.9796    1.3554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4493    2.1804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1473    1.0534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8485    2.3512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6735    2.3512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3921    0.6409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8618    0.6409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8618    2.8948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08837
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tetraethylammonium
+
+> <SYNONYMS>
+TEA
+
+> <SALTS>
+Tetraethylammonium bromide; Tetraethylammonium chloride; Tetraethylammonium hydroxide; Tetraethylammonium iodide; Tetraethylammonium phosphate 
+
+> <CHEMICAL_FORMULA>
+C8H20N
+
+> <MOLECULAR_WEIGHT>
+130.2511
+
+> <EXACT_MASS>
+130.159574645
+
+> <IUPAC_NAME>
+tetraethylazanium
+
+> <IUPAC_TRADITIONAL_NAME>
+tetraethylammonium
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H20N/c1-5-9(6-2,7-3)8-4/h5-8H2,1-4H3/q+1
+
+> <INCHI_KEY>
+InChIKey=CBXCPBUEXACCNR-UHFFFAOYSA-N
+
+> <SMILES>
+CC[N+](CC)(CC)CC
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-1.2
+
+> <JCHEM_LOGP>
+-2.5
+
+> <ALOGPS_LOGS>
+-4.8
+
+> <JCHEM_POLARIZABILITY>
+17.32
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+54.9
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+2.77e-03 g/l __ 
+
+$$$$

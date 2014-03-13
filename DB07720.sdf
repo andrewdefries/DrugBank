@@ -1,0 +1,111 @@
+EPJ
+  Mrv0541 02241213362D          
+
+ 17 19  0  0  0  0            999 V2000
+   -0.1763    0.0910    0.0000 C    0  0  1  0  0  0  0  0  0  0  0  0
+    0.1890    0.7515    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8293    1.2017    0.0000 C    0  0  2  0  0  0  0  0  0  0  0  0
+    1.6248    0.7364    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3297    0.1110    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.5992    0.4813    0.0000 C    0  0  1  0  0  0  0  0  0  0  0  0
+    0.6693    2.0171    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7709   -0.4809    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5729   -1.2818    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1675   -1.8537    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9601   -1.6247    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5547   -2.1966    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1581   -0.8238    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5635   -0.2519    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6394    0.4467    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0059    1.7583    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0
+    0.5984   -0.1026    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  1  0  0  0
+  1 15  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 16  1  6  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 17  1  1  0  0  0
+  8  9  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07720
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+EPIBATIDINE
+
+> <CHEMICAL_FORMULA>
+C11H13ClN2
+
+> <MOLECULAR_WEIGHT>
+208.687
+
+> <EXACT_MASS>
+208.076726133
+
+> <IUPAC_NAME>
+(1R,2R,4S)-2-(6-chloropyridin-3-yl)-7-azabicyclo[2.2.1]heptane
+
+> <IUPAC_TRADITIONAL_NAME>
+(1R,2R,4S)-2-(6-chloropyridin-3-yl)-7-azabicyclo[2.2.1]heptane
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H13ClN2/c12-11-4-1-7(6-13-11)9-5-8-2-3-10(9)14-8/h1,4,6,8-10,14H,2-3,5H2/t8-,9+,10+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=NLPRAJRHRHZCQQ-IVZWLZJFSA-N
+
+> <SMILES>
+[H][C@@]12CC[C@@]([H])(N1)[C@]([H])(C2)C1=CC=C(Cl)N=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+10.54
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.98
+
+> <JCHEM_LOGP>
+1.84
+
+> <ALOGPS_LOGS>
+-2.6
+
+> <JCHEM_POLARIZABILITY>
+22.07
+
+> <JCHEM_POLAR_SURFACE_AREA>
+24.92
+
+> <JCHEM_REFRACTIVITY>
+57.39
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.67e-01 g/l __ 
+
+$$$$

@@ -1,0 +1,125 @@
+255
+  Mrv0541 02231214332D          
+
+ 20 21  0  0  0  0            999 V2000
+    3.7935    3.5063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -3.5063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3  4  2  3  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8 12  2  0  0  0  0
+  8 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 14 18  2  0  0  0  0
+ 15 19  2  0  0  0  0
+ 16 20  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00255
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Diethylstilbestrol
+
+> <SYNONYMS>
+(E)-3,4-bis(4-hydroxyphenyl)-3-hexene; 4,4'-dihydroxy-α,β-diethylstilbene; DES; Stilboestrol; trans-4,4'-(1,2-diethyl-1,2-ethenediyl)bisphenol; trans-Diethylstilbesterol; trans-Diethylstilbestrol; trans-Diethylstilboesterol; α,α'-diethyl-(E)-4,4'-stilbenediol
+
+> <BRANDS>
+Distilbene; Stilbestrol
+
+> <CHEMICAL_FORMULA>
+C18H20O2
+
+> <MOLECULAR_WEIGHT>
+268.3502
+
+> <EXACT_MASS>
+268.146329884
+
+> <IUPAC_NAME>
+4-[4-(4-hydroxyphenyl)hex-3-en-3-yl]phenol
+
+> <IUPAC_TRADITIONAL_NAME>
+4-[4-(4-hydroxyphenyl)hex-3-en-3-yl]phenol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H20O2/c1-3-17(13-5-9-15(19)10-6-13)18(4-2)14-7-11-16(20)12-8-14/h5-12,19-20H,3-4H2,1-2H3/b18-17+
+
+> <INCHI_KEY>
+InChIKey=RGLYKWWBQGJZGM-ISLYRVAYSA-N
+
+> <SMILES>
+CCC(=C(CC)C1=CC=C(O)C=C1)C1=CC=C(O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.13
+
+> <JCHEM_BASIC_PKA>
+-6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+4.62
+
+> <JCHEM_LOGP>
+5.19
+
+> <ALOGPS_LOGS>
+-4.4
+
+> <JCHEM_POLARIZABILITY>
+30.69
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+83.24
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.09e-02 g/l __ 
+
+$$$$

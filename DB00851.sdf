@@ -1,0 +1,110 @@
+
+  Mrv0541 04191212152D          
+
+ 13 13  0  0  0  0            999 V2000
+   -0.3515    2.0387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3160    1.5538    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0189    1.5538    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7640    0.7692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1765    0.0547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0610    0.7692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4735    0.0547    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8860   -0.6598    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1235    0.0547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7110   -0.6598    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1235   -1.3743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7640   -0.6598    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0015    0.0547    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  2  6  1  0  0  0  0
+  6  4  2  0  0  0  0
+  4  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5 13  2  0  0  0  0
+  5 12  1  0  0  0  0
+  7  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00851
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Dacarbazine
+
+> <SYNONYMS>
+Biocarbazine; Dacarbazin; Dacarbazina; Dacarbazine; Dacarbazinum; DTIE; Imidazole Carboxamide
+
+> <BRANDS>
+Dacatic; Déticène; Deticene; Detimedac; DTIC; DTIC-Dome
+
+> <CHEMICAL_FORMULA>
+C6H10N6O
+
+> <MOLECULAR_WEIGHT>
+182.1832
+
+> <EXACT_MASS>
+182.091608972
+
+> <IUPAC_NAME>
+5-(dimethyltriaz-1-en-1-yl)-1H-imidazole-4-carboxamide
+
+> <IUPAC_TRADITIONAL_NAME>
+dacarbazine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10N6O/c1-12(2)11-10-6-4(5(7)13)8-3-9-6/h3H,1-2H3,(H2,7,13)(H,8,9)
+
+> <INCHI_KEY>
+InChIKey=FDKXTQMXEQVLRF-UHFFFAOYSA-N
+
+> <SMILES>
+CN(C)N=NC1=C(N=CN1)C(N)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+5.89
+
+> <JCHEM_BASIC_PKA>
+1.72
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.32
+
+> <JCHEM_LOGP>
+-0.43
+
+> <ALOGPS_LOGS>
+-2.1
+
+> <JCHEM_POLARIZABILITY>
+17.78
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.73
+
+> <JCHEM_REFRACTIVITY>
+49.71
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.36e+00 g/l __ 
+
+$$$$

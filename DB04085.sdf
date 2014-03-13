@@ -1,0 +1,110 @@
+
+  Mrv0541 02231217242D          
+
+ 17 18  0  0  0  0            999 V2000
+    3.5949   -0.7864    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5949   -1.6114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2623   -2.0963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0074   -2.8809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1824   -2.8809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6975   -3.5483    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9275   -2.0963    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1428   -1.8413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9713   -1.0344    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1867   -0.7794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0152    0.0275    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2615    0.3631    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4530   -0.0494    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3477    1.1836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1547    1.3551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5672    0.6406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3877    0.5544    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04085
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-[Pyrrol-1-Yl-2,5-Dione-Methoxymethyl]-Pyrrole-2,5-Dione
+
+> <CHEMICAL_FORMULA>
+C10H8N2O5
+
+> <MOLECULAR_WEIGHT>
+236.1809
+
+> <EXACT_MASS>
+236.043321376
+
+> <IUPAC_NAME>
+1-{[(2,5-dioxo-2,5-dihydro-1H-pyrrol-1-yl)methoxy]methyl}-2,5-dihydro-1H-pyrrole-2,5-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+1-{[(2,5-dioxopyrrol-1-yl)methoxy]methyl}pyrrole-2,5-dione
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H8N2O5/c13-7-1-2-8(14)11(7)5-17-6-12-9(15)3-4-10(12)16/h1-4H,5-6H2
+
+> <INCHI_KEY>
+InChIKey=UTRLJOWPWILGSB-UHFFFAOYSA-N
+
+> <SMILES>
+O=C1C=CC(=O)N1COCN1C(=O)C=CC1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-4.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.45
+
+> <JCHEM_LOGP>
+-0.82
+
+> <ALOGPS_LOGS>
+-1.4
+
+> <JCHEM_POLARIZABILITY>
+21.1
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.99
+
+> <JCHEM_REFRACTIVITY>
+55.19
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.04e+01 g/l __ 
+
+$$$$

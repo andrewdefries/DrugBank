@@ -1,0 +1,112 @@
+2148
+  Mrv0541 02231214372D          
+
+ 14 14  0  0  0  0            999 V2000
+    1.6500    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.8876    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.8876    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  2 14  1  0  0  0  0
+  3 14  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00345
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Aminohippurate
+
+> <SYNONYMS>
+Aminohippuric acid; PAH; para-aminohippurate; para-aminohippuric acid 
+
+> <SALTS>
+Aminohippurate Sodium
+
+> <CHEMICAL_FORMULA>
+C9H10N2O3
+
+> <MOLECULAR_WEIGHT>
+194.1873
+
+> <EXACT_MASS>
+194.069142196
+
+> <IUPAC_NAME>
+2-[(4-aminophenyl)formamido]acetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+aminohippurate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10N2O3/c10-7-3-1-6(2-4-7)9(14)11-5-8(12)13/h1-4H,5,10H2,(H,11,14)(H,12,13)
+
+> <INCHI_KEY>
+InChIKey=HSMNQINEKMPTIC-UHFFFAOYSA-N
+
+> <SMILES>
+NC1=CC=C(C=C1)C(=O)NCC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+2.7
+
+> <JCHEM_BASIC_PKA>
+4.24
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+0
+
+> <JCHEM_LOGP>
+-1
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+19.13
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.42
+
+> <JCHEM_REFRACTIVITY>
+50.82
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+3.13e+00 g/l __ 
+
+$$$$

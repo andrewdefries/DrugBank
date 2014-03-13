@@ -1,0 +1,89 @@
+
+  Mrv0541 02231215492D          
+
+  6  5  0  0  0  0            999 V2000
+   -0.1914    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01919
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Pentanal
+
+> <CHEMICAL_FORMULA>
+C5H10O
+
+> <MOLECULAR_WEIGHT>
+86.1323
+
+> <EXACT_MASS>
+86.073164942
+
+> <IUPAC_NAME>
+pentanal
+
+> <IUPAC_TRADITIONAL_NAME>
+pentanal
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H10O/c1-2-3-4-5-6/h5H,2-4H2,1H3
+
+> <INCHI_KEY>
+InChIKey=HGBOYTHUEUWSSQ-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCC=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+15.59
+
+> <JCHEM_BASIC_PKA>
+-6.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.41
+
+> <JCHEM_LOGP>
+1.21
+
+> <ALOGPS_LOGS>
+-0.76
+
+> <JCHEM_POLARIZABILITY>
+10.32
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+25.55
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.48e+01 g/l __ 
+
+$$$$

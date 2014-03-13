@@ -1,0 +1,117 @@
+
+  Mrv0541 02231216052D          
+
+ 19 20  0  0  1  0            999 V2000
+   -1.3222   -0.0616    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6078   -0.4741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6078   -1.2991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0597   -1.7840    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1953   -2.5687    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.2897   -3.2361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1101   -3.1499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4457   -2.3962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2662   -2.3099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7511   -2.9774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5716   -2.8911    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4155   -3.7311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5951   -3.8173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0203   -2.5687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5052   -3.2361    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2752   -1.7840    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0598   -1.5291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2314   -0.7221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0160   -0.4672    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  6  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+  7 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+  3 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02275
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+[2-Aminomethyl-5-Oxo-4-(4-Oxo-Cyclohexa-2,5-Dienylmethyl)-4,5-Dihydro-Imidazol-1-Yl] -Acetaldehyde
+
+> <CHEMICAL_FORMULA>
+C13H15N3O3
+
+> <MOLECULAR_WEIGHT>
+261.2765
+
+> <EXACT_MASS>
+261.111341361
+
+> <IUPAC_NAME>
+2-[(4R)-2-(aminomethyl)-5-oxo-4-[(4-oxocyclohexa-2,5-dien-1-yl)methyl]-4,5-dihydro-1H-imidazol-1-yl]acetaldehyde
+
+> <IUPAC_TRADITIONAL_NAME>
+2-[(4R)-2-(aminomethyl)-5-oxo-4-[(4-oxocyclohexa-2,5-dien-1-yl)methyl]-4H-imidazol-1-yl]acetaldehyde
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H15N3O3/c14-8-12-15-11(13(19)16(12)5-6-17)7-9-1-3-10(18)4-2-9/h1-4,6,9,11H,5,7-8,14H2/t11-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=MONOYMGQJZJGBR-LLVKDONJSA-N
+
+> <SMILES>
+NCC1=N[C@H](CC2C=CC(=O)C=C2)C(=O)N1CC=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+8.2
+
+> <JCHEM_BASIC_PKA>
+7.34
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+0.18
+
+> <JCHEM_LOGP>
+-1.3
+
+> <ALOGPS_LOGS>
+-2.5
+
+> <JCHEM_POLARIZABILITY>
+26.45
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.83
+
+> <JCHEM_REFRACTIVITY>
+70.84
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+7.58e-01 g/l __ 
+
+$$$$

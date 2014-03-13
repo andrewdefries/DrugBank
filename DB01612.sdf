@@ -1,0 +1,96 @@
+
+  Mrv0541 04191212182D          
+
+  8  7  0  0  0  0            999 V2000
+   -1.4289    0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.2357    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  4  1  1  0  0  0  0
+  4  3  1  0  0  0  0
+  6  5  2  0  0  0  0
+  3  7  1  0  0  0  0
+  7  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01612
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Amyl Nitrite
+
+> <SYNONYMS>
+n-Amyl nitrite; Nitramyl; Pentyl nitrite
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C5H11NO2
+
+> <MOLECULAR_WEIGHT>
+117.1463
+
+> <EXACT_MASS>
+117.078978601
+
+> <IUPAC_NAME>
+pentyl nitrite
+
+> <IUPAC_TRADITIONAL_NAME>
+amyl nitrite
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11NO2/c1-2-3-4-5-8-6-7/h2-5H2,1H3
+
+> <INCHI_KEY>
+InChIKey=CSDTZUBPSYWZDX-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCCON=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-1.8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.98
+
+> <JCHEM_LOGP>
+2.31
+
+> <ALOGPS_LOGS>
+-1.5
+
+> <JCHEM_POLARIZABILITY>
+12.84
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.66
+
+> <JCHEM_REFRACTIVITY>
+31.68
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+3.97e+00 g/l __ 
+
+$$$$

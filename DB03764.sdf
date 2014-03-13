@@ -1,0 +1,100 @@
+
+  Mrv0541 02231217102D          
+
+ 11 11  0  0  0  0            999 V2000
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  5  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  3 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03764
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Hydroperoxy-2-Methoxy-Phenol
+
+> <CHEMICAL_FORMULA>
+C7H8O4
+
+> <MOLECULAR_WEIGHT>
+156.136
+
+> <EXACT_MASS>
+156.042258744
+
+> <IUPAC_NAME>
+4-hydroperoxy-2-methoxyphenol
+
+> <IUPAC_TRADITIONAL_NAME>
+4-hydroperoxy-2-methoxyphenol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8O4/c1-10-7-4-5(11-9)2-3-6(7)8/h2-4,8-9H,1H3
+
+> <INCHI_KEY>
+InChIKey=DNBCLSZROQUYQN-UHFFFAOYSA-N
+
+> <SMILES>
+COC1=CC(OO)=CC=C1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.9
+
+> <JCHEM_BASIC_PKA>
+-4.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.73
+
+> <JCHEM_LOGP>
+1.13
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+14.4
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.92
+
+> <JCHEM_REFRACTIVITY>
+37.83
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.34e+01 g/l __ 
+
+$$$$

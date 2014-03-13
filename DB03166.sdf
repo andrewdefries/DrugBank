@@ -1,0 +1,88 @@
+
+  Mrv0541 04191212182D          
+
+  4  3  0  0  0  0            999 V2000
+   12.9717  -12.9376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6862  -12.5251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4006  -12.9376    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   13.6862  -11.7001    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  2  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03166
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Acetic acid
+
+> <SYNONYMS>
+Ethanoat; Ethanoate
+
+> <BRANDS>
+Borofair
+
+> <CHEMICAL_FORMULA>
+C2H3O2
+
+> <MOLECULAR_WEIGHT>
+59.044
+
+> <EXACT_MASS>
+59.01330434
+
+> <IUPAC_NAME>
+acetate
+
+> <IUPAC_TRADITIONAL_NAME>
+acetate ion
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)/p-1
+
+> <INCHI_KEY>
+InChIKey=QTBSBXVTEAMEQO-UHFFFAOYSA-M
+
+> <SMILES>
+CC([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+4.54
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.29
+
+> <JCHEM_LOGP>
+-0.22
+
+> <ALOGPS_LOGS>
+0.8
+
+> <JCHEM_POLARIZABILITY>
+4.96
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.13
+
+> <JCHEM_REFRACTIVITY>
+23.48
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+4.90e+02 g/l __ 
+
+$$$$

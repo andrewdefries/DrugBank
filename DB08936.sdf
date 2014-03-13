@@ -1,0 +1,128 @@
+
+  Mrv0541 01281414032D          
+
+ 21 23  0  0  0  0            999 V2000
+    0.7582    0.3571    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0439   -0.0381    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1897    1.1856    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6645    0.3571    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7582    1.1856    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4754   -0.0381    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0439   -0.8636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3847   -0.0381    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6645    1.1856    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4754    1.5984    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1897    0.3571    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0960    1.1856    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3847    1.5984    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0960    0.3571    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8103    1.5984    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9099    1.5984    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6645   -1.2852    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7582   -1.2852    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6645   -2.1107    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7582   -2.1107    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0439   -2.5235    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  2  1  0  0  0  0
+  5  1  1  0  0  0  0
+  6  1  1  0  0  0  0
+  7  2  1  0  0  0  0
+  8  4  1  0  0  0  0
+  9  4  2  0  0  0  0
+ 10  5  1  0  0  0  0
+ 11  6  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13  9  1  0  0  0  0
+ 14  8  2  0  0  0  0
+ 15 12  1  0  0  0  0
+ 16  3  1  0  0  0  0
+ 17  7  2  0  0  0  0
+ 18  7  1  0  0  0  0
+ 19 17  1  0  0  0  0
+ 20 18  2  0  0  0  0
+ 21 19  2  0  0  0  0
+ 10  3  1  0  0  0  0
+ 14 12  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08936
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Chlorcyclizine
+
+> <SYNONYMS>
+Chlorcyclizin; Chlorcyclizine; Chlorcyclizinum; Clorciclizina
+
+> <SALTS>
+Chlorcyclizine Hydrochloride
+
+> <BRANDS>
+Di-Paralene; Mantadil; Pruresidine; Trihistan; Zimin
+
+> <CHEMICAL_FORMULA>
+C18H21ClN2
+
+> <MOLECULAR_WEIGHT>
+300.826
+
+> <EXACT_MASS>
+300.139326389
+
+> <IUPAC_NAME>
+1-[(4-chlorophenyl)(phenyl)methyl]-4-methylpiperazine
+
+> <IUPAC_TRADITIONAL_NAME>
+chlorcyclizine
+
+> <INCHI_IDENTIFIER>
+InChI=1/C18H21ClN2/c1-20-11-13-21(14-12-20)18(15-5-3-2-4-6-15)16-7-9-17(19)10-8-16/h2-10,18H,11-14H2,1H3
+
+> <INCHI_KEY>
+InChIKey=WFNAKBGANONZEQ-UHFFFAOYNA-N
+
+> <SMILES>
+CN1CCN(CC1)C(C1=CC=CC=C1)C1=CC=C(Cl)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+8
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+4.16
+
+> <JCHEM_LOGP>
+4.15
+
+> <ALOGPS_LOGS>
+-3.9
+
+> <JCHEM_POLARIZABILITY>
+33.5
+
+> <JCHEM_POLAR_SURFACE_AREA>
+6.48
+
+> <JCHEM_REFRACTIVITY>
+89.74
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+4.24e-02 g/l __ 
+
+$$$$

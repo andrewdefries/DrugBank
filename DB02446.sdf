@@ -1,0 +1,102 @@
+
+  Mrv0541 02231216122D          
+
+ 11 10  0  0  1  0            999 V2000
+    4.6184    2.6664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.8414    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0461    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02446
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Glutamine Hydroxamate
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C5H10N2O4
+
+> <MOLECULAR_WEIGHT>
+162.1439
+
+> <EXACT_MASS>
+162.064056818
+
+> <IUPAC_NAME>
+(2S)-2-amino-4-(hydroxycarbamoyl)butanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+glutamine hydroxamate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H10N2O4/c6-3(5(9)10)1-2-4(8)7-11/h3,11H,1-2,6H2,(H,7,8)(H,9,10)/t3-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=YVGZXTQJQNXIAU-VKHMYHEASA-N
+
+> <SMILES>
+N[C@@H](CCC(=O)NO)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+1.93
+
+> <JCHEM_BASIC_PKA>
+9.46
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-3
+
+> <JCHEM_LOGP>
+-4
+
+> <ALOGPS_LOGS>
+-0.47
+
+> <JCHEM_POLARIZABILITY>
+14.79
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.65
+
+> <JCHEM_REFRACTIVITY>
+34.87
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+5.50e+01 g/l __ 
+
+$$$$

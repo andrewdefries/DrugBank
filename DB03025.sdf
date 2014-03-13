@@ -1,0 +1,95 @@
+
+  Mrv0541 02231216382D          
+
+  9  8  0  0  1  0            999 V2000
+    1.0461    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.6184    2.6664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  6  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03025
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-Octen-3-Ol
+
+> <CHEMICAL_FORMULA>
+C8H16O
+
+> <MOLECULAR_WEIGHT>
+128.212
+
+> <EXACT_MASS>
+128.120115134
+
+> <IUPAC_NAME>
+(3S)-oct-1-en-3-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+1-octen-3-ol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H16O/c1-3-5-6-7-8(9)4-2/h4,8-9H,2-3,5-7H2,1H3/t8-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=VSMOENVRRABVKN-MRVPVSSYSA-N
+
+> <SMILES>
+CCCCC[C@H](O)C=C
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+17.49
+
+> <JCHEM_BASIC_PKA>
+-1.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.43
+
+> <JCHEM_LOGP>
+2.49
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+16.25
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+40.17
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+1.31e+00 g/l __ 
+
+$$$$

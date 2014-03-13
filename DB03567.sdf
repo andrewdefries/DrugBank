@@ -1,0 +1,108 @@
+
+  Mrv0541 02231217012D          
+
+ 15 15  0  0  1  0            999 V2000
+    2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  5  4  1  1  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  6  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  1  6  0  0  0
+ 12 14  1  0  0  0  0
+  5 14  1  0  0  0  0
+ 14 15  1  6  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03567
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Acetyl-2-Deoxy-2-Amino-Galactose
+
+> <CHEMICAL_FORMULA>
+C8H15NO6
+
+> <MOLECULAR_WEIGHT>
+221.2078
+
+> <EXACT_MASS>
+221.089937217
+
+> <IUPAC_NAME>
+N-[(2R,3R,4R,5R,6R)-2,4,5-trihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide
+
+> <IUPAC_TRADITIONAL_NAME>
+N-acetyl-D-allosamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H15NO6/c1-3(11)9-5-7(13)6(12)4(2-10)15-8(5)14/h4-8,10,12-14H,2H2,1H3,(H,9,11)/t4-,5-,6+,7-,8-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=OVRNDRQMDRJTHS-JAJWTYFOSA-N
+
+> <SMILES>
+CC(=O)N[C@H]1[C@H](O)O[C@H](CO)[C@H](O)[C@@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+11.6
+
+> <JCHEM_BASIC_PKA>
+-0.78
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.6
+
+> <JCHEM_LOGP>
+-3.2
+
+> <ALOGPS_LOGS>
+0.06
+
+> <JCHEM_POLARIZABILITY>
+21.04
+
+> <JCHEM_POLAR_SURFACE_AREA>
+119.25
+
+> <JCHEM_REFRACTIVITY>
+47.02
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.54e+02 g/l __ 
+
+$$$$

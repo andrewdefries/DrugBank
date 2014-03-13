@@ -1,0 +1,97 @@
+
+  Mrv0541 02231216082D          
+
+ 10  9  0  0  1  0            999 V2000
+    0.5230    0.5230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.1105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    0.5230    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520   -1.1270    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.9520   -1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -2.3645    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809   -1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  5  4  1  6  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02340
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Acetyl-Serine
+
+> <CHEMICAL_FORMULA>
+C5H9NO4
+
+> <MOLECULAR_WEIGHT>
+147.1293
+
+> <EXACT_MASS>
+147.053157781
+
+> <IUPAC_NAME>
+(2S)-2-acetamido-3-hydroxypropanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+N-acetyl-serine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H9NO4/c1-3(8)6-4(2-7)5(9)10/h4,7H,2H2,1H3,(H,6,8)(H,9,10)/t4-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=JJIHLJJYMXLCOY-BYPYZUCNSA-N
+
+> <SMILES>
+CC(=O)N[C@@H](CO)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+3.61
+
+> <JCHEM_BASIC_PKA>
+-1.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-1.4
+
+> <JCHEM_LOGP>
+-1.8
+
+> <ALOGPS_LOGS>
+-0.24
+
+> <JCHEM_POLARIZABILITY>
+13.43
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.63
+
+> <JCHEM_REFRACTIVITY>
+31.48
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+8.46e+01 g/l __ 
+
+$$$$

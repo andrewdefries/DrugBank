@@ -1,0 +1,117 @@
+
+  Mrv0541 02231216512D          
+
+ 19 20  0  0  1  0            999 V2000
+    0.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C    0  0  1  0  0  0  0  0  0  0  0  0
+    1.3819   -1.7224    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270   -2.5070    0.0000 C    0  0  1  0  0  0  0  0  0  0  0  0
+    0.3020   -2.5070    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0470   -1.7224    0.0000 C    0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7376   -1.4675    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6119   -3.1745    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4324   -3.0882    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9173   -3.7557    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7378   -3.6695    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2227   -4.3369    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0432   -4.2507    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5817   -4.5094    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0667   -5.1768    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7613   -4.5956    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2763   -3.9282    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4559   -4.0144    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  3  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  5  9  1  6  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03312
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-Bromovinyldeoxyuridine
+
+> <CHEMICAL_FORMULA>
+C11H13BrN2O5
+
+> <MOLECULAR_WEIGHT>
+333.135
+
+> <EXACT_MASS>
+332.000784183
+
+> <IUPAC_NAME>
+5-[(E)-2-bromoethenyl]-1-[(2S,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+5-bromovinyldeoxyuridine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H13BrN2O5/c12-2-1-6-4-14(11(18)13-10(6)17)9-3-7(16)8(5-15)19-9/h1-2,4,7-9,15-16H,3,5H2,(H,13,17,18)/b2-1+/t7-,8+,9-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=ODZBBRURCPAEIQ-RNVICZODSA-N
+
+> <SMILES>
+OC[C@H]1O[C@@H](C[C@@H]1O)N1C=C(\C=C\Br)C(=O)NC1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+9.34
+
+> <JCHEM_BASIC_PKA>
+-3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.47
+
+> <JCHEM_LOGP>
+-0.5
+
+> <ALOGPS_LOGS>
+-1.7
+
+> <JCHEM_POLARIZABILITY>
+27.85
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.1
+
+> <JCHEM_REFRACTIVITY>
+67.68
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+7.34e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,81 @@
+
+  Mrv0541 02231214442D          
+
+  5  4  0  0  0  0            999 V2000
+    0.5834    0.5834    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5834   -0.5834    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Pt   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5834   -0.5834    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5834    0.5834    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00515
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Cisplatin
+
+> <SYNONYMS>
+CDDP; Cis-DDP; cis-diamminedichloroplatinum(II); Platinol-AQ
+
+> <BRANDS>
+Abiplatin; Cisplatyl; Platidiam; Platin; Platinol
+
+> <CHEMICAL_FORMULA>
+Cl2H4N2Pt
+
+> <MOLECULAR_WEIGHT>
+298.035
+
+> <EXACT_MASS>
+296.939928001
+
+> <IUPAC_NAME>
+dichloroplatinumdiamine
+
+> <IUPAC_TRADITIONAL_NAME>
+cisplatin
+
+> <INCHI_IDENTIFIER>
+InChI=1S/2ClH.2H2N.Pt/h2*1H;2*1H2;/q;;2*-1;+4/p-2
+
+> <INCHI_KEY>
+InChIKey=DQLATGHUWYMOKM-UHFFFAOYSA-L
+
+> <SMILES>
+N[Pt](N)(Cl)Cl
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_BASIC_PKA>
+5.06
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_LOGP>
+0.041
+
+> <JCHEM_POLARIZABILITY>
+10.31
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.04
+
+> <JCHEM_REFRACTIVITY>
+22.84
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0 __ 
+
+$$$$

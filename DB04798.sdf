@@ -1,0 +1,112 @@
+U1K
+  Mrv0541 02231217552D          
+
+ 17 17  0  0  0  0            999 V2000
+    1.4699    2.6628    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2984    1.8558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9115    1.3037    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5138    1.6008    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3423    0.7939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4424    0.5389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6973   -0.2457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5223   -0.2457    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7772    0.5389    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1098    1.0239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1098    1.8489    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.2124   -0.9131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2725   -1.5806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8798   -1.3981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4551   -0.4282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0993    2.1529    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.9477    1.2101    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 16  1  1  0  0  0
+  4 17  1  1  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04798
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+THIO-ATPA
+
+> <CHEMICAL_FORMULA>
+C10H16N2O3S
+
+> <MOLECULAR_WEIGHT>
+244.311
+
+> <EXACT_MASS>
+244.088163078
+
+> <IUPAC_NAME>
+4-[(2S)-2-azaniumyl-2-carboxyethyl]-5-tert-butyl-1,2-thiazol-3-olate
+
+> <IUPAC_TRADITIONAL_NAME>
+4-[(2S)-2-aminio-2-carboxyethyl]-5-tert-butyl-1,2-thiazol-3-olate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H16N2O3S/c1-10(2,3)7-5(8(13)12-16-7)4-6(11)9(14)15/h6H,4,11H2,1-3H3,(H,12,13)(H,14,15)/t6-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=FHWOAQCPEFTDOQ-LURJTMIESA-N
+
+> <SMILES>
+[H][C@]([NH3+])(CC1=C(SN=C1[O-])C(C)(C)C)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.29
+
+> <JCHEM_BASIC_PKA>
+8.96
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-0.01
+
+> <JCHEM_LOGP>
+-0.25
+
+> <ALOGPS_LOGS>
+-3.9
+
+> <JCHEM_POLARIZABILITY>
+24.44
+
+> <JCHEM_POLAR_SURFACE_AREA>
+100.89
+
+> <JCHEM_REFRACTIVITY>
+83.64
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+3.94e-02 g/l __ 
+
+$$$$

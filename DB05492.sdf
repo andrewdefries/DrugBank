@@ -1,0 +1,108 @@
+
+  Mrv0541 02231218122D          
+
+ 15 15  0  0  0  0            999 V2000
+    1.6500   -0.9529    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.2846    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.2846    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.7597    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.5404    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.9347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -3.0154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB05492
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Epicept NP-1
+
+> <CHEMICAL_FORMULA>
+C10H15N3O2
+
+> <MOLECULAR_WEIGHT>
+209.245
+
+> <EXACT_MASS>
+209.116426739
+
+> <IUPAC_NAME>
+N-(3-aminopropyl)-4-methyl-2-nitroaniline
+
+> <IUPAC_TRADITIONAL_NAME>
+N-(3-aminopropyl)-4-methyl-2-nitroaniline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H15N3O2/c1-8-3-4-9(12-6-2-5-11)10(7-8)13(14)15/h3-4,7,12H,2,5-6,11H2,1H3
+
+> <INCHI_KEY>
+InChIKey=FKZUPMCBVURANR-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=CC(=C(NCCCN)C=C1)[N+]([O-])=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+13.99
+
+> <JCHEM_BASIC_PKA>
+9.82
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.8
+
+> <JCHEM_LOGP>
+1.81
+
+> <ALOGPS_LOGS>
+-2.6
+
+> <JCHEM_POLARIZABILITY>
+22.54
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.87
+
+> <JCHEM_REFRACTIVITY>
+61.43
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+4.72e-01 g/l __ 
+
+$$$$

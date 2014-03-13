@@ -1,0 +1,126 @@
+935
+  Mrv0541 02231215072D          
+
+ 19 20  0  0  0  0            999 V2000
+    2.0930    1.2002    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3227   -2.5079    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9902   -1.3519    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    2.0252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.2002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.4499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.7876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.0374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.0374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.7876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    2.8502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3470    2.0252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6970    2.0252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.2749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.6874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.4499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.4499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1297   -2.6794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5422   -1.9649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2 15  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3 15  2  0  0  0  0
+  3 19  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 17  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00935
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Oxymetazoline
+
+> <SYNONYMS>
+Oximetazolinum; Oxymethazoline; Oxymetozoline
+
+> <SALTS>
+Oxymetazoline hydrochloride
+
+> <BRANDS>
+Afrin; Dristan 12-Hour; Duramist Plus; Genasal Nasal Spray Up to 12 Hour Relief; Iliadin; Mucinex Full Force; Mucinex Moisture Smart; Neo-Synephrine 12 Hour Spray; Nezeril; Nostrilla 12 Hour Nasal Decongestant; OcuClear; Vicks Sinex 12 Hour Nasal Spray; Vicks Sinex 12 Hour Ultra Fine Mist for Sinus Relief; Visine L.R.
+
+> <CHEMICAL_FORMULA>
+C16H24N2O
+
+> <MOLECULAR_WEIGHT>
+260.3746
+
+> <EXACT_MASS>
+260.1888634
+
+> <IUPAC_NAME>
+6-tert-butyl-3-(4,5-dihydro-1H-imidazol-2-ylmethyl)-2,4-dimethylphenol
+
+> <IUPAC_TRADITIONAL_NAME>
+oxymetazoline
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H24N2O/c1-10-8-13(16(3,4)5)15(19)11(2)12(10)9-14-17-6-7-18-14/h8,19H,6-7,9H2,1-5H3,(H,17,18)
+
+> <INCHI_KEY>
+InChIKey=WYWIFABBXFUGLM-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=CC(=C(O)C(C)=C1CC1=NCCN1)C(C)(C)C
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+10.91
+
+> <JCHEM_BASIC_PKA>
+10.15
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+3.7
+
+> <JCHEM_LOGP>
+3.03
+
+> <ALOGPS_LOGS>
+-3.7
+
+> <JCHEM_POLARIZABILITY>
+30.64
+
+> <JCHEM_POLAR_SURFACE_AREA>
+44.62
+
+> <JCHEM_REFRACTIVITY>
+79.8
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+5.15e-02 g/l __ 
+
+$$$$

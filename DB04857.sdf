@@ -1,0 +1,122 @@
+
+  Mrv0541 02231217582D          
+
+ 21 23  0  0  1  0            999 V2000
+    1.6498   -0.2764    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498   -1.9262    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3888   -2.4806    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.1334    2.0211    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2172   -1.6737    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.5276    0.4137    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7411    1.2105    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2611   -0.6118    0.0000 C    0  0  1  0  0  0  0  0  0  0  0  0
+    4.5076   -0.2764    0.0000 C    0  0  2  0  0  0  0  0  0  0  0  0
+    4.5938    0.5441    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0388   -0.2124    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.2524    0.5845    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7931   -0.6888    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7210    2.7355    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4327   -1.4188    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0788   -0.2764    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7931   -1.5138    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3643   -0.6888    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0788   -1.9262    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3643   -1.5138    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.1733   -2.7355    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5 15  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 15  1  6  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04857
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Brasofensine
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C16H20Cl2N2O
+
+> <MOLECULAR_WEIGHT>
+327.249
+
+> <EXACT_MASS>
+326.095268686
+
+> <IUPAC_NAME>
+(E)-{[(2R,3S)-3-(3,4-dichlorophenyl)-8-methyl-8-azabicyclo[3.2.1]octan-2-yl]methylidene}(methoxy)amine
+
+> <IUPAC_TRADITIONAL_NAME>
+(E)-{[(2R,3S)-3-(3,4-dichlorophenyl)-8-methyl-8-azabicyclo[3.2.1]octan-2-yl]methylidene}(methoxy)amine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H20Cl2N2O/c1-20-11-4-6-16(20)13(9-19-21-2)12(8-11)10-3-5-14(17)15(18)7-10/h3,5,7,9,11-13,16H,4,6,8H2,1-2H3/b19-9+/t11?,12-,13-,16?/m1/s1
+
+> <INCHI_KEY>
+InChIKey=NRLIFEGHTNUYFL-MTKJPOGLSA-N
+
+> <SMILES>
+CO\N=C\[C@H]1C2CCC(C[C@@H]1C1=CC(Cl)=C(Cl)C=C1)N2C
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+9.45
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+4.31
+
+> <JCHEM_LOGP>
+3.8
+
+> <ALOGPS_LOGS>
+-5.5
+
+> <JCHEM_POLARIZABILITY>
+34.41
+
+> <JCHEM_POLAR_SURFACE_AREA>
+24.83
+
+> <JCHEM_REFRACTIVITY>
+86.73
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.11e-03 g/l __ 
+
+$$$$

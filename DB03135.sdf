@@ -1,0 +1,97 @@
+
+  Mrv0541 02231216432D          
+
+ 10  9  0  0  0  0            999 V2000
+    4.6184    2.6664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8875    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  2  0  0  0  0
+  2  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03135
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+[2(Formyl-Hydroxy-Amino)-Ethyl]-Phosphonic Acid
+
+> <CHEMICAL_FORMULA>
+C3H8NO5P
+
+> <MOLECULAR_WEIGHT>
+169.0731
+
+> <EXACT_MASS>
+169.014008883
+
+> <IUPAC_NAME>
+[2-(N-hydroxyformamido)ethyl]phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+2-(N-hydroxyformamido)ethylphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H8NO5P/c5-3-4(6)1-2-10(7,8)9/h3,6H,1-2H2,(H2,7,8,9)
+
+> <INCHI_KEY>
+InChIKey=NBAIGNUEKZLOMI-UHFFFAOYSA-N
+
+> <SMILES>
+ON(CCP(O)(O)=O)C=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.79
+
+> <JCHEM_BASIC_PKA>
+-5.7
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-1.2
+
+> <JCHEM_LOGP>
+-2.4
+
+> <ALOGPS_LOGS>
+-0.9
+
+> <JCHEM_POLARIZABILITY>
+13.13
+
+> <JCHEM_POLAR_SURFACE_AREA>
+98.07
+
+> <JCHEM_REFRACTIVITY>
+31.97
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.15e+01 g/l __ 
+
+$$$$

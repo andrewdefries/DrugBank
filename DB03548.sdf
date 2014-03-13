@@ -1,0 +1,110 @@
+
+  Mrv0541 02231217012D          
+
+ 16 16  0  0  1  0            999 V2000
+   -1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.1842    1.8695    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2448    1.8695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9626    2.6447    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0572    1.7262    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  1  0  0  0
+  5  3  1  6  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  6  0  0  0
+ 10 12  1  0  0  0  0
+  5 12  1  0  0  0  0
+ 12 13  1  1  0  0  0
+  7 14  1  1  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03548
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Deoxy-D-Manno-Oct-2-Ulosonic Acid
+
+> <CHEMICAL_FORMULA>
+C8H14O8
+
+> <MOLECULAR_WEIGHT>
+238.192
+
+> <EXACT_MASS>
+238.068867424
+
+> <IUPAC_NAME>
+(2R,4S,5R,6S)-6-[(1R)-1,2-dihydroxyethyl]-2,4,5-trihydroxyoxane-2-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2R,4S,5R,6S)-6-[(1R)-1,2-dihydroxyethyl]-2,4,5-trihydroxyoxane-2-carboxylic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H14O8/c9-2-4(11)6-5(12)3(10)1-8(15,16-6)7(13)14/h3-6,9-12,15H,1-2H2,(H,13,14)/t3-,4+,5+,6-,8+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=NNLZBVFSCVTSLA-JDSYOCTRSA-N
+
+> <SMILES>
+OC[C@@H](O)[C@@H]1O[C@](O)(C[C@H](O)[C@H]1O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_ACIDIC_PKA>
+2.89
+
+> <JCHEM_BASIC_PKA>
+-3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-2.8
+
+> <JCHEM_LOGP>
+-2.6
+
+> <ALOGPS_LOGS>
+0.41
+
+> <JCHEM_POLARIZABILITY>
+21.04
+
+> <JCHEM_POLAR_SURFACE_AREA>
+147.68
+
+> <JCHEM_REFRACTIVITY>
+46.72
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+6.12e+02 g/l __ 
+
+$$$$

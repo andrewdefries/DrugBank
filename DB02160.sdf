@@ -1,0 +1,101 @@
+
+  Mrv0541 02231216002D          
+
+ 12 11  0  0  1  0            999 V2000
+    2.9980    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.2849    3.3809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  1  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02160
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+S-Butyryl-Cystein
+
+> <CHEMICAL_FORMULA>
+C7H13NO3S
+
+> <MOLECULAR_WEIGHT>
+191.248
+
+> <EXACT_MASS>
+191.061613977
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-(butanoylsulfanyl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+S-butyryl-cystein
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H13NO3S/c1-2-3-6(9)12-4-5(8)7(10)11/h5H,2-4,8H2,1H3,(H,10,11)/t5-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=QARMATOLSBVIJD-RXMQYKEDSA-N
+
+> <SMILES>
+CCCC(=O)SC[C@@H](N)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.13
+
+> <JCHEM_BASIC_PKA>
+8.28
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.5
+
+> <JCHEM_LOGP>
+-1.8
+
+> <ALOGPS_LOGS>
+-1.2
+
+> <JCHEM_POLARIZABILITY>
+19.42
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.39
+
+> <JCHEM_REFRACTIVITY>
+46.92
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+1.21e+01 g/l __ 
+
+$$$$

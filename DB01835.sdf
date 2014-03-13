@@ -1,0 +1,105 @@
+
+  Mrv0541 02231215452D          
+
+ 14 13  0  0  1  0            999 V2000
+    2.2836    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9980    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9980    3.3809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.8559    3.3809    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.2849    3.3809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  6  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01835
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4r-Fluoro-N6-Ethanimidoyl-L-Lysine
+
+> <CHEMICAL_FORMULA>
+C8H16FN3O2
+
+> <MOLECULAR_WEIGHT>
+205.2299
+
+> <EXACT_MASS>
+205.122654976
+
+> <IUPAC_NAME>
+(2S,4R)-2-amino-6-ethanimidamido-4-fluorohexanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S,4R)-2-amino-6-ethanimidamido-4-fluorohexanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H16FN3O2/c1-5(10)12-3-2-6(9)4-7(11)8(13)14/h6-7H,2-4,11H2,1H3,(H2,10,12)(H,13,14)/t6-,7+/m1/s1
+
+> <INCHI_KEY>
+InChIKey=LTCJJIZTKXNFGK-RQJHMYQMSA-N
+
+> <SMILES>
+CC(=N)NCC[C@@H](F)C[C@H](N)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+2.54
+
+> <JCHEM_BASIC_PKA>
+12.76
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-3.2
+
+> <JCHEM_LOGP>
+-3.1
+
+> <ALOGPS_LOGS>
+-2.7
+
+> <JCHEM_POLARIZABILITY>
+20.53
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.2
+
+> <JCHEM_REFRACTIVITY>
+59.62
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+4.42e-01 g/l __ 
+
+$$$$

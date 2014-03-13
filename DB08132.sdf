@@ -1,0 +1,109 @@
+LZ2
+  Mrv0541 02241213532D          
+
+ 15 16  0  0  0  0            999 V2000
+   13.9116    1.2881    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9116    2.1131    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7366    2.1131    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0866    2.1131    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9116    2.9381    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1971    3.3506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1971    4.1756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9116    4.5881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6260    4.1756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3405    4.5881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3405    5.4131    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0550    4.1756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0550    3.3506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3405    2.9381    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6260    3.3506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 15  2  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08132
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-hydroxynaphthalene-1-sulfonamide
+
+> <CHEMICAL_FORMULA>
+C10H9NO3S
+
+> <MOLECULAR_WEIGHT>
+223.248
+
+> <EXACT_MASS>
+223.030313849
+
+> <IUPAC_NAME>
+5-hydroxynaphthalene-1-sulfonamide
+
+> <IUPAC_TRADITIONAL_NAME>
+5-hydroxynaphthalene-1-sulfonamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H9NO3S/c11-15(13,14)10-6-2-3-7-8(10)4-1-5-9(7)12/h1-6,12H,(H2,11,13,14)
+
+> <INCHI_KEY>
+InChIKey=NFVBVKHGDDDCEA-UHFFFAOYSA-N
+
+> <SMILES>
+NS(=O)(=O)C1=C2C=CC=C(O)C2=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.33
+
+> <JCHEM_BASIC_PKA>
+-5.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.25
+
+> <JCHEM_LOGP>
+1.27
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+21.22
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.39
+
+> <JCHEM_REFRACTIVITY>
+56.65
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.55e+00 g/l __ 
+
+$$$$

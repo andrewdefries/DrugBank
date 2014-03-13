@@ -1,0 +1,107 @@
+
+  Mrv0541 02231216062D          
+
+ 14 15  0  0  1  0            999 V2000
+    2.5645    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.9934    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.7079    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.7079   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.2789   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798   -0.2549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2949    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798    1.0799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  6  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  1  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  6  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+  3 14  1  0  0  0  0
+ 10 14  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02294
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(5r,6s,7s,8s)-5-Hydroxymethyl-6,7,8-Trihydroxy-Tetrazolo[1,5-a]Piperidine
+
+> <CHEMICAL_FORMULA>
+C6H10N4O4
+
+> <MOLECULAR_WEIGHT>
+202.168
+
+> <EXACT_MASS>
+202.070204828
+
+> <IUPAC_NAME>
+(5S,6S,7R,8R)-5-(hydroxymethyl)-5H,6H,7H,8H-[1,2,3,4]tetrazolo[1,5-a]pyridine-6,7,8-triol
+
+> <IUPAC_TRADITIONAL_NAME>
+nojirimycine tetrazole
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10N4O4/c11-1-2-3(12)4(13)5(14)6-7-8-9-10(2)6/h2-5,11-14H,1H2/t2-,3-,4+,5-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=UCJXQRFJERKPOZ-KLVWXMOXSA-N
+
+> <SMILES>
+OC[C@H]1[C@H](O)[C@@H](O)[C@H](O)C2=NN=NN12
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+12.05
+
+> <JCHEM_BASIC_PKA>
+-1.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.1
+
+> <JCHEM_LOGP>
+-3.2
+
+> <ALOGPS_LOGS>
+-0.63
+
+> <JCHEM_POLARIZABILITY>
+17.39
+
+> <JCHEM_POLAR_SURFACE_AREA>
+124.52
+
+> <JCHEM_REFRACTIVITY>
+55.34
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.78e+01 g/l __ 
+
+$$$$

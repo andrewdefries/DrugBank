@@ -1,0 +1,80 @@
+
+  Mrv0541 02231216222D          
+
+  3  2  0  0  0  0            999 V2000
+     1.650     0.000     0.000 N   0  0  0  0  0  0  0  0  0  0  0  0
+     2.475     0.000     0.000 C   0  0  0  0  0  0  0  0  0  0  0  0
+     3.300     0.000     0.000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  3  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02679
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Cyanamide
+
+> <CHEMICAL_FORMULA>
+CH2N2
+
+> <MOLECULAR_WEIGHT>
+42.04
+
+> <EXACT_MASS>
+42.021798074
+
+> <IUPAC_NAME>
+aminoformonitrile
+
+> <IUPAC_TRADITIONAL_NAME>
+cyanamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/CH2N2/c2-1-3/h2H2
+
+> <INCHI_KEY>
+InChIKey=XZMCDFZZKTWFGF-UHFFFAOYSA-N
+
+> <SMILES>
+NC#N
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+10.87
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.86
+
+> <JCHEM_LOGP>
+-0.64
+
+> <ALOGPS_LOGS>
+-0.19
+
+> <JCHEM_POLARIZABILITY>
+3.68
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.81
+
+> <JCHEM_REFRACTIVITY>
+10.88
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.74e+01 g/l __ 
+
+$$$$

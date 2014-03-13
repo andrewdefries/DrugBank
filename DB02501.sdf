@@ -1,0 +1,115 @@
+
+  Mrv0541 02231216152D          
+
+ 19 18  0  0  1  0            999 V2000
+    5.4730    3.9849    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1875    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1875    2.7474    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9020    3.9849    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6164    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3309    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0454    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7599    3.9849    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.4743    3.5724    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1888    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1888    4.8099    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9033    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6177    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3322    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0467    3.9849    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3322    2.7474    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7599    4.8099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4743    5.2224    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0454    5.2224    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  6  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+  8 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02501
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N~2~-Succinylarginine
+
+> <CHEMICAL_FORMULA>
+C10H18N4O5
+
+> <MOLECULAR_WEIGHT>
+274.2737
+
+> <EXACT_MASS>
+274.127719706
+
+> <IUPAC_NAME>
+(2R)-5-carbamimidamido-2-(3-carboxypropanamido)pentanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+N~2~-succinylarginine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H18N4O5/c11-10(12)13-5-1-2-6(9(18)19)14-7(15)3-4-8(16)17/h6H,1-5H2,(H,14,15)(H,16,17)(H,18,19)(H4,11,12,13)/t6-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=UMOXFSXIFQOWTD-ZCFIWIBFSA-N
+
+> <SMILES>
+NC(=N)NCCC[C@@H](NC(=O)CCC(O)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_ACIDIC_PKA>
+3.28
+
+> <JCHEM_BASIC_PKA>
+12.15
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-1.5
+
+> <JCHEM_LOGP>
+-3.8
+
+> <ALOGPS_LOGS>
+-2.8
+
+> <JCHEM_POLARIZABILITY>
+26.85
+
+> <JCHEM_POLAR_SURFACE_AREA>
+165.6
+
+> <JCHEM_REFRACTIVITY>
+74.26
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <ALOGPS_SOLUBILITY>
+4.10e-01 g/l __ 
+
+$$$$

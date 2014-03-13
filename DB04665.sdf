@@ -1,0 +1,98 @@
+
+  Mrv0541 02231217502D          
+
+ 11 12  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  4  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  2 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04665
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2H-1-BENZOPYRAN-2-ONE
+
+> <CHEMICAL_FORMULA>
+C9H6O2
+
+> <MOLECULAR_WEIGHT>
+146.1427
+
+> <EXACT_MASS>
+146.036779436
+
+> <IUPAC_NAME>
+2H-chromen-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+2H-1-benzopyran-2-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H6O2/c10-9-6-5-7-3-1-2-4-8(7)11-9/h1-6H
+
+> <INCHI_KEY>
+InChIKey=ZYGHJZDHTFUPRJ-UHFFFAOYSA-N
+
+> <SMILES>
+O=C1OC2=CC=CC=C2C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-6.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.72
+
+> <JCHEM_LOGP>
+1.78
+
+> <ALOGPS_LOGS>
+-2.2
+
+> <JCHEM_POLARIZABILITY>
+14.36
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.3
+
+> <JCHEM_REFRACTIVITY>
+41.55
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.00e+00 g/l __ 
+
+$$$$

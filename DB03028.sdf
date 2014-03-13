@@ -1,0 +1,97 @@
+
+  Mrv0541 02231216382D          
+
+ 12 13  0  0  0  0            999 V2000
+   -0.5837   -1.4124    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1712   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5837    0.0165    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -0.0305    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  6  7  4  0  0  0  0
+  7  8  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+ 10 11  4  0  0  0  0
+  6 11  4  0  0  0  0
+ 11 12  4  0  0  0  0
+  4 12  4  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03028
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1h-Benoximidazole-2-Carboxylic Acid
+
+> <CHEMICAL_FORMULA>
+C8H5N2O2
+
+> <MOLECULAR_WEIGHT>
+161.1375
+
+> <EXACT_MASS>
+161.035102414
+
+> <IUPAC_NAME>
+1,3-benzodiazole-2-carboxylic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+1,3-benzodiazole-2-carboxylic acid
+
+> <SMILES>
+OC(=O)c1nc2ccccc2n1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+2.86
+
+> <JCHEM_BASIC_PKA>
+-0.57
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.3
+
+> <JCHEM_LOGP>
+1.76
+
+> <ALOGPS_LOGS>
+-1.7
+
+> <JCHEM_POLARIZABILITY>
+15.36
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.08
+
+> <JCHEM_REFRACTIVITY>
+41
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.12e+00 g/l __ 
+
+$$$$

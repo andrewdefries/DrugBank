@@ -1,0 +1,108 @@
+MPP
+  Mrv0541 02231217312D          
+
+ 15 15  0  0  0  0            999 V2000
+    1.1629    1.7017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8774    2.1142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8774    2.9392    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5919    1.7017    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1629    0.8767    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4485    0.4642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4485   -0.3608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2660    0.8767    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2660   -0.7733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2660   -1.5983    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9805   -2.0108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9805    0.4642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9805   -0.3608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6950   -0.7733    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6950   -1.5983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04208
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-(3,4-Dimethoxyphenyl)Propionic Acid
+
+> <CHEMICAL_FORMULA>
+C11H14O4
+
+> <MOLECULAR_WEIGHT>
+210.2265
+
+> <EXACT_MASS>
+210.089208936
+
+> <IUPAC_NAME>
+3-(3,4-dimethoxyphenyl)propanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+3-(3,4-dimethoxyphenyl)propanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H14O4/c1-14-9-5-3-8(4-6-11(12)13)7-10(9)15-2/h3,5,7H,4,6H2,1-2H3,(H,12,13)
+
+> <INCHI_KEY>
+InChIKey=LHHKQWQTBCTDQM-UHFFFAOYSA-N
+
+> <SMILES>
+COC1=C(OC)C=C(CCC(O)=O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.05
+
+> <JCHEM_BASIC_PKA>
+-4.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.84
+
+> <JCHEM_LOGP>
+1.74
+
+> <ALOGPS_LOGS>
+-2.5
+
+> <JCHEM_POLARIZABILITY>
+21.92
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.76
+
+> <JCHEM_REFRACTIVITY>
+54.89
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+6.82e-01 g/l __ 
+
+$$$$

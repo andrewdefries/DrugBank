@@ -1,0 +1,81 @@
+
+  Mrv0541 02231216422D          
+
+  5  4  0  0  0  0            999 V2000
+    2.4750   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03119
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Pentane
+
+> <CHEMICAL_FORMULA>
+C5H12
+
+> <MOLECULAR_WEIGHT>
+72.1488
+
+> <EXACT_MASS>
+72.093900384
+
+> <IUPAC_NAME>
+pentane
+
+> <IUPAC_TRADITIONAL_NAME>
+pentane
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H12/c1-3-5-4-2/h3-5H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=OFBQJSOFQDEBGM-UHFFFAOYSA-N
+
+> <SMILES>
+CCCCC
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.41
+
+> <JCHEM_LOGP>
+2.69
+
+> <ALOGPS_LOGS>
+-2.5
+
+> <JCHEM_POLARIZABILITY>
+10.27
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+24.81
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.10e-01 g/l __ 
+
+$$$$

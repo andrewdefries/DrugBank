@@ -1,0 +1,123 @@
+
+  Mrv0541 04191212132D          
+
+ 21 21  0  0  1  0            999 V2000
+   -0.7145    0.4125    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0738   -1.3395    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8783    0.3307    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0740    0.5143    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C    0  0  2  0  0  0  0  0  0  0  0  0
+   -1.9509   -0.1194    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+   -1.2473    1.5548    0.0000 Br   0  5  0  0  0  0  0  0  0  0  0  0
+   -3.2908   -0.3838    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8707   -1.1260    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7374    0.6774    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1540   -0.3330    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.6500    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  8  1  1  6  0  0  0
+  2  1  1  0  0  0  0
+  2  3  2  0  0  0  0
+  5  4  1  0  0  0  0
+  4  9  1  0  0  0  0
+  8  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+ 12 11  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00517
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Anisotropine Methylbromide
+
+> <SYNONYMS>
+Octatropine methylbromide
+
+> <BRANDS>
+Endovalpin; Lytispasm; Valpin
+
+> <CHEMICAL_FORMULA>
+C17H32BrNO2
+
+> <MOLECULAR_WEIGHT>
+362.345
+
+> <EXACT_MASS>
+361.16164192
+
+> <IUPAC_NAME>
+(3S)-8,8-dimethyl-3-[(2-propylpentanoyl)oxy]-8-azabicyclo[3.2.1]octan-8-ium bromide
+
+> <IUPAC_TRADITIONAL_NAME>
+(3S)-8,8-dimethyl-3-[(2-propylpentanoyl)oxy]-8-azabicyclo[3.2.1]octan-8-ium bromide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H32NO2.BrH/c1-5-7-13(8-6-2)17(19)20-16-11-14-9-10-15(12-16)18(14,3)4;/h13-16H,5-12H2,1-4H3;1H/q+1;/p-1
+
+> <INCHI_KEY>
+InChIKey=QSFKGMJOKUZAJM-UHFFFAOYSA-M
+
+> <SMILES>
+[Br-].CCCC(CCC)C(=O)O[C@H]1CC2CCC(C1)[N+]2(C)C
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-7.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-0.4
+
+> <JCHEM_LOGP>
+-0.67
+
+> <ALOGPS_LOGS>
+-6.6
+
+> <JCHEM_POLARIZABILITY>
+34.09
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.3
+
+> <JCHEM_REFRACTIVITY>
+93.26
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+9.67e-05 g/l __ 
+
+$$$$

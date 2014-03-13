@@ -1,0 +1,94 @@
+
+  Mrv0541 02231215452D          
+
+  8  8  0  0  1  0            999 V2000
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01822
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Dithiane Diol
+
+> <CHEMICAL_FORMULA>
+C4H8O2S2
+
+> <MOLECULAR_WEIGHT>
+152.235
+
+> <EXACT_MASS>
+151.99657088
+
+> <IUPAC_NAME>
+(4R,5R)-1,2-dithiane-4,5-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+dithiane diol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8O2S2/c5-3-1-7-8-2-4(3)6/h3-6H,1-2H2/t3-,4-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=YPGMOWHXEQDBBV-IMJSIDKUSA-N
+
+> <SMILES>
+O[C@H]1CSSC[C@@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+13.48
+
+> <JCHEM_BASIC_PKA>
+-3.3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.44
+
+> <JCHEM_LOGP>
+-0.59
+
+> <ALOGPS_LOGS>
+-0.33
+
+> <JCHEM_POLARIZABILITY>
+14.2
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+37.27
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+7.05e+01 g/l __ 
+
+$$$$

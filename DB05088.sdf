@@ -1,0 +1,76 @@
+
+  Mrv0541 02231218062D          
+
+  5  2  0  0  0  0            999 V2000
+    2.0929    0.0000    0.0000 Mo   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0929    0.8250    0.0000 S    0  5  0  0  0  0  0  0  0  0  0  0
+    2.0929   -0.8250    0.0000 S    0  5  0  0  0  0  0  0  0  0  0  0
+    2.8074   -0.4125    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8074    0.4125    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB05088
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Tetrathiomolybdate
+
+> <SYNONYMS>
+
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+H2MoS4
+
+> <MOLECULAR_WEIGHT>
+226.22
+
+> <EXACT_MASS>
+227.80934067
+
+> <IUPAC_NAME>
+disulfanylidenemolybdenum disulfanide
+
+> <IUPAC_TRADITIONAL_NAME>
+molybdenum disulfide dihydrosulfide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/Mo.2H2S.2S/h;2*1H2;;/p-2
+
+> <INCHI_KEY>
+InChIKey=VVRHUOPINLMZBL-UHFFFAOYSA-L
+
+> <SMILES>
+[SH-].[SH-].S=[Mo]=S
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_LOGP>
+0.77
+
+> <JCHEM_POLARIZABILITY>
+8.57
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+18.87
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0 __ 
+
+$$$$

@@ -1,0 +1,99 @@
+PRZ
+  Mrv0541 02231217442D          
+
+ 12 12  0  0  0  0            999 V2000
+    0.1744    1.6210    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1744    0.7960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5400    0.3835    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2545    0.7960    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2545    1.6210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5400    2.0335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8889    0.3835    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8889   -0.4415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6034   -0.8540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1744   -0.8540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5400   -0.4415    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2545   -0.8540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04512
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Isobutyl-3-Methoxypyrazine
+
+> <CHEMICAL_FORMULA>
+C9H14N2O
+
+> <MOLECULAR_WEIGHT>
+166.2203
+
+> <EXACT_MASS>
+166.11061308
+
+> <IUPAC_NAME>
+2-methoxy-3-(2-methylpropyl)pyrazine
+
+> <IUPAC_TRADITIONAL_NAME>
+2-methoxy-3-(2-methylpropyl)pyrazine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H14N2O/c1-7(2)6-8-9(12-3)11-5-4-10-8/h4-5,7H,6H2,1-3H3
+
+> <INCHI_KEY>
+InChIKey=UXFSPRAGHGMRSQ-UHFFFAOYSA-N
+
+> <SMILES>
+COC1=NC=CN=C1CC(C)C
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+0.98
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+2.11
+
+> <JCHEM_LOGP>
+1.54
+
+> <ALOGPS_LOGS>
+-0.9
+
+> <JCHEM_POLARIZABILITY>
+18.38
+
+> <JCHEM_POLAR_SURFACE_AREA>
+35.01
+
+> <JCHEM_REFRACTIVITY>
+46.89
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.09e+01 g/l __ 
+
+$$$$

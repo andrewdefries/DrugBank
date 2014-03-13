@@ -1,0 +1,103 @@
+1486
+  Mrv0541 02231215312D          
+
+ 11 11  0  0  1  0            999 V2000
+    1.6498    0.9033    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0787    1.7282    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3642    0.4908    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.0787    0.9033    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.3642   -0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7930    0.4908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0787   -0.7465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498   -0.7465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0787   -1.5715    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498   -1.5715    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3642   -1.9840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  6  0  0  0
+  4  2  1  1  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01486
+
+> <DRUG_GROUPS>
+experimental; illicit
+
+> <GENERIC_NAME>
+Cathine
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C9H13NO
+
+> <MOLECULAR_WEIGHT>
+151.2056
+
+> <EXACT_MASS>
+151.099714043
+
+> <IUPAC_NAME>
+(1S,2S)-2-amino-1-phenylpropan-1-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+cathine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13NO/c1-7(10)9(11)8-5-3-2-4-6-8/h2-7,9,11H,10H2,1H3/t7-,9+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=DLNKOYKMWOXYQA-IONNQARKSA-N
+
+> <SMILES>
+C[C@H](N)[C@@H](O)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+13.9
+
+> <JCHEM_BASIC_PKA>
+9.37
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+0.57
+
+> <JCHEM_LOGP>
+0.89
+
+> <ALOGPS_LOGS>
+-0.87
+
+> <JCHEM_POLARIZABILITY>
+16.87
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.25
+
+> <JCHEM_REFRACTIVITY>
+44.91
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.06e+01 g/l __ 
+
+$$$$

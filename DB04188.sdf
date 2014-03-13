@@ -1,0 +1,102 @@
+
+  Mrv0541 02231217302D          
+
+ 14 13  0  0  0  0            999 V2000
+    2.2836   -0.4934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2836   -1.3184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2836   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9980   -2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125   -2.1434    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270   -2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559   -2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849   -2.5559    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138   -2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4283   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1427   -1.7309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04188
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+MDL72527
+
+> <CHEMICAL_FORMULA>
+C12H20N2
+
+> <MOLECULAR_WEIGHT>
+192.3006
+
+> <EXACT_MASS>
+192.16264865
+
+> <IUPAC_NAME>
+(buta-2,3-dien-1-yl)({4-[(buta-2,3-dien-1-yl)amino]butyl})amine
+
+> <IUPAC_TRADITIONAL_NAME>
+buta-2,3-dien-1-yl[4-(buta-2,3-dien-1-ylamino)butyl]amine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H20N2/c1-3-5-9-13-11-7-8-12-14-10-6-4-2/h5-6,13-14H,1-2,7-12H2
+
+> <INCHI_KEY>
+InChIKey=IKSQCMLJDHRWOA-UHFFFAOYSA-N
+
+> <SMILES>
+C=C=CCNCCCCNCC=C=C
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_BASIC_PKA>
+9.81
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <ALOGPS_LOGP>
+1.67
+
+> <JCHEM_LOGP>
+1.96
+
+> <ALOGPS_LOGS>
+-2.8
+
+> <JCHEM_POLARIZABILITY>
+24.67
+
+> <JCHEM_POLAR_SURFACE_AREA>
+24.06
+
+> <JCHEM_REFRACTIVITY>
+63.82
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <ALOGPS_SOLUBILITY>
+3.04e-01 g/l __ 
+
+$$$$

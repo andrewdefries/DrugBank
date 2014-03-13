@@ -1,0 +1,131 @@
+4817
+  Mrv0541 02231217562D          
+
+ 22 22  0  0  1  0            999 V2000
+    5.0479    6.3447    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1972    7.7658    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    5.4532    3.2166    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5328    7.0121    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    5.7154    5.8597    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3804    6.8296    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3336    3.4715    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0011    2.9865    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.8985    4.9236    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4136    4.2561    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5886    4.2561    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6685    3.4715    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5630    5.6772    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0011    2.1615    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1036    4.9236    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5490    3.2166    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7190    4.8373    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7156    1.7490    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2866    1.7490    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7156    0.9240    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2866    0.9240    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0011    0.5115    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  2  0  0  0  0
+  1 13  1  0  0  0  0
+  3 12  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 20 22  2  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04817
+
+> <DRUG_GROUPS>
+withdrawn
+
+> <GENERIC_NAME>
+Metamizole
+
+> <SYNONYMS>
+Dipyrone
+
+> <SALTS>
+Metamizole sodium
+
+> <BRANDS>
+Algocalmin; Algozone; Analgin; Dimethone; Dipirona; Neo-Melubrina; Novalgin; Optalgin; Protemp; Pyralgin
+
+> <CHEMICAL_FORMULA>
+C13H16N3NaO4S
+
+> <MOLECULAR_WEIGHT>
+333.339
+
+> <EXACT_MASS>
+333.07592138
+
+> <IUPAC_NAME>
+sodium [(1,5-dimethyl-3-oxo-2-phenyl-2,3-dihydro-1H-pyrazol-4-yl)(methyl)amino]methanesulfonate
+
+> <IUPAC_TRADITIONAL_NAME>
+sodium [(1,5-dimethyl-3-oxo-2-phenylpyrazol-4-yl)(methyl)amino]methanesulfonate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H17N3O4S.Na/c1-10-12(14(2)9-21(18,19)20)13(17)16(15(10)3)11-7-5-4-6-8-11;/h4-8H,9H2,1-3H3,(H,18,19,20);/q;+1/p-1
+
+> <INCHI_KEY>
+InChIKey=DJGAAPFSPWAYTJ-UHFFFAOYSA-M
+
+> <SMILES>
+[Na+].CN(CS([O-])(=O)=O)C1=C(C)N(C)N(C1=O)C1=CC=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_ACIDIC_PKA>
+-1.2
+
+> <JCHEM_BASIC_PKA>
+-0.44
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.07
+
+> <JCHEM_LOGP>
+-0.82
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+31.11
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.99
+
+> <JCHEM_REFRACTIVITY>
+78.92
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+5.80e+00 g/l __ 
+
+$$$$

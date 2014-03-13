@@ -1,0 +1,100 @@
+142
+  Mrv0541 02231214282D          
+
+ 10  9  0  0  1  0            999 V2000
+    4.5079    0.8745    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.6005    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.1120    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.6005    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.2870    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.8745    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.3645   -0.3630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4 10  2  0  0  0  0
+  7  5  1  6  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00142
+
+> <DRUG_GROUPS>
+nutraceutical
+
+> <GENERIC_NAME>
+L-Glutamic Acid
+
+> <SYNONYMS>
+(2S)-2-Aminopentanedioic acid; (S)-2-Aminopentanedioic acid; (S)-Glutamic acid; Glu; Glutamic acid; L-Glutamate; L-Glutaminic acid
+
+> <CHEMICAL_FORMULA>
+C5H9NO4
+
+> <MOLECULAR_WEIGHT>
+147.1293
+
+> <EXACT_MASS>
+147.053157781
+
+> <IUPAC_NAME>
+(2S)-2-aminopentanedioic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+L-glutamic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)/t3-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=WHUUTDBJXJRKMK-VKHMYHEASA-N
+
+> <SMILES>
+N[C@@H](CCC(O)=O)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.88
+
+> <JCHEM_BASIC_PKA>
+9.54
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-3.5
+
+> <JCHEM_LOGP>
+-3.2
+
+> <ALOGPS_LOGS>
+-0.26
+
+> <JCHEM_POLARIZABILITY>
+13.32
+
+> <JCHEM_POLAR_SURFACE_AREA>
+100.62
+
+> <JCHEM_REFRACTIVITY>
+31.29
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+8.06e+01 g/l __ 
+
+$$$$

@@ -1,0 +1,103 @@
+
+  Mrv0541 02231214352D          
+
+ 10  9  0  0  0  0            999 V2000
+   -1.4289    0.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.2475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.2475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.0725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.2475    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.9900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00313
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Valproic Acid
+
+> <SYNONYMS>
+2-n-propyl-n-valeric acid; 2-Propylpentanoic Acid; 2-Propylvaleric Acid; 4-heptanecarboxylic acid; di-n-propylacetic acid; Di-n-propylessigsäure; Dipropylacetic acid; DPA; n-DPA; Valproate; Valproinsäure; VPA
+
+> <SALTS>
+Valproate Semisodium
+
+> <BRANDS>
+Convulex; Depacon; Depakene; Depakine; Depakote; Depakote ER; Deprakine; Encorate; Epilim; Epival; Stavzor; Valcote; Valparin
+
+> <CHEMICAL_FORMULA>
+C8H16O2
+
+> <MOLECULAR_WEIGHT>
+144.2114
+
+> <EXACT_MASS>
+144.115029756
+
+> <IUPAC_NAME>
+2-propylpentanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+valproic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H16O2/c1-3-5-7(6-4-2)8(9)10/h7H,3-6H2,1-2H3,(H,9,10)
+
+> <INCHI_KEY>
+InChIKey=NIJJYAXOARWZEE-UHFFFAOYSA-N
+
+> <SMILES>
+CCCC(CCC)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+5.14
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+2.54
+
+> <JCHEM_LOGP>
+2.8
+
+> <ALOGPS_LOGS>
+-1.8
+
+> <JCHEM_POLARIZABILITY>
+17
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+40.25
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+2.36e+00 g/l __ 
+
+$$$$

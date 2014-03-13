@@ -1,0 +1,106 @@
+SCL
+  Mrv0541 02231217062D          
+
+ 14 14  0  0  0  0            999 V2000
+   -0.7229    0.1749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7229   -0.6501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4374   -1.0626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1519   -0.6501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1519    0.1749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4374    0.5874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0084    0.5874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1350    0.1749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8494    0.5874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7060    0.1749    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0084   -1.0626    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0084    1.4124    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4205    0.5874    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1350   -0.6501    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7 12  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  2  0  0  0  0
+ 10 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03667
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Acetic Acid Salicyloyl-Amino-Ester
+
+> <CHEMICAL_FORMULA>
+C9H9NO4
+
+> <MOLECULAR_WEIGHT>
+195.1721
+
+> <EXACT_MASS>
+195.053157781
+
+> <IUPAC_NAME>
+(2-hydroxyphenyl)formamido acetate
+
+> <IUPAC_TRADITIONAL_NAME>
+(2-hydroxyphenyl)formamido acetate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H9NO4/c1-6(11)14-10-9(13)7-4-2-3-5-8(7)12/h2-5,12H,1H3,(H,10,13)
+
+> <INCHI_KEY>
+InChIKey=PCFWLDHLJWUGSU-UHFFFAOYSA-N
+
+> <SMILES>
+CC(=O)ONC(=O)C1=C(O)C=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+8.01
+
+> <JCHEM_BASIC_PKA>
+-6.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.18
+
+> <JCHEM_LOGP>
+1.31
+
+> <ALOGPS_LOGS>
+-1.9
+
+> <JCHEM_POLARIZABILITY>
+18.41
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.63
+
+> <JCHEM_REFRACTIVITY>
+48.03
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.28e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,134 @@
+601
+  Mrv0541 02231214482D          
+
+ 24 26  0  0  1  0            999 V2000
+    2.0883   -2.0559    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9298    1.6887    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5173   -4.5309    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9693    0.6491    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    3.6910    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5173    0.4191    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5173   -2.8809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9554    3.1098    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1048    1.6887    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.8498    0.9040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2318   -3.2934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8028   -3.2934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5173   -0.4059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6199    2.3561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5173   -2.0559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2318   -4.1184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8028   -4.1184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1848    0.9040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8028   -0.8184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2318   -0.8184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8028   -1.6434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2318   -1.6434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4705    3.7772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8061    4.5309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 21  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3 16  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4 18  2  0  0  0  0
+  5 23  2  0  0  0  0
+  6 10  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  6  0  0  0
+ 11 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 19  2  0  0  0  0
+ 13 20  1  0  0  0  0
+ 15 21  2  0  0  0  0
+ 15 22  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 22  2  0  0  0  0
+ 23 24  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00601
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Linezolid
+
+> <SYNONYMS>
+Linezolid; Linezolid; Linezolide; Linezolidum
+
+> <BRANDS>
+Antizolid; Linosept; Linozid; Lizbid; Lizemox; Lizolid; Xolid; Zenix; Zizolid; Zodlin; Zolinid; Zyvox; Zyvoxam; Zyvoxid
+
+> <CHEMICAL_FORMULA>
+C16H20FN3O4
+
+> <MOLECULAR_WEIGHT>
+337.3461
+
+> <EXACT_MASS>
+337.143784348
+
+> <IUPAC_NAME>
+N-{[(5S)-3-[3-fluoro-4-(morpholin-4-yl)phenyl]-2-oxo-1,3-oxazolidin-5-yl]methyl}acetamide
+
+> <IUPAC_TRADITIONAL_NAME>
+linezolid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H20FN3O4/c1-11(21)18-9-13-10-20(16(22)24-13)12-2-3-15(14(17)8-12)19-4-6-23-7-5-19/h2-3,8,13H,4-7,9-10H2,1H3,(H,18,21)/t13-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=TYZROVQLWOKYKF-ZDUSSCGKSA-N
+
+> <SMILES>
+CC(=O)NC[C@H]1CN(C(=O)O1)C1=CC(F)=C(C=C1)N1CCOCC1
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+14.45
+
+> <JCHEM_BASIC_PKA>
+-0.66
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+0.61
+
+> <JCHEM_LOGP>
+0.64
+
+> <ALOGPS_LOGS>
+-2.4
+
+> <JCHEM_POLARIZABILITY>
+34.06
+
+> <JCHEM_POLAR_SURFACE_AREA>
+71.11
+
+> <JCHEM_REFRACTIVITY>
+84.47
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.44e+00 g/l __ 
+
+$$$$

@@ -1,0 +1,113 @@
+TDB
+  Mrv0541 02241214122D          
+
+ 17 18  0  0  0  0            999 V2000
+   -1.6222    1.3196    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1072    0.6522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9322    0.6522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6222   -0.0152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8376    0.2397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8376    1.0647    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1232    1.4772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5913    1.0647    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5913    0.2397    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1232   -0.1728    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1232   -0.9978    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3058   -0.1728    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8933   -0.8873    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7183    0.5417    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0203   -0.5853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0203   -1.4103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7347   -1.8228    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08605
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-METHYL-2(PROPANE-1-SULFONYL)-2H-THIENO[3,2-D][1,2,3]DIAZABORININ-1-OL
+
+> <CHEMICAL_FORMULA>
+C9H13BN2O3S2
+
+> <MOLECULAR_WEIGHT>
+272.152
+
+> <EXACT_MASS>
+272.046064138
+
+> <IUPAC_NAME>
+6-methyl-2-(propane-1-sulfonyl)-1H,2H-thieno[3,2-d][1,2,3]diazaborinin-1-ol
+
+> <IUPAC_TRADITIONAL_NAME>
+6-methyl-2-(propane-1-sulfonyl)thieno[3,2-d][1,2,3]diazaborinin-1-ol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13BN2O3S2/c1-3-4-17(14,15)12-10(13)8-5-7(2)16-9(8)6-11-12/h5-6,13H,3-4H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=TVXLILKNSPCVRB-UHFFFAOYSA-N
+
+> <SMILES>
+CCCS(=O)(=O)N1N=CC2=C(C=C(C)S2)B1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+6.09
+
+> <JCHEM_BASIC_PKA>
+1.24
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+1.31
+
+> <JCHEM_LOGP>
+1.7
+
+> <ALOGPS_LOGS>
+-3.4
+
+> <JCHEM_POLARIZABILITY>
+27.33
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.19
+
+> <JCHEM_REFRACTIVITY>
+62.85
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.15e-01 g/l __ 
+
+$$$$

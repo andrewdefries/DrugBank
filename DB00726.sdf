@@ -1,0 +1,130 @@
+726
+  Mrv0541 02231214572D          
+
+ 22 24  0  0  1  0            999 V2000
+    3.8680    0.7167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4959   -1.6597    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1820   -0.4715    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8680   -0.0755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5817    1.0603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1542    1.0603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1819   -1.2637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2641    2.4519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4719    2.4519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7580    1.8326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9780    1.8326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4959   -0.0755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1777    0.4899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5581    0.4899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5425    2.0879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1934    2.0879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9680    0.7269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7678    0.7269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1516    1.5314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5843    1.5315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4959   -2.4519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8099   -1.2637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 21  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 12  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 13  2  0  0  0  0
+  6 11  1  0  0  0  0
+  6 14  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 11 16  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 20  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00726
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Trimipramine
+
+> <SYNONYMS>
+beta-Methylimipramine; Trimeprimina; Trimeprimine; Trimipramina; Trimipramine; Trimipraminum
+
+> <SALTS>
+Trimipramine maleate
+
+> <BRANDS>
+Herphonal; Sapilent; Stangyl; Surmontil; Trimidura; Trimineurin; Tripress; Tydamine
+
+> <CHEMICAL_FORMULA>
+C20H26N2
+
+> <MOLECULAR_WEIGHT>
+294.4338
+
+> <EXACT_MASS>
+294.209598842
+
+> <IUPAC_NAME>
+(3-{2-azatricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3(8),4,6,12,14-hexaen-2-yl}-2-methylpropyl)dimethylamine
+
+> <IUPAC_TRADITIONAL_NAME>
+trimipramine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H26N2/c1-16(14-21(2)3)15-22-19-10-6-4-8-17(19)12-13-18-9-5-7-11-20(18)22/h4-11,16H,12-15H2,1-3H3
+
+> <INCHI_KEY>
+InChIKey=ZSCDBOWYZJWBIY-UHFFFAOYSA-N
+
+> <SMILES>
+CC(CN(C)C)CN1C2=CC=CC=C2CCC2=CC=CC=C12
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+9.42
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+4.67
+
+> <JCHEM_LOGP>
+4.76
+
+> <ALOGPS_LOGS>
+-4
+
+> <JCHEM_POLARIZABILITY>
+35.67
+
+> <JCHEM_POLAR_SURFACE_AREA>
+6.48
+
+> <JCHEM_REFRACTIVITY>
+95.02
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+2.60e-02 g/l __ 
+
+$$$$

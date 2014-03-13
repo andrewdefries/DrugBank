@@ -1,0 +1,99 @@
+
+  Mrv0541 02231217082D          
+
+ 11 10  0  0  0  0            999 V2000
+    1.4289   -4.7289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -3.9039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.4914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.6664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.2539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03709
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Bicine
+
+> <CHEMICAL_FORMULA>
+C6H13NO4
+
+> <MOLECULAR_WEIGHT>
+163.1717
+
+> <EXACT_MASS>
+163.084457909
+
+> <IUPAC_NAME>
+2-[bis(2-hydroxyethyl)amino]acetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+bicine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13NO4/c8-3-1-7(2-4-9)5-6(10)11/h8-9H,1-5H2,(H,10,11)
+
+> <INCHI_KEY>
+InChIKey=FSVCELGFZIQNCK-UHFFFAOYSA-N
+
+> <SMILES>
+OCCN(CCO)CC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+3.01
+
+> <JCHEM_BASIC_PKA>
+7.66
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.6
+
+> <JCHEM_LOGP>
+-4.4
+
+> <ALOGPS_LOGS>
+0.05
+
+> <JCHEM_POLARIZABILITY>
+16.3
+
+> <JCHEM_POLAR_SURFACE_AREA>
+81
+
+> <JCHEM_REFRACTIVITY>
+38.66
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <ALOGPS_SOLUBILITY>
+1.82e+02 g/l __ 
+
+$$$$

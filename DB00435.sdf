@@ -1,0 +1,75 @@
+
+  Mrv0541 02231214402D          
+
+  2  1  0  0  0  0            999 V2000
+   -0.4125    0.0034    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -0.0034    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00435
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Nitric Oxide
+
+> <SYNONYMS>
+EDRF; endothelium-derived relaxing factor; Mononitrogen monoxide; nitrogen monooxide
+
+> <BRANDS>
+INOmax
+
+> <CHEMICAL_FORMULA>
+NO
+
+> <MOLECULAR_WEIGHT>
+30.0061
+
+> <EXACT_MASS>
+29.997988627
+
+> <IUPAC_NAME>
+nitroso
+
+> <IUPAC_TRADITIONAL_NAME>
+nitric oxide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/NO/c1-2
+
+> <INCHI_KEY>
+InChIKey=MWUXSHHQAYIFBG-UHFFFAOYSA-N
+
+> <SMILES>
+[N]=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-2.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_LOGP>
+-0.35
+
+> <JCHEM_POLARIZABILITY>
+1.69
+
+> <JCHEM_POLAR_SURFACE_AREA>
+34.14
+
+> <JCHEM_REFRACTIVITY>
+2.89
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0 __ 
+
+$$$$

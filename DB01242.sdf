@@ -1,0 +1,130 @@
+1242
+  Mrv0541 02231215212D          
+
+ 22 24  0  0  0  0            999 V2000
+    1.5842    0.1860    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2627    0.7166    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6347   -1.6596    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2627   -0.0755    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5491    1.0603    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9763    1.0603    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8667    2.4517    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6588    2.4517    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3729    1.8325    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1526    1.8325    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9488   -0.4715    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9488   -1.2636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9530    0.4898    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5725    0.4898    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5884    2.0878    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9373    2.0878    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1627    0.7270    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3627    0.7269    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9792    1.5314    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.5464    1.5313    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6347   -2.4517    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3207   -1.2636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 21  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  9  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 14  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 16  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 19  2  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01242
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Clomipramine
+
+> <SYNONYMS>
+3-Chloroimipramine; Chlorimipramine; Clomipramina; Clomipraminum; Monochlorimipramine
+
+> <SALTS>
+Clomipramine Hydrochloride 
+
+> <BRANDS>
+Anafranil
+
+> <CHEMICAL_FORMULA>
+C19H23ClN2
+
+> <MOLECULAR_WEIGHT>
+314.852
+
+> <EXACT_MASS>
+314.154976453
+
+> <IUPAC_NAME>
+(3-{5-chloro-2-azatricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3(8),4,6,12,14-hexaen-2-yl}propyl)dimethylamine
+
+> <IUPAC_TRADITIONAL_NAME>
+clomipramine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H23ClN2/c1-21(2)12-5-13-22-18-7-4-3-6-15(18)8-9-16-10-11-17(20)14-19(16)22/h3-4,6-7,10-11,14H,5,8-9,12-13H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=GDLIGKIOYRNHDA-UHFFFAOYSA-N
+
+> <SMILES>
+CN(C)CCCN1C2=CC=CC=C2CCC2=C1C=C(Cl)C=C2
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+9.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+5.04
+
+> <JCHEM_LOGP>
+4.88
+
+> <ALOGPS_LOGS>
+-4.3
+
+> <JCHEM_POLARIZABILITY>
+35.73
+
+> <JCHEM_POLAR_SURFACE_AREA>
+6.48
+
+> <JCHEM_REFRACTIVITY>
+95.41
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+1.44e-02 g/l __ 
+
+$$$$

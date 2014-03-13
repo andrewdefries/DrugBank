@@ -1,0 +1,119 @@
+
+  Mrv0541 02231216312D          
+
+ 20 21  0  0  1  0            999 V2000
+    2.8579    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C    0  0  2  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -3.7125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -4.1250    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    0.8250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302    1.2375    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  6 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  2 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 14 20  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02880
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-[1-(4-Bromophenyl)Ethyl]-5-Fluoro Salicylamide
+
+> <CHEMICAL_FORMULA>
+C15H13BrFNO2
+
+> <MOLECULAR_WEIGHT>
+338.172
+
+> <EXACT_MASS>
+337.011369517
+
+> <IUPAC_NAME>
+N-[(1S)-1-(4-bromophenyl)ethyl]-5-fluoro-2-hydroxybenzamide
+
+> <IUPAC_TRADITIONAL_NAME>
+N-[(1S)-1-(4-bromophenyl)ethyl]-5-fluoro-2-hydroxybenzamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H13BrFNO2/c1-9(10-2-4-11(16)5-3-10)18-15(20)13-8-12(17)6-7-14(13)19/h2-9,19H,1H3,(H,18,20)/t9-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=KFTNEILVDDUXGR-VIFPVBQESA-N
+
+> <SMILES>
+C[C@H](NC(=O)C1=CC(F)=CC=C1O)C1=CC=C(Br)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+7.93
+
+> <JCHEM_BASIC_PKA>
+-1.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+4.56
+
+> <JCHEM_LOGP>
+4.45
+
+> <ALOGPS_LOGS>
+-4.5
+
+> <JCHEM_POLARIZABILITY>
+29.12
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.33
+
+> <JCHEM_REFRACTIVITY>
+78.88
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.06e-02 g/l __ 
+
+$$$$

@@ -1,0 +1,113 @@
+PTB
+  Mrv0541 02231217132D          
+
+ 17 18  0  0  0  0            999 V2000
+   -1.2088    1.2560    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4637    0.4714    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.9788   -0.1961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3144   -0.9497    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2887    0.4714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5437    1.2560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8762    1.7409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1583   -0.1098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2542    0.6047    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0611    0.4331    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1474   -0.3874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3937   -0.7229    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8618   -0.7999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5763   -1.2124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4493   -1.5143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2743   -0.0854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8870    0.5627    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  6  0  0  0
+  2  5  1  0  0  0  0
+  2 17  1  1  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03833
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Prolyl-5-Tert-Butyl-[1,3,4]Oxadiazole
+
+> <CHEMICAL_FORMULA>
+C11H17N3O2
+
+> <MOLECULAR_WEIGHT>
+223.2716
+
+> <EXACT_MASS>
+223.132076803
+
+> <IUPAC_NAME>
+2-tert-butyl-5-{[(2S)-pyrrolidin-2-yl]carbonyl}-1,3,4-oxadiazole
+
+> <IUPAC_TRADITIONAL_NAME>
+2-tert-butyl-5-{[(2S)-pyrrolidin-2-yl]carbonyl}-1,3,4-oxadiazole
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H17N3O2/c1-11(2,3)10-14-13-9(16-10)8(15)7-5-4-6-12-7/h7,12H,4-6H2,1-3H3/t7-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=YUKGJYBQODPVBL-ZETCQYMHSA-N
+
+> <SMILES>
+[H][C@]1(CCCN1)C(=O)C1=NN=C(O1)C(C)(C)C
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+15.34
+
+> <JCHEM_BASIC_PKA>
+8.34
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+1.12
+
+> <JCHEM_LOGP>
+0.94
+
+> <ALOGPS_LOGS>
+-2.6
+
+> <JCHEM_POLARIZABILITY>
+24.09
+
+> <JCHEM_POLAR_SURFACE_AREA>
+68.02
+
+> <JCHEM_REFRACTIVITY>
+60.43
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+5.24e-01 g/l __ 
+
+$$$$

@@ -1,0 +1,96 @@
+
+  Mrv0541 02231217272D          
+
+  9  9  0  0  0  0            999 V2000
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  2  9  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04120
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Methyl-1,2-Benzenediol
+
+> <CHEMICAL_FORMULA>
+C7H8O2
+
+> <MOLECULAR_WEIGHT>
+124.1372
+
+> <EXACT_MASS>
+124.0524295
+
+> <IUPAC_NAME>
+4-methylbenzene-1,2-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+4-methyl-1,2-benzenediol
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8O2/c1-5-2-3-6(8)7(9)4-5/h2-4,8-9H,1H3
+
+> <INCHI_KEY>
+InChIKey=ZBCATMYQYDCTIZ-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=CC=C(O)C(O)=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.55
+
+> <JCHEM_BASIC_PKA>
+-6.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.02
+
+> <JCHEM_LOGP>
+1.88
+
+> <ALOGPS_LOGS>
+-0.52
+
+> <JCHEM_POLARIZABILITY>
+12.82
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+35.06
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.79e+01 g/l __ 
+
+$$$$

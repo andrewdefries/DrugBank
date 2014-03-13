@@ -1,0 +1,121 @@
+
+  Mrv0541 02231216442D          
+
+ 21 22  0  0  1  0            999 V2000
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.3819   -1.7224    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270   -2.5070    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3020   -2.5070    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.1830   -3.1745    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0470   -1.7224    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7376   -1.4675    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9091   -0.6605    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0806    0.1465    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7161   -0.8320    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1021   -0.4890    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6119   -3.1745    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4324   -3.0882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9173   -3.7557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5817   -4.5094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0667   -5.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7613   -4.5956    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2763   -3.9282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4559   -4.0144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  6  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  6  0  0  0
+  6  8  1  0  0  0  0
+  3  8  1  0  0  0  0
+  8  9  1  6  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+  5 14  1  1  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03155
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-(2-Deoxy-2-Fluoro-3-O-Phosphono-Beta-L-Ribofuranosyl)Pyrimidine-2,4(1h,3h)-Dione
+
+> <CHEMICAL_FORMULA>
+C9H12FN2O8P
+
+> <MOLECULAR_WEIGHT>
+326.1723
+
+> <EXACT_MASS>
+326.031530087
+
+> <IUPAC_NAME>
+{[(2S,3R,4R,5R)-5-(2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-yl)-4-fluoro-2-(hydroxymethyl)oxolan-3-yl]oxy}phosphonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+[(2S,3R,4R,5R)-5-(2,4-dioxo-3H-pyrimidin-1-yl)-4-fluoro-2-(hydroxymethyl)oxolan-3-yl]oxyphosphonic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H12FN2O8P/c10-6-7(20-21(16,17)18)4(3-13)19-8(6)12-2-1-5(14)11-9(12)15/h1-2,4,6-8,13H,3H2,(H,11,14,15)(H2,16,17,18)/t4-,6+,7+,8+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=IFIXUMAFUNKIAA-MLQRGLMKSA-N
+
+> <SMILES>
+OC[C@@H]1O[C@H]([C@H](F)[C@@H]1OP(O)(O)=O)N1C=CC(=O)NC1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+0.58
+
+> <JCHEM_BASIC_PKA>
+-3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-0.68
+
+> <JCHEM_LOGP>
+-1.6
+
+> <ALOGPS_LOGS>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+25.73
+
+> <JCHEM_POLAR_SURFACE_AREA>
+145.63
+
+> <JCHEM_REFRACTIVITY>
+61.75
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+8.91e+00 g/l __ 
+
+$$$$

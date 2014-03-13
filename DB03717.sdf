@@ -1,0 +1,115 @@
+
+  Mrv0541 02231217082D          
+
+ 18 19  0  0  1  0            999 V2000
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.9500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.7125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  6  0  0  0
+  7  6  1  6  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+  7 13  1  0  0  0  0
+ 13 14  1  6  0  0  0
+  5 15  1  0  0  0  0
+ 15 16  1  1  0  0  0
+ 15 17  1  0  0  0  0
+  2 17  1  0  0  0  0
+ 17 18  1  6  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03717
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Hydroxy-4-(3,4,5-Trihydroxy-Tetrahydro-Pyran-2-Yloxy)-Piperidin-2-One
+
+> <CHEMICAL_FORMULA>
+C10H17NO7
+
+> <MOLECULAR_WEIGHT>
+263.2445
+
+> <EXACT_MASS>
+263.100501903
+
+> <IUPAC_NAME>
+(3R,4R)-3-hydroxy-4-{[(2S,3R,4S,5S)-3,4,5-trihydroxyoxan-2-yl]oxy}piperidin-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+(3R,4R)-3-hydroxy-4-{[(2S,3R,4S,5S)-3,4,5-trihydroxyoxan-2-yl]oxy}piperidin-2-one
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H17NO7/c12-4-3-17-10(8(15)6(4)13)18-5-1-2-11-9(16)7(5)14/h4-8,10,12-15H,1-3H2,(H,11,16)/t4-,5+,6-,7+,8+,10-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=BHZMHPRIYUPDCT-SANCVPIZSA-N
+
+> <SMILES>
+O[C@H]1CO[C@@H](O[C@@H]2CCNC(=O)[C@@H]2O)[C@H](O)[C@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+11.91
+
+> <JCHEM_BASIC_PKA>
+-3.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.6
+
+> <JCHEM_LOGP>
+-3.3
+
+> <ALOGPS_LOGS>
+0.12
+
+> <JCHEM_POLARIZABILITY>
+24.82
+
+> <JCHEM_POLAR_SURFACE_AREA>
+128.48
+
+> <JCHEM_REFRACTIVITY>
+56.12
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+3.45e+02 g/l __ 
+
+$$$$

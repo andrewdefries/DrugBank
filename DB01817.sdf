@@ -1,0 +1,109 @@
+
+  Mrv0541 02231215452D          
+
+ 16 15  0  0  1  0            999 V2000
+    6.5704    1.3184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.1414    1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.7125    1.3184    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9980    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2836    2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9980    3.3809    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.2849    3.3809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  6  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+  2 12  1  0  0  0  0
+ 12 13  1  1  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01817
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Threonine-Aspartic Ester
+
+> <CHEMICAL_FORMULA>
+C8H16N2O6
+
+> <MOLECULAR_WEIGHT>
+236.2224
+
+> <EXACT_MASS>
+236.100836254
+
+> <IUPAC_NAME>
+(2R,3S)-2-amino-3-[(1S,3S)-3-amino-3-carboxy-1-hydroxypropoxy]butanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+threonine-aspartic ester
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H16N2O6/c1-3(6(10)8(14)15)16-5(11)2-4(9)7(12)13/h3-6,11H,2,9-10H2,1H3,(H,12,13)(H,14,15)/t3-,4-,5-,6+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=VCAYFLVMRCFGDV-OMMKOOBNSA-N
+
+> <SMILES>
+C[C@H](O[C@H](O)C[C@H](N)C(O)=O)[C@@H](N)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+1.62
+
+> <JCHEM_BASIC_PKA>
+9.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-4.2
+
+> <JCHEM_LOGP>
+-6.3
+
+> <ALOGPS_LOGS>
+-0.92
+
+> <JCHEM_POLARIZABILITY>
+21.89
+
+> <JCHEM_POLAR_SURFACE_AREA>
+156.1
+
+> <JCHEM_REFRACTIVITY>
+50.47
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+2.81e+01 g/l __ 
+
+$$$$

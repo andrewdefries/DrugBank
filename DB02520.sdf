@@ -1,0 +1,90 @@
+
+  Mrv0541 02231216152D          
+
+  8  7  0  0  0  0            999 V2000
+    0.0000   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02520
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Diethylcarbamodithioic Acid
+
+> <CHEMICAL_FORMULA>
+C5H11NS2
+
+> <MOLECULAR_WEIGHT>
+149.278
+
+> <EXACT_MASS>
+149.033290737
+
+> <IUPAC_NAME>
+diethyl[sulfanyl(carbonothioyl)]amine
+
+> <IUPAC_TRADITIONAL_NAME>
+ditiocarb
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11NS2/c1-3-6(4-2)5(7)8/h3-4H2,1-2H3,(H,7,8)
+
+> <INCHI_KEY>
+InChIKey=LMBWSYZSUOEYSN-UHFFFAOYSA-N
+
+> <SMILES>
+CCN(CC)C(S)=S
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+3.1
+
+> <JCHEM_LOGP>
+2.01
+
+> <ALOGPS_LOGS>
+-2.9
+
+> <JCHEM_POLARIZABILITY>
+16.14
+
+> <JCHEM_POLAR_SURFACE_AREA>
+3.24
+
+> <JCHEM_REFRACTIVITY>
+45.02
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.86e-01 g/l __ 
+
+$$$$

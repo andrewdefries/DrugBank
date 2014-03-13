@@ -1,0 +1,95 @@
+
+  Mrv0541 02231215442D          
+
+ 10 10  0  0  1  0            999 V2000
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  2  1  6  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  4 10  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01802
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(4r)-7aza-7,8-Dihydrolimonene
+
+> <CHEMICAL_FORMULA>
+C9H17N
+
+> <MOLECULAR_WEIGHT>
+139.238
+
+> <EXACT_MASS>
+139.136099549
+
+> <IUPAC_NAME>
+(1R)-N,N,4-trimethylcyclohex-3-en-1-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+(1R)-N,N,4-trimethylcyclohex-3-en-1-amine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H17N/c1-8-4-6-9(7-5-8)10(2)3/h4,9H,5-7H2,1-3H3/t9-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=LDFVYCXKPXXSNO-VIFPVBQESA-N
+
+> <SMILES>
+CN(C)[C@@H]1CCC(C)=CC1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+10.16
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.09
+
+> <JCHEM_LOGP>
+1.87
+
+> <ALOGPS_LOGS>
+-0.27
+
+> <JCHEM_POLARIZABILITY>
+17.7
+
+> <JCHEM_POLAR_SURFACE_AREA>
+3.24
+
+> <JCHEM_REFRACTIVITY>
+46.4
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.44e+01 g/l __ 
+
+$$$$

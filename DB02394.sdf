@@ -1,0 +1,103 @@
+
+  Mrv0541 02231216102D          
+
+ 12 13  0  0  1  0            999 V2000
+   -0.7612   -1.5395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0638   -1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4763   -0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.2382   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4763    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.1908    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9053    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.6197    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9053   -0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.6197   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1908   -1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.1908   -2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  6  0  0  0
+  3  4  1  0  0  0  0
+  5  4  1  1  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  1  0  0  0
+  9 11  1  0  0  0  0
+  3 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02394
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Oxiranpseudoglucose
+
+> <CHEMICAL_FORMULA>
+C7H12O5
+
+> <MOLECULAR_WEIGHT>
+176.1672
+
+> <EXACT_MASS>
+176.068473494
+
+> <IUPAC_NAME>
+(1R,2R,3R,4S,6S)-1-(hydroxymethyl)-7-oxabicyclo[4.1.0]heptane-2,3,4-triol
+
+> <IUPAC_TRADITIONAL_NAME>
+oxiranpseudoglucose
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H12O5/c8-2-7-4(12-7)1-3(9)5(10)6(7)11/h3-6,8-11H,1-2H2/t3-,4-,5+,6+,7-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=BDIDRHMZXLEMIZ-TYDWOXHJSA-N
+
+> <SMILES>
+OC[C@]12O[C@H]1C[C@H](O)[C@@H](O)[C@H]2O
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+12.63
+
+> <JCHEM_BASIC_PKA>
+-3.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.2
+
+> <JCHEM_LOGP>
+-2.7
+
+> <ALOGPS_LOGS>
+0.82
+
+> <JCHEM_POLARIZABILITY>
+16.35
+
+> <JCHEM_POLAR_SURFACE_AREA>
+93.45
+
+> <JCHEM_REFRACTIVITY>
+37.35
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.16e+03 g/l __ 
+
+$$$$

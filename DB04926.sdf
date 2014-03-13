@@ -1,0 +1,102 @@
+
+  Mrv0541 02231218012D          
+
+ 12 12  0  0  0  0            999 V2000
+    3.6020    1.1118    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.8403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041   -0.8403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    0.3972    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.2528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.0153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041   -0.0153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -1.5547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.8403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3166   -1.5547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7291   -0.8403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770    1.1118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04926
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Neramexane
+
+> <BRANDS>
+
+
+> <CHEMICAL_FORMULA>
+C11H23N
+
+> <MOLECULAR_WEIGHT>
+169.307
+
+> <EXACT_MASS>
+169.183049741
+
+> <IUPAC_NAME>
+1,3,3,5,5-pentamethylcyclohexan-1-amine
+
+> <IUPAC_TRADITIONAL_NAME>
+neramexane
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H23N/c1-9(2)6-10(3,4)8-11(5,12)7-9/h6-8,12H2,1-5H3
+
+> <INCHI_KEY>
+InChIKey=OGZQTTHDGQBLBT-UHFFFAOYSA-N
+
+> <SMILES>
+CC1(C)CC(C)(C)CC(C)(N)C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+10.66
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+3.74
+
+> <JCHEM_LOGP>
+2.63
+
+> <ALOGPS_LOGS>
+-3.4
+
+> <JCHEM_POLARIZABILITY>
+21.66
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+53.62
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+6.29e-02 g/l __ 
+
+$$$$

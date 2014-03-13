@@ -1,0 +1,94 @@
+
+  Mrv0541 02231216582D          
+
+  8  8  0  0  1  0            999 V2000
+    2.0198    0.8843    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2352    0.6294    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.9803   -0.1553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1553   -0.1553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3297   -0.8227    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0997    0.6294    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5678    1.1143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5678    1.9393    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03487
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Aminosuccinimide
+
+> <CHEMICAL_FORMULA>
+C4H6N2O2
+
+> <MOLECULAR_WEIGHT>
+114.1026
+
+> <EXACT_MASS>
+114.042927446
+
+> <IUPAC_NAME>
+(3R)-3-aminopyrrolidine-2,5-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+3-aminosuccinimide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6N2O2/c5-2-1-3(7)6-4(2)8/h2H,1,5H2,(H,6,7,8)/t2-/m1/s1
+
+> <INCHI_KEY>
+InChIKey=YDNMHDRXNOHCJH-UWTATZPHSA-N
+
+> <SMILES>
+N[C@@H]1CC(=O)NC1=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+9.7
+
+> <JCHEM_BASIC_PKA>
+6.53
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-1.8
+
+> <JCHEM_LOGP>
+-1.8
+
+> <ALOGPS_LOGS>
+0.47
+
+> <JCHEM_POLARIZABILITY>
+10.09
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.19
+
+> <JCHEM_REFRACTIVITY>
+25.28
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.40e+02 g/l __ 
+
+$$$$

@@ -1,0 +1,117 @@
+594
+  Mrv0541 02231214482D          
+
+ 15 15  0  0  0  0            999 V2000
+    6.3799   -0.0784    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.4909    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -1.7284    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.0784    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.7284    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.7466    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799   -1.7284    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.9842    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.7466    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.4909    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.3159    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -1.3159    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -0.4909    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.0784    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.1592    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  2 14  2  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  2  0  0  0  0
+  4 10  1  0  0  0  0
+  4 13  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00594
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Amiloride
+
+> <SYNONYMS>
+Amilorid; Amilorida; Amiloridum; Amipramidin; Amipramidine; Amyloride
+
+> <SALTS>
+Amiloride Hydrochloride
+
+> <BRANDS>
+Diurex; Kaluril; Midamor; Moduret
+
+> <CHEMICAL_FORMULA>
+C6H8ClN7O
+
+> <MOLECULAR_WEIGHT>
+229.627
+
+> <EXACT_MASS>
+229.04788562
+
+> <IUPAC_NAME>
+3,5-diamino-6-chloro-N-(diaminomethylidene)pyrazine-2-carboxamide
+
+> <IUPAC_TRADITIONAL_NAME>
+amiloride
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H8ClN7O/c7-2-4(9)13-3(8)1(12-2)5(15)14-6(10)11/h(H4,8,9,13)(H4,10,11,14,15)
+
+> <INCHI_KEY>
+InChIKey=XSDQTOBWRPYKKA-UHFFFAOYSA-N
+
+> <SMILES>
+NC(N)=NC(=O)C1=C(N)N=C(N)C(Cl)=N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+16.46
+
+> <JCHEM_BASIC_PKA>
+3.29
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.72
+
+> <JCHEM_LOGP>
+-0.89
+
+> <ALOGPS_LOGS>
+-2.3
+
+> <JCHEM_POLARIZABILITY>
+19.99
+
+> <JCHEM_POLAR_SURFACE_AREA>
+159.29
+
+> <JCHEM_REFRACTIVITY>
+56.69
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.22e+00 g/l __ 
+
+$$$$

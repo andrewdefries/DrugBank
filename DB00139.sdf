@@ -1,0 +1,93 @@
+139
+  Mrv0541 02231214282D          
+
+  8  7  0  0  0  0            999 V2000
+    2.0928    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6650   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8072   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9504    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5217    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2361   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8072   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9504    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00139
+
+> <DRUG_GROUPS>
+approved; nutraceutical
+
+> <GENERIC_NAME>
+Succinic acid
+
+> <SYNONYMS>
+1,2-Ethanedicarboxylic acid; Amber acid; Asuccin; Bernsteinsaure; Butanedioic acid; Butanedionic acid; Spirit of amber
+
+> <CHEMICAL_FORMULA>
+C4H6O4
+
+> <MOLECULAR_WEIGHT>
+118.088
+
+> <EXACT_MASS>
+118.02660868
+
+> <IUPAC_NAME>
+butanedioic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+succinic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6O4/c5-3(6)1-2-4(7)8/h1-2H2,(H,5,6)(H,7,8)
+
+> <INCHI_KEY>
+InChIKey=KDYFGRWQOYBRFD-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)CCC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+3.55
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-0.53
+
+> <JCHEM_LOGP>
+-0.4
+
+> <ALOGPS_LOGS>
+0.25
+
+> <JCHEM_POLARIZABILITY>
+10.14
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+23.54
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.11e+02 g/l __ 
+
+$$$$

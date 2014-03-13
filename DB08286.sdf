@@ -1,0 +1,109 @@
+NOA
+  Mrv0541 02241213592D          
+
+ 15 16  0  0  0  0            999 V2000
+   -0.0733   -2.1497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0733   -1.3247    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7878   -0.0872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5023    0.3253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5023    1.1503    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7878    1.5628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0733    1.1503    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411    1.5628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    1.1503    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    0.3253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411   -0.0872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0733    0.3253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411   -2.5622    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7878   -2.5622    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7878   -0.9122    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 13  2  0  0  0  0
+  1 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 12  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08286
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+NAPHTHYLOXYACETIC ACID
+
+> <CHEMICAL_FORMULA>
+C12H10O3
+
+> <MOLECULAR_WEIGHT>
+202.206
+
+> <EXACT_MASS>
+202.062994186
+
+> <IUPAC_NAME>
+2-(naphthalen-1-yloxy)acetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+1-naphthyloxyacetic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H10O3/c13-12(14)8-15-11-7-3-5-9-4-1-2-6-10(9)11/h1-7H,8H2,(H,13,14)
+
+> <INCHI_KEY>
+InChIKey=GHRYSOFWKRRLMI-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)COC1=CC=CC2=CC=CC=C12
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+4.05
+
+> <JCHEM_BASIC_PKA>
+-4.9
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+2.65
+
+> <JCHEM_LOGP>
+2.28
+
+> <ALOGPS_LOGS>
+-2.9
+
+> <JCHEM_POLARIZABILITY>
+20.59
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+55.06
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+2.37e-01 g/l __ 
+
+$$$$

@@ -1,0 +1,88 @@
+
+  Mrv0541 02231217212D          
+
+  7  6  0  0  0  0            999 V2000
+    1.2375    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB04018
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+S-Isopropyl-Isothiourea
+
+> <CHEMICAL_FORMULA>
+C4H10N2S
+
+> <MOLECULAR_WEIGHT>
+118.201
+
+> <EXACT_MASS>
+118.05646902
+
+> <IUPAC_NAME>
+(propan-2-ylsulfanyl)methanimidamide
+
+> <IUPAC_TRADITIONAL_NAME>
+isopropylsulfanylmethanimidamide
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H10N2S/c1-3(2)7-4(5)6/h3H,1-2H3,(H3,5,6)
+
+> <INCHI_KEY>
+InChIKey=XSSNABKEYXKKMK-UHFFFAOYSA-N
+
+> <SMILES>
+CC(C)SC(N)=N
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_BASIC_PKA>
+10.56
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+0.62
+
+> <JCHEM_LOGP>
+0.98
+
+> <ALOGPS_LOGS>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+12.85
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.87
+
+> <JCHEM_REFRACTIVITY>
+44.25
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+3.18e+00 g/l __ 
+
+$$$$

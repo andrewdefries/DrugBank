@@ -1,0 +1,125 @@
+755
+  Mrv0541 02231214592D          
+
+ 22 22  0  0  0  0            999 V2000
+    2.0930    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9524    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6668    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6668   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2379    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9524   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2379   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3649    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5398    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5234    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5234   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8089    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0944    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0944    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 22  1  0  0  0  0
+  2 22  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 11 13  2  3  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  3  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  3  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  2  3  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00755
+
+> <DRUG_GROUPS>
+approved; investigational; nutraceutical
+
+> <GENERIC_NAME>
+Tretinoin
+
+> <SYNONYMS>
+All Trans Retinoic Acid; All Trans-Retinoic Acid; ATRA; Retionic Acid; Tretinoin; Tretinoina; Trétinoïne; Tretinoinum; Vitamin A acid
+
+> <BRANDS>
+Aberel; Aberela; Airol; Amnesteem; Claravis; Dermairol; Eudyna; Kétrel; Retisol-A; Sotret; Stieva-A; Vesanoid; Vitinoin
+
+> <CHEMICAL_FORMULA>
+C20H28O2
+
+> <MOLECULAR_WEIGHT>
+300.4351
+
+> <EXACT_MASS>
+300.20893014
+
+> <IUPAC_NAME>
+3,7-dimethyl-9-(2,6,6-trimethylcyclohex-1-en-1-yl)nona-2,4,6,8-tetraenoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+retinoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H28O2/c1-15(8-6-9-16(2)14-19(21)22)11-12-18-17(3)10-7-13-20(18,4)5/h6,8-9,11-12,14H,7,10,13H2,1-5H3,(H,21,22)/b9-6+,12-11+,15-8+,16-14+
+
+> <INCHI_KEY>
+InChIKey=SHGAZHPCJJPHSC-YCNIQYBTSA-N
+
+> <SMILES>
+CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+5.66
+
+> <JCHEM_LOGP>
+5.01
+
+> <ALOGPS_LOGS>
+-4.8
+
+> <JCHEM_POLARIZABILITY>
+36.62
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+97.79
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <ALOGPS_SOLUBILITY>
+4.77e-03 g/l __ 
+
+$$$$

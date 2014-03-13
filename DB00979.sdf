@@ -1,0 +1,130 @@
+979
+  Mrv0541 02231215092D          
+
+ 21 22  0  0  1  0            999 V2000
+    6.0383    1.4696    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.5051    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.7426    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.9176    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    0.9176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2035    1.5307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0640    0.2031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9572    1.1951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8709    0.3746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.5051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -0.3199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.9176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -0.7325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.7325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.9176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -1.5575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -1.5575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -1.9700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.5051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.7426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.5051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 12  2  0  0  0  0
+  4 19  1  0  0  0  0
+  4 20  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00979
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Cyclopentolate
+
+> <SYNONYMS>
+(±)-cyclopentolate; Ciclopentolato; Cyclopentolatum; α-(1-hydroxycyclopentyl)benzeneacetic acid 2-(dimethylamino)ethyl ester; β-dimethylaminoethyl (1-hydroxycyclopentyl)phenylacetate
+
+> <SALTS>
+Cyclopentolate Hydrochloride
+
+> <BRANDS>
+Bell Pentolate; Cyclogyl; Cylate; Mydrilate; Ocu-Pentolate; Pentolair
+
+> <CHEMICAL_FORMULA>
+C17H25NO3
+
+> <MOLECULAR_WEIGHT>
+291.3853
+
+> <EXACT_MASS>
+291.183443671
+
+> <IUPAC_NAME>
+2-(dimethylamino)ethyl 2-(1-hydroxycyclopentyl)-2-phenylacetate
+
+> <IUPAC_TRADITIONAL_NAME>
+(+-)-cyclopentolate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H25NO3/c1-18(2)12-13-21-16(19)15(14-8-4-3-5-9-14)17(20)10-6-7-11-17/h3-5,8-9,15,20H,6-7,10-13H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=SKYSRIRYMSLOIN-UHFFFAOYSA-N
+
+> <SMILES>
+CN(C)CCOC(=O)C(C1=CC=CC=C1)C1(O)CCCC1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_ACIDIC_PKA>
+14.19
+
+> <JCHEM_BASIC_PKA>
+8.42
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.09
+
+> <JCHEM_LOGP>
+2.32
+
+> <ALOGPS_LOGS>
+-2.3
+
+> <JCHEM_POLARIZABILITY>
+32.51
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.77
+
+> <JCHEM_REFRACTIVITY>
+82.81
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <ALOGPS_SOLUBILITY>
+1.50e+00 g/l __ 
+
+$$$$

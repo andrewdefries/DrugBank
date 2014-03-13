@@ -1,0 +1,73 @@
+
+  Mrv0541 02231217062D          
+
+  4  3  0  0  0  0            999 V2000
+    2.0625   -0.7145    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 Fe   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Fe   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03681
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Chloro Diiron-Oxo Moiety
+
+> <CHEMICAL_FORMULA>
+ClFe2O
+
+> <MOLECULAR_WEIGHT>
+163.142
+
+> <EXACT_MASS>
+162.833651595
+
+> <IUPAC_NAME>
+chloro(ferriooxy)iron
+
+> <IUPAC_TRADITIONAL_NAME>
+chloro diiron-oxo moiety
+
+> <INCHI_IDENTIFIER>
+InChI=1S/ClH.2Fe.O/h1H;;;/q;;+1;/p-1
+
+> <INCHI_KEY>
+InChIKey=KBTPJIQAZMMQJH-UHFFFAOYSA-M
+
+> <SMILES>
+Cl[Fe]O[Fe]
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-4.6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_LOGP>
+1.71
+
+> <JCHEM_POLARIZABILITY>
+7.75
+
+> <JCHEM_POLAR_SURFACE_AREA>
+9.23
+
+> <JCHEM_REFRACTIVITY>
+7.49
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1 __ 
+
+$$$$

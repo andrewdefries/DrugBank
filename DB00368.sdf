@@ -1,0 +1,105 @@
+368
+  Mrv0541 02231214382D          
+
+ 12 12  0  0  1  0            999 V2000
+    2.8075    1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.2688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    2.2688    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.0313    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.5220    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  1  0  0  0
+  2 10  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00368
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Norepinephrine
+
+> <SYNONYMS>
+
+
+> <CHEMICAL_FORMULA>
+C8H11NO3
+
+> <MOLECULAR_WEIGHT>
+169.1778
+
+> <EXACT_MASS>
+169.073893223
+
+> <IUPAC_NAME>
+4-[(1R)-2-amino-1-hydroxyethyl]benzene-1,2-diol
+
+> <IUPAC_TRADITIONAL_NAME>
+norepinephrine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11NO3/c9-4-8(12)5-1-2-6(10)7(11)3-5/h1-3,8,10-12H,4,9H2/t8-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=SFLSHLFXELFNJZ-QMMMGPOBSA-N
+
+> <SMILES>
+NC[C@H](O)C1=CC(O)=C(O)C=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+9.5
+
+> <JCHEM_BASIC_PKA>
+8.85
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+-1.4
+
+> <JCHEM_LOGP>
+-0.68
+
+> <ALOGPS_LOGS>
+-1.1
+
+> <JCHEM_POLARIZABILITY>
+16.96
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.71
+
+> <JCHEM_REFRACTIVITY>
+44.46
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.25e+01 g/l __ 
+
+$$$$

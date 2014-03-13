@@ -1,0 +1,101 @@
+
+  Mrv0541 02231216142D          
+
+ 12 11  0  0  1  0            999 V2000
+    3.9039    0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8875    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6184    2.6664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  2  8  1  0  0  0  0
+  8  9  1  1  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02482
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Phosphonothreonine
+
+> <CHEMICAL_FORMULA>
+C4H10NO6P
+
+> <MOLECULAR_WEIGHT>
+199.0991
+
+> <EXACT_MASS>
+199.024573569
+
+> <IUPAC_NAME>
+(2R,3S)-2-amino-3-(phosphonooxy)butanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+phosphonothreonine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H10NO6P/c1-2(3(5)4(6)7)11-12(8,9)10/h2-3H,5H2,1H3,(H,6,7)(H2,8,9,10)/t2-,3+/m0/s1
+
+> <INCHI_KEY>
+InChIKey=USRGIUJOYOXOQJ-STHAYSLISA-N
+
+> <SMILES>
+C[C@H](OP(O)(O)=O)[C@@H](N)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_ACIDIC_PKA>
+1.21
+
+> <JCHEM_BASIC_PKA>
+9.47
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-1.9
+
+> <JCHEM_LOGP>
+-2.7
+
+> <ALOGPS_LOGS>
+-0.93
+
+> <JCHEM_POLARIZABILITY>
+15.51
+
+> <JCHEM_POLAR_SURFACE_AREA>
+130.08
+
+> <JCHEM_REFRACTIVITY>
+37.33
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+2.35e+01 g/l __ 
+
+$$$$

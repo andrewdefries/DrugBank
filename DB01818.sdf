@@ -1,0 +1,110 @@
+
+  Mrv0541 02231215452D          
+
+ 16 16  0  0  1  0            999 V2000
+    2.8579    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8414    1.5395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0164    0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  6  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  6  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 14  2  0  0  0  0
+  9 15  1  0  0  0  0
+  3 15  1  0  0  0  0
+ 15 16  1  1  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01818
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+O3-Sulfonylgalactose
+
+> <CHEMICAL_FORMULA>
+C6H12O9S
+
+> <MOLECULAR_WEIGHT>
+260.219
+
+> <EXACT_MASS>
+260.020202672
+
+> <IUPAC_NAME>
+[(2S,3S,4R,5S,6S)-2,3,5-trihydroxy-6-(hydroxymethyl)oxan-4-yl]oxidanesulfonic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+O3-sulfonylgalactose
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O9S/c7-1-2-3(8)5(15-16(11,12)13)4(9)6(10)14-2/h2-10H,1H2,(H,11,12,13)/t2-,3-,4-,5+,6-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=HHRMGTRTCHNCRO-XKTQNOIPSA-N
+
+> <SMILES>
+OC[C@@H]1O[C@H](O)[C@@H](O)[C@H](OS(O)(=O)=O)[C@H]1O
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_ACIDIC_PKA>
+-2
+
+> <JCHEM_BASIC_PKA>
+-3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+-2.1
+
+> <JCHEM_LOGP>
+-4.7
+
+> <ALOGPS_LOGS>
+-0.4
+
+> <JCHEM_POLARIZABILITY>
+21.55
+
+> <JCHEM_POLAR_SURFACE_AREA>
+153.75
+
+> <JCHEM_REFRACTIVITY>
+45.92
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <ALOGPS_SOLUBILITY>
+1.04e+02 g/l __ 
+
+$$$$

@@ -1,0 +1,87 @@
+
+  Mrv0541 02231216112D          
+
+  6  6  0  0  0  0            999 V2000
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  1  6  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02412
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tetrahydropyran
+
+> <CHEMICAL_FORMULA>
+C5H10O
+
+> <MOLECULAR_WEIGHT>
+86.1323
+
+> <EXACT_MASS>
+86.073164942
+
+> <IUPAC_NAME>
+oxane
+
+> <IUPAC_TRADITIONAL_NAME>
+tetrahydropyran
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H10O/c1-2-4-6-5-3-1/h1-5H2
+
+> <INCHI_KEY>
+InChIKey=DHXVGJBLRPWPCS-UHFFFAOYSA-N
+
+> <SMILES>
+C1CCOCC1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-4.1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+1.16
+
+> <JCHEM_LOGP>
+0.97
+
+> <ALOGPS_LOGS>
+-0.35
+
+> <JCHEM_POLARIZABILITY>
+10.02
+
+> <JCHEM_POLAR_SURFACE_AREA>
+9.23
+
+> <JCHEM_REFRACTIVITY>
+25.15
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.81e+01 g/l __ 
+
+$$$$

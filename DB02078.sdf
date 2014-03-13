@@ -1,0 +1,98 @@
+PG5
+  Mrv0541 02231215572D          
+
+ 12 11  0  0  0  0            999 V2000
+   -3.8810   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1666    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4522   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7377    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0232   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3088    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4056   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1201    0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8346   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5491    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2635   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9780    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02078
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-Methoxy-2-[2-(2-Methoxy-Ethoxy]-Ethane
+
+> <CHEMICAL_FORMULA>
+C8H18O4
+
+> <MOLECULAR_WEIGHT>
+178.2261
+
+> <EXACT_MASS>
+178.120509064
+
+> <IUPAC_NAME>
+2,5,8,11-tetraoxadodecane
+
+> <IUPAC_TRADITIONAL_NAME>
+triglyme
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H18O4/c1-9-3-5-11-7-8-12-6-4-10-2/h3-8H2,1-2H3
+
+> <INCHI_KEY>
+InChIKey=YFNKIDBQEZZDLK-UHFFFAOYSA-N
+
+> <SMILES>
+COCCOCCOCCOC
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-3.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-0.09
+
+> <JCHEM_LOGP>
+-0.016
+
+> <ALOGPS_LOGS>
+-1
+
+> <JCHEM_POLARIZABILITY>
+20.81
+
+> <JCHEM_POLAR_SURFACE_AREA>
+36.92
+
+> <JCHEM_REFRACTIVITY>
+46.14
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <ALOGPS_SOLUBILITY>
+1.67e+01 g/l __ 
+
+$$$$

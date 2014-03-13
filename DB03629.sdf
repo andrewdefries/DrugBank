@@ -1,0 +1,112 @@
+
+  Mrv0541 02231217042D          
+
+ 17 17  0  0  0  0            999 V2000
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5559    0.3020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7309   -1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  5  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+  8 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+  2 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03629
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Pyridoxal-5'-Phosphate-N-Oxide
+
+> <CHEMICAL_FORMULA>
+C8H10NO7P
+
+> <MOLECULAR_WEIGHT>
+263.1413
+
+> <EXACT_MASS>
+263.019488191
+
+> <IUPAC_NAME>
+4-formyl-3-hydroxy-2-methyl-5-[(phosphonooxy)methyl]pyridin-1-ium-1-olate
+
+> <IUPAC_TRADITIONAL_NAME>
+4-formyl-3-hydroxy-2-methyl-5-[(phosphonooxy)methyl]pyridin-1-ium-1-olate
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H10NO7P/c1-5-8(11)7(3-10)6(2-9(5)12)4-16-17(13,14)15/h2-3,11H,4H2,1H3,(H2,13,14,15)
+
+> <INCHI_KEY>
+InChIKey=BBWRYPTUKZTWFD-UHFFFAOYSA-N
+
+> <SMILES>
+CC1=C(O)C(C=O)=C(COP(O)(O)=O)C=[N+]1[O-]
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_ACIDIC_PKA>
+1.66
+
+> <JCHEM_BASIC_PKA>
+0.029
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-0.25
+
+> <JCHEM_LOGP>
+-0.75
+
+> <ALOGPS_LOGS>
+-2
+
+> <JCHEM_POLARIZABILITY>
+21.82
+
+> <JCHEM_POLAR_SURFACE_AREA>
+129.52
+
+> <JCHEM_REFRACTIVITY>
+58.96
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+2.66e+00 g/l __ 
+
+$$$$

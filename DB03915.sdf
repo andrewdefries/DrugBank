@@ -1,0 +1,93 @@
+
+  Mrv0541 02231217162D          
+
+  8  7  0  0  1  0            999 V2000
+    1.2375    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0625    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  6  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB03915
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Amino-3-Ketobutyric Acid
+
+> <CHEMICAL_FORMULA>
+C4H7NO3
+
+> <MOLECULAR_WEIGHT>
+117.1033
+
+> <EXACT_MASS>
+117.042593095
+
+> <IUPAC_NAME>
+(2S)-2-amino-3-oxobutanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+(2S)-2-amino-3-oxobutanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H7NO3/c1-2(6)3(5)4(7)8/h3H,5H2,1H3,(H,7,8)/t3-/m0/s1
+
+> <INCHI_KEY>
+InChIKey=SAUCHDKDCUROAO-VKHMYHEASA-N
+
+> <SMILES>
+CC(=O)[C@H](N)C(O)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+1.87
+
+> <JCHEM_BASIC_PKA>
+7.25
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+-2.6
+
+> <JCHEM_LOGP>
+-3.1
+
+> <ALOGPS_LOGS>
+0.25
+
+> <JCHEM_POLARIZABILITY>
+10.47
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.39
+
+> <JCHEM_REFRACTIVITY>
+25.53
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+2.06e+02 g/l __ 
+
+$$$$

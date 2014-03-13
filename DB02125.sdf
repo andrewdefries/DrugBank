@@ -1,0 +1,99 @@
+
+  Mrv0541 02231215592D          
+
+ 11 13  0  0  0  0            999 V2000
+   -0.4806   -2.6017    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1163   -2.0322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8517   -1.6585    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8517   -0.9111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3012   -0.1208    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.0368   -0.4945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0368   -1.2419    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5873   -2.0322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3012   -1.6156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5657   -1.2419    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5657   -0.4945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  3  2  1  6  0  0  0
+  5 11  1  0  0  0  0
+  5  4  1  1  0  0  0
+  5  6  1  0  0  0  0
+  2 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  3  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+ 10  9  1  1  0  0  0
+  7  6  1  1  0  0  0
+ 10 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB02125
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Adamantanone
+
+> <CHEMICAL_FORMULA>
+C10H14O
+
+> <MOLECULAR_WEIGHT>
+150.2176
+
+> <EXACT_MASS>
+150.10446507
+
+> <IUPAC_NAME>
+(1r,3r,5r,7r)-adamantan-2-one
+
+> <IUPAC_TRADITIONAL_NAME>
+adamantanone
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14O/c11-10-8-2-6-1-7(4-8)5-9(10)3-6/h6-9H,1-5H2/t6-,7+,8-,9+
+
+> <INCHI_KEY>
+InChIKey=IYKFYARMMIESOX-SPJNRGJMSA-N
+
+> <SMILES>
+O=C1[C@H]2C[C@@H]3C[C@@H](C[C@H]1C3)C2
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_BASIC_PKA>
+-7.5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <ALOGPS_LOGP>
+3.09
+
+> <JCHEM_LOGP>
+2.22
+
+> <ALOGPS_LOGS>
+-2.6
+
+> <JCHEM_POLARIZABILITY>
+16.73
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+42.89
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.35e-01 g/l __ 
+
+$$$$

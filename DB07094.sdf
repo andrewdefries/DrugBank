@@ -1,0 +1,100 @@
+492
+  Mrv0541 02241213112D          
+
+ 12 13  0  0  0  0            999 V2000
+   -1.4181    2.1558    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7036    1.7433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7036    0.9183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0362    0.4333    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2911   -0.3513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1161   -0.3513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3710    0.4333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1938   -1.0187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0611   -1.8033    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6063   -2.2883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2738   -1.8033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0188   -1.0187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  4  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  5  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  3  2  0  0  0  0
+  8 12  2  0  0  0  0
+  9  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB07094
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-(2,2'-bithiophen-5-yl)methanamine
+
+> <CHEMICAL_FORMULA>
+C9H9NS2
+
+> <MOLECULAR_WEIGHT>
+195.304
+
+> <EXACT_MASS>
+195.017640673
+
+> <IUPAC_NAME>
+[5-(thiophen-2-yl)thiophen-2-yl]methanamine
+
+> <IUPAC_TRADITIONAL_NAME>
+[5-(thiophen-2-yl)thiophen-2-yl]methanamine
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H9NS2/c10-6-7-3-4-9(12-7)8-2-1-5-11-8/h1-5H,6,10H2
+
+> <INCHI_KEY>
+InChIKey=FHYTVXBZSXZMGD-UHFFFAOYSA-N
+
+> <SMILES>
+NCC1=CC=C(S1)C1=CC=CS1
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_BASIC_PKA>
+8.77
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <ALOGPS_LOGP>
+2.74
+
+> <JCHEM_LOGP>
+2.43
+
+> <ALOGPS_LOGS>
+-3.1
+
+> <JCHEM_POLARIZABILITY>
+20.94
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+53.23
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <ALOGPS_SOLUBILITY>
+1.37e-01 g/l __ 
+
+$$$$

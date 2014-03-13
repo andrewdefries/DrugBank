@@ -1,0 +1,95 @@
+
+  Mrv0541 02231215472D          
+
+ 11 12  0  0  0  0            999 V2000
+    4.0668    2.3479    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.1104    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -0.1271    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    0.8555    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538    1.5229    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    2.1904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    2.3479    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  4  0  0  0  0
+  7  8  4  0  0  0  0
+  8  9  4  0  0  0  0
+  9 10  4  0  0  0  0
+  6 10  4  0  0  0  0
+ 10 11  1  0  0  0  0
+  2 11  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB01875
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+8-Azaxanthine
+
+> <CHEMICAL_FORMULA>
+C4H2N5O2
+
+> <MOLECULAR_WEIGHT>
+152.091
+
+> <EXACT_MASS>
+152.020849333
+
+> <IUPAC_NAME>
+[1,2,3]triazolo[4,5-d]pyrimidine-5,7-dione
+
+> <IUPAC_TRADITIONAL_NAME>
+8-azaxanthine
+
+> <SMILES>
+O=C1Nc2nnnc2C(=O)N1
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+1.05
+
+> <JCHEM_BASIC_PKA>
+-2.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+-1.3
+
+> <JCHEM_LOGP>
+-2.2
+
+> <ALOGPS_LOGS>
+-1.6
+
+> <JCHEM_POLARIZABILITY>
+11.53
+
+> <JCHEM_POLAR_SURFACE_AREA>
+104.39
+
+> <JCHEM_REFRACTIVITY>
+43.87
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.64e+00 g/l __ 
+
+$$$$

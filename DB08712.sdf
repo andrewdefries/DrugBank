@@ -1,0 +1,108 @@
+VZZ
+  Mrv0541 02241214162D          
+
+ 17 16  0  0  0  0            999 V2000
+   -4.3064    0.3438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5919   -0.0687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5919   -0.8938    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8773    0.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1628   -0.0687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4483    0.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7338   -0.0687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0192    0.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6953   -0.0687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4098    0.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1244   -0.0687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8389    0.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5534   -0.0687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2679    0.3438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9825   -0.0687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6969    0.3438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9825   -0.8938    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB08712
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+11-[(MERCAPTOCARBONYL)OXY]UNDECANOIC ACID
+
+> <CHEMICAL_FORMULA>
+C12H22O4S
+
+> <MOLECULAR_WEIGHT>
+262.366
+
+> <EXACT_MASS>
+262.123879882
+
+> <IUPAC_NAME>
+11-[(sulfanylcarbonyl)oxy]undecanoic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+11-[(sulfanylcarbonyl)oxy]undecanoic acid
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H22O4S/c13-11(14)9-7-5-3-1-2-4-6-8-10-16-12(15)17/h1-10H2,(H,13,14)(H,15,17)
+
+> <INCHI_KEY>
+InChIKey=XSZQJZYGKSSUAF-UHFFFAOYSA-N
+
+> <SMILES>
+OC(=O)CCCCCCCCCCOC(S)=O
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+2.99
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <ALOGPS_LOGP>
+3.82
+
+> <JCHEM_LOGP>
+4.03
+
+> <ALOGPS_LOGS>
+-4.2
+
+> <JCHEM_POLARIZABILITY>
+30.03
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.6
+
+> <JCHEM_REFRACTIVITY>
+68.43
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+12
+
+> <ALOGPS_SOLUBILITY>
+1.51e-02 g/l __ 
+
+$$$$

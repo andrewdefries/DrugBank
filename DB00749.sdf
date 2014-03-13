@@ -1,0 +1,128 @@
+749
+  Mrv0541 02231214582D          
+
+ 21 23  0  0  1  0            999 V2000
+    6.2901   -0.5042    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7108    1.0020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2851   -0.3619    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2053    0.4231    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7102    0.1298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8726   -0.0618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6178   -0.8463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1828   -1.4936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5294    0.9346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3168    0.6888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7929   -0.8463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0246   -1.3214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5380   -0.0618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7004    0.1298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1360    1.4936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2278   -1.4936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1043    0.4429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4546    0.9172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1206   -0.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3860   -1.3214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6497    1.0980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 17  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 19 20  2  0  0  0  0
+M  END
+> <DRUGBANK_ID>
+DB00749
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Etodolac
+
+> <SYNONYMS>
+Étodolac; Etodolac; Etodolaco; Etodolacum; Etodolic acid; Etodolsäure
+
+> <BRANDS>
+Bodopine; Dolarit; Dolchis; Doloc; Dualgan; Eccoxolac; Edolar Fort; Edopain; Edopain ER; Elac; Elderin; Eric; Esodax; ETL; Etodin; Etodin Fort; Etodol; Etodon; Etoflam; Etol Fort; Etolac; Etomax; Etomax-ER; Etonox; Etopan; Etopin; Lodine; Lodine XL
+
+> <CHEMICAL_FORMULA>
+C17H21NO3
+
+> <MOLECULAR_WEIGHT>
+287.3535
+
+> <EXACT_MASS>
+287.152143543
+
+> <IUPAC_NAME>
+2-{1,8-diethyl-1H,3H,4H,9H-pyrano[3,4-b]indol-1-yl}acetic acid
+
+> <IUPAC_TRADITIONAL_NAME>
+etodolac
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H21NO3/c1-3-11-6-5-7-12-13-8-9-21-17(4-2,10-14(19)20)16(13)18-15(11)12/h5-7,18H,3-4,8-10H2,1-2H3,(H,19,20)
+
+> <INCHI_KEY>
+InChIKey=NNYBQONXHNTVIJ-UHFFFAOYSA-N
+
+> <SMILES>
+CCC1=C2NC3=C(CCOC3(CC)CC(O)=O)C2=CC=C1
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_ACIDIC_PKA>
+4.73
+
+> <JCHEM_BASIC_PKA>
+-4.2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <ALOGPS_LOGP>
+3.39
+
+> <JCHEM_LOGP>
+3.44
+
+> <ALOGPS_LOGS>
+-3.9
+
+> <JCHEM_POLARIZABILITY>
+31.94
+
+> <JCHEM_POLAR_SURFACE_AREA>
+62.32
+
+> <JCHEM_REFRACTIVITY>
+81.16
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <ALOGPS_SOLUBILITY>
+3.92e-02 g/l __ 
+
+$$$$
